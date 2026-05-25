@@ -35,11 +35,11 @@ function GridCard({
   const text = STATUS_TEXT[key];
   const sub  = STATUS_SUB[key];
   const isCompleted = status === 'completed';
-  const isColored   = status != null;
+  const isColored = status != null;
 
   return (
     <TouchableOpacity style={[styles.card, { backgroundColor: bg }]} onPress={onPress} activeOpacity={0.8}>
-      <Text style={[styles.number, { color: isCompleted ? '#fff' : isColored ? '#7A6000' : def.color }]}>
+      <Text style={[styles.number, { color: isCompleted ? '#fff' : isColored ? '#7A6000' : '#555' }]}>
         {index + 1}
       </Text>
       {isCompleted && <Text style={styles.check}>✓</Text>}

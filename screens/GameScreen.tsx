@@ -48,7 +48,7 @@ export function GameScreen({ puzzleDef, onBack, onComplete }: Props) {
         </TouchableOpacity>
         <View style={styles.headerTitles}>
           <Text style={styles.headerRound}>{puzzleDef.title}</Text>
-          <Text style={[styles.headerTheme, { color: puzzleDef.color }]}>{puzzleDef.theme}</Text>
+          <Text style={styles.headerTheme}>{puzzleDef.theme}</Text>
         </View>
       </View>
 
@@ -57,7 +57,7 @@ export function GameScreen({ puzzleDef, onBack, onComplete }: Props) {
           <Text style={styles.winEmoji}>🎉</Text>
           <Text style={styles.winText}>You solved it!</Text>
           <Text style={styles.winSub}>{puzzleDef.title} · {puzzleDef.theme}</Text>
-          <TouchableOpacity style={[styles.menuBtn, { backgroundColor: puzzleDef.color }]} onPress={onBack}>
+          <TouchableOpacity style={styles.menuBtn} onPress={onBack}>
             <Text style={styles.menuBtnText}>Back to Menu</Text>
           </TouchableOpacity>
         </View>
@@ -135,6 +135,7 @@ const styles = StyleSheet.create({
   headerTheme: {
     fontSize: 17,
     fontWeight: '700',
+    color: '#444',
   },
   scroll: {
     padding: 16,
@@ -180,6 +181,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: 32,
     paddingVertical: 14,
     borderRadius: 12,
+    backgroundColor: '#4A90D9',
   },
   menuBtnText: {
     fontSize: 16,
