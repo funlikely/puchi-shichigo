@@ -38,6 +38,7 @@ export default function App() {
       <StatusBar style="dark" />
       <ScrollView contentContainerStyle={styles.scroll}>
         <Text style={styles.title}>puchi-shichigo</Text>
+        <Text style={styles.hint}>Tap any clue to select it, then tap tiles to spell the answer</Text>
 
         <View style={styles.clues}>
           {puzzle.clueAnswers.map((ca, i) => (
@@ -86,6 +87,13 @@ const styles = StyleSheet.create({
     marginBottom: 20,
     color: '#222',
     letterSpacing: 1,
+  },
+  hint: {
+    fontSize: 13,
+    color: '#999',
+    textAlign: 'center',
+    marginBottom: 14,
+    marginTop: -8,
   },
   clues: {
     marginBottom: 4,
