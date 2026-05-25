@@ -8,26 +8,49 @@ import {
   View,
 } from 'react-native';
 import { PUZZLE_DEFS, PuzzleDef } from '../data/puzzles';
+import { RoundStatus } from '../App';
 
 interface Props {
   onSelectPuzzle: (index: number) => void;
+  roundStatuses: Record<number, RoundStatus>;
 }
 
-function RoundCard({ def, index, onPress }: { def: PuzzleDef; index: number; onPress: () => void }) {
+function RoundCard({
+  def,
+  status,
+  onPress,
+}: {
+  def: PuzzleDef;
+  status?: RoundStatus;
+  onPress: () => void;
+}) {
+  const isCompleted = status === 'completed';
+  const isAttempted = status === 'attempted';
+
   return (
-    <TouchableOpacity style={styles.card} onPress={onPress} activeOpacity={0.75}>
-      <View style={[styles.cardAccent, { backgroundColor: def.color }]} />
+    <TouchableOpacity
+      style={[styles.card, isCompleted && styles.cardCompleted]}
+      onPress={onPress}
+      activeOpacity={0.75}
+    >
+      <View style={[styles.cardAccent, { backgroundColor: isCompleted ? '#5CB85C' : def.color }]} />
       <View style={styles.cardBody}>
         <Text style={styles.cardTitle}>{def.title}</Text>
         <Text style={styles.cardTheme}>{def.theme}</Text>
-        <Text style={styles.cardMeta}>{def.clueAnswers.length} words</Text>
+        <Text style={[styles.cardMeta, isAttempted && styles.cardMetaAttempted]}>
+          {isCompleted ? 'Completed' : isAttempted ? 'In progress' : `${def.clueAnswers.length} words`}
+        </Text>
       </View>
-      <Text style={[styles.cardArrow, { color: def.color }]}>▶</Text>
+      {isCompleted ? (
+        <Text style={styles.cardCheck}>✓</Text>
+      ) : (
+        <Text style={[styles.cardArrow, { color: def.color }]}>▶</Text>
+      )}
     </TouchableOpacity>
   );
 }
 
-export function HomeScreen({ onSelectPuzzle }: Props) {
+export function HomeScreen({ onSelectPuzzle, roundStatuses }: Props) {
   return (
     <SafeAreaView style={styles.safe}>
       <ScrollView contentContainerStyle={styles.scroll}>
@@ -42,7 +65,7 @@ export function HomeScreen({ onSelectPuzzle }: Props) {
           <RoundCard
             key={def.id}
             def={def}
-            index={i}
+            status={roundStatuses[i]}
             onPress={() => onSelectPuzzle(i)}
           />
         ))}
@@ -97,6 +120,9 @@ const styles = StyleSheet.create({
     shadowRadius: 6,
     elevation: 2,
   },
+  cardCompleted: {
+    backgroundColor: '#F2FBF2',
+  },
   cardAccent: {
     width: 6,
     alignSelf: 'stretch',
@@ -123,9 +149,18 @@ const styles = StyleSheet.create({
     color: '#AAA',
     marginTop: 2,
   },
+  cardMetaAttempted: {
+    color: '#E8A020',
+  },
   cardArrow: {
     fontSize: 18,
     paddingRight: 18,
     fontWeight: '700',
+  },
+  cardCheck: {
+    fontSize: 20,
+    paddingRight: 18,
+    fontWeight: '800',
+    color: '#5CB85C',
   },
 });

@@ -4,6 +4,8 @@ import { PUZZLE_DEFS } from './data/puzzles';
 import { GameScreen } from './screens/GameScreen';
 import { HomeScreen } from './screens/HomeScreen';
 
+export type RoundStatus = 'attempted' | 'completed';
+
 type Screen = 'home' | 'game';
 
 const isWeb = Platform.OS === 'web';
@@ -11,13 +13,24 @@ const isWeb = Platform.OS === 'web';
 export default function App() {
   const [screen, setScreen] = useState<Screen>('home');
   const [puzzleIndex, setPuzzleIndex] = useState(0);
+  const [roundStatuses, setRoundStatuses] = useState<Record<number, RoundStatus>>({});
+
+  const markAttempted = (index: number) =>
+    setRoundStatuses(prev =>
+      prev[index] === 'completed' ? prev : { ...prev, [index]: 'attempted' }
+    );
+
+  const markCompleted = (index: number) =>
+    setRoundStatuses(prev => ({ ...prev, [index]: 'completed' }));
 
   return (
     <View style={styles.root}>
       <View style={styles.phone}>
         {screen === 'home' ? (
           <HomeScreen
+            roundStatuses={roundStatuses}
             onSelectPuzzle={index => {
+              markAttempted(index);
               setPuzzleIndex(index);
               setScreen('game');
             }}
@@ -26,6 +39,7 @@ export default function App() {
           <GameScreen
             puzzleDef={PUZZLE_DEFS[puzzleIndex]}
             onBack={() => setScreen('home')}
+            onComplete={() => markCompleted(puzzleIndex)}
           />
         )}
       </View>

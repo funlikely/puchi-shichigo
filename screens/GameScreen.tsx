@@ -1,5 +1,5 @@
 import { StatusBar } from 'expo-status-bar';
-import React from 'react';
+import React, { useEffect } from 'react';
 import {
   SafeAreaView,
   ScrollView,
@@ -17,11 +17,16 @@ import { useGameState } from '../hooks/useGameState';
 interface Props {
   puzzleDef: PuzzleDef;
   onBack: () => void;
+  onComplete: () => void;
 }
 
-export function GameScreen({ puzzleDef, onBack }: Props) {
+export function GameScreen({ puzzleDef, onBack, onComplete }: Props) {
   const { puzzle, state, selectClue, tapChunk, clearSelection, submitAnswer, isComplete } =
     useGameState(puzzleDef);
+
+  useEffect(() => {
+    if (isComplete) onComplete();
+  }, [isComplete]);
 
   const selectedTexts = state.selectedChunkIds.map(
     id => puzzle.chunks.find(c => c.id === id)!.text
