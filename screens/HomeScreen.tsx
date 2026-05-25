@@ -7,21 +7,19 @@ import {
   TouchableOpacity,
   View,
 } from 'react-native';
-import { PUZZLE_DEFS, PuzzleDef } from '../data/puzzles';
 import { RoundStatus } from '../App';
+import { PUZZLE_DEFS, PuzzleDef } from '../data/puzzles';
 
 interface Props {
   onSelectPuzzle: (index: number) => void;
   roundStatuses: Record<number, RoundStatus>;
 }
 
-const STATUS_COLORS = {
-  completed: { bg: '#5CB85C', text: '#fff', sub: 'rgba(255,255,255,0.75)' },
-  attempted: { bg: '#F5C518', text: '#333',  sub: '#7A6000' },
-  none:      { bg: '#fff',    text: '#222',  sub: '#AAA' },
-} as const;
+const STATUS_BG   = { completed: '#5CB85C', attempted: '#F5C518', none: '#fff' } as const;
+const STATUS_TEXT = { completed: '#fff',    attempted: '#333',    none: '#222' } as const;
+const STATUS_SUB  = { completed: 'rgba(255,255,255,0.8)', attempted: '#7A6000', none: '#AAA' } as const;
 
-function RoundCard({
+function GridCard({
   def,
   status,
   onPress,
@@ -31,24 +29,19 @@ function RoundCard({
   onPress: () => void;
 }) {
   const key = status ?? 'none';
-  const colors = STATUS_COLORS[key];
+  const bg   = STATUS_BG[key];
+  const text = STATUS_TEXT[key];
+  const sub  = STATUS_SUB[key];
   const isCompleted = status === 'completed';
-  const isAttempted = status === 'attempted';
+  const isColored   = status != null;
 
   return (
-    <TouchableOpacity
-      style={[styles.card, { backgroundColor: colors.bg }]}
-      onPress={onPress}
-      activeOpacity={0.8}
-    >
-      <View style={styles.cardBody}>
-        <Text style={[styles.cardTitle, { color: colors.sub }]}>{def.title}</Text>
-        <Text style={[styles.cardTheme, { color: colors.text }]}>{def.theme}</Text>
-        <Text style={[styles.cardMeta, { color: colors.sub }]}>
-          {isCompleted ? 'Completed' : isAttempted ? 'In progress' : `${def.clueAnswers.length} words`}
-        </Text>
+    <TouchableOpacity style={[styles.card, { backgroundColor: bg }]} onPress={onPress} activeOpacity={0.8}>
+      <View style={[styles.badge, { backgroundColor: isColored ? 'rgba(0,0,0,0.12)' : def.color }]}>
+        <Text style={styles.badgeText}>{def.title}</Text>
       </View>
-      <Text style={[styles.cardSymbol, { color: isCompleted ? '#fff' : isAttempted ? '#7A6000' : def.color }]}>
+      <Text style={[styles.theme, { color: text }]} numberOfLines={2}>{def.theme}</Text>
+      <Text style={[styles.symbol, { color: isCompleted ? '#fff' : isColored ? '#7A6000' : def.color }]}>
         {isCompleted ? '✓' : '▶'}
       </Text>
     </TouchableOpacity>
@@ -66,14 +59,16 @@ export function HomeScreen({ onSelectPuzzle, roundStatuses }: Props) {
 
         <Text style={styles.sectionLabel}>Choose a round</Text>
 
-        {PUZZLE_DEFS.map((def, i) => (
-          <RoundCard
-            key={def.id}
-            def={def}
-            status={roundStatuses[i]}
-            onPress={() => onSelectPuzzle(i)}
-          />
-        ))}
+        <View style={styles.grid}>
+          {PUZZLE_DEFS.map((def, i) => (
+            <GridCard
+              key={def.id}
+              def={def}
+              status={roundStatuses[i]}
+              onPress={() => onSelectPuzzle(i)}
+            />
+          ))}
+        </View>
       </ScrollView>
     </SafeAreaView>
   );
@@ -85,67 +80,71 @@ const styles = StyleSheet.create({
     backgroundColor: '#FAF8F3',
   },
   scroll: {
-    padding: 20,
-    paddingTop: 40,
+    padding: 16,
+    paddingTop: 36,
   },
   header: {
     alignItems: 'center',
-    marginBottom: 40,
+    marginBottom: 32,
   },
   title: {
-    fontSize: 28,
+    fontSize: 26,
     fontWeight: '800',
     color: '#222',
     letterSpacing: 1,
-    marginBottom: 6,
+    marginBottom: 4,
   },
   subtitle: {
-    fontSize: 15,
+    fontSize: 14,
     color: '#999',
-    letterSpacing: 0.5,
   },
   sectionLabel: {
-    fontSize: 12,
+    fontSize: 11,
     fontWeight: '700',
-    color: '#AAA',
+    color: '#BBB',
     letterSpacing: 1.5,
     textTransform: 'uppercase',
-    marginBottom: 12,
+    marginBottom: 10,
+  },
+  grid: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: 10,
   },
   card: {
-    flexDirection: 'row',
-    alignItems: 'center',
+    width: '48.5%',
     borderRadius: 14,
-    marginBottom: 12,
+    padding: 14,
+    minHeight: 120,
+    justifyContent: 'space-between',
     shadowColor: '#000',
     shadowOffset: { width: 0, height: 2 },
-    shadowOpacity: 0.1,
+    shadowOpacity: 0.08,
     shadowRadius: 6,
     elevation: 3,
   },
-  cardBody: {
-    flex: 1,
-    padding: 20,
-    gap: 3,
+  badge: {
+    alignSelf: 'flex-start',
+    paddingHorizontal: 8,
+    paddingVertical: 3,
+    borderRadius: 20,
   },
-  cardTitle: {
-    fontSize: 12,
+  badgeText: {
+    fontSize: 10,
     fontWeight: '700',
-    letterSpacing: 1,
-    textTransform: 'uppercase',
+    color: '#fff',
+    letterSpacing: 0.5,
   },
-  cardTheme: {
-    fontSize: 20,
+  theme: {
+    fontSize: 15,
     fontWeight: '800',
+    lineHeight: 20,
+    marginTop: 8,
   },
-  cardMeta: {
-    fontSize: 13,
-    marginTop: 2,
-    fontWeight: '600',
-  },
-  cardSymbol: {
-    fontSize: 20,
-    paddingRight: 20,
+  symbol: {
+    fontSize: 16,
     fontWeight: '800',
+    textAlign: 'right',
+    marginTop: 4,
   },
 });
