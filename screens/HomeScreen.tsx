@@ -15,6 +15,12 @@ interface Props {
   roundStatuses: Record<number, RoundStatus>;
 }
 
+const STATUS_COLORS = {
+  completed: { bg: '#5CB85C', text: '#fff', sub: 'rgba(255,255,255,0.75)' },
+  attempted: { bg: '#F5C518', text: '#333',  sub: '#7A6000' },
+  none:      { bg: '#fff',    text: '#222',  sub: '#AAA' },
+} as const;
+
 function RoundCard({
   def,
   status,
@@ -24,28 +30,27 @@ function RoundCard({
   status?: RoundStatus;
   onPress: () => void;
 }) {
+  const key = status ?? 'none';
+  const colors = STATUS_COLORS[key];
   const isCompleted = status === 'completed';
   const isAttempted = status === 'attempted';
 
   return (
     <TouchableOpacity
-      style={[styles.card, isCompleted && styles.cardCompleted]}
+      style={[styles.card, { backgroundColor: colors.bg }]}
       onPress={onPress}
-      activeOpacity={0.75}
+      activeOpacity={0.8}
     >
-      <View style={[styles.cardAccent, { backgroundColor: isCompleted ? '#5CB85C' : def.color }]} />
       <View style={styles.cardBody}>
-        <Text style={styles.cardTitle}>{def.title}</Text>
-        <Text style={styles.cardTheme}>{def.theme}</Text>
-        <Text style={[styles.cardMeta, isAttempted && styles.cardMetaAttempted]}>
+        <Text style={[styles.cardTitle, { color: colors.sub }]}>{def.title}</Text>
+        <Text style={[styles.cardTheme, { color: colors.text }]}>{def.theme}</Text>
+        <Text style={[styles.cardMeta, { color: colors.sub }]}>
           {isCompleted ? 'Completed' : isAttempted ? 'In progress' : `${def.clueAnswers.length} words`}
         </Text>
       </View>
-      {isCompleted ? (
-        <Text style={styles.cardCheck}>✓</Text>
-      ) : (
-        <Text style={[styles.cardArrow, { color: def.color }]}>▶</Text>
-      )}
+      <Text style={[styles.cardSymbol, { color: isCompleted ? '#fff' : isAttempted ? '#7A6000' : def.color }]}>
+        {isCompleted ? '✓' : '▶'}
+      </Text>
     </TouchableOpacity>
   );
 }
@@ -110,57 +115,37 @@ const styles = StyleSheet.create({
   card: {
     flexDirection: 'row',
     alignItems: 'center',
-    backgroundColor: '#fff',
     borderRadius: 14,
     marginBottom: 12,
-    overflow: 'hidden',
     shadowColor: '#000',
     shadowOffset: { width: 0, height: 2 },
-    shadowOpacity: 0.07,
+    shadowOpacity: 0.1,
     shadowRadius: 6,
-    elevation: 2,
-  },
-  cardCompleted: {
-    backgroundColor: '#F2FBF2',
-  },
-  cardAccent: {
-    width: 6,
-    alignSelf: 'stretch',
+    elevation: 3,
   },
   cardBody: {
     flex: 1,
-    padding: 16,
-    gap: 2,
+    padding: 20,
+    gap: 3,
   },
   cardTitle: {
     fontSize: 12,
     fontWeight: '700',
-    color: '#AAA',
     letterSpacing: 1,
     textTransform: 'uppercase',
   },
   cardTheme: {
-    fontSize: 18,
-    fontWeight: '700',
-    color: '#222',
+    fontSize: 20,
+    fontWeight: '800',
   },
   cardMeta: {
     fontSize: 13,
-    color: '#AAA',
     marginTop: 2,
+    fontWeight: '600',
   },
-  cardMetaAttempted: {
-    color: '#E8A020',
-  },
-  cardArrow: {
-    fontSize: 18,
-    paddingRight: 18,
-    fontWeight: '700',
-  },
-  cardCheck: {
+  cardSymbol: {
     fontSize: 20,
-    paddingRight: 18,
+    paddingRight: 20,
     fontWeight: '800',
-    color: '#5CB85C',
   },
 });
