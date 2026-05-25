@@ -12,16 +12,22 @@ export function WordBuilder({ chunkTexts, onClear, onSubmit }: Props) {
   return (
     <View style={styles.container}>
       <Text style={styles.word}>{chunkTexts.join('') || ' '}</Text>
-      {hasChunks && (
-        <View style={styles.buttons}>
-          <TouchableOpacity style={styles.clearBtn} onPress={onClear}>
-            <Text style={styles.clearText}>Clear</Text>
-          </TouchableOpacity>
-          <TouchableOpacity style={styles.submitBtn} onPress={onSubmit}>
-            <Text style={styles.submitText}>Submit</Text>
-          </TouchableOpacity>
-        </View>
-      )}
+      <View style={styles.buttons}>
+        <TouchableOpacity
+          style={[styles.clearBtn, !hasChunks && styles.invisible]}
+          onPress={onClear}
+          disabled={!hasChunks}
+        >
+          <Text style={styles.clearText}>Clear</Text>
+        </TouchableOpacity>
+        <TouchableOpacity
+          style={[styles.submitBtn, !hasChunks && styles.invisible]}
+          onPress={onSubmit}
+          disabled={!hasChunks}
+        >
+          <Text style={styles.submitText}>Submit</Text>
+        </TouchableOpacity>
+      </View>
     </View>
   );
 }
@@ -69,5 +75,8 @@ const styles = StyleSheet.create({
     fontSize: 14,
     color: '#fff',
     fontWeight: '700',
+  },
+  invisible: {
+    opacity: 0,
   },
 });
