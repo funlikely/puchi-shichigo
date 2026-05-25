@@ -21,10 +21,12 @@ const STATUS_SUB  = { completed: 'rgba(255,255,255,0.8)', attempted: '#7A6000', 
 
 function GridCard({
   def,
+  index,
   status,
   onPress,
 }: {
   def: PuzzleDef;
+  index: number;
   status?: RoundStatus;
   onPress: () => void;
 }) {
@@ -37,13 +39,10 @@ function GridCard({
 
   return (
     <TouchableOpacity style={[styles.card, { backgroundColor: bg }]} onPress={onPress} activeOpacity={0.8}>
-      <View style={[styles.badge, { backgroundColor: isColored ? 'rgba(0,0,0,0.12)' : def.color }]}>
-        <Text style={styles.badgeText}>{def.title}</Text>
-      </View>
-      <Text style={[styles.theme, { color: text }]} numberOfLines={2}>{def.theme}</Text>
-      <Text style={[styles.symbol, { color: isCompleted ? '#fff' : isColored ? '#7A6000' : def.color }]}>
-        {isCompleted ? '✓' : '▶'}
+      <Text style={[styles.number, { color: isCompleted ? '#fff' : isColored ? '#7A6000' : def.color }]}>
+        {index + 1}
       </Text>
+      {isCompleted && <Text style={styles.check}>✓</Text>}
     </TouchableOpacity>
   );
 }
@@ -64,6 +63,7 @@ export function HomeScreen({ onSelectPuzzle, roundStatuses }: Props) {
             <GridCard
               key={def.id}
               def={def}
+              index={i}
               status={roundStatuses[i]}
               onPress={() => onSelectPuzzle(i)}
             />
@@ -113,38 +113,26 @@ const styles = StyleSheet.create({
   },
   card: {
     width: '48.5%',
+    aspectRatio: 1,
     borderRadius: 14,
-    padding: 14,
-    minHeight: 120,
-    justifyContent: 'space-between',
+    justifyContent: 'center',
+    alignItems: 'center',
     shadowColor: '#000',
     shadowOffset: { width: 0, height: 2 },
     shadowOpacity: 0.08,
     shadowRadius: 6,
     elevation: 3,
   },
-  badge: {
-    alignSelf: 'flex-start',
-    paddingHorizontal: 8,
-    paddingVertical: 3,
-    borderRadius: 20,
-  },
-  badgeText: {
-    fontSize: 10,
-    fontWeight: '700',
-    color: '#fff',
-    letterSpacing: 0.5,
-  },
-  theme: {
-    fontSize: 15,
+  number: {
+    fontSize: 42,
     fontWeight: '800',
-    lineHeight: 20,
-    marginTop: 8,
   },
-  symbol: {
+  check: {
+    position: 'absolute',
+    bottom: 10,
+    right: 14,
     fontSize: 16,
     fontWeight: '800',
-    textAlign: 'right',
-    marginTop: 4,
+    color: 'rgba(255,255,255,0.7)',
   },
 });
