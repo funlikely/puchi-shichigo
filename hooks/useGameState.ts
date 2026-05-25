@@ -1,5 +1,5 @@
 import { useCallback, useState } from 'react';
-import { Puzzle } from '../data/puzzles';
+import { buildPuzzle, Puzzle, PuzzleDef } from '../data/puzzles';
 
 export interface GameState {
   activeClueIndex: number;
@@ -8,11 +8,13 @@ export interface GameState {
   solvedChunkIds: Set<number>;
 }
 
-export function useGameState(puzzle: Puzzle) {
+export function useGameState(def: PuzzleDef) {
+  const [puzzle] = useState<Puzzle>(() => buildPuzzle(def));
+
   const [state, setState] = useState<GameState>(() => ({
     activeClueIndex: 0,
     selectedChunkIds: [],
-    solved: new Array(puzzle.clueAnswers.length).fill(false),
+    solved: new Array(def.clueAnswers.length).fill(false),
     solvedChunkIds: new Set<number>(),
   }));
 
@@ -26,18 +28,12 @@ export function useGameState(puzzle: Puzzle) {
   const tapChunk = useCallback((chunkId: number) => {
     setState(prev => {
       if (prev.solvedChunkIds.has(chunkId)) return prev;
-
       if (prev.selectedChunkIds.includes(chunkId)) {
-        return {
-          ...prev,
-          selectedChunkIds: prev.selectedChunkIds.filter(id => id !== chunkId),
-        };
+        return { ...prev, selectedChunkIds: prev.selectedChunkIds.filter(id => id !== chunkId) };
       }
-
-      const newSelected = [...prev.selectedChunkIds, chunkId];
-      return { ...prev, selectedChunkIds: newSelected };
+      return { ...prev, selectedChunkIds: [...prev.selectedChunkIds, chunkId] };
     });
-  }, [puzzle]);
+  }, []);
 
   const clearSelection = useCallback(() => {
     setState(prev => ({ ...prev, selectedChunkIds: [] }));
@@ -50,7 +46,7 @@ export function useGameState(puzzle: Puzzle) {
       const builtWord = prev.selectedChunkIds
         .map(id => puzzle.chunks.find(c => c.id === id)!.text)
         .join('');
-      const answer = puzzle.clueAnswers[prev.activeClueIndex].answer;
+      const answer = puzzle.def.clueAnswers[prev.activeClueIndex].answer;
 
       if (builtWord !== answer) {
         return { ...prev, selectedChunkIds: [] };
@@ -62,8 +58,8 @@ export function useGameState(puzzle: Puzzle) {
       prev.selectedChunkIds.forEach(id => newSolvedChunkIds.add(id));
 
       let nextActive = prev.activeClueIndex;
-      for (let i = 1; i <= puzzle.clueAnswers.length; i++) {
-        const next = (prev.activeClueIndex + i) % puzzle.clueAnswers.length;
+      for (let i = 1; i <= puzzle.def.clueAnswers.length; i++) {
+        const next = (prev.activeClueIndex + i) % puzzle.def.clueAnswers.length;
         if (!newSolved[next]) { nextActive = next; break; }
       }
 
@@ -78,5 +74,5 @@ export function useGameState(puzzle: Puzzle) {
 
   const isComplete = state.solved.every(Boolean);
 
-  return { state, selectClue, tapChunk, clearSelection, submitAnswer, isComplete };
+  return { puzzle, state, selectClue, tapChunk, clearSelection, submitAnswer, isComplete };
 }
