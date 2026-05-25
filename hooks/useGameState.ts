@@ -35,31 +35,6 @@ export function useGameState(puzzle: Puzzle) {
       }
 
       const newSelected = [...prev.selectedChunkIds, chunkId];
-      const builtWord = newSelected
-        .map(id => puzzle.chunks.find(c => c.id === id)!.text)
-        .join('');
-      const answer = puzzle.clueAnswers[prev.activeClueIndex].answer;
-
-      if (builtWord === answer) {
-        const newSolved = [...prev.solved];
-        newSolved[prev.activeClueIndex] = true;
-        const newSolvedChunkIds = new Set(prev.solvedChunkIds);
-        newSelected.forEach(id => newSolvedChunkIds.add(id));
-
-        let nextActive = prev.activeClueIndex;
-        for (let i = 1; i <= puzzle.clueAnswers.length; i++) {
-          const next = (prev.activeClueIndex + i) % puzzle.clueAnswers.length;
-          if (!newSolved[next]) { nextActive = next; break; }
-        }
-
-        return {
-          activeClueIndex: nextActive,
-          selectedChunkIds: [],
-          solved: newSolved,
-          solvedChunkIds: newSolvedChunkIds,
-        };
-      }
-
       return { ...prev, selectedChunkIds: newSelected };
     });
   }, [puzzle]);
@@ -68,7 +43,40 @@ export function useGameState(puzzle: Puzzle) {
     setState(prev => ({ ...prev, selectedChunkIds: [] }));
   }, []);
 
+  const submitAnswer = useCallback(() => {
+    setState(prev => {
+      if (prev.selectedChunkIds.length === 0) return prev;
+
+      const builtWord = prev.selectedChunkIds
+        .map(id => puzzle.chunks.find(c => c.id === id)!.text)
+        .join('');
+      const answer = puzzle.clueAnswers[prev.activeClueIndex].answer;
+
+      if (builtWord !== answer) {
+        return { ...prev, selectedChunkIds: [] };
+      }
+
+      const newSolved = [...prev.solved];
+      newSolved[prev.activeClueIndex] = true;
+      const newSolvedChunkIds = new Set(prev.solvedChunkIds);
+      prev.selectedChunkIds.forEach(id => newSolvedChunkIds.add(id));
+
+      let nextActive = prev.activeClueIndex;
+      for (let i = 1; i <= puzzle.clueAnswers.length; i++) {
+        const next = (prev.activeClueIndex + i) % puzzle.clueAnswers.length;
+        if (!newSolved[next]) { nextActive = next; break; }
+      }
+
+      return {
+        activeClueIndex: nextActive,
+        selectedChunkIds: [],
+        solved: newSolved,
+        solvedChunkIds: newSolvedChunkIds,
+      };
+    });
+  }, [puzzle]);
+
   const isComplete = state.solved.every(Boolean);
 
-  return { state, selectClue, tapChunk, clearSelection, isComplete };
+  return { state, selectClue, tapChunk, clearSelection, submitAnswer, isComplete };
 }

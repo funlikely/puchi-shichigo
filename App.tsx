@@ -10,7 +10,7 @@ import { useGameState } from './hooks/useGameState';
 const puzzle = PUZZLE_1;
 
 export default function App() {
-  const { state, selectClue, tapChunk, clearSelection, isComplete } = useGameState(puzzle);
+  const { state, selectClue, tapChunk, clearSelection, submitAnswer, isComplete } = useGameState(puzzle);
 
   const selectedTexts = state.selectedChunkIds.map(
     id => puzzle.chunks.find(c => c.id === id)!.text
@@ -52,7 +52,7 @@ export default function App() {
                 ))}
               </View>
 
-              <WordBuilder chunkTexts={selectedTexts} onClear={clearSelection} />
+              <WordBuilder chunkTexts={selectedTexts} onClear={clearSelection} onSubmit={submitAnswer} />
 
               <View style={styles.chunkGrid}>
                 {puzzle.chunks.map(chunk => (
