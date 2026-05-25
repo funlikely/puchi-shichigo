@@ -1,20 +1,116 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import React from 'react';
+import { SafeAreaView, ScrollView, StyleSheet, Text, View } from 'react-native';
+import { ChunkTile } from './components/ChunkTile';
+import { ClueRow } from './components/ClueRow';
+import { WordBuilder } from './components/WordBuilder';
+import { PUZZLE_1 } from './data/puzzles';
+import { useGameState } from './hooks/useGameState';
+
+const puzzle = PUZZLE_1;
 
 export default function App() {
+  const { state, selectClue, tapChunk, clearSelection, isComplete } = useGameState(puzzle);
+
+  if (isComplete) {
+    return (
+      <SafeAreaView style={[styles.safe, styles.winScreen]}>
+        <StatusBar style="dark" />
+        <Text style={styles.winEmoji}>🎉</Text>
+        <Text style={styles.winText}>You solved it!</Text>
+        <Text style={styles.winSub}>{puzzle.title}</Text>
+      </SafeAreaView>
+    );
+  }
+
+  const selectedTexts = state.selectedChunkIds.map(
+    id => puzzle.chunks.find(c => c.id === id)!.text
+  );
+
+  const getChunkState = (chunkId: number): 'normal' | 'selected' | 'used' => {
+    if (state.solvedChunkIds.has(chunkId)) return 'used';
+    if (state.selectedChunkIds.includes(chunkId)) return 'selected';
+    return 'normal';
+  };
+
   return (
-    <View style={styles.container}>
-      <Text>Open up App.tsx to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
+    <SafeAreaView style={styles.safe}>
+      <StatusBar style="dark" />
+      <ScrollView contentContainerStyle={styles.scroll}>
+        <Text style={styles.title}>puchi-shichigo</Text>
+
+        <View style={styles.clues}>
+          {puzzle.clueAnswers.map((ca, i) => (
+            <ClueRow
+              key={i}
+              index={i}
+              clue={ca.clue}
+              answer={ca.answer}
+              isSolved={state.solved[i]}
+              isActive={!state.solved[i] && state.activeClueIndex === i}
+              onPress={() => selectClue(i)}
+            />
+          ))}
+        </View>
+
+        <WordBuilder chunkTexts={selectedTexts} onClear={clearSelection} />
+
+        <View style={styles.chunkGrid}>
+          {puzzle.chunks.map(chunk => (
+            <ChunkTile
+              key={chunk.id}
+              text={chunk.text}
+              tileState={getChunkState(chunk.id)}
+              onPress={() => tapChunk(chunk.id)}
+            />
+          ))}
+        </View>
+      </ScrollView>
+    </SafeAreaView>
   );
 }
 
 const styles = StyleSheet.create({
-  container: {
+  safe: {
     flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
+    backgroundColor: '#FAF8F3',
+  },
+  scroll: {
+    padding: 16,
+    paddingTop: 24,
+  },
+  title: {
+    fontSize: 22,
+    fontWeight: '800',
+    textAlign: 'center',
+    marginBottom: 20,
+    color: '#222',
+    letterSpacing: 1,
+  },
+  clues: {
+    marginBottom: 4,
+  },
+  chunkGrid: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
     justifyContent: 'center',
+    marginTop: 4,
+  },
+  winScreen: {
+    justifyContent: 'center',
+    alignItems: 'center',
+    gap: 8,
+  },
+  winEmoji: {
+    fontSize: 64,
+  },
+  winText: {
+    fontSize: 30,
+    fontWeight: '800',
+    color: '#5CB85C',
+  },
+  winSub: {
+    fontSize: 16,
+    color: '#888',
   },
 });
