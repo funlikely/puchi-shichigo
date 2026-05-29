@@ -488,5 +488,285 @@
       { "clue": "Carrot-nosed yard figure",  "answer": "SNOWMAN",   "chunkTexts": ["SNOW",  "MAN"]   },
       { "clue": "Slow-moving ice river",     "answer": "GLACIER",   "chunkTexts": ["GLA",   "CIER"]  }
     ]
+  },
+  {
+    "id": "round36",
+    "title": "Round 36",
+    "theme": "Dinosaurs",
+    "clueAnswers": [
+      { "clue": "Three-horned dinosaur",     "answer": "TRICERATOPS", "chunkTexts": ["TRI",  "CER",  "A",   "TOPS"] },
+      { "clue": "King tyrant lizard",        "answer": "TYRANNOSAUR", "chunkTexts": ["TYR",  "AN",   "NO",  "SAUR"] },
+      { "clue": "Plated-back dinosaur",      "answer": "STEGOSAURUS", "chunkTexts": ["STEG", "O",    "SAU", "RUS"]  },
+      { "clue": "Flying winged reptile",     "answer": "PTERODACTYL", "chunkTexts": ["PTER", "O",    "DAC", "TYL"]  },
+      { "clue": "Long-necked giant",         "answer": "BRONTOSAUR",  "chunkTexts": ["BRON", "TO",   "SAUR"]        },
+      { "clue": "Fossilized tree resin",     "answer": "AMBER",       "chunkTexts": ["AM",   "BER"]                 },
+      { "clue": "Preserved ancient remains", "answer": "FOSSIL",      "chunkTexts": ["FOS",  "SIL"]                 }
+    ]
+  },
+  {
+    "id": "round37",
+    "title": "Round 37",
+    "theme": "Detective Mystery",
+    "clueAnswers": [
+      { "clue": "Crime scene proof",        "answer": "EVIDENCE",    "chunkTexts": ["EVI",  "DENCE"]        },
+      { "clue": "Likely culprit",           "answer": "SUSPECT",     "chunkTexts": ["SUS",  "PECT"]         },
+      { "clue": "Person who saw it",        "answer": "WITNESS",     "chunkTexts": ["WIT",  "NESS"]         },
+      { "clue": "Hidden reason for crime",  "answer": "MOTIVE",      "chunkTexts": ["MO",   "TIVE"]         },
+      { "clue": "Unique smudge clue",       "answer": "FINGERPRINT", "chunkTexts": ["FIN",  "GER",  "PRINT"] },
+      { "clue": "Logical reasoning",        "answer": "DEDUCTION",   "chunkTexts": ["DE",   "DUC",  "TION"]  },
+      { "clue": "Crime investigator",       "answer": "DETECTIVE",   "chunkTexts": ["DE",   "TEC",  "TIVE"]  }
+    ]
+  },
+  {
+    "id": "round38",
+    "title": "Round 38",
+    "theme": "At the Circus",
+    "clueAnswers": [
+      { "clue": "Tumbling tightrope artist","answer": "ACROBAT",   "chunkTexts": ["ACRO",  "BAT"]   },
+      { "clue": "Red-nosed entertainer",    "answer": "CLOWN",     "chunkTexts": ["CLO",   "WN"]    },
+      { "clue": "Big striped circus tent",  "answer": "BIGTOP",    "chunkTexts": ["BIG",   "TOP"]   },
+      { "clue": "Lion handler",             "answer": "TAMER",     "chunkTexts": ["TA",    "MER"]   },
+      { "clue": "Swinging high bar",        "answer": "TRAPEZE",   "chunkTexts": ["TRA",   "PEZE"]  },
+      { "clue": "Multi-ball tosser",        "answer": "JUGGLER",   "chunkTexts": ["JUG",   "GLER"]  },
+      { "clue": "Mighty strength performer","answer": "STRONGMAN", "chunkTexts": ["STRONG","MAN"]   }
+    ]
+  },
+  {
+    "id": "round39",
+    "title": "Round 39",
+    "theme": "Pirates",
+    "clueAnswers": [
+      { "clue": "One-eyed face cover",      "answer": "EYEPATCH",   "chunkTexts": ["EYE",  "PATCH"]         },
+      { "clue": "Skull-and-crossbones flag","answer": "JOLLYROGER", "chunkTexts": ["JOL",  "LY",   "ROGER"] },
+      { "clue": "Board to walk off",        "answer": "PLANK",      "chunkTexts": ["PLA",  "NK"]            },
+      { "clue": "Treasure storage box",     "answer": "CHEST",      "chunkTexts": ["CHE",  "ST"]            },
+      { "clue": "Sea-robbing rogue",        "answer": "BUCCANEER",  "chunkTexts": ["BUC",  "CA",   "NEER"]  },
+      { "clue": "Ship's steering wheel",    "answer": "HELM",       "chunkTexts": ["HE",   "LM"]            },
+      { "clue": "Pirate's curved blade",    "answer": "CUTLASS",    "chunkTexts": ["CUT",  "LASS"]          }
+    ]
+  },
+  {
+    "id": "round40",
+    "title": "Round 40",
+    "theme": "Autumn",
+    "clueAnswers": [
+      { "clue": "Orange harvest gourd",     "answer": "PUMPKIN",   "chunkTexts": ["PUMP", "KIN"]   },
+      { "clue": "Tree's leafy cover",       "answer": "FOLIAGE",   "chunkTexts": ["FOLI", "AGE"]   },
+      { "clue": "Season after summer",      "answer": "AUTUMN",    "chunkTexts": ["AU",   "TUMN"]  },
+      { "clue": "Acorn-bearing tree",       "answer": "OAKTREE",   "chunkTexts": ["OAK",  "TREE"]  },
+      { "clue": "Scarecrow's domain",       "answer": "CORNFIELD", "chunkTexts": ["CORN", "FIELD"] },
+      { "clue": "Crackling outdoor blaze",  "answer": "BONFIRE",   "chunkTexts": ["BON",  "FIRE"]  },
+      { "clue": "Squirrel's stored nut",    "answer": "ACORN",     "chunkTexts": ["AC",   "ORN"]   }
+    ]
+  },
+  {
+    "id": "round41",
+    "title": "Round 41",
+    "theme": "At the Office",
+    "clueAnswers": [
+      { "clue": "Paper-fastening device",   "answer": "STAPLER",  "chunkTexts": ["STA",   "PLER"]  },
+      { "clue": "Monthly work pay",         "answer": "SALARY",   "chunkTexts": ["SAL",   "ARY"]   },
+      { "clue": "Daily plan of tasks",      "answer": "SCHEDULE", "chunkTexts": ["SCHED", "ULE"]   },
+      { "clue": "Document holder",          "answer": "FOLDER",   "chunkTexts": ["FOL",   "DER"]   },
+      { "clue": "Repeated daily pattern",   "answer": "ROUTINE",  "chunkTexts": ["ROU",   "TINE"]  },
+      { "clue": "Job applicant's summary",  "answer": "RESUME",   "chunkTexts": ["RES",   "UME"]   },
+      { "clue": "Partitioned desk space",   "answer": "CUBICLE",  "chunkTexts": ["CU",    "BI", "CLE"] }
+    ]
+  },
+  {
+    "id": "round42",
+    "title": "Round 42",
+    "theme": "Camping",
+    "clueAnswers": [
+      { "clue": "Frame-backed travel bag",  "answer": "RUCKSACK", "chunkTexts": ["RUCK", "SACK"]  },
+      { "clue": "Fire-starting sticks",     "answer": "MATCHES",  "chunkTexts": ["MAT",  "CHES"]  },
+      { "clue": "Portable camp light",      "answer": "LANTERN",  "chunkTexts": ["LAN",  "TERN"]  },
+      { "clue": "Walking the trails",       "answer": "HIKING",   "chunkTexts": ["HIK",  "ING"]   },
+      { "clue": "Water-boiling camp pot",   "answer": "KETTLE",   "chunkTexts": ["KET",  "TLE"]   },
+      { "clue": "Folding pocket blade",     "answer": "PENKNIFE", "chunkTexts": ["PEN",  "KNIFE"] },
+      { "clue": "Wilderness footpath",      "answer": "TRAIL",    "chunkTexts": ["TRA",  "IL"]    }
+    ]
+  },
+  {
+    "id": "round43",
+    "title": "Round 43",
+    "theme": "Desert Life",
+    "clueAnswers": [
+      { "clue": "Wind-piled sand hill",     "answer": "DUNE",      "chunkTexts": ["DU",   "NE"]    },
+      { "clue": "Humped desert animal",     "answer": "CAMEL",     "chunkTexts": ["CA",   "MEL"]   },
+      { "clue": "Green watering spot",      "answer": "OASIS",     "chunkTexts": ["OA",   "SIS"]   },
+      { "clue": "Stinging-tail arachnid",   "answer": "SCORPION",  "chunkTexts": ["SCOR", "PI", "ON"] },
+      { "clue": "Blistering hot",           "answer": "SCORCHING", "chunkTexts": ["SCOR", "CHING"] },
+      { "clue": "Blinding sand gale",       "answer": "SANDSTORM", "chunkTexts": ["SAND", "STORM"] },
+      { "clue": "Wandering desert tribesman","answer": "NOMAD",    "chunkTexts": ["NO",   "MAD"]   }
+    ]
+  },
+  {
+    "id": "round44",
+    "title": "Round 44",
+    "theme": "Gemstones",
+    "clueAnswers": [
+      { "clue": "Hardest sparkling stone",  "answer": "DIAMOND",    "chunkTexts": ["DIA",  "MOND"]        },
+      { "clue": "Deep blue precious stone", "answer": "SAPPHIRE",   "chunkTexts": ["SAP",  "PHIRE"]       },
+      { "clue": "Red precious stone",       "answer": "RUBY",       "chunkTexts": ["RU",   "BY"]          },
+      { "clue": "Purple quartz gem",        "answer": "AMETHYST",   "chunkTexts": ["AME",  "THYST"]       },
+      { "clue": "Sea-blue gem",             "answer": "AQUAMARINE", "chunkTexts": ["AQUA", "MA",   "RINE"] },
+      { "clue": "Golden-brown quartz",      "answer": "TOPAZ",      "chunkTexts": ["TO",   "PAZ"]         },
+      { "clue": "Black volcanic glass",     "answer": "OBSIDIAN",   "chunkTexts": ["OB",   "SID",  "IAN"]  }
+    ]
+  },
+  {
+    "id": "round45",
+    "title": "Round 45",
+    "theme": "Casino Night",
+    "clueAnswers": [
+      { "clue": "Spinning number wheel",    "answer": "ROULETTE",  "chunkTexts": ["ROU",   "LETTE"] },
+      { "clue": "Card game aiming for 21",  "answer": "BLACKJACK", "chunkTexts": ["BLACK", "JACK"]  },
+      { "clue": "Bluffing card game",       "answer": "POKER",     "chunkTexts": ["PO",    "KER"]   },
+      { "clue": "Placed bet",               "answer": "WAGER",     "chunkTexts": ["WA",    "GER"]   },
+      { "clue": "Rolled gambling cubes",    "answer": "DICE",      "chunkTexts": ["DI",    "CE"]    },
+      { "clue": "Big slot machine win",     "answer": "JACKPOT",   "chunkTexts": ["JACK",  "POT"]   },
+      { "clue": "Card-distributing host",   "answer": "DEALER",    "chunkTexts": ["DEAL",  "ER"]    }
+    ]
+  },
+  {
+    "id": "round46",
+    "title": "Round 46",
+    "theme": "Trains & Railways",
+    "clueAnswers": [
+      { "clue": "Steam-powered engine",     "answer": "LOCOMOTIVE", "chunkTexts": ["LOCO", "MO",  "TIVE"] },
+      { "clue": "Train stop building",      "answer": "STATION",    "chunkTexts": ["STA",  "TION"]        },
+      { "clue": "Pair of steel rails",      "answer": "RAILWAY",    "chunkTexts": ["RAIL", "WAY"]         },
+      { "clue": "Boarding pass slip",       "answer": "TICKET",     "chunkTexts": ["TIC",  "KET"]         },
+      { "clue": "Passenger train car",      "answer": "CARRIAGE",   "chunkTexts": ["CAR",  "RIAGE"]       },
+      { "clue": "Underground city train",   "answer": "SUBWAY",     "chunkTexts": ["SUB",  "WAY"]         },
+      { "clue": "Ticket-checking official", "answer": "CONDUCTOR",  "chunkTexts": ["CON",  "DUC", "TOR"]  }
+    ]
+  },
+  {
+    "id": "round47",
+    "title": "Round 47",
+    "theme": "Aviation",
+    "clueAnswers": [
+      { "clue": "Airport takeoff strip",    "answer": "RUNWAY",   "chunkTexts": ["RUN",   "WAY"]   },
+      { "clue": "Plane's control cabin",    "answer": "COCKPIT",  "chunkTexts": ["COCK",  "PIT"]   },
+      { "clue": "Getting on the plane",     "answer": "BOARDING", "chunkTexts": ["BOARD", "ING"]   },
+      { "clue": "Wing's roll-control flap", "answer": "AILERON",  "chunkTexts": ["AIL",   "ER", "ON"] },
+      { "clue": "Steady high-altitude fly", "answer": "CRUISING", "chunkTexts": ["CRUIS", "ING"]   },
+      { "clue": "The science of flight",    "answer": "AVIATION", "chunkTexts": ["AVI",   "A",  "TION"] },
+      { "clue": "Aircraft storage shed",    "answer": "HANGAR",   "chunkTexts": ["HAN",   "GAR"]   }
+    ]
+  },
+  {
+    "id": "round48",
+    "title": "Round 48",
+    "theme": "Fashion & Clothing",
+    "clueAnswers": [
+      { "clue": "Looped formal neckwear",   "answer": "BOWTIE",  "chunkTexts": ["BOW",  "TIE"]   },
+      { "clue": "Casual denim trousers",    "answer": "JEANS",   "chunkTexts": ["JE",   "ANS"]   },
+      { "clue": "Light outer arm garment",  "answer": "JACKET",  "chunkTexts": ["JAC",  "KET"]   },
+      { "clue": "Open summer footwear",     "answer": "SANDALS", "chunkTexts": ["SAN",  "DALS"]  },
+      { "clue": "Hooded casual top",        "answer": "HOODIE",  "chunkTexts": ["HOO",  "DIE"]   },
+      { "clue": "Warm woolly neck wrap",    "answer": "SCARF",   "chunkTexts": ["SCA",  "RF"]    },
+      { "clue": "Formal black dinner suit", "answer": "TUXEDO",  "chunkTexts": ["TUX",  "EDO"]   }
+    ]
+  },
+  {
+    "id": "round49",
+    "title": "Round 49",
+    "theme": "Emotions",
+    "clueAnswers": [
+      { "clue": "Full of happiness",        "answer": "JOYFUL",     "chunkTexts": ["JOY",  "FUL"]         },
+      { "clue": "Deep sadness",             "answer": "SORROW",     "chunkTexts": ["SOR",  "ROW"]         },
+      { "clue": "Overwhelming fear",        "answer": "TERROR",     "chunkTexts": ["TER",  "ROR"]         },
+      { "clue": "Calm peacefulness",        "answer": "SERENITY",   "chunkTexts": ["SER",  "EN",  "ITY"]  },
+      { "clue": "Thrilled eagerness",       "answer": "EXCITEMENT", "chunkTexts": ["EX",   "CITE","MENT"] },
+      { "clue": "Hot-tempered feeling",     "answer": "ANGER",      "chunkTexts": ["AN",   "GER"]         },
+      { "clue": "Warm tender affection",    "answer": "FONDNESS",   "chunkTexts": ["FOND", "NESS"]        }
+    ]
+  },
+  {
+    "id": "round50",
+    "title": "Round 50",
+    "theme": "Tools & Hardware",
+    "clueAnswers": [
+      { "clue": "Nail-driving tool",        "answer": "HAMMER",      "chunkTexts": ["HAM",   "MER"]        },
+      { "clue": "Screw-turning tool",       "answer": "SCREWDRIVER", "chunkTexts": ["SCREW", "DRI",  "VER"] },
+      { "clue": "Hand wood-cutting blade",  "answer": "HANDSAW",     "chunkTexts": ["HAND",  "SAW"]        },
+      { "clue": "Nut-gripping tool",        "answer": "WRENCH",      "chunkTexts": ["WREN",  "CH"]         },
+      { "clue": "Bubble-checking tool",     "answer": "LEVEL",       "chunkTexts": ["LE",    "VEL"]        },
+      { "clue": "Hole-boring power tool",   "answer": "DRILL",       "chunkTexts": ["DRI",   "LL"]         },
+      { "clue": "Pinching jawed tool",      "answer": "PLIERS",      "chunkTexts": ["PLI",   "ERS"]        }
+    ]
+  },
+  {
+    "id": "round51",
+    "title": "Round 51",
+    "theme": "Breakfast",
+    "clueAnswers": [
+      { "clue": "Bowl of milk and grain",   "answer": "CEREAL",    "chunkTexts": ["CER",   "EAL"]         },
+      { "clue": "Folded fried-egg dish",    "answer": "OMELETTE",  "chunkTexts": ["OM",    "EL",   "ETTE"] },
+      { "clue": "Syrup-topped flat cakes",  "answer": "PANCAKES",  "chunkTexts": ["PAN",   "CAKES"]       },
+      { "clue": "Crispy fried pork strips", "answer": "BACON",     "chunkTexts": ["BA",    "CON"]         },
+      { "clue": "Bitter orange preserve",   "answer": "MARMALADE", "chunkTexts": ["MAR",   "MA",   "LADE"] },
+      { "clue": "Flaky French pastry",      "answer": "CROISSANT", "chunkTexts": ["CROIS", "SANT"]        },
+      { "clue": "Morning hot bean drink",   "answer": "COFFEE",    "chunkTexts": ["COF",   "FEE"]         }
+    ]
+  },
+  {
+    "id": "round52",
+    "title": "Round 52",
+    "theme": "Reptiles",
+    "clueAnswers": [
+      { "clue": "Color-changing lizard",    "answer": "CHAMELEON",   "chunkTexts": ["CHA", "ME",  "LEON"]  },
+      { "clue": "Armored swamp reptile",    "answer": "CROCODILE",   "chunkTexts": ["CROC","O",   "DILE"]  },
+      { "clue": "Shell-backed land reptile","answer": "TORTOISE",    "chunkTexts": ["TOR", "TOISE"]        },
+      { "clue": "Hooded venomous snake",    "answer": "COBRA",       "chunkTexts": ["CO",  "BRA"]          },
+      { "clue": "Wall-climbing small lizard","answer": "GECKO",      "chunkTexts": ["GEC", "KO"]           },
+      { "clue": "Spiny desert lizard",      "answer": "IGUANA",      "chunkTexts": ["IG",  "UA",  "NA"]    },
+      { "clue": "Buzzing-tail viper",       "answer": "RATTLESNAKE", "chunkTexts": ["RAT", "TLE", "SNAKE"] }
+    ]
+  },
+  {
+    "id": "round53",
+    "title": "Round 53",
+    "theme": "Spooky Halloween",
+    "clueAnswers": [
+      { "clue": "Floating white spirit",    "answer": "GHOST",     "chunkTexts": ["GHO",  "ST"]    },
+      { "clue": "Blood-drinking night fiend","answer": "VAMPIRE",  "chunkTexts": ["VAM",  "PIRE"]  },
+      { "clue": "Full-moon shape-shifter",  "answer": "WEREWOLF",  "chunkTexts": ["WERE", "WOLF"]  },
+      { "clue": "Graveyard marker slab",    "answer": "TOMBSTONE", "chunkTexts": ["TOMB", "STONE"] },
+      { "clue": "Eight-legged web spinner", "answer": "SPIDER",    "chunkTexts": ["SPI",  "DER"]   },
+      { "clue": "Shambling undead corpse",  "answer": "ZOMBIE",    "chunkTexts": ["ZOM",  "BIE"]   },
+      { "clue": "Eerie and frightening",    "answer": "CREEPY",    "chunkTexts": ["CREE", "PY"]    }
+    ]
+  },
+  {
+    "id": "round54",
+    "title": "Round 54",
+    "theme": "Wedding Day",
+    "clueAnswers": [
+      { "clue": "Marriage ceremony",        "answer": "WEDDING",    "chunkTexts": ["WED",  "DING"]        },
+      { "clue": "Promise to marry",         "answer": "ENGAGEMENT", "chunkTexts": ["EN",   "GAGE", "MENT"] },
+      { "clue": "Bride's flower bunch",     "answer": "BOUQUET",    "chunkTexts": ["BOU",  "QUET"]        },
+      { "clue": "Newlyweds' getaway trip",  "answer": "HONEYMOON",  "chunkTexts": ["HONEY","MOON"]        },
+      { "clue": "Love-struck courtship",    "answer": "ROMANCE",    "chunkTexts": ["RO",   "MANCE"]       },
+      { "clue": "Heartfelt tender love",    "answer": "AFFECTION",  "chunkTexts": ["AF",   "FEC",  "TION"] },
+      { "clue": "Term of endearment",       "answer": "DARLING",    "chunkTexts": ["DAR",  "LING"]        }
+    ]
+  },
+  {
+    "id": "round55",
+    "title": "Round 55",
+    "theme": "Astronomy",
+    "clueAnswers": [
+      { "clue": "Tailed icy space wanderer","answer": "COMET",     "chunkTexts": ["CO",   "MET"]   },
+      { "clue": "Ringed gas giant planet",  "answer": "SATURN",    "chunkTexts": ["SAT",  "URN"]   },
+      { "clue": "Largest planet",           "answer": "JUPITER",   "chunkTexts": ["JU",   "PIT", "ER"] },
+      { "clue": "Shooting-star streak",     "answer": "METEOR",    "chunkTexts": ["ME",   "TEOR"]  },
+      { "clue": "Star-watching tube",       "answer": "TELESCOPE", "chunkTexts": ["TEL",  "E",   "SCOPE"] },
+      { "clue": "Light-swallowing void",    "answer": "BLACKHOLE", "chunkTexts": ["BLACK","HOLE"]  },
+      { "clue": "Rocky belt space chunk",   "answer": "ASTEROID",  "chunkTexts": ["AST",  "ER",  "OID"] }
+    ]
   }
 ]
