@@ -208,5 +208,285 @@
       { "clue": "Royal domain",           "answer": "KINGDOM",   "chunkTexts": ["KING", "DOM"]        },
       { "clue": "Magic potion",           "answer": "ELIXIR",    "chunkTexts": ["ELI",  "XIR"]        }
     ]
+  },
+  {
+    "id": "round16",
+    "title": "Round 16",
+    "theme": "Weather",
+    "clueAnswers": [
+      { "clue": "Spinning funnel cloud",    "answer": "TORNADO",   "chunkTexts": ["TOR",   "NADO"]        },
+      { "clue": "Ice pellet shower",        "answer": "HAILSTONE", "chunkTexts": ["HAIL",  "STONE"]       },
+      { "clue": "Cold white flake",         "answer": "SNOWFLAKE", "chunkTexts": ["SNOW",  "FLAKE"]       },
+      { "clue": "Morning moisture bead",    "answer": "DEWDROP",   "chunkTexts": ["DEW",   "DROP"]        },
+      { "clue": "Water cycle fall",         "answer": "RAINFALL",  "chunkTexts": ["RAIN",  "FALL"]        },
+      { "clue": "Cloud-covered sky",        "answer": "OVERCAST",  "chunkTexts": ["OVER",  "CAST"]        },
+      { "clue": "Electrical storm flash",   "answer": "LIGHTNING", "chunkTexts": ["LIGHT", "NING"]        }
+    ]
+  },
+  {
+    "id": "round17",
+    "title": "Round 17",
+    "theme": "Ancient World",
+    "clueAnswers": [
+      { "clue": "Royal stone monument",     "answer": "PYRAMID",   "chunkTexts": ["PYR",  "AMID"]          },
+      { "clue": "Roman gladiator arena",    "answer": "COLOSSEUM", "chunkTexts": ["COL",  "OS",   "SEUM"]  },
+      { "clue": "Roman water channel",      "answer": "AQUEDUCT",  "chunkTexts": ["AQUE", "DUCT"]          },
+      { "clue": "Ancient Greek warrior",    "answer": "SPARTAN",   "chunkTexts": ["SPAR", "TAN"]           },
+      { "clue": "Norse sea raider",         "answer": "VIKING",    "chunkTexts": ["VIK",  "ING"]           },
+      { "clue": "Egyptian bandaged dead",   "answer": "MUMMY",     "chunkTexts": ["MUM",  "MY"]            },
+      { "clue": "Legendary Greek hero",     "answer": "ACHILLES",  "chunkTexts": ["ACH",  "IL",   "LES"]   }
+    ]
+  },
+  {
+    "id": "round18",
+    "title": "Round 18",
+    "theme": "Body & Health",
+    "clueAnswers": [
+      { "clue": "Circulatory flow",          "answer": "BLOODSTREAM", "chunkTexts": ["BLOOD", "STREAM"]       },
+      { "clue": "Muscle-to-bone connector",  "answer": "TENDON",      "chunkTexts": ["TEN",   "DON"]          },
+      { "clue": "Chest acid discomfort",     "answer": "HEARTBURN",   "chunkTexts": ["HEART", "BURN"]         },
+      { "clue": "Flexible joint tissue",     "answer": "CARTILAGE",   "chunkTexts": ["CART",  "I",    "LAGE"] },
+      { "clue": "Infection-fighting protein","answer": "ANTIBODY",    "chunkTexts": ["ANTI",  "BODY"]         },
+      { "clue": "Heart-leaving vessel",      "answer": "ARTERY",      "chunkTexts": ["ART",   "ERY"]          },
+      { "clue": "Neck hormone gland",        "answer": "THYROID",     "chunkTexts": ["THY",   "ROID"]         }
+    ]
+  },
+  {
+    "id": "round19",
+    "title": "Round 19",
+    "theme": "Food & Drink",
+    "clueAnswers": [
+      { "clue": "Aged grape wine",           "answer": "VINTAGE",    "chunkTexts": ["VIN",  "TAGE"]          },
+      { "clue": "Frothy coffee drink",       "answer": "CAPPUCCINO", "chunkTexts": ["CAP",  "PUC",  "CINO"]  },
+      { "clue": "Avocado dip",               "answer": "GUACAMOLE",  "chunkTexts": ["GUAC", "A",    "MOLE"]  },
+      { "clue": "Japanese noodle soup",      "answer": "RAMEN",      "chunkTexts": ["RAM",  "EN"]            },
+      { "clue": "Twisted salty snack",       "answer": "PRETZEL",    "chunkTexts": ["PRET", "ZEL"]           },
+      { "clue": "French soft white cheese",  "answer": "CAMEMBERT",  "chunkTexts": ["CAM",  "EM",   "BERT"]  },
+      { "clue": "Mexican corn flatbread",    "answer": "TORTILLA",   "chunkTexts": ["TORT", "IL",   "LA"]    }
+    ]
+  },
+  {
+    "id": "round20",
+    "title": "Round 20",
+    "theme": "Wild West",
+    "clueAnswers": [
+      { "clue": "Desert prickly plant",      "answer": "CACTUS",   "chunkTexts": ["CAC", "TUS"]         },
+      { "clue": "Cowboy throw rope",         "answer": "LASSO",    "chunkTexts": ["LAS", "SO"]          },
+      { "clue": "Law enforcement badge",     "answer": "MARSHAL",  "chunkTexts": ["MAR", "SHAL"]        },
+      { "clue": "Spinning chamber gun",      "answer": "REVOLVER", "chunkTexts": ["REV", "OL",  "VER"] },
+      { "clue": "Gold mining find",          "answer": "NUGGET",   "chunkTexts": ["NUG", "GET"]         },
+      { "clue": "Frontier town bar",         "answer": "SALOON",   "chunkTexts": ["SAL", "OON"]         },
+      { "clue": "Native American tent",      "answer": "WIGWAM",   "chunkTexts": ["WIG", "WAM"]         }
+    ]
+  },
+  {
+    "id": "round21",
+    "title": "Round 21",
+    "theme": "Technology",
+    "clueAnswers": [
+      { "clue": "Global digital network",   "answer": "INTERNET",  "chunkTexts": ["INTER", "NET"]   },
+      { "clue": "Tiny circuit board",       "answer": "MICROCHIP", "chunkTexts": ["MICRO", "CHIP"]  },
+      { "clue": "Connected device web",     "answer": "NETWORK",   "chunkTexts": ["NET",   "WORK"]  },
+      { "clue": "Portable flat computer",   "answer": "TABLET",    "chunkTexts": ["TAB",   "LET"]   },
+      { "clue": "Step-by-step process",     "answer": "ALGORITHM", "chunkTexts": ["ALGO",  "RITHM"] },
+      { "clue": "Digital currency",         "answer": "BITCOIN",   "chunkTexts": ["BIT",   "COIN"]  },
+      { "clue": "Automated reply program",  "answer": "CHATBOT",   "chunkTexts": ["CHAT",  "BOT"]   }
+    ]
+  },
+  {
+    "id": "round22",
+    "title": "Round 22",
+    "theme": "Art Studio",
+    "clueAnswers": [
+      { "clue": "Artist's color board",     "answer": "PALETTE",  "chunkTexts": ["PAL",   "ETTE"] },
+      { "clue": "Canvas support stand",     "answer": "EASEL",    "chunkTexts": ["EAS",   "EL"]   },
+      { "clue": "Lifelike face painting",   "answer": "PORTRAIT", "chunkTexts": ["PORT",  "RAIT"] },
+      { "clue": "Chisel-made sculpture",    "answer": "CARVING",  "chunkTexts": ["CAR",   "VING"] },
+      { "clue": "Art display space",        "answer": "GALLERY",  "chunkTexts": ["GAL",   "LERY"] },
+      { "clue": "Pasted image artwork",     "answer": "COLLAGE",  "chunkTexts": ["COL",   "LAGE"] },
+      { "clue": "Brush on canvas work",     "answer": "PAINTING", "chunkTexts": ["PAINT", "ING"]  }
+    ]
+  },
+  {
+    "id": "round23",
+    "title": "Round 23",
+    "theme": "In the Library",
+    "clueAnswers": [
+      { "clue": "Collected writings volume", "answer": "ANTHOLOGY",    "chunkTexts": ["ANT",     "HOL",  "OGY"]  },
+      { "clue": "Word definition index",     "answer": "GLOSSARY",     "chunkTexts": ["GLOSS",   "ARY"]          },
+      { "clue": "All-subjects reference",    "answer": "ENCYCLOPEDIA",  "chunkTexts": ["ENCYCLO", "PEDIA"]       },
+      { "clue": "Historical account record", "answer": "CHRONICLE",    "chunkTexts": ["CHRON",   "ICLE"]         },
+      { "clue": "Printed letter style",      "answer": "TYPEFACE",     "chunkTexts": ["TYPE",    "FACE"]         },
+      { "clue": "Author's personal signature","answer": "AUTOGRAPH",   "chunkTexts": ["AUTO",    "GRAPH"]        },
+      { "clue": "Page-saving strip",         "answer": "BOOKMARK",     "chunkTexts": ["BOOK",    "MARK"]         }
+    ]
+  },
+  {
+    "id": "round24",
+    "title": "Round 24",
+    "theme": "Around the House",
+    "clueAnswers": [
+      { "clue": "Heat and cool controller", "answer": "THERMOSTAT", "chunkTexts": ["THERMO", "STAT"]       },
+      { "clue": "Wall power socket",        "answer": "OUTLET",     "chunkTexts": ["OUT",    "LET"]        },
+      { "clue": "Roof window panel",        "answer": "SKYLIGHT",   "chunkTexts": ["SKY",    "LIGHT"]      },
+      { "clue": "Drain-clearing tool",      "answer": "PLUNGER",    "chunkTexts": ["PLUN",   "GER"]        },
+      { "clue": "Window privacy drape",     "answer": "CURTAINS",   "chunkTexts": ["CUR",    "TAINS"]      },
+      { "clue": "Doorstep greeting mat",    "answer": "WELCOME",    "chunkTexts": ["WEL",    "COME"]       },
+      { "clue": "Staircase safety rail",    "answer": "BANISTER",   "chunkTexts": ["BAN",    "IS",  "TER"] }
+    ]
+  },
+  {
+    "id": "round25",
+    "title": "Round 25",
+    "theme": "Birds",
+    "clueAnswers": [
+      { "clue": "Dusk-diving insect hunter","answer": "NIGHTHAWK",  "chunkTexts": ["NIGHT", "HAWK"]        },
+      { "clue": "Colorful cage bird",       "answer": "PARAKEET",   "chunkTexts": ["PARA",  "KEET"]        },
+      { "clue": "Barn-nesting migrant",     "answer": "SWALLOW",    "chunkTexts": ["SWAL",  "LOW"]         },
+      { "clue": "Arctic tuxedo seabird",    "answer": "PUFFIN",     "chunkTexts": ["PUF",   "FIN"]         },
+      { "clue": "Fastest running bird",     "answer": "OSTRICH",    "chunkTexts": ["OST",   "RICH"]        },
+      { "clue": "Riverside diving hunter",  "answer": "KINGFISHER", "chunkTexts": ["KING",  "FISH", "ER"]  },
+      { "clue": "Black-and-white thief",    "answer": "MAGPIE",     "chunkTexts": ["MAG",   "PIE"]         }
+    ]
+  },
+  {
+    "id": "round26",
+    "title": "Round 26",
+    "theme": "Bugs & Insects",
+    "clueAnswers": [
+      { "clue": "Silk-spinning larva",      "answer": "CATERPILLAR", "chunkTexts": ["CATER", "PIL",  "LAR"] },
+      { "clue": "Fuzzy hive builder",       "answer": "BUMBLEBEE",   "chunkTexts": ["BUM",   "BLE",  "BEE"] },
+      { "clue": "Night-glow flier",         "answer": "FIREFLY",     "chunkTexts": ["FIRE",  "FLY"]         },
+      { "clue": "Wood-eating colony",       "answer": "TERMITE",     "chunkTexts": ["TER",   "MITE"]        },
+      { "clue": "Long-leaping meadow bug",  "answer": "GRASSHOPPER", "chunkTexts": ["GRASS", "HOP",  "PER"] },
+      { "clue": "Iridescent wing flier",    "answer": "DRAGONFLY",   "chunkTexts": ["DRAG",  "ON",   "FLY"] },
+      { "clue": "Sacred Egyptian beetle",   "answer": "SCARAB",      "chunkTexts": ["SCAR",  "AB"]          }
+    ]
+  },
+  {
+    "id": "round27",
+    "title": "Round 27",
+    "theme": "Medieval Times",
+    "clueAnswers": [
+      { "clue": "Castle underground prison", "answer": "DUNGEON",     "chunkTexts": ["DUN",   "GEON"]           },
+      { "clue": "Holy Land crusading knight","answer": "CRUSADER",    "chunkTexts": ["CRU",   "SAD",   "ER"]    },
+      { "clue": "Castle wall walkway",       "answer": "BATTLEMENTS", "chunkTexts": ["BAT",   "TLE",   "MENTS"] },
+      { "clue": "Royal feast event",         "answer": "BANQUET",     "chunkTexts": ["BAN",   "QUET"]           },
+      { "clue": "Sword-forging craftsman",   "answer": "BLACKSMITH",  "chunkTexts": ["BLACK", "SMITH"]          },
+      { "clue": "Writing animal skin scroll","answer": "PARCHMENT",   "chunkTexts": ["PARCH", "MENT"]           },
+      { "clue": "Projectile siege weapon",   "answer": "CATAPULT",    "chunkTexts": ["CAT",   "A",     "PULT"]  }
+    ]
+  },
+  {
+    "id": "round28",
+    "title": "Round 28",
+    "theme": "Jungle Life",
+    "clueAnswers": [
+      { "clue": "Knuckle-walking ape",       "answer": "CHIMPANZEE", "chunkTexts": ["CHIMP", "AN",  "ZEE"] },
+      { "clue": "Giant constricting snake",  "answer": "ANACONDA",   "chunkTexts": ["ANA",   "CON", "DA"]  },
+      { "clue": "Dense tropical woodland",   "answer": "RAINFOREST", "chunkTexts": ["RAIN",  "FOR", "EST"] },
+      { "clue": "Razor-toothed river fish",  "answer": "PIRANHA",    "chunkTexts": ["PIR",   "AN",  "HA"]  },
+      { "clue": "Muscular Amazon cat",       "answer": "JAGUAR",     "chunkTexts": ["JAG",   "UAR"]        },
+      { "clue": "Treetop leaf layer",        "answer": "CANOPY",     "chunkTexts": ["CAN",   "OPY"]        },
+      { "clue": "Giant-billed jungle bird",  "answer": "TOUCAN",     "chunkTexts": ["TOU",   "CAN"]        }
+    ]
+  },
+  {
+    "id": "round29",
+    "title": "Round 29",
+    "theme": "Nighttime",
+    "clueAnswers": [
+      { "clue": "Twinkling sky glow",        "answer": "STARLIGHT", "chunkTexts": ["STAR",  "LIGHT"]        },
+      { "clue": "Lunar silver ray",          "answer": "MOONBEAM",  "chunkTexts": ["MOON",  "BEAM"]         },
+      { "clue": "Witching hour",             "answer": "MIDNIGHT",  "chunkTexts": ["MID",   "NIGHT"]        },
+      { "clue": "Sleepless condition",       "answer": "INSOMNIA",  "chunkTexts": ["IN",    "SOM",  "NIA"]  },
+      { "clue": "Sleep vision",              "answer": "DREAMING",  "chunkTexts": ["DREAM", "ING"]          },
+      { "clue": "Evening meal",              "answer": "SUPPER",    "chunkTexts": ["SUP",   "PER"]          },
+      { "clue": "Street light glow",         "answer": "LAMPLIGHT", "chunkTexts": ["LAMP",  "LIGHT"]        }
+    ]
+  },
+  {
+    "id": "round30",
+    "title": "Round 30",
+    "theme": "Colors & Shades",
+    "clueAnswers": [
+      { "clue": "Bright sky blue",           "answer": "CERULEAN",  "chunkTexts": ["CER",  "UL",  "EAN"] },
+      { "clue": "Citrus orange hue",         "answer": "TANGERINE", "chunkTexts": ["TAN",  "GER", "INE"] },
+      { "clue": "Deep violet-blue dye",      "answer": "INDIGO",    "chunkTexts": ["IN",   "DIGO"]       },
+      { "clue": "Gem-green shade",           "answer": "EMERALD",   "chunkTexts": ["EMER", "ALD"]        },
+      { "clue": "Vivid pink-purple",         "answer": "MAGENTA",   "chunkTexts": ["MAG",  "ENTA"]       },
+      { "clue": "Reddish-brown pigment",     "answer": "SIENNA",    "chunkTexts": ["SIEN", "NA"]         },
+      { "clue": "Deep blood red",            "answer": "CRIMSON",   "chunkTexts": ["CRIM", "SON"]        }
+    ]
+  },
+  {
+    "id": "round31",
+    "title": "Round 31",
+    "theme": "On the Water",
+    "clueAnswers": [
+      { "clue": "Sailing race event",        "answer": "REGATTA",    "chunkTexts": ["REG",   "AT",    "TA"]  },
+      { "clue": "Sunken ocean vessel",       "answer": "SHIPWRECK",  "chunkTexts": ["SHIP",  "WRECK"]        },
+      { "clue": "Swirling water vortex",     "answer": "WHIRLPOOL",  "chunkTexts": ["WHIRL", "POOL"]         },
+      { "clue": "Harbor warning tower",      "answer": "LIGHTHOUSE", "chunkTexts": ["LIGHT", "HOUSE"]        },
+      { "clue": "Rod-and-reel fishing",      "answer": "ANGLING",    "chunkTexts": ["ANG",   "LING"]         },
+      { "clue": "Floating frozen mass",      "answer": "ICEBERG",    "chunkTexts": ["ICE",   "BERG"]         },
+      { "clue": "Paddle sport vessel",       "answer": "KAYAKING",   "chunkTexts": ["KAY",   "AK",    "ING"] }
+    ]
+  },
+  {
+    "id": "round32",
+    "title": "Round 32",
+    "theme": "Mythology",
+    "clueAnswers": [
+      { "clue": "Greek gods' mountain",       "answer": "OLYMPUS",   "chunkTexts": ["OLYM", "PUS"]           },
+      { "clue": "Norse warrior paradise",     "answer": "VALHALLA",  "chunkTexts": ["VAL",  "HAL",   "LA"]   },
+      { "clue": "Bull-headed labyrinth beast","answer": "MINOTAUR",  "chunkTexts": ["MINO", "TAUR"]          },
+      { "clue": "Winged flying horse",        "answer": "PEGASUS",   "chunkTexts": ["PEG",  "A",     "SUS"]  },
+      { "clue": "Three-headed underworld dog","answer": "CERBERUS",  "chunkTexts": ["CER",  "BER",   "US"]   },
+      { "clue": "Goddess of love and beauty", "answer": "APHRODITE", "chunkTexts": ["APHR", "O",     "DITE"] },
+      { "clue": "Greek sun god charioteer",   "answer": "HELIOS",    "chunkTexts": ["HEL",  "IOS"]           }
+    ]
+  },
+  {
+    "id": "round33",
+    "title": "Round 33",
+    "theme": "Celebrations",
+    "clueAnswers": [
+      { "clue": "Festive paper scatter",     "answer": "CONFETTI",   "chunkTexts": ["CON",  "FET",   "TI"]  },
+      { "clue": "Birthday cake toppers",     "answer": "CANDLES",    "chunkTexts": ["CAN",  "DLES"]         },
+      { "clue": "Gift wrapping bow strip",   "answer": "RIBBON",     "chunkTexts": ["RIB",  "BON"]          },
+      { "clue": "Spinning fairground ride",  "answer": "CAROUSEL",   "chunkTexts": ["CAR",  "OU",    "SEL"] },
+      { "clue": "New Year sky display",      "answer": "FIREWORKS",  "chunkTexts": ["FIRE", "WORKS"]        },
+      { "clue": "Costumed fancy-dress ball", "answer": "MASQUERADE", "chunkTexts": ["MAS",  "QUER",  "ADE"] },
+      { "clue": "Celebratory bubbly drink",  "answer": "CHAMPAGNE",  "chunkTexts": ["CHAM", "PAGNE"]        }
+    ]
+  },
+  {
+    "id": "round34",
+    "title": "Round 34",
+    "theme": "School Days",
+    "clueAnswers": [
+      { "clue": "Math number sentence",      "answer": "EQUATION",  "chunkTexts": ["EQUA",  "TION"]  },
+      { "clue": "After-school assignment",   "answer": "HOMEWORK",  "chunkTexts": ["HOME",  "WORK"]  },
+      { "clue": "Outdoor break period",      "answer": "RECESS",    "chunkTexts": ["RE",    "CESS"]  },
+      { "clue": "Learning room",             "answer": "CLASSROOM", "chunkTexts": ["CLASS", "ROOM"]  },
+      { "clue": "Test grader",               "answer": "EXAMINER",  "chunkTexts": ["EXAM",  "INER"]  },
+      { "clue": "Paper-cutting tool",        "answer": "SCISSORS",  "chunkTexts": ["SCIS",  "SORS"]  },
+      { "clue": "Required reading volume",   "answer": "TEXTBOOK",  "chunkTexts": ["TEXT",  "BOOK"]  }
+    ]
+  },
+  {
+    "id": "round35",
+    "title": "Round 35",
+    "theme": "Winter Wonderland",
+    "clueAnswers": [
+      { "clue": "Extreme cold skin damage",  "answer": "FROSTBITE", "chunkTexts": ["FROST", "BITE"]  },
+      { "clue": "Heavy snowstorm",           "answer": "BLIZZARD",  "chunkTexts": ["BLIZ",  "ZARD"]  },
+      { "clue": "Hanging roof ice spike",    "answer": "ICICLE",    "chunkTexts": ["ICI",   "CLE"]   },
+      { "clue": "Solid ice state",           "answer": "FROZEN",    "chunkTexts": ["FRO",   "ZEN"]   },
+      { "clue": "Holiday spiced drink",      "answer": "EGGNOG",    "chunkTexts": ["EGG",   "NOG"]   },
+      { "clue": "Carrot-nosed yard figure",  "answer": "SNOWMAN",   "chunkTexts": ["SNOW",  "MAN"]   },
+      { "clue": "Slow-moving ice river",     "answer": "GLACIER",   "chunkTexts": ["GLA",   "CIER"]  }
+    ]
   }
 ]
