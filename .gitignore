@@ -39,3 +39,10 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# Borrowed (third-party) puzzle content: never commit or publish
+content/borrowed/
+
+# Python tooling
+.venv/
+__pycache__/

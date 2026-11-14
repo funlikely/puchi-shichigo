@@ -1,0 +1,910 @@
+{
+ "_meta": {
+  "batch": "batch-002",
+  "writer": "hand-written (Claude, no API)",
+  "judge": "self-rated by the writer"
+ },
+ "c001": {
+  "theme": "Quiet Please",
+  "clues": {
+   "LIBRARIAN": {
+    "clue": "Professional shusher",
+    "type": "pun",
+    "rating": 4
+   },
+   "INFORMANT": {
+    "clue": "One who sings to the cops",
+    "type": "pun",
+    "rating": 4
+   },
+   "RETENTION": {
+    "clue": "Memory's holding power",
+    "type": "definition",
+    "rating": 3
+   },
+   "MINISTER": {
+    "clue": "Cabinet member with a flock",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "INTERVAL": {
+    "clue": "Gap between acts",
+    "type": "definition",
+    "rating": 3
+   },
+   "HUNTER": {
+    "clue": "One playing for big game",
+    "type": "pun",
+    "rating": 5
+   },
+   "LITERATURE": {
+    "clue": "Novel field of study",
+    "type": "pun",
+    "rating": 5
+   }
+  },
+  "critique": {
+   "notes": "Weakest: RETENTION (dry word, plain clue)."
+  }
+ },
+ "c003": {
+  "theme": "Downhill Fast",
+  "clues": {
+   "CENTENARY": {
+    "clue": "Party a hundred years coming",
+    "type": "evocative",
+    "rating": 3
+   },
+   "PROFESSOR": {
+    "clue": "One with a lot of class",
+    "type": "pun",
+    "rating": 5
+   },
+   "JESTER": {
+    "clue": "Fool for the king",
+    "type": "pun",
+    "rating": 4
+   },
+   "MISCONDUCT": {
+    "clue": "Bad behavior, on the record",
+    "type": "definition",
+    "rating": 3
+   },
+   "KANGAROO": {
+    "clue": "Mom with a built-in pocket",
+    "type": "evocative",
+    "rating": 4
+   },
+   "PROCESSION": {
+    "clue": "Parade at a solemn pace",
+    "type": "definition",
+    "rating": 3
+   },
+   "AVALANCHE": {
+    "clue": "Slope's downfall",
+    "type": "pun",
+    "rating": 5
+   }
+  },
+  "critique": {
+   "notes": "Weakest: MISCONDUCT clue is flat; CENTENARY is a stiff word."
+  }
+ },
+ "c004": {
+  "theme": "Fake Tears",
+  "clues": {
+   "INTIMIDATE": {
+    "clue": "Loom over, say",
+    "type": "definition",
+    "rating": 3
+   },
+   "PASSPORT": {
+    "clue": "Book of border stories",
+    "type": "pun",
+    "rating": 4
+   },
+   "PROMINENT": {
+    "clue": "Hard to miss",
+    "type": "definition",
+    "rating": 3
+   },
+   "SINISTER": {
+    "clue": "Villainously ominous",
+    "type": "definition",
+    "rating": 3
+   },
+   "INTENTION": {
+    "clue": "Paving stone on the road to hell",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "DOORBELL": {
+    "clue": "Ringer at the entrance",
+    "type": "pun",
+    "rating": 4
+   },
+   "CROCODILE": {
+    "clue": "Source of fake tears",
+    "type": "wordplay",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Weakest: PROMINENT (\"Hard to miss\"); two INT- adjectives feel samey."
+  }
+ },
+ "c005": {
+  "theme": "Fall Guys",
+  "clues": {
+   "LEMONADE": {
+    "clue": "What a stand-up kid sells",
+    "type": "pun",
+    "rating": 4
+   },
+   "ATTENTION": {
+    "clue": "It's paid but never billed",
+    "type": "pun",
+    "rating": 5
+   },
+   "CONCERT": {
+    "clue": "Gig with an encore",
+    "type": "definition",
+    "rating": 3
+   },
+   "PARACHUTE": {
+    "clue": "Fall guy's backup",
+    "type": "pun",
+    "rating": 5
+   },
+   "CONTEST": {
+    "clue": "Pie-eating event, say",
+    "type": "example",
+    "rating": 3
+   },
+   "EXTERNAL": {
+    "clue": "Outer, like a hard drive",
+    "type": "definition",
+    "rating": 3
+   },
+   "NEWSLETTER": {
+    "clue": "Inbox bulletin you forgot joining",
+    "type": "evocative",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Weakest: EXTERNAL (plain word, plain clue)."
+  }
+ },
+ "c006": {
+  "theme": "Nailed It",
+  "clues": {
+   "PERMANENT": {
+    "clue": "Like some markers and waves",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "NONPROFIT": {
+    "clue": "Company not in it for money",
+    "type": "definition",
+    "rating": 3
+   },
+   "VELOCITY": {
+    "clue": "Speed with a direction",
+    "type": "definition",
+    "rating": 3
+   },
+   "CARNIVAL": {
+    "clue": "Fair game's home",
+    "type": "pun",
+    "rating": 5
+   },
+   "HELICOPTER": {
+    "clue": "Kind of parent who hovers",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "CARPENTER": {
+    "clue": "One who nails the job",
+    "type": "pun",
+    "rating": 5
+   },
+   "PARODY": {
+    "clue": "Weird Al's stock in trade",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Weakest: NONPROFIT and VELOCITY get straight definitions."
+  }
+ },
+ "c007": {
+  "theme": "Best Kept",
+  "clues": {
+   "PENINSULA": {
+    "clue": "Florida's shape, basically",
+    "type": "example",
+    "rating": 4
+   },
+   "CONTINGENT": {
+    "clue": "Depending (on)",
+    "type": "definition",
+    "rating": 2
+   },
+   "REGISTER": {
+    "clue": "Where the cash rings up",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "CONVENTION": {
+    "clue": "Comic-Con, for one",
+    "type": "example",
+    "rating": 3
+   },
+   "COWBOY": {
+    "clue": "Home on the range worker",
+    "type": "pun",
+    "rating": 4
+   },
+   "SECRET": {
+    "clue": "It's best kept",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "RECTANGLE": {
+    "clue": "Shape that's always right four times",
+    "type": "pun",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Weakest: CONTINGENT (\"Depending (on)\") is the flattest clue in the batch."
+  }
+ },
+ "c008": {
+  "theme": "Wheel of Misfortune",
+  "clues": {
+   "PRONOUNCE": {
+    "clue": "Say it right",
+    "type": "definition",
+    "rating": 3
+   },
+   "ENGINEER": {
+    "clue": "Trained professional on the railway",
+    "type": "pun",
+    "rating": 5
+   },
+   "STATESMAN": {
+    "clue": "Elder with diplomatic skills",
+    "type": "definition",
+    "rating": 3
+   },
+   "ROULETTE": {
+    "clue": "Wheel of misfortune",
+    "type": "pun",
+    "rating": 5
+   },
+   "ROUNDABOUT": {
+    "clue": "Circular argument for drivers",
+    "type": "pun",
+    "rating": 4
+   },
+   "CANTER": {
+    "clue": "Stable pace",
+    "type": "pun",
+    "rating": 5
+   },
+   "TELESCOPE": {
+    "clue": "Star-struck instrument",
+    "type": "pun",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Weakest: PRONOUNCE and STATESMAN; theme quotes the ROULETTE clue."
+  }
+ },
+ "c009": {
+  "theme": "Roll Call",
+  "clues": {
+   "MANIFESTO": {
+    "clue": "Revolutionary's to-do list",
+    "type": "pun",
+    "rating": 4
+   },
+   "MOMENTUM": {
+    "clue": "What a rolling stone gathers",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "CINNAMON": {
+    "clue": "Roll call spice",
+    "type": "pun",
+    "rating": 4
+   },
+   "BOTTLENECK": {
+    "clue": "Jam's narrow origin",
+    "type": "pun",
+    "rating": 4
+   },
+   "STABLE": {
+    "clue": "Steady, or where steeds stay",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "ESPIONAGE": {
+    "clue": "Bond's business",
+    "type": "pun",
+    "rating": 5
+   },
+   "COMPLETION": {
+    "clue": "Quarterback's caught pass",
+    "type": "misdirection",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Weakest: COMPLETION (abstract; saved by the football sense)."
+  }
+ },
+ "c010": {
+  "theme": "Spring Break",
+  "clues": {
+   "SPIDER": {
+    "clue": "Web designer",
+    "type": "pun",
+    "rating": 5
+   },
+   "TERMINAL": {
+    "clue": "Airport building, or end of the line",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "PROBATION": {
+    "clue": "Trial period",
+    "type": "pun",
+    "rating": 4
+   },
+   "TRAMPOLINE": {
+    "clue": "Spring break site",
+    "type": "pun",
+    "rating": 5
+   },
+   "INTIMATE": {
+    "clue": "Close, or hint",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "TAMBOURINE": {
+    "clue": "Shaken instrument with jingles",
+    "type": "definition",
+    "rating": 3
+   },
+   "DEFICIENT": {
+    "clue": "Coming up short",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Weakest: DEFICIENT (dull word); TAMBOURINE clue is a definition."
+  }
+ },
+ "c011": {
+  "theme": "Good Reactions",
+  "clues": {
+   "THERAPIST": {
+    "clue": "Shrink that helps you grow",
+    "type": "pun",
+    "rating": 5
+   },
+   "CATAPULT": {
+    "clue": "Castle-crasher's launcher",
+    "type": "pun",
+    "rating": 4
+   },
+   "REPORTER": {
+    "clue": "One with a nose for news",
+    "type": "definition",
+    "rating": 3
+   },
+   "ARTICHOKE": {
+    "clue": "Veggie with a heart",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "JELLYFISH": {
+    "clue": "Spineless stinger",
+    "type": "pun",
+    "rating": 4
+   },
+   "CHEMIST": {
+    "clue": "Professional with all the solutions",
+    "type": "pun",
+    "rating": 5
+   },
+   "RESPONSIVE": {
+    "clue": "Quick to reply",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Weakest: RESPONSIVE (\"Quick to reply\")."
+  }
+ },
+ "c012": {
+  "theme": "Holy Fish",
+  "clues": {
+   "MACKEREL": {
+    "clue": "Holy fish",
+    "type": "pun",
+    "rating": 5
+   },
+   "SCOUNDREL": {
+    "clue": "Dirty rotten sort",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CHORUS": {
+    "clue": "Part everyone sings",
+    "type": "definition",
+    "rating": 3
+   },
+   "KEEPSAKE": {
+    "clue": "Memento worth holding onto",
+    "type": "definition",
+    "rating": 3
+   },
+   "ENGAGEMENT": {
+    "clue": "Booking, or betrothal",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "RESTRAINT": {
+    "clue": "Holding-back quality",
+    "type": "definition",
+    "rating": 3
+   },
+   "SPOKESMAN": {
+    "clue": "Mouthpiece in a suit",
+    "type": "pun",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Weakest: RESTRAINT; theme quotes the MACKEREL clue."
+  }
+ },
+ "c013": {
+  "theme": "For the Masses",
+  "clues": {
+   "SAXOPHONE": {
+    "clue": "Lisa Simpson's horn",
+    "type": "trivia",
+    "rating": 4
+   },
+   "SERENADE": {
+    "clue": "Balcony-directed love song",
+    "type": "evocative",
+    "rating": 4
+   },
+   "MENTALITY": {
+    "clue": "Herd ___",
+    "type": "fill-in",
+    "rating": 3
+   },
+   "CLOVER": {
+    "clue": "In it, you're living well",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "RESEARCHER": {
+    "clue": "Lab coat wearer",
+    "type": "definition",
+    "rating": 3
+   },
+   "CATHEDRAL": {
+    "clue": "Building for the masses",
+    "type": "pun",
+    "rating": 5
+   },
+   "CURRICULUM": {
+    "clue": "Course of courses",
+    "type": "pun",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Weakest: MENTALITY (abstract; fill-in is serviceable)."
+  }
+ },
+ "c014": {
+  "theme": "Funny Business",
+  "clues": {
+   "COMEDY": {
+    "clue": "Funny business",
+    "type": "pun",
+    "rating": 5
+   },
+   "PARAMETER": {
+    "clue": "Setting you can tune",
+    "type": "definition",
+    "rating": 3
+   },
+   "INVESTMENT": {
+    "clue": "Stock choice",
+    "type": "pun",
+    "rating": 4
+   },
+   "PERFORMER": {
+    "clue": "One who acts up on stage",
+    "type": "pun",
+    "rating": 4
+   },
+   "MALARKEY": {
+    "clue": "Hogwash's Irish cousin",
+    "type": "evocative",
+    "rating": 4
+   },
+   "BRACELET": {
+    "clue": "Charm holder",
+    "type": "pun",
+    "rating": 4
+   },
+   "MARMALADE": {
+    "clue": "Paddington's sandwich filling",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Weakest: PARAMETER (technical word, vague clue)."
+  }
+ },
+ "c015": {
+  "theme": "Lots of Patients",
+  "clues": {
+   "CURTAIN": {
+    "clue": "It falls when the show's over",
+    "type": "misdirection",
+    "rating": 4
+   },
+   "FORGOTTEN": {
+    "clue": "Out of mind",
+    "type": "wordplay",
+    "rating": 3
+   },
+   "COMMENTARY": {
+    "clue": "Play-by-play talk",
+    "type": "definition",
+    "rating": 3
+   },
+   "NECKLACE": {
+    "clue": "Choker, for one",
+    "type": "pun",
+    "rating": 4
+   },
+   "DOCTOR": {
+    "clue": "Person with a lot of patients",
+    "type": "pun",
+    "rating": 4
+   },
+   "SENTINEL": {
+    "clue": "Guard who stands for something",
+    "type": "pun",
+    "rating": 4
+   },
+   "CONNECTION": {
+    "clue": "Layover's tight squeeze",
+    "type": "misdirection",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Weakest: COMMENTARY; DOCTOR pun is an old chestnut."
+  }
+ },
+ "c017": {
+  "theme": "Read All Over",
+  "clues": {
+   "PLATFORM": {
+    "clue": "Shoe or stage with a lift",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "PORCUPINE": {
+    "clue": "Animal that makes its point",
+    "type": "pun",
+    "rating": 5
+   },
+   "STATION": {
+    "clue": "Stopping point for trains",
+    "type": "definition",
+    "rating": 3
+   },
+   "NEWSPAPER": {
+    "clue": "Black, white and read all over",
+    "type": "pun",
+    "rating": 5
+   },
+   "RELIABLY": {
+    "clue": "Like clockwork",
+    "type": "definition",
+    "rating": 3
+   },
+   "SPAGHETTI": {
+    "clue": "Western or supper type",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "PROBABLE": {
+    "clue": "Better than fifty-fifty",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Weakest: PROBABLE and RELIABLY are filler adverb/adjective slots."
+  }
+ },
+ "c019": {
+  "theme": "Eye of the Storm",
+  "clues": {
+   "DEADLOCK": {
+    "clue": "Tie nobody can untie",
+    "type": "pun",
+    "rating": 4
+   },
+   "PARENTHOOD": {
+    "clue": "Job with no days off, or pay",
+    "type": "evocative",
+    "rating": 4
+   },
+   "HURRICANE": {
+    "clue": "Eye-catching storm",
+    "type": "pun",
+    "rating": 5
+   },
+   "INVITATION": {
+    "clue": "Asking for company",
+    "type": "pun",
+    "rating": 4
+   },
+   "GARRISON": {
+    "clue": "Fort's troops",
+    "type": "definition",
+    "rating": 3
+   },
+   "LOBSTER": {
+    "clue": "Bib-wearing diner's order",
+    "type": "evocative",
+    "rating": 4
+   },
+   "BARRICADE": {
+    "clue": "Street protest furniture",
+    "type": "evocative",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Weakest: GARRISON (least familiar word, plain clue)."
+  }
+ },
+ "c020": {
+  "theme": "Elsewhere",
+  "clues": {
+   "ARCHITECT": {
+    "clue": "One who draws up big plans",
+    "type": "pun",
+    "rating": 4
+   },
+   "MAYONNAISE": {
+    "clue": "Spread found in most delis",
+    "type": "definition",
+    "rating": 3
+   },
+   "ENCOUNTER": {
+    "clue": "Run into",
+    "type": "definition",
+    "rating": 3
+   },
+   "ALIBI": {
+    "clue": "Elsewhere story",
+    "type": "pun",
+    "rating": 4
+   },
+   "INSPECTOR": {
+    "clue": "Gadget's title",
+    "type": "trivia",
+    "rating": 4
+   },
+   "INCLUSIVE": {
+    "clue": "Leaving nobody out",
+    "type": "definition",
+    "rating": 3
+   },
+   "PERSISTENT": {
+    "clue": "Refusing to quit",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Weakest: INCLUSIVE / PERSISTENT / ENCOUNTER, three plain definitions; likely cut."
+  }
+ },
+ "c022": {
+  "theme": "Case Worker",
+  "clues": {
+   "DEFEAT": {
+    "clue": "Beat, or a beating",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "TANGENT": {
+    "clue": "Off-topic trip",
+    "type": "pun",
+    "rating": 4
+   },
+   "UNDERWORLD": {
+    "clue": "Hades' turf, or the mob's",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "DRAGONFLY": {
+    "clue": "Pond's iridescent helicopter",
+    "type": "evocative",
+    "rating": 4
+   },
+   "DETECTIVE": {
+    "clue": "Case worker",
+    "type": "pun",
+    "rating": 5
+   },
+   "CUSHION": {
+    "clue": "Soft landing spot",
+    "type": "evocative",
+    "rating": 3
+   },
+   "DETERMINE": {
+    "clue": "Figure out for sure",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Weakest: DETERMINE; three DE- starts (DEF, DET, DET) are intended overlap."
+  }
+ },
+ "c023": {
+  "theme": "Set in Stone",
+  "clues": {
+   "REPLICATE": {
+    "clue": "Copy, in the lab",
+    "type": "definition",
+    "rating": 3
+   },
+   "FOSSIL": {
+    "clue": "Old-timer set in stone",
+    "type": "pun",
+    "rating": 4
+   },
+   "MICROSCOPE": {
+    "clue": "It makes much of little",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "DONKEY": {
+    "clue": "Shrek's chatty sidekick",
+    "type": "trivia",
+    "rating": 4
+   },
+   "SATELLITE": {
+    "clue": "Dish's far-out partner",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "ENTIRELY": {
+    "clue": "Through and through",
+    "type": "definition",
+    "rating": 3
+   },
+   "INTERPRET": {
+    "clue": "Read between the lines",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Weakest: ENTIRELY (adverb filler)."
+  }
+ },
+ "c024": {
+  "theme": "Pain in the Neck",
+  "clues": {
+   "CREEPY": {
+    "clue": "Giving you goosebumps",
+    "type": "definition",
+    "rating": 3
+   },
+   "SCARECROW": {
+    "clue": "Outstanding figure in his field",
+    "type": "pun",
+    "rating": 5
+   },
+   "DECREASE": {
+    "clue": "Lessen, or remove wrinkles",
+    "type": "pun",
+    "rating": 5
+   },
+   "VINEYARD": {
+    "clue": "Grape expectations site",
+    "type": "pun",
+    "rating": 5
+   },
+   "AGGREGATE": {
+    "clue": "Sum total",
+    "type": "definition",
+    "rating": 3
+   },
+   "CONTENTION": {
+    "clue": "Bone of ___",
+    "type": "fill-in",
+    "rating": 4
+   },
+   "VAMPIRE": {
+    "clue": "Pain in the neck",
+    "type": "pun",
+    "rating": 5
+   }
+  },
+  "critique": {
+   "notes": "Weakest: AGGREGATE (\"Sum total\")."
+  }
+ },
+ "c027": {
+  "theme": "Out of Office",
+  "clues": {
+   "COMPASS": {
+    "clue": "Needle that knows north",
+    "type": "evocative",
+    "rating": 4
+   },
+   "APPETIZER": {
+    "clue": "Opening course",
+    "type": "pun",
+    "rating": 4
+   },
+   "VACATION": {
+    "clue": "Out-of-office experience",
+    "type": "pun",
+    "rating": 5
+   },
+   "PLUNDER": {
+    "clue": "Pirate's take",
+    "type": "pun",
+    "rating": 4
+   },
+   "CONCEPTUAL": {
+    "clue": "All idea, like some art",
+    "type": "definition",
+    "rating": 3
+   },
+   "CAMERAMAN": {
+    "clue": "Shooter on a film set",
+    "type": "misdirection",
+    "rating": 4
+   },
+   "CONTINUAL": {
+    "clue": "Without a break",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Weakest: CONTINUAL and CONCEPTUAL, two dry CON- adjectives."
+  }
+ }
+}

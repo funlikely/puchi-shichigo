@@ -1,0 +1,1089 @@
+{
+ "_meta": {
+  "batch": "batch-001",
+  "writer": "hand-written (Claude, no API)",
+  "judge": "self-rated by the writer; see prompts/clue_judge.md"
+ },
+ "c001": {
+  "theme": "Stock Answers",
+  "clues": {
+   "SPRINTER": {
+    "clue": "Dasher, but not a reindeer",
+    "type": "misdirection",
+    "rating": 4
+   },
+   "PARALLEL": {
+    "clue": "Kind of parking or universe",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "INVENTORY": {
+    "clue": "Stock answer?",
+    "type": "pun",
+    "rating": 5
+   },
+   "PIPER": {
+    "clue": "He must be paid, proverbially",
+    "type": "trivia",
+    "rating": 4
+   },
+   "INSURER": {
+    "clue": "Policy maker?",
+    "type": "pun",
+    "rating": 5
+   },
+   "STARFISH": {
+    "clue": "Five-armed tide pool resident",
+    "type": "definition",
+    "rating": 3
+   },
+   "OFFSPRING": {
+    "clue": "Next generation, collectively",
+    "type": "definition",
+    "rating": 2
+   }
+  },
+  "critique": {
+   "weakest_clue": "OFFSPRING (\"Next generation, collectively\") is a plain definition; I dropped the better \"Issue for parents?\" because the decoy PARENTING half-fits it.",
+   "weakest_word": "INSURER: a dull word rescued only by its pun clue.",
+   "notes": "Two \"?\" puns in a row risk feeling samey. The SPR tile appears twice (SPRINTER, OFFSPRING), a nice shared anchor."
+  }
+ },
+ "c004": {
+  "theme": "Rocks & Ranks",
+  "clues": {
+   "REINDEER": {
+    "clue": "Comet or Cupid",
+    "type": "example",
+    "rating": 5
+   },
+   "SEDIMENT": {
+    "clue": "It settles at the bottom",
+    "type": "definition",
+    "rating": 3
+   },
+   "COVER": {
+    "clue": "Band's borrowed song",
+    "type": "misdirection",
+    "rating": 4
+   },
+   "ATTACKING": {
+    "clue": "Going on the offensive",
+    "type": "definition",
+    "rating": 3
+   },
+   "SERGEANT": {
+    "clue": "Pepper's rank",
+    "type": "trivia",
+    "rating": 4
+   },
+   "SCEPTER": {
+    "clue": "Royal handful?",
+    "type": "pun",
+    "rating": 4
+   },
+   "ASTEROID": {
+    "clue": "Rock in a belt",
+    "type": "misdirection",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "weakest_clue": "ATTACKING: straight definition of a bland participle.",
+   "weakest_word": "ATTACKING (inflected, nothing to play with); COVER is short and only 2 tiles.",
+   "notes": "\"Comet or Cupid\" sits next to ASTEROID on purpose: the solver's first thought is astronomy. SCEPTER uses the American spelling."
+  }
+ },
+ "c005": {
+  "theme": "After Dark",
+  "clues": {
+   "TWILIGHT": {
+    "clue": "Zone before dark?",
+    "type": "pun",
+    "rating": 4
+   },
+   "UNANSWERED": {
+    "clue": "Like a call that rings out",
+    "type": "definition",
+    "rating": 3
+   },
+   "INTERACT": {
+    "clue": "Do more than lurk",
+    "type": "misdirection",
+    "rating": 3
+   },
+   "ABSENT": {
+    "clue": "Missing class, say",
+    "type": "misdirection",
+    "rating": 4
+   },
+   "STRANGER": {
+    "clue": "Danger's rhyming partner, to kids",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "MERINGUE": {
+    "clue": "Lemon pie's fluffy crown",
+    "type": "evocative",
+    "rating": 4
+   },
+   "RESISTANT": {
+    "clue": "Water-___ (almost waterproof)",
+    "type": "fill-in",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "weakest_clue": "RESISTANT: the fill-in is serviceable, not clever, and \"waterproof\" does a lot of the work.",
+   "weakest_word": "UNANSWERED: 10 letters split 2-3-3-2, long and a little clinical.",
+   "notes": "\"Missing class\" should read as \"lacking style\" first. Decoys RESISTING / RESISTED / RANGER / TWISTER make this pool busy."
+  }
+ },
+ "c006": {
+  "theme": "Cats and Dogs",
+  "clues": {
+   "RAINING": {
+    "clue": "Coming down in buckets",
+    "type": "evocative",
+    "rating": 3
+   },
+   "STANDOFF": {
+    "clue": "Nobody blinks in one",
+    "type": "misdirection",
+    "rating": 4
+   },
+   "CHUCKLE": {
+    "clue": "Polite response to a dad joke",
+    "type": "evocative",
+    "rating": 4
+   },
+   "TRINKET": {
+    "clue": "Souvenir shop bauble",
+    "type": "definition",
+    "rating": 3
+   },
+   "REMINDER": {
+    "clue": "String around a finger, e.g.",
+    "type": "example",
+    "rating": 4
+   },
+   "UNDERWENT": {
+    "clue": "Endured, as surgery",
+    "type": "definition",
+    "rating": 2
+   },
+   "DEFEND": {
+    "clue": "Stick up for",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "weakest_clue": "UNDERWENT (\"Endured, as surgery\") is the flattest clue in the batch.",
+   "weakest_word": "UNDERWENT: an irregular past tense is no fun to clue or to find.",
+   "notes": "The theme label is a deliberate nudge toward RAINING; I dropped the fill-in \"___ cats and dogs\" because the sub-word RAIN (RA+IN) completes it too. Tiles IND and END/ENT/AND are nicely confusable."
+  }
+ },
+ "c007": {
+  "theme": "Waiting Room",
+  "clues": {
+   "CONVERT": {
+    "clue": "Turn dollars into euros, say",
+    "type": "example",
+    "rating": 3
+   },
+   "PATIENT": {
+    "clue": "Calm sort in a waiting room?",
+    "type": "pun",
+    "rating": 4
+   },
+   "WONDERING": {
+    "clue": "Lost in a what-if",
+    "type": "evocative",
+    "rating": 3
+   },
+   "SEMESTER": {
+    "clue": "Half a school year",
+    "type": "definition",
+    "rating": 3
+   },
+   "INNOCENT": {
+    "clue": "Jury's happy ending",
+    "type": "misdirection",
+    "rating": 4
+   },
+   "COMMERCIAL": {
+    "clue": "Break in the action?",
+    "type": "pun",
+    "rating": 5
+   },
+   "SILVER": {
+    "clue": "Second-place finish?",
+    "type": "pun",
+    "rating": 5
+   }
+  },
+  "critique": {
+   "weakest_clue": "SEMESTER (\"Half a school year\") is a dictionary definition.",
+   "weakest_word": "WONDERING: inflected filler; CONVERT is fine but colourless.",
+   "notes": "Three \"?\" clues is one too many for a single round. PATIENT's clue leans on both senses of the word, which some solvers find too easy."
+  }
+ },
+ "c008": {
+  "theme": "Slow and Steady",
+  "clues": {
+   "TORTOISE": {
+    "clue": "Slow and steady winner",
+    "type": "trivia",
+    "rating": 4
+   },
+   "RECEIVER": {
+    "clue": "Catcher on a football field",
+    "type": "misdirection",
+    "rating": 4
+   },
+   "TEASER": {
+    "clue": "Trailer before the trailer",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "MONSOON": {
+    "clue": "Season that really pours",
+    "type": "definition",
+    "rating": 3
+   },
+   "UNDERCOVER": {
+    "clue": "Like a spy in bed?",
+    "type": "pun",
+    "rating": 4
+   },
+   "PRESENTED": {
+    "clue": "Handed over, as a trophy",
+    "type": "definition",
+    "rating": 2
+   },
+   "PAINTER": {
+    "clue": "Coat applier?",
+    "type": "pun",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "weakest_clue": "PRESENTED (\"Handed over, as a trophy\"): flat, and the word gives nothing to work with.",
+   "weakest_word": "PRESENTED (inflected, dull). UNDERCOVER's tiles UN-DE-RCO-VER include the ugly 3-consonant-ish RCO.",
+   "notes": "Theme label quotes the TORTOISE clue. Many 2-letter tiles here (8 of 21), so it plays a bit easier than the score suggests."
+  }
+ },
+ "c009": {
+  "theme": "Indoor Flights",
+  "clues": {
+   "STAIRCASE": {
+    "clue": "Flight indoors",
+    "type": "misdirection",
+    "rating": 5
+   },
+   "INSTALLING": {
+    "clue": "Putting in, as software",
+    "type": "definition",
+    "rating": 2
+   },
+   "INFLATION": {
+    "clue": "It makes balloons and prices rise",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "CONFIDENT": {
+    "clue": "Not second-guessing",
+    "type": "definition",
+    "rating": 3
+   },
+   "SUITCASE": {
+    "clue": "Carousel rider?",
+    "type": "pun",
+    "rating": 5
+   },
+   "STRING": {
+    "clue": "Yo-yo's lifeline",
+    "type": "evocative",
+    "rating": 4
+   },
+   "TEACHER": {
+    "clue": "Apple recipient, traditionally",
+    "type": "misdirection",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "weakest_clue": "INSTALLING (\"Putting in, as software\").",
+   "weakest_word": "INSTALLING: inflected and technical. STAIRCASE and SUITCASE both end in tile ASE, which is the point, but they also rhyme visually, which makes the pair fall together.",
+   "notes": "Best structural round for shared tiles (ASE twice, STA/STR/ST, ING twice). Theme label hints at STAIRCASE."
+  }
+ },
+ "c010": {
+  "theme": "Clip and Save",
+  "clues": {
+   "COUPON": {
+    "clue": "It's clipped to save",
+    "type": "definition",
+    "rating": 3
+   },
+   "MAYONNAISE": {
+    "clue": "BLT spread",
+    "type": "definition",
+    "rating": 3
+   },
+   "FORECAST": {
+    "clue": "Meteorologist's best guess",
+    "type": "evocative",
+    "rating": 4
+   },
+   "CONVINCE": {
+    "clue": "Win over",
+    "type": "definition",
+    "rating": 3
+   },
+   "COMPONENT": {
+    "clue": "Stereo part",
+    "type": "definition",
+    "rating": 2
+   },
+   "CURTAIN": {
+    "clue": "It rises on opening night",
+    "type": "misdirection",
+    "rating": 4
+   },
+   "RESIDING": {
+    "clue": "Dwelling, as a verb",
+    "type": "wordplay",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "weakest_clue": "COMPONENT (\"Stereo part\") is vague; could be many things.",
+   "weakest_word": "RESIDING and COMPONENT are both dry.",
+   "notes": "Weakest clue set I wrote (five definitions); by taste I would drop it before any of the rounds cut on score, so I did.",
+   "verdict": "cut",
+   "verdict_reason": "Editor override: five flat definitions; the formula kept it on tile structure alone."
+  }
+ },
+ "c012": {
+  "theme": "Last Call",
+  "clues": {
+   "PREACHING": {
+    "clue": "Wasting a sermon on the choir",
+    "type": "evocative",
+    "rating": 4
+   },
+   "BARTENDER": {
+    "clue": "One who knows your usual",
+    "type": "evocative",
+    "rating": 5
+   },
+   "PERIODIC": {
+    "clue": "Like Mendeleev's table",
+    "type": "trivia",
+    "rating": 4
+   },
+   "TORRENT": {
+    "clue": "Downpour, or download",
+    "type": "wordplay",
+    "rating": 5
+   },
+   "SEPARATELY": {
+    "clue": "How exes arrive",
+    "type": "misdirection",
+    "rating": 4
+   },
+   "OYSTER": {
+    "clue": "The world, to an optimist",
+    "type": "wordplay",
+    "rating": 5
+   },
+   "PROCEED": {
+    "clue": "Green light's message",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "weakest_clue": "PROCEED (\"Green light's message\") is fine but ordinary.",
+   "weakest_word": "SEPARATELY: an adverb, 10 letters in 4 tiles (SE-PAR-ATE-LY); the clue carries it.",
+   "notes": "My favourite clue set. OYSTER's clue needs the idiom \"the world is your oyster\"; solvers who miss it still get it from OYS. PREACHING lost its fill-in clue (\"___ to the choir\") because the sub-word PREACH (PRE+ACH) completes the blank too."
+  }
+ },
+ "c013": {
+  "theme": "Keys & Miles",
+  "clues": {
+   "JANITOR": {
+    "clue": "Keeper of many keys",
+    "type": "evocative",
+    "rating": 4
+   },
+   "SCALING": {
+    "clue": "Doing a fishmonger's job",
+    "type": "misdirection",
+    "rating": 4
+   },
+   "HONEYMOON": {
+    "clue": "Trip for two after the I do's",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "ADJACENT": {
+    "clue": "Right next door",
+    "type": "definition",
+    "rating": 3
+   },
+   "INTERSTATE": {
+    "clue": "I-95, for one",
+    "type": "example",
+    "rating": 4
+   },
+   "INVITE": {
+    "clue": "Ask to the party",
+    "type": "definition",
+    "rating": 3
+   },
+   "MARATHON": {
+    "clue": "Binge-watching session",
+    "type": "misdirection",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "weakest_clue": "INVITE (\"Ask to the party\").",
+   "weakest_word": "SCALING: inflected, and the clue's fish sense may feel like a stretch to some.",
+   "notes": "HON appears twice (HONEYMOON, MARATHON) and INT/INV are near-twins. HONEYMOON's tile EYM is an ugly anchor."
+  }
+ },
+ "c014": {
+  "theme": "Crowns & Sparkle",
+  "clues": {
+   "LAVENDER": {
+    "clue": "Sachet scent",
+    "type": "definition",
+    "rating": 3
+   },
+   "MOOSE": {
+    "clue": "Bullwinkle, for one",
+    "type": "example",
+    "rating": 4
+   },
+   "GLITTER": {
+    "clue": "Craft sparkle you never fully vacuum",
+    "type": "evocative",
+    "rating": 5
+   },
+   "DENTIST": {
+    "clue": "Crown specialist?",
+    "type": "pun",
+    "rating": 5
+   },
+   "CONTENDER": {
+    "clue": "\"I coulda been a ___\"",
+    "type": "fill-in",
+    "rating": 4
+   },
+   "INTERNAL": {
+    "clue": "Kind of medicine or memo",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "REVEREND": {
+    "clue": "Title at the pulpit",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "weakest_clue": "LAVENDER (\"Sachet scent\"): accurate, but \"sachet\" is not an everyday word.",
+   "weakest_word": "INTERNAL: plain adjective. MOOSE is only 5 letters (MOO+SE).",
+   "notes": "DER appears twice (LAVENDER, CONTENDER) and VEN/DEN/TEN/VER/TER are all one letter apart, so this pool is properly slippery."
+  }
+ },
+ "c015": {
+  "theme": "X Marks It",
+  "clues": {
+   "IMPENDING": {
+    "clue": "About to happen, like doom",
+    "type": "definition",
+    "rating": 3
+   },
+   "THIMBLE": {
+    "clue": "Finger armor for sewing",
+    "type": "evocative",
+    "rating": 4
+   },
+   "PLASTER": {
+    "clue": "Cast material",
+    "type": "misdirection",
+    "rating": 4
+   },
+   "INTERVIEW": {
+    "clue": "Hot seat for a job seeker",
+    "type": "evocative",
+    "rating": 3
+   },
+   "INHERENT": {
+    "clue": "Built-in",
+    "type": "definition",
+    "rating": 3
+   },
+   "TREASURE": {
+    "clue": "X marks its spot",
+    "type": "trivia",
+    "rating": 4
+   },
+   "INLAND": {
+    "clue": "Far from the beach",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "weakest_clue": "INHERENT (\"Built-in\"): correct, colourless.",
+   "weakest_word": "INHERENT and IMPENDING: two abstract IN-/IM- adjectives in one round.",
+   "notes": "Four answers start with IN-/IM- tiles (IMP, INT, INH, INL): good ambiguity, but the first tiles are one letter apart rather than shared, so it is more fiddly than tricky."
+  }
+ },
+ "c017": {
+  "theme": "Grapevine",
+  "clues": {
+   "SUPPORTER": {
+    "clue": "Fan in the stands",
+    "type": "misdirection",
+    "rating": 3
+   },
+   "COMPOST": {
+    "clue": "Banana peels' second act",
+    "type": "evocative",
+    "rating": 5
+   },
+   "PROPOSAL": {
+    "clue": "It may end with a ring",
+    "type": "misdirection",
+    "rating": 4
+   },
+   "PROVOKING": {
+    "clue": "Poking the bear",
+    "type": "evocative",
+    "rating": 4
+   },
+   "GOSSIP": {
+    "clue": "It travels by grapevine",
+    "type": "evocative",
+    "rating": 4
+   },
+   "CLUSTER": {
+    "clue": "Tight bunch",
+    "type": "definition",
+    "rating": 2
+   },
+   "INSTRUCTOR": {
+    "clue": "Yoga class leader",
+    "type": "example",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "weakest_clue": "CLUSTER (\"Tight bunch\").",
+   "weakest_word": "INSTRUCTOR: long and businesslike; PROVOKING is inflected.",
+   "notes": "PRO twice and POR/POS/PO near-twins. Theme label repeats a word from the GOSSIP clue."
+  }
+ },
+ "c018": {
+  "theme": "Half Horse",
+  "clues": {
+   "STALLION": {
+    "clue": "Mustang, maybe (not the Ford)",
+    "type": "misdirection",
+    "rating": 4
+   },
+   "TRAVELER": {
+    "clue": "Passport stamp collector",
+    "type": "evocative",
+    "rating": 4
+   },
+   "DRAGON": {
+    "clue": "Hoarder with wings?",
+    "type": "pun",
+    "rating": 4
+   },
+   "INVERSE": {
+    "clue": "Opposite, in math class",
+    "type": "definition",
+    "rating": 3
+   },
+   "CENTAUR": {
+    "clue": "Half man, half horse",
+    "type": "definition",
+    "rating": 3
+   },
+   "CONFUSED": {
+    "clue": "All mixed up",
+    "type": "definition",
+    "rating": 3
+   },
+   "ACCORDION": {
+    "clue": "Polka band squeeze?",
+    "type": "pun",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "weakest_clue": "CONFUSED (\"All mixed up\"): flat, though it winks at the tile jumble.",
+   "weakest_word": "INVERSE: schoolroom word. CENTAUR's clue is a definition and STALLION makes \"horse\" a visible cross-hint.",
+   "notes": "ION twice (STALLION, ACCORDION). Decoy CONFUSION (CON+FUS+ION) is a real trap for the CONFUSED clue; the clue's adjective form is what rules it out."
+  }
+ },
+ "c021": {
+  "theme": "Counting Sheep",
+  "clues": {
+   "COMPLAINT": {
+    "clue": "Customer service beef",
+    "type": "misdirection",
+    "rating": 4
+   },
+   "INFRARED": {
+    "clue": "TV remote's invisible beam",
+    "type": "evocative",
+    "rating": 4
+   },
+   "WINTER": {
+    "clue": "When bears sleep in",
+    "type": "evocative",
+    "rating": 4
+   },
+   "DELIVER": {
+    "clue": "Come through, with pizza?",
+    "type": "pun",
+    "rating": 4
+   },
+   "INSOMNIA": {
+    "clue": "Counting sheep's cause",
+    "type": "evocative",
+    "rating": 4
+   },
+   "COMBINING": {
+    "clue": "Mixing together",
+    "type": "definition",
+    "rating": 2
+   },
+   "PASTORAL": {
+    "clue": "Idyllically rural",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "weakest_clue": "COMBINING (\"Mixing together\").",
+   "weakest_word": "COMBINING: inflected filler. INSOMNIA's tile SOM/NIA are both anchors, so it falls quickly.",
+   "notes": "I changed COMPLAINT's clue from bare \"Beef\" because the decoy COMPLAIN (COM+PLA+IN) would have fit it as a verb. COM twice."
+  }
+ },
+ "c027": {
+  "theme": "Strikes Twice",
+  "clues": {
+   "COUNTY": {
+    "clue": "Fair setting",
+    "type": "misdirection",
+    "rating": 5
+   },
+   "DISTANT": {
+    "clue": "Like some relatives and thunder",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "SPATULA": {
+    "clue": "Pancake flipper",
+    "type": "definition",
+    "rating": 3
+   },
+   "STAINLESS": {
+    "clue": "Spotless, like some steel",
+    "type": "definition",
+    "rating": 3
+   },
+   "LIGHTNING": {
+    "clue": "It never strikes twice, supposedly",
+    "type": "trivia",
+    "rating": 4
+   },
+   "RELENTLESS": {
+    "clue": "Never letting up",
+    "type": "definition",
+    "rating": 3
+   },
+   "TENTACLE": {
+    "clue": "Arm with suckers",
+    "type": "misdirection",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "weakest_clue": "SPATULA (\"Pancake flipper\") is the obvious clue.",
+   "weakest_word": "RELENTLESS: tiles RE-LE-NTL-ESS; NTL is a vowel-less giveaway. STAINLESS shares ESS with it (intended) but also the -LESS ending, which is a bit repetitive.",
+   "notes": "Thunder in one clue and LIGHTNING as another answer is a small cross-hint. Theme label quotes the LIGHTNING clue."
+  }
+ },
+ "c034": {
+  "theme": "Brass & Paper",
+  "clues": {
+   "RIDER": {
+    "clue": "Contract add-on",
+    "type": "misdirection",
+    "rating": 4
+   },
+   "CONFUSION": {
+    "clue": "Fog of bewilderment",
+    "type": "evocative",
+    "rating": 3
+   },
+   "CONFETTI": {
+    "clue": "Celebration litter",
+    "type": "evocative",
+    "rating": 4
+   },
+   "RESTORE": {
+    "clue": "Bring back to glory",
+    "type": "definition",
+    "rating": 3
+   },
+   "TROMBONE": {
+    "clue": "Brass with a slide",
+    "type": "misdirection",
+    "rating": 4
+   },
+   "TRANSPORT": {
+    "clue": "Carry, or carry away",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "VERDICT": {
+    "clue": "Jury's last word",
+    "type": "evocative",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "weakest_clue": "CONFUSION (\"Fog of bewilderment\") is wordy for what it does.",
+   "weakest_word": "RIDER: 5 letters, 2 tiles; CONFUSION is abstract.",
+   "notes": "CON twice, TRO/TRA twins, and the decoy CONTRACT (CON+TRA+CT) is sitting in the pool while RIDER's clue says \"Contract\"."
+  }
+ },
+ "c035": {
+  "theme": "Out of This World",
+  "clues": {
+   "TRIVIA": {
+    "clue": "Pub quiz fodder",
+    "type": "definition",
+    "rating": 3
+   },
+   "ASTRONAUT": {
+    "clue": "Commuter to the space station",
+    "type": "misdirection",
+    "rating": 4
+   },
+   "REFINERY": {
+    "clue": "Where crude gets polished?",
+    "type": "pun",
+    "rating": 5
+   },
+   "RENDERING": {
+    "clue": "Architect's 3D preview",
+    "type": "definition",
+    "rating": 3
+   },
+   "TRANSFORM": {
+    "clue": "Go from Clark Kent to Superman",
+    "type": "example",
+    "rating": 4
+   },
+   "COASTER": {
+    "clue": "Ring preventer on a table",
+    "type": "misdirection",
+    "rating": 4
+   },
+   "STAPLER": {
+    "clue": "Desk item that bites paper",
+    "type": "evocative",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "weakest_clue": "RENDERING (\"Architect's 3D preview\"): narrow sense of the word.",
+   "weakest_word": "RENDERING: inflected-looking and technical.",
+   "notes": "AST twice (ASTRONAUT, COASTER); TRI/TRA and REF/REN twins. TRANSFORM's tiles TRA-NSF-ORM contain the ugly NSF."
+  }
+ },
+ "c038": {
+  "theme": "Called It",
+  "clues": {
+   "REWRITE": {
+    "clue": "Second draft",
+    "type": "definition",
+    "rating": 3
+   },
+   "TRICYCLE": {
+    "clue": "Ride with a third wheel?",
+    "type": "pun",
+    "rating": 4
+   },
+   "MECHANIC": {
+    "clue": "One who works under the hood",
+    "type": "definition",
+    "rating": 3
+   },
+   "CRICKET": {
+    "clue": "Chirper, or game with wickets",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "TITANIC": {
+    "clue": "Iceberg's famous victim",
+    "type": "trivia",
+    "rating": 4
+   },
+   "PREDICTED": {
+    "clue": "Called it",
+    "type": "misdirection",
+    "rating": 5
+   },
+   "BUSTLE": {
+    "clue": "Hustle's rhyming partner",
+    "type": "wordplay",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "weakest_clue": "MECHANIC (\"One who works under the hood\").",
+   "weakest_word": "PREDICTED: inflected, but it earns its place through the clue.",
+   "notes": "NIC twice (MECHANIC, TITANIC), TRI/CRI twins, and lots of short real-word decoys (TICKET, TICKLE, TACKLE, TRICKLE). Seven 2-letter tiles."
+  }
+ },
+ "c040": {
+  "theme": "Not Ha-Ha",
+  "clues": {
+   "PECULIAR": {
+    "clue": "Funny, but not ha-ha",
+    "type": "wordplay",
+    "rating": 5
+   },
+   "CANTER": {
+    "clue": "Gait between trot and gallop",
+    "type": "definition",
+    "rating": 3
+   },
+   "PUNCHLINE": {
+    "clue": "Joke's payoff",
+    "type": "definition",
+    "rating": 4
+   },
+   "INTENSE": {
+    "clue": "Extreme, as heat or a stare",
+    "type": "definition",
+    "rating": 3
+   },
+   "REASONING": {
+    "clue": "Thinking it through",
+    "type": "definition",
+    "rating": 3
+   },
+   "CHEAPER": {
+    "clue": "Less dear",
+    "type": "misdirection",
+    "rating": 4
+   },
+   "RECTANGLE": {
+    "clue": "Dollar bill's shape",
+    "type": "example",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "weakest_clue": "REASONING (\"Thinking it through\"): reworded so the decoy REASON does not also fit, at the cost of some life.",
+   "weakest_word": "REASONING: abstract; INTENSE is plain.",
+   "notes": "PUNCHLINE's CHL tile is a dead giveaway. \"Funny\" and \"Joke\" in neighbouring clues overlap in flavour. Theme label quotes the PECULIAR clue."
+  }
+ },
+ "c041": {
+  "theme": "Smoothie Operator",
+  "clues": {
+   "THANKFUL": {
+    "clue": "In a November mood?",
+    "type": "pun",
+    "rating": 4
+   },
+   "MASTERMIND": {
+    "clue": "Brains of the heist",
+    "type": "evocative",
+    "rating": 4
+   },
+   "WONDERFUL": {
+    "clue": "\"It's a ___ Life\"",
+    "type": "fill-in",
+    "rating": 4
+   },
+   "WAITER": {
+    "clue": "One taking orders, and tips",
+    "type": "misdirection",
+    "rating": 4
+   },
+   "DECLINING": {
+    "clue": "Saying no, or going downhill",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "BLENDER": {
+    "clue": "Smoothie operator?",
+    "type": "pun",
+    "rating": 5
+   },
+   "SPLINTER": {
+    "clue": "Tiny wooden intruder",
+    "type": "evocative",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "weakest_clue": "THANKFUL (\"In a November mood?\") assumes US Thanksgiving.",
+   "weakest_word": "DECLINING: inflected; MASTERMIND's tiles MAS-TE-RM-IND are choppy.",
+   "notes": "FUL twice (THANKFUL, WONDERFUL) and TER twice (WAITER, SPLINTER); decoys MASTERFUL, WONDERING, BLINDING. Theme label quotes the BLENDER clue."
+  }
+ },
+ "c046": {
+  "theme": "Up a Sleeve",
+  "clues": {
+   "PRINTER": {
+    "clue": "It jams at deadline",
+    "type": "evocative",
+    "rating": 4
+   },
+   "OPTICAL": {
+    "clue": "Kind of illusion",
+    "type": "definition",
+    "rating": 3
+   },
+   "WILDERNESS": {
+    "clue": "Where no roads go",
+    "type": "evocative",
+    "rating": 4
+   },
+   "MAGNET": {
+    "clue": "Fridge art holder",
+    "type": "evocative",
+    "rating": 4
+   },
+   "MAGICIAN": {
+    "clue": "Hat-trick performer?",
+    "type": "pun",
+    "rating": 5
+   },
+   "BATTALION": {
+    "clue": "Army unit of several companies",
+    "type": "trivia",
+    "rating": 3
+   },
+   "WANDERING": {
+    "clue": "Like an idle mind or a minstrel",
+    "type": "wordplay",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "weakest_clue": "BATTALION (\"Army unit of several companies\") is an encyclopedia entry.",
+   "weakest_word": "BATTALION: the least friendly word here.",
+   "notes": "MAG twice and IC twice, so MAGIC / MAGICAL / MAGNETIC are all spellable decoys. WILDERNESS splits WIL-DE-RN-ESS; RN is harsh."
+  }
+ },
+ "c047": {
+  "theme": "Tilting at Giants",
+  "clues": {
+   "BELFRY": {
+    "clue": "Where bats hang, proverbially",
+    "type": "trivia",
+    "rating": 4
+   },
+   "ENVELOPE": {
+    "clue": "The daring push it",
+    "type": "wordplay",
+    "rating": 5
+   },
+   "REPORTEDLY": {
+    "clue": "According to sources",
+    "type": "definition",
+    "rating": 3
+   },
+   "TURNOVER": {
+    "clue": "Apple pastry, or fumble",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "WINDMILL": {
+    "clue": "Quixote's giant, really",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CATERING": {
+    "clue": "Feeding the wedding",
+    "type": "evocative",
+    "rating": 3
+   },
+   "VOLCANO": {
+    "clue": "Mountain with a temper",
+    "type": "evocative",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "weakest_clue": "REPORTEDLY (\"According to sources\").",
+   "weakest_word": "REPORTEDLY: an adverb; BELFRY may be unfamiliar to younger solvers.",
+   "notes": "Structurally the least tangled round I clued: few shared tiles, several anchors (NDM, LCA, FRY). It was a candidate for the words and clues alone."
+  }
+ },
+ "c050": {
+  "theme": "Shaken or Stirred",
+  "clues": {
+   "APPALLING": {
+    "clue": "Shockingly bad",
+    "type": "definition",
+    "rating": 3
+   },
+   "MARMALADE": {
+    "clue": "Paddington's sandwich filling",
+    "type": "trivia",
+    "rating": 4
+   },
+   "COCKTAIL": {
+    "clue": "Something shaken or stirred",
+    "type": "evocative",
+    "rating": 4
+   },
+   "MARTIAL": {
+    "clue": "Kind of art or law",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "REHEARSAL": {
+    "clue": "Dress ___",
+    "type": "fill-in",
+    "rating": 4
+   },
+   "SHALLOW": {
+    "clue": "Like the kiddie end",
+    "type": "misdirection",
+    "rating": 4
+   },
+   "RENEW": {
+    "clue": "Extend, as a library loan",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "weakest_clue": "APPALLING (\"Shockingly bad\").",
+   "weakest_word": "RENEW: 5 letters, 2 tiles, plain. COCKTAIL's CKT tile is an instant anchor.",
+   "notes": "ALL twice and MAR twice. \"Shaken or stirred\" will make people look for MARTINI, and MAR+TI is right there (MARTIAL). Theme label quotes that clue."
+  }
+ }
+}

@@ -1,0 +1,2 @@
+# Human-feedback knob: answers the editor never wants to see (dull, awkward,
+# too abstract, hard to clue well). Lowercase, one per line. Add freely.

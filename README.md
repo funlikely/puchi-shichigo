@@ -10,8 +10,8 @@ A Seven Little Words style puzzle game built with React Native / Expo.
 
 ## Tech stack
 
-- [Expo](https://expo.dev) (SDK 56) with the blank TypeScript template
-- React Native 0.85 / React 19
+- [Expo](https://expo.dev) (SDK 58) with the blank TypeScript template
+- React Native 0.88 / React 19.3
 - `react-native-web` for browser support
 - TypeScript 6
 

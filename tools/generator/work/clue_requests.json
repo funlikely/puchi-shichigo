@@ -1,0 +1,5532 @@
+[
+ {
+  "id": "c001",
+  "answers": [
+   {
+    "answer": "SPRINTER",
+    "tiles": [
+     "SPR",
+     "INT",
+     "ER"
+    ]
+   },
+   {
+    "answer": "PARALLEL",
+    "tiles": [
+     "PAR",
+     "AL",
+     "LEL"
+    ]
+   },
+   {
+    "answer": "INVENTORY",
+    "tiles": [
+     "INV",
+     "ENT",
+     "ORY"
+    ]
+   },
+   {
+    "answer": "PIPER",
+    "tiles": [
+     "PI",
+     "PER"
+    ]
+   },
+   {
+    "answer": "INSURER",
+    "tiles": [
+     "IN",
+     "SU",
+     "RER"
+    ]
+   },
+   {
+    "answer": "STARFISH",
+    "tiles": [
+     "ST",
+     "ARF",
+     "ISH"
+    ]
+   },
+   {
+    "answer": "OFFSPRING",
+    "tiles": [
+     "OFF",
+     "SPR",
+     "ING"
+    ]
+   }
+  ],
+  "decoys": [
+   "STORY",
+   "SUPER",
+   "OFFER",
+   "ENTER",
+   "OFFERING",
+   "PARENT",
+   "ENTERING",
+   "INTENT",
+   "PARISH",
+   "PARENTING",
+   "PIER",
+   "STING",
+   "PARENTAL",
+   "STINT",
+   "SUING",
+   "PERISH",
+   "INVENTING",
+   "SPRINTING",
+   "STINGER",
+   "SPRING",
+   "INTER",
+   "SPRINT",
+   "INVENT"
+  ],
+  "theme_hint": "",
+  "structure": 71.6
+ },
+ {
+  "id": "c002",
+  "answers": [
+   {
+    "answer": "DEADLOCK",
+    "tiles": [
+     "DE",
+     "ADL",
+     "OCK"
+    ]
+   },
+   {
+    "answer": "ANTHEM",
+    "tiles": [
+     "ANT",
+     "HEM"
+    ]
+   },
+   {
+    "answer": "INTIMATE",
+    "tiles": [
+     "IN",
+     "TIM",
+     "ATE"
+    ]
+   },
+   {
+    "answer": "INTRICATE",
+    "tiles": [
+     "INT",
+     "RIC",
+     "ATE"
+    ]
+   },
+   {
+    "answer": "SHERBET",
+    "tiles": [
+     "SH",
+     "ER",
+     "BET"
+    ]
+   },
+   {
+    "answer": "INTERNALLY",
+    "tiles": [
+     "INT",
+     "ERN",
+     "AL",
+     "LY"
+    ]
+   },
+   {
+    "answer": "STRINGENT",
+    "tiles": [
+     "STR",
+     "ING",
+     "ENT"
+    ]
+   }
+  ],
+  "decoys": [
+   "DEAL",
+   "ENTER",
+   "LYING",
+   "DEALING",
+   "SHOCK",
+   "ENTERING",
+   "TIMING",
+   "INTENT",
+   "DEALER",
+   "INTER",
+   "DEER",
+   "SHOCKING",
+   "SHINING",
+   "SHIN",
+   "TIMER",
+   "LYRIC",
+   "LYRICAL",
+   "SHOCKER",
+   "STRINGER",
+   "INTENTLY",
+   "INTERNAL",
+   "STRING",
+   "ALLY",
+   "INTERN"
+  ],
+  "theme_hint": "",
+  "structure": 70.6
+ },
+ {
+  "id": "c003",
+  "answers": [
+   {
+    "answer": "COHERENT",
+    "tiles": [
+     "CO",
+     "HER",
+     "ENT"
+    ]
+   },
+   {
+    "answer": "RESIST",
+    "tiles": [
+     "RES",
+     "IST"
+    ]
+   },
+   {
+    "answer": "ENTIRETY",
+    "tiles": [
+     "EN",
+     "TIR",
+     "ETY"
+    ]
+   },
+   {
+    "answer": "ADMIRAL",
+    "tiles": [
+     "AD",
+     "MIR",
+     "AL"
+    ]
+   },
+   {
+    "answer": "INTERVAL",
+    "tiles": [
+     "INT",
+     "ER",
+     "VAL"
+    ]
+   },
+   {
+    "answer": "RECEIPT",
+    "tiles": [
+     "RE",
+     "CE",
+     "IPT"
+    ]
+   },
+   {
+    "answer": "EXTENDING",
+    "tiles": [
+     "EXT",
+     "END",
+     "ING"
+    ]
+   }
+  ],
+  "decoys": [
+   "REAL",
+   "READ",
+   "READING",
+   "ENTER",
+   "CORE",
+   "COAL",
+   "EXTENT",
+   "ENTERING",
+   "READER",
+   "INTENT",
+   "INTEND",
+   "RETIRING",
+   "CEREAL",
+   "RESISTING",
+   "CORES",
+   "INTENDING",
+   "ENCORE",
+   "RESENT",
+   "TIRING",
+   "ADMIRING",
+   "REALIST",
+   "ADMIRER",
+   "ADHERING",
+   "VALENCE",
+   "ENDING",
+   "EXTEND",
+   "INTER"
+  ],
+  "theme_hint": "",
+  "structure": 70.3
+ },
+ {
+  "id": "c004",
+  "answers": [
+   {
+    "answer": "REINDEER",
+    "tiles": [
+     "RE",
+     "IND",
+     "EER"
+    ]
+   },
+   {
+    "answer": "SEDIMENT",
+    "tiles": [
+     "SE",
+     "DIM",
+     "ENT"
+    ]
+   },
+   {
+    "answer": "COVER",
+    "tiles": [
+     "CO",
+     "VER"
+    ]
+   },
+   {
+    "answer": "ATTACKING",
+    "tiles": [
+     "ATT",
+     "ACK",
+     "ING"
+    ]
+   },
+   {
+    "answer": "SERGEANT",
+    "tiles": [
+     "SER",
+     "GEA",
+     "NT"
+    ]
+   },
+   {
+    "answer": "SCEPTER",
+    "tiles": [
+     "SC",
+     "EPT",
+     "ER"
+    ]
+   },
+   {
+    "answer": "ASTEROID",
+    "tiles": [
+     "AS",
+     "TER",
+     "OID"
+    ]
+   }
+  ],
+  "decoys": [
+   "SENT",
+   "CONTENT",
+   "ENTER",
+   "CORE",
+   "RENT",
+   "SERVER",
+   "COVERING",
+   "ENTERING",
+   "REVERSE",
+   "RECOVER",
+   "VERSE",
+   "SEAS",
+   "SCENT",
+   "COASTER",
+   "RENTING",
+   "ATTACKER",
+   "SCATTER",
+   "RESENT",
+   "CONT",
+   "ERAS",
+   "SEVER",
+   "ERASING",
+   "ASSENT",
+   "SEER",
+   "ATTACK"
+  ],
+  "theme_hint": "",
+  "structure": 70.2
+ },
+ {
+  "id": "c005",
+  "answers": [
+   {
+    "answer": "TWILIGHT",
+    "tiles": [
+     "TWI",
+     "LI",
+     "GHT"
+    ]
+   },
+   {
+    "answer": "UNANSWERED",
+    "tiles": [
+     "UN",
+     "ANS",
+     "WER",
+     "ED"
+    ]
+   },
+   {
+    "answer": "INTERACT",
+    "tiles": [
+     "INT",
+     "ER",
+     "ACT"
+    ]
+   },
+   {
+    "answer": "ABSENT",
+    "tiles": [
+     "ABS",
+     "ENT"
+    ]
+   },
+   {
+    "answer": "STRANGER",
+    "tiles": [
+     "ST",
+     "RAN",
+     "GER"
+    ]
+   },
+   {
+    "answer": "MERINGUE",
+    "tiles": [
+     "MER",
+     "ING",
+     "UE"
+    ]
+   },
+   {
+    "answer": "RESISTANT",
+    "tiles": [
+     "RES",
+     "IST",
+     "ANT"
+    ]
+   }
+  ],
+  "decoys": [
+   "LIST",
+   "ACTING",
+   "ENTER",
+   "ENTERED",
+   "LISTED",
+   "ENTERING",
+   "LISTING",
+   "LIGHTING",
+   "ACTED",
+   "INTENT",
+   "TWIST",
+   "LIED",
+   "LIGHTER",
+   "ANSWERING",
+   "TWISTED",
+   "MERGER",
+   "STING",
+   "RESISTED",
+   "STINT",
+   "RESISTING",
+   "TWISTING",
+   "RESENT",
+   "STUN",
+   "LIGHTED",
+   "RESENTED",
+   "STABS",
+   "TWISTER",
+   "STINGER",
+   "LIGHT",
+   "ANSWER",
+   "ANSWERED",
+   "RESIST",
+   "INTER",
+   "INTACT",
+   "RANGER"
+  ],
+  "theme_hint": "",
+  "structure": 69.6
+ },
+ {
+  "id": "c006",
+  "answers": [
+   {
+    "answer": "RAINING",
+    "tiles": [
+     "RA",
+     "IN",
+     "ING"
+    ]
+   },
+   {
+    "answer": "STANDOFF",
+    "tiles": [
+     "ST",
+     "AND",
+     "OFF"
+    ]
+   },
+   {
+    "answer": "CHUCKLE",
+    "tiles": [
+     "CHU",
+     "CK",
+     "LE"
+    ]
+   },
+   {
+    "answer": "TRINKET",
+    "tiles": [
+     "TRI",
+     "NK",
+     "ET"
+    ]
+   },
+   {
+    "answer": "REMINDER",
+    "tiles": [
+     "REM",
+     "IND",
+     "ER"
+    ]
+   },
+   {
+    "answer": "UNDERWENT",
+    "tiles": [
+     "UND",
+     "ERW",
+     "ENT"
+    ]
+   },
+   {
+    "answer": "DEFEND",
+    "tiles": [
+     "DEF",
+     "END"
+    ]
+   }
+  ],
+  "decoys": [
+   "UNDER",
+   "OFFER",
+   "STANDING",
+   "ENTER",
+   "ENDING",
+   "OFFERING",
+   "TRICK",
+   "RANK",
+   "ENTERING",
+   "DEFENDING",
+   "RANKING",
+   "STRAIN",
+   "DEFENDER",
+   "DEFINING",
+   "RACK",
+   "STING",
+   "REMINDING",
+   "OFFENDER",
+   "CHUNK",
+   "OFFEND",
+   "LEST",
+   "OFFENDING",
+   "RACKET",
+   "TRICKLE",
+   "DEFER",
+   "RACKING",
+   "TRICKING",
+   "STINGER",
+   "REMAND",
+   "STAND",
+   "RAIN",
+   "REMIND",
+   "CHUCK"
+  ],
+  "theme_hint": "",
+  "structure": 69.5
+ },
+ {
+  "id": "c007",
+  "answers": [
+   {
+    "answer": "CONVERT",
+    "tiles": [
+     "CON",
+     "VE",
+     "RT"
+    ]
+   },
+   {
+    "answer": "PATIENT",
+    "tiles": [
+     "PA",
+     "TI",
+     "ENT"
+    ]
+   },
+   {
+    "answer": "WONDERING",
+    "tiles": [
+     "WON",
+     "DER",
+     "ING"
+    ]
+   },
+   {
+    "answer": "SEMESTER",
+    "tiles": [
+     "SE",
+     "MES",
+     "TER"
+    ]
+   },
+   {
+    "answer": "INNOCENT",
+    "tiles": [
+     "IN",
+     "NOC",
+     "ENT"
+    ]
+   },
+   {
+    "answer": "COMMERCIAL",
+    "tiles": [
+     "COM",
+     "MER",
+     "CI",
+     "AL"
+    ]
+   },
+   {
+    "answer": "SILVER",
+    "tiles": [
+     "SIL",
+     "VER"
+    ]
+   }
+  ],
+  "decoys": [
+   "PART",
+   "TIMES",
+   "COMING",
+   "SEVERAL",
+   "PAIN",
+   "SILENT",
+   "SEAL",
+   "VERSE",
+   "INTER",
+   "ALTER",
+   "INSERT",
+   "INCOMING",
+   "PAINTER",
+   "VEIN",
+   "TIMER",
+   "ALTERING",
+   "CIDER",
+   "CONVERSE",
+   "SEALING",
+   "CONCISE",
+   "INVERSE",
+   "CONVERTER",
+   "PARTING",
+   "PAVE",
+   "SEVER",
+   "VEAL",
+   "ALDER",
+   "WONDER"
+  ],
+  "theme_hint": "",
+  "structure": 69.2
+ },
+ {
+  "id": "c008",
+  "answers": [
+   {
+    "answer": "TORTOISE",
+    "tiles": [
+     "TOR",
+     "TOI",
+     "SE"
+    ]
+   },
+   {
+    "answer": "RECEIVER",
+    "tiles": [
+     "RE",
+     "CEI",
+     "VER"
+    ]
+   },
+   {
+    "answer": "TEASER",
+    "tiles": [
+     "TEA",
+     "SER"
+    ]
+   },
+   {
+    "answer": "MONSOON",
+    "tiles": [
+     "MO",
+     "NS",
+     "OON"
+    ]
+   },
+   {
+    "answer": "UNDERCOVER",
+    "tiles": [
+     "UN",
+     "DE",
+     "RCO",
+     "VER"
+    ]
+   },
+   {
+    "answer": "PRESENTED",
+    "tiles": [
+     "PRE",
+     "SEN",
+     "TED"
+    ]
+   },
+   {
+    "answer": "PAINTER",
+    "tiles": [
+     "PA",
+     "IN",
+     "TER"
+    ]
+   }
+  ],
+  "decoys": [
+   "MORE",
+   "SENSE",
+   "MODE",
+   "PREPARE",
+   "MOTOR",
+   "MONSTER",
+   "SERVER",
+   "REVERSE",
+   "PAINTED",
+   "MOUNTED",
+   "VERSE",
+   "DEMO",
+   "PRESENTER",
+   "INSERTED",
+   "DESERTED",
+   "TEASE",
+   "DETER",
+   "PANS",
+   "INVERSE",
+   "INVERTED",
+   "REIN",
+   "INTERNS",
+   "SERMONS",
+   "MOVER",
+   "SEVER",
+   "REVERTED",
+   "RESENTED",
+   "INNS",
+   "DEMOTED",
+   "REMOVER",
+   "PAIN",
+   "INTER"
+  ],
+  "theme_hint": "",
+  "structure": 69.2
+ },
+ {
+  "id": "c009",
+  "answers": [
+   {
+    "answer": "STAIRCASE",
+    "tiles": [
+     "STA",
+     "IRC",
+     "ASE"
+    ]
+   },
+   {
+    "answer": "INSTALLING",
+    "tiles": [
+     "IN",
+     "ST",
+     "ALL",
+     "ING"
+    ]
+   },
+   {
+    "answer": "INFLATION",
+    "tiles": [
+     "INF",
+     "LAT",
+     "ION"
+    ]
+   },
+   {
+    "answer": "CONFIDENT",
+    "tiles": [
+     "CON",
+     "FID",
+     "ENT"
+    ]
+   },
+   {
+    "answer": "SUITCASE",
+    "tiles": [
+     "SU",
+     "ITC",
+     "ASE"
+    ]
+   },
+   {
+    "answer": "STRING",
+    "tiles": [
+     "STR",
+     "ING"
+    ]
+   },
+   {
+    "answer": "TEACHER",
+    "tiles": [
+     "TE",
+     "ACH",
+     "ER"
+    ]
+   }
+  ],
+  "decoys": [
+   "STATE",
+   "LATER",
+   "TEST",
+   "ENTER",
+   "TEACHING",
+   "TESTING",
+   "CONTEST",
+   "ENTERING",
+   "SUSTAIN",
+   "STAIN",
+   "ERASE",
+   "TEASE",
+   "SUING",
+   "STRINGENT",
+   "LATTE",
+   "ACHING",
+   "LATENT",
+   "STALLION",
+   "TESTER",
+   "STAINING",
+   "INFER",
+   "STINGING",
+   "STRINGER",
+   "STINGER",
+   "TEACH",
+   "INSTALL",
+   "STING",
+   "STALL",
+   "STALLING"
+  ],
+  "theme_hint": "",
+  "structure": 68.9
+ },
+ {
+  "id": "c010",
+  "answers": [
+   {
+    "answer": "COUPON",
+    "tiles": [
+     "COU",
+     "PON"
+    ]
+   },
+   {
+    "answer": "MAYONNAISE",
+    "tiles": [
+     "MA",
+     "YON",
+     "NAI",
+     "SE"
+    ]
+   },
+   {
+    "answer": "FORECAST",
+    "tiles": [
+     "FOR",
+     "ECA",
+     "ST"
+    ]
+   },
+   {
+    "answer": "CONVINCE",
+    "tiles": [
+     "CON",
+     "VI",
+     "NCE"
+    ]
+   },
+   {
+    "answer": "COMPONENT",
+    "tiles": [
+     "COM",
+     "PON",
+     "ENT"
+    ]
+   },
+   {
+    "answer": "CURTAIN",
+    "tiles": [
+     "CUR",
+     "TA",
+     "IN"
+    ]
+   },
+   {
+    "answer": "RESIDING",
+    "tiles": [
+     "RE",
+     "SID",
+     "ING"
+    ]
+   }
+  ],
+  "decoys": [
+   "COMING",
+   "MAIN",
+   "REST",
+   "REMAIN",
+   "CONTAIN",
+   "RESIDENT",
+   "RETAIN",
+   "CURSE",
+   "INCOMING",
+   "SECURING",
+   "RESTING",
+   "STING",
+   "TASTING",
+   "MARE",
+   "MAST",
+   "REVISE",
+   "REIN",
+   "COMMA",
+   "CURING",
+   "CONCUR",
+   "SIDING",
+   "INCUR"
+  ],
+  "theme_hint": "",
+  "structure": 68.8
+ },
+ {
+  "id": "c011",
+  "answers": [
+   {
+    "answer": "BUTTERFLY",
+    "tiles": [
+     "BUT",
+     "TER",
+     "FLY"
+    ]
+   },
+   {
+    "answer": "DEPENDENT",
+    "tiles": [
+     "DEP",
+     "END",
+     "ENT"
+    ]
+   },
+   {
+    "answer": "INTESTINAL",
+    "tiles": [
+     "IN",
+     "TES",
+     "TIN",
+     "AL"
+    ]
+   },
+   {
+    "answer": "CHARTER",
+    "tiles": [
+     "CH",
+     "AR",
+     "TER"
+    ]
+   },
+   {
+    "answer": "DESERVING",
+    "tiles": [
+     "DES",
+     "ERV",
+     "ING"
+    ]
+   },
+   {
+    "answer": "INTEREST",
+    "tiles": [
+     "INT",
+     "ERE",
+     "ST"
+    ]
+   },
+   {
+    "answer": "WAGER",
+    "tiles": [
+     "WAG",
+     "ER"
+    ]
+   }
+  ],
+  "decoys": [
+   "STAR",
+   "ENTER",
+   "FLYING",
+   "ENDING",
+   "DEPENDING",
+   "INCH",
+   "ENTERING",
+   "INTENT",
+   "INTER",
+   "STARING",
+   "INTEND",
+   "ALTER",
+   "STARTER",
+   "CHIN",
+   "ARCHER",
+   "STING",
+   "INTERVAL",
+   "BUTCHER",
+   "ALTERING",
+   "FLYER",
+   "INTENDING",
+   "BUTCH",
+   "STARCH",
+   "TESTER",
+   "WAGING",
+   "STINGER",
+   "BUTTER",
+   "DEPEND",
+   "ARCH",
+   "STINT",
+   "CHAR"
+  ],
+  "theme_hint": "",
+  "structure": 68.0
+ },
+ {
+  "id": "c012",
+  "answers": [
+   {
+    "answer": "PREACHING",
+    "tiles": [
+     "PRE",
+     "ACH",
+     "ING"
+    ]
+   },
+   {
+    "answer": "BARTENDER",
+    "tiles": [
+     "BAR",
+     "TEN",
+     "DER"
+    ]
+   },
+   {
+    "answer": "PERIODIC",
+    "tiles": [
+     "PER",
+     "IOD",
+     "IC"
+    ]
+   },
+   {
+    "answer": "TORRENT",
+    "tiles": [
+     "TOR",
+     "RE",
+     "NT"
+    ]
+   },
+   {
+    "answer": "SEPARATELY",
+    "tiles": [
+     "SE",
+     "PAR",
+     "ATE",
+     "LY"
+    ]
+   },
+   {
+    "answer": "OYSTER",
+    "tiles": [
+     "OYS",
+     "TER"
+    ]
+   },
+   {
+    "answer": "PROCEED",
+    "tiles": [
+     "PRO",
+     "CE",
+     "ED"
+    ]
+   }
+  ],
+  "decoys": [
+   "PRESENT",
+   "SENT",
+   "PERCENT",
+   "RECENT",
+   "REACH",
+   "REACHED",
+   "CENT",
+   "PREPARED",
+   "PROPER",
+   "LYING",
+   "PROPERLY",
+   "REACHING",
+   "SEED",
+   "PREPARING",
+   "RELY",
+   "REED",
+   "TENSE",
+   "RENTED",
+   "RELYING",
+   "PROSE",
+   "RENTING",
+   "ICING",
+   "ICED",
+   "RESENT",
+   "PREACHED",
+   "SEEDING",
+   "BARTER",
+   "TENDERED",
+   "PRETENSE",
+   "BARING",
+   "REPROACH",
+   "PERIOD",
+   "SEPARATE",
+   "RENT",
+   "TENDER",
+   "PREACH",
+   "ACHING",
+   "PARSE"
+  ],
+  "theme_hint": "",
+  "structure": 68.0
+ },
+ {
+  "id": "c013",
+  "answers": [
+   {
+    "answer": "JANITOR",
+    "tiles": [
+     "JAN",
+     "IT",
+     "OR"
+    ]
+   },
+   {
+    "answer": "SCALING",
+    "tiles": [
+     "SC",
+     "AL",
+     "ING"
+    ]
+   },
+   {
+    "answer": "HONEYMOON",
+    "tiles": [
+     "HON",
+     "EYM",
+     "OON"
+    ]
+   },
+   {
+    "answer": "ADJACENT",
+    "tiles": [
+     "AD",
+     "JAC",
+     "ENT"
+    ]
+   },
+   {
+    "answer": "INTERSTATE",
+    "tiles": [
+     "INT",
+     "ER",
+     "ST",
+     "ATE"
+    ]
+   },
+   {
+    "answer": "INVITE",
+    "tiles": [
+     "INV",
+     "ITE"
+    ]
+   },
+   {
+    "answer": "MARATHON",
+    "tiles": [
+     "MAR",
+     "AT",
+     "HON"
+    ]
+   }
+  ],
+  "decoys": [
+   "ENTER",
+   "HONOR",
+   "ENTERING",
+   "SCORING",
+   "INTENT",
+   "ORAL",
+   "STATING",
+   "STAT",
+   "INVITING",
+   "SCENT",
+   "STING",
+   "SCORER",
+   "INVENTOR",
+   "MARITAL",
+   "INVENT",
+   "STORING",
+   "HONORING",
+   "INVADING",
+   "MAROON",
+   "INVENTING",
+   "INVADER",
+   "STINGER",
+   "SCAT",
+   "STATE",
+   "INTER",
+   "STINT"
+  ],
+  "theme_hint": "",
+  "structure": 67.9
+ },
+ {
+  "id": "c014",
+  "answers": [
+   {
+    "answer": "LAVENDER",
+    "tiles": [
+     "LA",
+     "VEN",
+     "DER"
+    ]
+   },
+   {
+    "answer": "MOOSE",
+    "tiles": [
+     "MOO",
+     "SE"
+    ]
+   },
+   {
+    "answer": "GLITTER",
+    "tiles": [
+     "GLI",
+     "TT",
+     "ER"
+    ]
+   },
+   {
+    "answer": "DENTIST",
+    "tiles": [
+     "DEN",
+     "TI",
+     "ST"
+    ]
+   },
+   {
+    "answer": "CONTENDER",
+    "tiles": [
+     "CON",
+     "TEN",
+     "DER"
+    ]
+   },
+   {
+    "answer": "INTERNAL",
+    "tiles": [
+     "IN",
+     "TER",
+     "NAL"
+    ]
+   },
+   {
+    "answer": "REVEREND",
+    "tiles": [
+     "RE",
+     "VER",
+     "END"
+    ]
+   }
+  ],
+  "decoys": [
+   "LAST",
+   "LATER",
+   "REST",
+   "SEVEN",
+   "LATTER",
+   "INTENSE",
+   "REVERSE",
+   "VERSE",
+   "TIER",
+   "TIRE",
+   "DENSE",
+   "TENSE",
+   "LADEN",
+   "CONVERSE",
+   "RENAL",
+   "INVERSE",
+   "CONVERTER",
+   "REIN",
+   "SEVER",
+   "RETINAL",
+   "GLIDER",
+   "SEER",
+   "SETTER",
+   "INTER",
+   "TENDER"
+  ],
+  "theme_hint": "",
+  "structure": 67.8
+ },
+ {
+  "id": "c015",
+  "answers": [
+   {
+    "answer": "IMPENDING",
+    "tiles": [
+     "IMP",
+     "END",
+     "ING"
+    ]
+   },
+   {
+    "answer": "THIMBLE",
+    "tiles": [
+     "TH",
+     "IMB",
+     "LE"
+    ]
+   },
+   {
+    "answer": "PLASTER",
+    "tiles": [
+     "PLA",
+     "ST",
+     "ER"
+    ]
+   },
+   {
+    "answer": "INTERVIEW",
+    "tiles": [
+     "INT",
+     "ERV",
+     "IEW"
+    ]
+   },
+   {
+    "answer": "INHERENT",
+    "tiles": [
+     "INH",
+     "ERE",
+     "NT"
+    ]
+   },
+   {
+    "answer": "TREASURE",
+    "tiles": [
+     "TRE",
+     "ASU",
+     "RE"
+    ]
+   },
+   {
+    "answer": "INLAND",
+    "tiles": [
+     "INL",
+     "AND"
+    ]
+   }
+  ],
+  "decoys": [
+   "THERE",
+   "THING",
+   "REST",
+   "INTEREST",
+   "STAND",
+   "PLANT",
+   "STANDING",
+   "RENT",
+   "INTER",
+   "INTEND",
+   "RESTING",
+   "PLANTING",
+   "STING",
+   "LENT",
+   "RENTING",
+   "STINT",
+   "LEST",
+   "INTENDING",
+   "PLANTER",
+   "ERASURE",
+   "STINGER",
+   "ENDING"
+  ],
+  "theme_hint": "",
+  "structure": 67.6
+ },
+ {
+  "id": "c016",
+  "answers": [
+   {
+    "answer": "MISCHIEF",
+    "tiles": [
+     "MIS",
+     "CH",
+     "IEF"
+    ]
+   },
+   {
+    "answer": "PLATFORM",
+    "tiles": [
+     "PL",
+     "ATF",
+     "ORM"
+    ]
+   },
+   {
+    "answer": "REVIEWING",
+    "tiles": [
+     "REV",
+     "IEW",
+     "ING"
+    ]
+   },
+   {
+    "answer": "UNDEFEATED",
+    "tiles": [
+     "UN",
+     "DEF",
+     "EAT",
+     "ED"
+    ]
+   },
+   {
+    "answer": "INFORMAL",
+    "tiles": [
+     "INF",
+     "ORM",
+     "AL"
+    ]
+   },
+   {
+    "answer": "REFER",
+    "tiles": [
+     "REF",
+     "ER"
+    ]
+   },
+   {
+    "answer": "CONTEST",
+    "tiles": [
+     "CO",
+     "NT",
+     "EST"
+    ]
+   }
+  ],
+  "decoys": [
+   "EATING",
+   "REFORM",
+   "CHEST",
+   "COAL",
+   "INFORMED",
+   "REVIEWED",
+   "CHEATING",
+   "CHEAT",
+   "CHEATED",
+   "DEFEATING",
+   "REFORMED",
+   "INFORMING",
+   "REVIEWER",
+   "EATER",
+   "INFESTED",
+   "REVERED",
+   "REFORMING",
+   "CHEATER",
+   "DEFORMED",
+   "DEFER",
+   "INFER",
+   "REFORMER",
+   "INGESTED",
+   "ESTER",
+   "INFORMER",
+   "COED",
+   "REVIEW",
+   "CHIEF",
+   "DEFEAT",
+   "DEFEATED",
+   "INFORM",
+   "CONT"
+  ],
+  "theme_hint": "",
+  "structure": 67.3
+ },
+ {
+  "id": "c017",
+  "answers": [
+   {
+    "answer": "SUPPORTER",
+    "tiles": [
+     "SUP",
+     "POR",
+     "TER"
+    ]
+   },
+   {
+    "answer": "COMPOST",
+    "tiles": [
+     "COM",
+     "PO",
+     "ST"
+    ]
+   },
+   {
+    "answer": "PROPOSAL",
+    "tiles": [
+     "PRO",
+     "POS",
+     "AL"
+    ]
+   },
+   {
+    "answer": "PROVOKING",
+    "tiles": [
+     "PRO",
+     "VOK",
+     "ING"
+    ]
+   },
+   {
+    "answer": "GOSSIP",
+    "tiles": [
+     "GOS",
+     "SIP"
+    ]
+   },
+   {
+    "answer": "CLUSTER",
+    "tiles": [
+     "CL",
+     "UST",
+     "ER"
+    ]
+   },
+   {
+    "answer": "INSTRUCTOR",
+    "tiles": [
+     "IN",
+     "ST",
+     "RUC",
+     "TOR"
+    ]
+   }
+  ],
+  "decoys": [
+   "COMING",
+   "SUPER",
+   "POSTING",
+   "POSTER",
+   "INTER",
+   "ALTER",
+   "POSTAL",
+   "INCOMING",
+   "COMPOSER",
+   "STING",
+   "POSING",
+   "PROPOSING",
+   "POINTER",
+   "ALTERING",
+   "CLING",
+   "COMPOSING",
+   "INVOKING",
+   "SUPPOSING",
+   "STINGER",
+   "POST",
+   "PORTER"
+  ],
+  "theme_hint": "",
+  "structure": 67.3
+ },
+ {
+  "id": "c018",
+  "answers": [
+   {
+    "answer": "STALLION",
+    "tiles": [
+     "ST",
+     "ALL",
+     "ION"
+    ]
+   },
+   {
+    "answer": "TRAVELER",
+    "tiles": [
+     "TRA",
+     "VEL",
+     "ER"
+    ]
+   },
+   {
+    "answer": "DRAGON",
+    "tiles": [
+     "DRA",
+     "GON"
+    ]
+   },
+   {
+    "answer": "INVERSE",
+    "tiles": [
+     "IN",
+     "VER",
+     "SE"
+    ]
+   },
+   {
+    "answer": "CENTAUR",
+    "tiles": [
+     "CEN",
+     "TA",
+     "UR"
+    ]
+   },
+   {
+    "answer": "CONFUSED",
+    "tiles": [
+     "CON",
+     "FUS",
+     "ED"
+    ]
+   },
+   {
+    "answer": "ACCORDION",
+    "tiles": [
+     "ACC",
+     "ORD",
+     "ION"
+    ]
+   }
+  ],
+  "decoys": [
+   "ORDER",
+   "TRAIN",
+   "ORDERED",
+   "TRAINED",
+   "CONTAIN",
+   "CONTRAST",
+   "SEED",
+   "CONFUSION",
+   "INSTALL",
+   "TRAINER",
+   "DRAIN",
+   "TRAVELED",
+   "FUSION",
+   "TASTED",
+   "DRAINED",
+   "SEVERED",
+   "CONVERSE",
+   "TRAVERSE",
+   "INFUSED",
+   "STALLED",
+   "INFUSION",
+   "INCENSE",
+   "ACCORDED",
+   "SEER",
+   "TRAVEL",
+   "VERSE",
+   "ACCORD",
+   "STALL",
+   "FUSED",
+   "SEVER"
+  ],
+  "theme_hint": "",
+  "structure": 67.2
+ },
+ {
+  "id": "c019",
+  "answers": [
+   {
+    "answer": "CADET",
+    "tiles": [
+     "CAD",
+     "ET"
+    ]
+   },
+   {
+    "answer": "INTENSITY",
+    "tiles": [
+     "INT",
+     "ENS",
+     "ITY"
+    ]
+   },
+   {
+    "answer": "ENCOUNTER",
+    "tiles": [
+     "ENC",
+     "OUN",
+     "TER"
+    ]
+   },
+   {
+    "answer": "REGIMENT",
+    "tiles": [
+     "RE",
+     "GIM",
+     "ENT"
+    ]
+   },
+   {
+    "answer": "INTEGER",
+    "tiles": [
+     "IN",
+     "TEG",
+     "ER"
+    ]
+   },
+   {
+    "answer": "STARTER",
+    "tiles": [
+     "ST",
+     "AR",
+     "TER"
+    ]
+   },
+   {
+    "answer": "DEPENDING",
+    "tiles": [
+     "DEP",
+     "END",
+     "ING"
+    ]
+   }
+  ],
+  "decoys": [
+   "STREET",
+   "REST",
+   "ENTER",
+   "ARREST",
+   "REAR",
+   "ENTERING",
+   "DEPENDENT",
+   "INTENT",
+   "INTER",
+   "STARING",
+   "ENTITY",
+   "INTEND",
+   "RESTING",
+   "STING",
+   "STINT",
+   "INTENDING",
+   "REIN",
+   "REARING",
+   "CADRE",
+   "STINGER",
+   "STAR",
+   "ENDING",
+   "DEPEND"
+  ],
+  "theme_hint": "",
+  "structure": 67.0
+ },
+ {
+  "id": "c020",
+  "answers": [
+   {
+    "answer": "DIOXIDE",
+    "tiles": [
+     "DI",
+     "OXI",
+     "DE"
+    ]
+   },
+   {
+    "answer": "CARNIVAL",
+    "tiles": [
+     "CAR",
+     "NIV",
+     "AL"
+    ]
+   },
+   {
+    "answer": "LEATHER",
+    "tiles": [
+     "LEA",
+     "TH",
+     "ER"
+    ]
+   },
+   {
+    "answer": "BARTER",
+    "tiles": [
+     "BAR",
+     "TER"
+    ]
+   },
+   {
+    "answer": "PARENTING",
+    "tiles": [
+     "PAR",
+     "ENT",
+     "ING"
+    ]
+   },
+   {
+    "answer": "REASONABLY",
+    "tiles": [
+     "RE",
+     "ASO",
+     "NAB",
+     "LY"
+    ]
+   },
+   {
+    "answer": "NARRATIVE",
+    "tiles": [
+     "NAR",
+     "RAT",
+     "IVE"
+    ]
+   }
+  ],
+  "decoys": [
+   "REALLY",
+   "THING",
+   "REAL",
+   "DEAL",
+   "ENTER",
+   "ALIVE",
+   "LYING",
+   "DEALING",
+   "RATING",
+   "ENTERING",
+   "CARING",
+   "DEALER",
+   "DEER",
+   "ALLY",
+   "ALTER",
+   "DIAL",
+   "RELYING",
+   "PARENTAL",
+   "DIRE",
+   "ALTERING",
+   "DETER",
+   "DIALING",
+   "BARING",
+   "NARRATING",
+   "PARENT",
+   "RELY",
+   "OXIDE"
+  ],
+  "theme_hint": "",
+  "structure": 67.0
+ },
+ {
+  "id": "c021",
+  "answers": [
+   {
+    "answer": "COMPLAINT",
+    "tiles": [
+     "COM",
+     "PLA",
+     "INT"
+    ]
+   },
+   {
+    "answer": "INFRARED",
+    "tiles": [
+     "INF",
+     "RAR",
+     "ED"
+    ]
+   },
+   {
+    "answer": "WINTER",
+    "tiles": [
+     "WIN",
+     "TER"
+    ]
+   },
+   {
+    "answer": "DELIVER",
+    "tiles": [
+     "DE",
+     "LIV",
+     "ER"
+    ]
+   },
+   {
+    "answer": "INSOMNIA",
+    "tiles": [
+     "IN",
+     "SOM",
+     "NIA"
+    ]
+   },
+   {
+    "answer": "COMBINING",
+    "tiles": [
+     "COM",
+     "BIN",
+     "ING"
+    ]
+   },
+   {
+    "answer": "PASTORAL",
+    "tiles": [
+     "PAS",
+     "TOR",
+     "AL"
+    ]
+   }
+  ],
+  "decoys": [
+   "DEAL",
+   "LIVING",
+   "LIVED",
+   "INDEED",
+   "COMBINED",
+   "DEALING",
+   "PLAIN",
+   "COMPLAIN",
+   "DEALER",
+   "INTER",
+   "ALTER",
+   "ALTERED",
+   "INCOMING",
+   "DEED",
+   "ALTERING",
+   "DETER",
+   "INFER",
+   "RARER",
+   "COMING",
+   "LIVER",
+   "DEER",
+   "PASTOR"
+  ],
+  "theme_hint": "",
+  "structure": 66.9
+ },
+ {
+  "id": "c022",
+  "answers": [
+   {
+    "answer": "CANYON",
+    "tiles": [
+     "CAN",
+     "YON"
+    ]
+   },
+   {
+    "answer": "RESISTING",
+    "tiles": [
+     "RES",
+     "IST",
+     "ING"
+    ]
+   },
+   {
+    "answer": "STENCIL",
+    "tiles": [
+     "ST",
+     "EN",
+     "CIL"
+    ]
+   },
+   {
+    "answer": "MONARCH",
+    "tiles": [
+     "MON",
+     "AR",
+     "CH"
+    ]
+   },
+   {
+    "answer": "STATESMAN",
+    "tiles": [
+     "STA",
+     "TES",
+     "MAN"
+    ]
+   },
+   {
+    "answer": "CONTESTANT",
+    "tiles": [
+     "CON",
+     "TE",
+     "STA",
+     "NT"
+    ]
+   },
+   {
+    "answer": "REVIEWER",
+    "tiles": [
+     "REV",
+     "IEW",
+     "ER"
+    ]
+   }
+  ],
+  "decoys": [
+   "STAR",
+   "TEST",
+   "TECH",
+   "TESTING",
+   "CONTEST",
+   "MONSTER",
+   "TEAR",
+   "TEEN",
+   "STARING",
+   "REVIEWING",
+   "ARCHER",
+   "STING",
+   "TEARING",
+   "STARES",
+   "STARCH",
+   "TESTER",
+   "CANTEEN",
+   "STENCH",
+   "CANISTER",
+   "STINGER",
+   "STATE",
+   "STATES",
+   "REVIEW",
+   "CONTENT",
+   "CONSTANT",
+   "RESIST",
+   "TENT",
+   "ARCH",
+   "CHAR"
+  ],
+  "theme_hint": "",
+  "structure": 66.0
+ },
+ {
+  "id": "c023",
+  "answers": [
+   {
+    "answer": "CEREBRAL",
+    "tiles": [
+     "CER",
+     "EBR",
+     "AL"
+    ]
+   },
+   {
+    "answer": "TRIANGLE",
+    "tiles": [
+     "TRI",
+     "ANG",
+     "LE"
+    ]
+   },
+   {
+    "answer": "HUNTER",
+    "tiles": [
+     "HUN",
+     "TER"
+    ]
+   },
+   {
+    "answer": "EXISTENT",
+    "tiles": [
+     "EXI",
+     "ST",
+     "ENT"
+    ]
+   },
+   {
+    "answer": "SHUTTER",
+    "tiles": [
+     "SH",
+     "UT",
+     "TER"
+    ]
+   },
+   {
+    "answer": "TRIGGER",
+    "tiles": [
+     "TRI",
+     "GG",
+     "ER"
+    ]
+   },
+   {
+    "answer": "INTENDING",
+    "tiles": [
+     "INT",
+     "END",
+     "ING"
+    ]
+   }
+  ],
+  "decoys": [
+   "TRIAL",
+   "ENTER",
+   "EXISTING",
+   "ANGER",
+   "ENTERING",
+   "INTENT",
+   "INTER",
+   "ALTER",
+   "EXILE",
+   "STING",
+   "STINT",
+   "ALTERING",
+   "LEST",
+   "ANGST",
+   "ENDANGER",
+   "SHINGLE",
+   "STUTTER",
+   "STINGER",
+   "SHUT",
+   "EXIST",
+   "ENDING",
+   "ANGLE",
+   "INTEND",
+   "UTTER"
+  ],
+  "theme_hint": "",
+  "structure": 66.0
+ },
+ {
+  "id": "c024",
+  "answers": [
+   {
+    "answer": "CHOWDER",
+    "tiles": [
+     "CH",
+     "OWD",
+     "ER"
+    ]
+   },
+   {
+    "answer": "MINSTREL",
+    "tiles": [
+     "MIN",
+     "ST",
+     "REL"
+    ]
+   },
+   {
+    "answer": "RECALL",
+    "tiles": [
+     "REC",
+     "ALL"
+    ]
+   },
+   {
+    "answer": "EQUIVALENT",
+    "tiles": [
+     "EQ",
+     "UIV",
+     "AL",
+     "ENT"
+    ]
+   },
+   {
+    "answer": "REPORTING",
+    "tiles": [
+     "REP",
+     "ORT",
+     "ING"
+    ]
+   },
+   {
+    "answer": "REGISTRAR",
+    "tiles": [
+     "REG",
+     "IST",
+     "RAR"
+    ]
+   },
+   {
+    "answer": "RATCHET",
+    "tiles": [
+     "RAT",
+     "CH",
+     "ET"
+    ]
+   }
+  ],
+  "decoys": [
+   "MINISTER",
+   "RECENT",
+   "ENTER",
+   "REGISTER",
+   "MINING",
+   "RATING",
+   "ENTERING",
+   "REPORTER",
+   "MINERAL",
+   "STING",
+   "STALL",
+   "MINER",
+   "REGENT",
+   "RECALLING",
+   "REPENT",
+   "REGAL",
+   "STALLING",
+   "ETCHING",
+   "CHALET",
+   "RARER",
+   "MINSTER",
+   "STINGER",
+   "REPORT"
+  ],
+  "theme_hint": "",
+  "structure": 65.9
+ },
+ {
+  "id": "c025",
+  "answers": [
+   {
+    "answer": "FOUNTAIN",
+    "tiles": [
+     "FO",
+     "UNT",
+     "AIN"
+    ]
+   },
+   {
+    "answer": "DIAGONAL",
+    "tiles": [
+     "DIA",
+     "GON",
+     "AL"
+    ]
+   },
+   {
+    "answer": "RESUMED",
+    "tiles": [
+     "RE",
+     "SUM",
+     "ED"
+    ]
+   },
+   {
+    "answer": "SUSTAIN",
+    "tiles": [
+     "SU",
+     "ST",
+     "AIN"
+    ]
+   },
+   {
+    "answer": "INSPECTION",
+    "tiles": [
+     "IN",
+     "SPE",
+     "CT",
+     "ION"
+    ]
+   },
+   {
+    "answer": "DRAGONFLY",
+    "tiles": [
+     "DRA",
+     "GON",
+     "FLY"
+    ]
+   },
+   {
+    "answer": "SURVEY",
+    "tiles": [
+     "SUR",
+     "VEY"
+    ]
+   }
+  ],
+  "decoys": [
+   "SURE",
+   "REAL",
+   "REST",
+   "RESPECT",
+   "SPEED",
+   "FOREST",
+   "INFO",
+   "SUSPECT",
+   "DRAIN",
+   "SUED",
+   "STUNT",
+   "STAINED",
+   "DRAINED",
+   "INSURED",
+   "SURVEYED",
+   "RESTED",
+   "SURREAL",
+   "FORE",
+   "INSURE",
+   "REIN",
+   "SUCTION",
+   "STUNTED",
+   "DRAGON",
+   "REED",
+   "STAIN",
+   "INSPECT"
+  ],
+  "theme_hint": "",
+  "structure": 65.6
+ },
+ {
+  "id": "c026",
+  "answers": [
+   {
+    "answer": "INJUSTICE",
+    "tiles": [
+     "INJ",
+     "UST",
+     "ICE"
+    ]
+   },
+   {
+    "answer": "DIMINISH",
+    "tiles": [
+     "DIM",
+     "IN",
+     "ISH"
+    ]
+   },
+   {
+    "answer": "SPECTRUM",
+    "tiles": [
+     "SP",
+     "ECT",
+     "RUM"
+    ]
+   },
+   {
+    "answer": "EXTENT",
+    "tiles": [
+     "EXT",
+     "ENT"
+    ]
+   },
+   {
+    "answer": "TRACTOR",
+    "tiles": [
+     "TR",
+     "ACT",
+     "OR"
+    ]
+   },
+   {
+    "answer": "INSISTING",
+    "tiles": [
+     "INS",
+     "IST",
+     "ING"
+    ]
+   },
+   {
+    "answer": "THUNDER",
+    "tiles": [
+     "TH",
+     "UND",
+     "ER"
+    ]
+   }
+  ],
+  "decoys": [
+   "THING",
+   "TRUST",
+   "SPENT",
+   "ACTING",
+   "ENTER",
+   "THIN",
+   "ENTERING",
+   "SPIN",
+   "SPICE",
+   "INSECT",
+   "RUMOR",
+   "TRUSTING",
+   "INSPECT",
+   "SPINS",
+   "INJECT",
+   "INJECTING",
+   "ENTICE",
+   "SPECTER",
+   "INSISTENT",
+   "UNDER",
+   "ACTOR",
+   "INSIST",
+   "TRACT"
+  ],
+  "theme_hint": "",
+  "structure": 65.6
+ },
+ {
+  "id": "c027",
+  "answers": [
+   {
+    "answer": "COUNTY",
+    "tiles": [
+     "COU",
+     "NTY"
+    ]
+   },
+   {
+    "answer": "DISTANT",
+    "tiles": [
+     "DIS",
+     "TA",
+     "NT"
+    ]
+   },
+   {
+    "answer": "SPATULA",
+    "tiles": [
+     "SPA",
+     "TU",
+     "LA"
+    ]
+   },
+   {
+    "answer": "STAINLESS",
+    "tiles": [
+     "STA",
+     "INL",
+     "ESS"
+    ]
+   },
+   {
+    "answer": "LIGHTNING",
+    "tiles": [
+     "LIG",
+     "HTN",
+     "ING"
+    ]
+   },
+   {
+    "answer": "RELENTLESS",
+    "tiles": [
+     "RE",
+     "LE",
+     "NTL",
+     "ESS"
+    ]
+   },
+   {
+    "answer": "TENTACLE",
+    "tiles": [
+     "TE",
+     "NTA",
+     "CLE"
+    ]
+   }
+  ],
+  "decoys": [
+   "STATE",
+   "LATE",
+   "COUNT",
+   "TALENT",
+   "RENT",
+   "DISCOUNT",
+   "TALE",
+   "SPARE",
+   "COUNTING",
+   "RELATE",
+   "TENT",
+   "COUNTLESS",
+   "STARE",
+   "STATUTE",
+   "LENT",
+   "RENTING",
+   "COUNTESS",
+   "STATURE",
+   "STALE",
+   "LATENT",
+   "RECOUNT",
+   "LIGHTNESS"
+  ],
+  "theme_hint": "",
+  "structure": 65.4
+ },
+ {
+  "id": "c028",
+  "answers": [
+   {
+    "answer": "SCORPION",
+    "tiles": [
+     "SC",
+     "ORP",
+     "ION"
+    ]
+   },
+   {
+    "answer": "ASSASSIN",
+    "tiles": [
+     "ASS",
+     "AS",
+     "SIN"
+    ]
+   },
+   {
+    "answer": "FLORIST",
+    "tiles": [
+     "FL",
+     "ORI",
+     "ST"
+    ]
+   },
+   {
+    "answer": "WRENCH",
+    "tiles": [
+     "WRE",
+     "NCH"
+    ]
+   },
+   {
+    "answer": "SINISTER",
+    "tiles": [
+     "SIN",
+     "IST",
+     "ER"
+    ]
+   },
+   {
+    "answer": "TREATMENT",
+    "tiles": [
+     "TRE",
+     "ATM",
+     "ENT"
+    ]
+   },
+   {
+    "answer": "INVESTING",
+    "tiles": [
+     "INV",
+     "EST",
+     "ING"
+    ]
+   }
+  ],
+  "decoys": [
+   "ENTER",
+   "ASSIST",
+   "ENTERING",
+   "INVASION",
+   "INVENTION",
+   "SCENT",
+   "STING",
+   "ASSISTING",
+   "TRENCH",
+   "INVENT",
+   "ORIENT",
+   "FLING",
+   "INVENTING",
+   "ERAS",
+   "WRENCHING",
+   "ESTER",
+   "ERASING",
+   "ASSENT",
+   "INGESTION",
+   "STINGER",
+   "INVEST",
+   "SCION"
+  ],
+  "theme_hint": "",
+  "structure": 65.4
+ },
+ {
+  "id": "c029",
+  "answers": [
+   {
+    "answer": "DISASTER",
+    "tiles": [
+     "DIS",
+     "AST",
+     "ER"
+    ]
+   },
+   {
+    "answer": "DIVERSION",
+    "tiles": [
+     "DIV",
+     "ERS",
+     "ION"
+    ]
+   },
+   {
+    "answer": "BONFIRE",
+    "tiles": [
+     "BON",
+     "FI",
+     "RE"
+    ]
+   },
+   {
+    "answer": "CONFUSING",
+    "tiles": [
+     "CON",
+     "FUS",
+     "ING"
+    ]
+   },
+   {
+    "answer": "PASSPORT",
+    "tiles": [
+     "PA",
+     "SSP",
+     "ORT"
+    ]
+   },
+   {
+    "answer": "ASHAMED",
+    "tiles": [
+     "AS",
+     "HAM",
+     "ED"
+    ]
+   },
+   {
+    "answer": "NONSENSE",
+    "tiles": [
+     "NON",
+     "SE",
+     "NSE"
+    ]
+   }
+  ],
+  "decoys": [
+   "REFUSED",
+   "CONFUSED",
+   "SEED",
+   "DIVERSE",
+   "CONFUSION",
+   "REED",
+   "DIVING",
+   "FUSION",
+   "REFUSING",
+   "SEAS",
+   "DISASTERS",
+   "ERASED",
+   "DIVER",
+   "FUSED",
+   "BONER",
+   "ERAS",
+   "SEEDING",
+   "DIVAS",
+   "ERASING",
+   "SEER",
+   "DIVED",
+   "FIRE",
+   "SENSE",
+   "DIVERS",
+   "FUSING"
+  ],
+  "theme_hint": "",
+  "structure": 65.3
+ },
+ {
+  "id": "c030",
+  "answers": [
+   {
+    "answer": "INTENTION",
+    "tiles": [
+     "INT",
+     "ENT",
+     "ION"
+    ]
+   },
+   {
+    "answer": "CASINO",
+    "tiles": [
+     "CAS",
+     "INO"
+    ]
+   },
+   {
+    "answer": "NUCLEAR",
+    "tiles": [
+     "NUC",
+     "LE",
+     "AR"
+    ]
+   },
+   {
+    "answer": "MONUMENTAL",
+    "tiles": [
+     "MON",
+     "UME",
+     "NT",
+     "AL"
+    ]
+   },
+   {
+    "answer": "BLISTER",
+    "tiles": [
+     "BL",
+     "IST",
+     "ER"
+    ]
+   },
+   {
+    "answer": "UPSETTING",
+    "tiles": [
+     "UPS",
+     "ETT",
+     "ING"
+    ]
+   },
+   {
+    "answer": "COSTUME",
+    "tiles": [
+     "CO",
+     "ST",
+     "UME"
+    ]
+   }
+  ],
+  "decoys": [
+   "STAR",
+   "CONTENT",
+   "ENTER",
+   "COAL",
+   "MONSTER",
+   "ENTERING",
+   "INTER",
+   "STARING",
+   "LEMON",
+   "LEARNT",
+   "STING",
+   "LENT",
+   "COSTING",
+   "STINT",
+   "LEST",
+   "CASING",
+   "CONT",
+   "BLING",
+   "BLARING",
+   "STINGER",
+   "COST",
+   "INTENT",
+   "MONUMENT"
+  ],
+  "theme_hint": "",
+  "structure": 65.2
+ },
+ {
+  "id": "c031",
+  "answers": [
+   {
+    "answer": "MAGAZINE",
+    "tiles": [
+     "MA",
+     "GAZ",
+     "INE"
+    ]
+   },
+   {
+    "answer": "SATELLITE",
+    "tiles": [
+     "SAT",
+     "ELL",
+     "ITE"
+    ]
+   },
+   {
+    "answer": "REPRESENT",
+    "tiles": [
+     "REP",
+     "RES",
+     "ENT"
+    ]
+   },
+   {
+    "answer": "STEALING",
+    "tiles": [
+     "ST",
+     "EAL",
+     "ING"
+    ]
+   },
+   {
+    "answer": "MARTYR",
+    "tiles": [
+     "MAR",
+     "TYR"
+    ]
+   },
+   {
+    "answer": "RESTAURANT",
+    "tiles": [
+     "RE",
+     "ST",
+     "AUR",
+     "ANT"
+    ]
+   },
+   {
+    "answer": "REGISTER",
+    "tiles": [
+     "REG",
+     "IST",
+     "ER"
+    ]
+   }
+  ],
+  "decoys": [
+   "MASTER",
+   "ENTER",
+   "MARINE",
+   "ENTERING",
+   "RESIST",
+   "RESISTANT",
+   "RESTING",
+   "REPEAL",
+   "MARE",
+   "RESISTING",
+   "MAST",
+   "REGENT",
+   "TYRANT",
+   "GAZING",
+   "REPEALING",
+   "MARES",
+   "REPELLENT",
+   "RESELL",
+   "STINGER",
+   "REST",
+   "STEAL",
+   "STING",
+   "RESENT",
+   "REPENT"
+  ],
+  "theme_hint": "",
+  "structure": 65.1
+ },
+ {
+  "id": "c032",
+  "answers": [
+   {
+    "answer": "SCARECROW",
+    "tiles": [
+     "SCA",
+     "REC",
+     "ROW"
+    ]
+   },
+   {
+    "answer": "PAPERBACK",
+    "tiles": [
+     "PAP",
+     "ERB",
+     "ACK"
+    ]
+   },
+   {
+    "answer": "STATION",
+    "tiles": [
+     "ST",
+     "AT",
+     "ION"
+    ]
+   },
+   {
+    "answer": "STAIN",
+    "tiles": [
+     "ST",
+     "AIN"
+    ]
+   },
+   {
+    "answer": "CONTENT",
+    "tiles": [
+     "CON",
+     "TE",
+     "NT"
+    ]
+   },
+   {
+    "answer": "RETAILER",
+    "tiles": [
+     "RET",
+     "AIL",
+     "ER"
+    ]
+   },
+   {
+    "answer": "REGULATING",
+    "tiles": [
+     "RE",
+     "GUL",
+     "AT",
+     "ING"
+    ]
+   }
+  ],
+  "decoys": [
+   "REST",
+   "TEST",
+   "PAPER",
+   "TESTING",
+   "RENT",
+   "CONTEST",
+   "RETAIN",
+   "STATING",
+   "RETREAT",
+   "SCARE",
+   "STACK",
+   "RESTING",
+   "STING",
+   "RETAINING",
+   "RENTING",
+   "ROWING",
+   "STACKING",
+   "ATTEST",
+   "TESTER",
+   "STAINING",
+   "RETAINER",
+   "ROWER",
+   "SCANT",
+   "RETAILING",
+   "AILING",
+   "STINGER",
+   "RETAIL",
+   "TENT",
+   "STAT"
+  ],
+  "theme_hint": "",
+  "structure": 65.1
+ },
+ {
+  "id": "c033",
+  "answers": [
+   {
+    "answer": "PASTURE",
+    "tiles": [
+     "PA",
+     "ST",
+     "URE"
+    ]
+   },
+   {
+    "answer": "ABSORB",
+    "tiles": [
+     "ABS",
+     "ORB"
+    ]
+   },
+   {
+    "answer": "INTENSELY",
+    "tiles": [
+     "INT",
+     "ENS",
+     "ELY"
+    ]
+   },
+   {
+    "answer": "INSIDER",
+    "tiles": [
+     "INS",
+     "ID",
+     "ER"
+    ]
+   },
+   {
+    "answer": "TAMBOURINE",
+    "tiles": [
+     "TA",
+     "MBO",
+     "UR",
+     "INE"
+    ]
+   },
+   {
+    "answer": "REFINING",
+    "tiles": [
+     "REF",
+     "IN",
+     "ING"
+    ]
+   },
+   {
+    "answer": "SERENADE",
+    "tiles": [
+     "SE",
+     "REN",
+     "ADE"
+    ]
+   }
+  ],
+  "decoys": [
+   "PAID",
+   "PAIN",
+   "ENSURE",
+   "PAINTING",
+   "PAINT",
+   "REFER",
+   "INTER",
+   "ENSURING",
+   "PAINTER",
+   "PAINS",
+   "STING",
+   "TASTING",
+   "STINT",
+   "INSURER",
+   "ABSORBING",
+   "INSURE",
+   "REFINE",
+   "ABSTAIN",
+   "STABS",
+   "SEER",
+   "TAINT",
+   "STINGER",
+   "PAST"
+  ],
+  "theme_hint": "",
+  "structure": 64.7
+ },
+ {
+  "id": "c034",
+  "answers": [
+   {
+    "answer": "RIDER",
+    "tiles": [
+     "RI",
+     "DER"
+    ]
+   },
+   {
+    "answer": "CONFUSION",
+    "tiles": [
+     "CON",
+     "FUS",
+     "ION"
+    ]
+   },
+   {
+    "answer": "CONFETTI",
+    "tiles": [
+     "CON",
+     "FET",
+     "TI"
+    ]
+   },
+   {
+    "answer": "RESTORE",
+    "tiles": [
+     "RE",
+     "ST",
+     "ORE"
+    ]
+   },
+   {
+    "answer": "TROMBONE",
+    "tiles": [
+     "TRO",
+     "MBO",
+     "NE"
+    ]
+   },
+   {
+    "answer": "TRANSPORT",
+    "tiles": [
+     "TRA",
+     "NSP",
+     "ORT"
+    ]
+   },
+   {
+    "answer": "VERDICT",
+    "tiles": [
+     "VER",
+     "DI",
+     "CT"
+    ]
+   }
+  ],
+  "decoys": [
+   "NEVER",
+   "RIVER",
+   "CONTRACT",
+   "DIRECT",
+   "CONTRAST",
+   "CONNECT",
+   "STRICT",
+   "NEST",
+   "TIRE",
+   "TRACTION",
+   "TRADER",
+   "TRACT",
+   "DIRE",
+   "DINE",
+   "DISTORT",
+   "RETRACT",
+   "REST",
+   "STORE",
+   "FUSION",
+   "DIVER"
+  ],
+  "theme_hint": "",
+  "structure": 64.7
+ },
+ {
+  "id": "c035",
+  "answers": [
+   {
+    "answer": "TRIVIA",
+    "tiles": [
+     "TRI",
+     "VIA"
+    ]
+   },
+   {
+    "answer": "ASTRONAUT",
+    "tiles": [
+     "AST",
+     "RON",
+     "AUT"
+    ]
+   },
+   {
+    "answer": "REFINERY",
+    "tiles": [
+     "REF",
+     "IN",
+     "ERY"
+    ]
+   },
+   {
+    "answer": "RENDERING",
+    "tiles": [
+     "REN",
+     "DER",
+     "ING"
+    ]
+   },
+   {
+    "answer": "TRANSFORM",
+    "tiles": [
+     "TRA",
+     "NSF",
+     "ORM"
+    ]
+   },
+   {
+    "answer": "COASTER",
+    "tiles": [
+     "CO",
+     "AST",
+     "ER"
+    ]
+   },
+   {
+    "answer": "STAPLER",
+    "tiles": [
+     "ST",
+     "APL",
+     "ER"
+    ]
+   }
+  ],
+  "decoys": [
+   "COST",
+   "TRAINING",
+   "TRAIN",
+   "TRANSFER",
+   "STORM",
+   "REFORM",
+   "REFER",
+   "COIN",
+   "TRAINER",
+   "STING",
+   "TRADER",
+   "COSTING",
+   "CORONER",
+   "REFINING",
+   "REFORMING",
+   "STORMING",
+   "REFORMER",
+   "STINGER",
+   "COAST",
+   "RENDER"
+  ],
+  "theme_hint": "",
+  "structure": 64.4
+ },
+ {
+  "id": "c036",
+  "answers": [
+   {
+    "answer": "ESPRESSO",
+    "tiles": [
+     "ESP",
+     "RE",
+     "SSO"
+    ]
+   },
+   {
+    "answer": "SURVEYED",
+    "tiles": [
+     "SUR",
+     "VEY",
+     "ED"
+    ]
+   },
+   {
+    "answer": "SUFFER",
+    "tiles": [
+     "SUF",
+     "FER"
+    ]
+   },
+   {
+    "answer": "SURRENDER",
+    "tiles": [
+     "SUR",
+     "REN",
+     "DER"
+    ]
+   },
+   {
+    "answer": "REGIONAL",
+    "tiles": [
+     "REG",
+     "ION",
+     "AL"
+    ]
+   },
+   {
+    "answer": "SPINACH",
+    "tiles": [
+     "SP",
+     "IN",
+     "ACH"
+    ]
+   },
+   {
+    "answer": "LEFTOVER",
+    "tiles": [
+     "LE",
+     "FTO",
+     "VER"
+    ]
+   }
+  ],
+  "decoys": [
+   "REAL",
+   "REACH",
+   "REACHED",
+   "SUFFERED",
+   "REFER",
+   "REED",
+   "RENDERED",
+   "SPINAL",
+   "INSURED",
+   "SURREAL",
+   "RENAL",
+   "REIN",
+   "REVERED",
+   "SURFER",
+   "FERAL",
+   "SPED",
+   "LEACH",
+   "INFER",
+   "ALDER",
+   "REGION",
+   "SURVEY",
+   "SPIN",
+   "RENDER",
+   "LEVER",
+   "REGAL"
+  ],
+  "theme_hint": "",
+  "structure": 64.1
+ },
+ {
+  "id": "c037",
+  "answers": [
+   {
+    "answer": "QUARTER",
+    "tiles": [
+     "QU",
+     "AR",
+     "TER"
+    ]
+   },
+   {
+    "answer": "CONTINUUM",
+    "tiles": [
+     "CON",
+     "TIN",
+     "UUM"
+    ]
+   },
+   {
+    "answer": "BELOVED",
+    "tiles": [
+     "BE",
+     "LOV",
+     "ED"
+    ]
+   },
+   {
+    "answer": "LIPSTICK",
+    "tiles": [
+     "LI",
+     "PST",
+     "ICK"
+    ]
+   },
+   {
+    "answer": "STRIVING",
+    "tiles": [
+     "ST",
+     "RIV",
+     "ING"
+    ]
+   },
+   {
+    "answer": "TINKER",
+    "tiles": [
+     "TIN",
+     "KER"
+    ]
+   },
+   {
+    "answer": "RIVALRY",
+    "tiles": [
+     "RIV",
+     "AL",
+     "RY"
+    ]
+   }
+  ],
+  "decoys": [
+   "BEING",
+   "BEST",
+   "LIST",
+   "STAR",
+   "QUICK",
+   "ARRIVED",
+   "STICK",
+   "BEAR",
+   "LISTED",
+   "LOVING",
+   "ARRIVAL",
+   "LISTING",
+   "TERRY",
+   "BEARING",
+   "LIED",
+   "ARRIVING",
+   "STARING",
+   "ALLIED",
+   "ALTER",
+   "ALTERED",
+   "LIAR",
+   "STARTER",
+   "STICKING",
+   "LITERAL",
+   "QUARRY",
+   "STARED",
+   "ALTERING",
+   "LITER",
+   "STALKER",
+   "STARRY",
+   "TINKERING",
+   "LOVED",
+   "RIVAL",
+   "STING"
+  ],
+  "theme_hint": "",
+  "structure": 63.9
+ },
+ {
+  "id": "c038",
+  "answers": [
+   {
+    "answer": "REWRITE",
+    "tiles": [
+     "RE",
+     "WRI",
+     "TE"
+    ]
+   },
+   {
+    "answer": "TRICYCLE",
+    "tiles": [
+     "TRI",
+     "CYC",
+     "LE"
+    ]
+   },
+   {
+    "answer": "MECHANIC",
+    "tiles": [
+     "ME",
+     "CHA",
+     "NIC"
+    ]
+   },
+   {
+    "answer": "CRICKET",
+    "tiles": [
+     "CRI",
+     "CK",
+     "ET"
+    ]
+   },
+   {
+    "answer": "TITANIC",
+    "tiles": [
+     "TI",
+     "TA",
+     "NIC"
+    ]
+   },
+   {
+    "answer": "PREDICTED",
+    "tiles": [
+     "PRE",
+     "DIC",
+     "TED"
+    ]
+   },
+   {
+    "answer": "BUSTLE",
+    "tiles": [
+     "BUS",
+     "TLE"
+    ]
+   }
+  ],
+  "decoys": [
+   "TIME",
+   "MEET",
+   "TITLE",
+   "CRIME",
+   "TICKET",
+   "TRICK",
+   "TALE",
+   "TACKLE",
+   "MERE",
+   "TIRE",
+   "TICK",
+   "BUSTED",
+   "META",
+   "TILE",
+   "DICTATE",
+   "TAME",
+   "MEDIC",
+   "DICTATED",
+   "TACK",
+   "RECYCLE",
+   "TRICKLE",
+   "TICKLE",
+   "WRITE",
+   "CYCLE"
+  ],
+  "theme_hint": "",
+  "structure": 63.9
+ },
+ {
+  "id": "c039",
+  "answers": [
+   {
+    "answer": "CANNON",
+    "tiles": [
+     "CAN",
+     "NON"
+    ]
+   },
+   {
+    "answer": "FORGIVING",
+    "tiles": [
+     "FOR",
+     "GIV",
+     "ING"
+    ]
+   },
+   {
+    "answer": "ENGINEER",
+    "tiles": [
+     "EN",
+     "GIN",
+     "EER"
+    ]
+   },
+   {
+    "answer": "RELATION",
+    "tiles": [
+     "RE",
+     "LAT",
+     "ION"
+    ]
+   },
+   {
+    "answer": "PRECEDENT",
+    "tiles": [
+     "PRE",
+     "CED",
+     "ENT"
+    ]
+   },
+   {
+    "answer": "CONCEPTUAL",
+    "tiles": [
+     "CON",
+     "CE",
+     "PTU",
+     "AL"
+    ]
+   },
+   {
+    "answer": "AVALANCHE",
+    "tiles": [
+     "AVA",
+     "LAN",
+     "CHE"
+    ]
+   }
+  ],
+  "decoys": [
+   "REAL",
+   "GIVEN",
+   "FORCE",
+   "FORCED",
+   "CANAL",
+   "RELATING",
+   "ENFORCE",
+   "LANCE",
+   "ENFORCED",
+   "CEREAL",
+   "PRECEDING",
+   "FORGIVEN",
+   "LATENT",
+   "CONCEDING",
+   "RECEDING",
+   "GIVING",
+   "CONCEAL"
+  ],
+  "theme_hint": "",
+  "structure": 63.8
+ },
+ {
+  "id": "c040",
+  "answers": [
+   {
+    "answer": "PECULIAR",
+    "tiles": [
+     "PEC",
+     "ULI",
+     "AR"
+    ]
+   },
+   {
+    "answer": "CANTER",
+    "tiles": [
+     "CAN",
+     "TER"
+    ]
+   },
+   {
+    "answer": "PUNCHLINE",
+    "tiles": [
+     "PUN",
+     "CHL",
+     "INE"
+    ]
+   },
+   {
+    "answer": "INTENSE",
+    "tiles": [
+     "IN",
+     "TEN",
+     "SE"
+    ]
+   },
+   {
+    "answer": "REASONING",
+    "tiles": [
+     "REA",
+     "SON",
+     "ING"
+    ]
+   },
+   {
+    "answer": "CHEAPER",
+    "tiles": [
+     "CH",
+     "EA",
+     "PER"
+    ]
+   },
+   {
+    "answer": "RECTANGLE",
+    "tiles": [
+     "REC",
+     "TAN",
+     "GLE"
+    ]
+   }
+  ],
+  "decoys": [
+   "PERSON",
+   "AREA",
+   "SEARCH",
+   "REACH",
+   "INCH",
+   "REACHING",
+   "EASE",
+   "PUNCH",
+   "CHARTER",
+   "INTER",
+   "EAGLE",
+   "EATEN",
+   "ARCH",
+   "CHIN",
+   "PUNCHING",
+   "CHAR",
+   "EATER",
+   "ARSON",
+   "CANINE",
+   "REAPER",
+   "SONAR",
+   "CHEATER",
+   "PUNTER",
+   "SEARING",
+   "EACH",
+   "REASON",
+   "TENSE",
+   "PERCH",
+   "TANGLE"
+  ],
+  "theme_hint": "",
+  "structure": 63.7
+ },
+ {
+  "id": "c041",
+  "answers": [
+   {
+    "answer": "THANKFUL",
+    "tiles": [
+     "TH",
+     "ANK",
+     "FUL"
+    ]
+   },
+   {
+    "answer": "MASTERMIND",
+    "tiles": [
+     "MAS",
+     "TE",
+     "RM",
+     "IND"
+    ]
+   },
+   {
+    "answer": "WONDERFUL",
+    "tiles": [
+     "WON",
+     "DER",
+     "FUL"
+    ]
+   },
+   {
+    "answer": "WAITER",
+    "tiles": [
+     "WAI",
+     "TER"
+    ]
+   },
+   {
+    "answer": "DECLINING",
+    "tiles": [
+     "DEC",
+     "LIN",
+     "ING"
+    ]
+   },
+   {
+    "answer": "BLENDER",
+    "tiles": [
+     "BL",
+     "END",
+     "ER"
+    ]
+   },
+   {
+    "answer": "SPLINTER",
+    "tiles": [
+     "SPL",
+     "IN",
+     "TER"
+    ]
+   }
+  ],
+  "decoys": [
+   "THING",
+   "MASTER",
+   "ENDING",
+   "WONDERING",
+   "BLIND",
+   "THIN",
+   "BLANK",
+   "LINER",
+   "THANKING",
+   "BLENDING",
+   "MASTERING",
+   "BLING",
+   "BLINDING",
+   "MASTERFUL",
+   "TETHER",
+   "THANK",
+   "TERM",
+   "WONDER",
+   "INTER",
+   "BLEND",
+   "LINING"
+  ],
+  "theme_hint": "",
+  "structure": 63.3
+ },
+ {
+  "id": "c042",
+  "answers": [
+   {
+    "answer": "REGARDING",
+    "tiles": [
+     "REG",
+     "ARD",
+     "ING"
+    ]
+   },
+   {
+    "answer": "INSTANT",
+    "tiles": [
+     "IN",
+     "ST",
+     "ANT"
+    ]
+   },
+   {
+    "answer": "ATTIC",
+    "tiles": [
+     "ATT",
+     "IC"
+    ]
+   },
+   {
+    "answer": "LIBRARIAN",
+    "tiles": [
+     "LIB",
+     "RAR",
+     "IAN"
+    ]
+   },
+   {
+    "answer": "CANDIDATE",
+    "tiles": [
+     "CAN",
+     "DID",
+     "ATE"
+    ]
+   },
+   {
+    "answer": "LIBERALISM",
+    "tiles": [
+     "LIB",
+     "ER",
+     "AL",
+     "ISM"
+    ]
+   },
+   {
+    "answer": "MINISTER",
+    "tiles": [
+     "MIN",
+     "IS",
+     "TER"
+    ]
+   }
+  ],
+  "decoys": [
+   "STATE",
+   "REGISTER",
+   "MINING",
+   "TERMINAL",
+   "CANAL",
+   "INTER",
+   "ALTER",
+   "MINERAL",
+   "STING",
+   "TERMINATE",
+   "ALTERING",
+   "MINER",
+   "ICING",
+   "REGAL",
+   "LIBERATE",
+   "CANISTER",
+   "RARER",
+   "MINSTER",
+   "STINGER",
+   "LIBERAL",
+   "REGARD",
+   "CANDID"
+  ],
+  "theme_hint": "",
+  "structure": 63.1
+ },
+ {
+  "id": "c043",
+  "answers": [
+   {
+    "answer": "COURTROOM",
+    "tiles": [
+     "COU",
+     "RTR",
+     "OOM"
+    ]
+   },
+   {
+    "answer": "MATTRESS",
+    "tiles": [
+     "MA",
+     "TTR",
+     "ESS"
+    ]
+   },
+   {
+    "answer": "RESTROOM",
+    "tiles": [
+     "RE",
+     "STR",
+     "OOM"
+    ]
+   },
+   {
+    "answer": "VIOLIN",
+    "tiles": [
+     "VIO",
+     "LIN"
+    ]
+   },
+   {
+    "answer": "NOVELIST",
+    "tiles": [
+     "NOV",
+     "ELI",
+     "ST"
+    ]
+   },
+   {
+    "answer": "UPCOMING",
+    "tiles": [
+     "UP",
+     "COM",
+     "ING"
+    ]
+   },
+   {
+    "answer": "INITIATION",
+    "tiles": [
+     "IN",
+     "ITI",
+     "AT",
+     "ION"
+    ]
+   }
+  ],
+  "decoys": [
+   "MAIN",
+   "REST",
+   "STATION",
+   "REMAIN",
+   "STRESS",
+   "STRING",
+   "STATING",
+   "STAT",
+   "INCOMING",
+   "RESTING",
+   "LINING",
+   "STING",
+   "MARE",
+   "MAST",
+   "STRESSING",
+   "REIN",
+   "COMMA",
+   "COMING"
+  ],
+  "theme_hint": "",
+  "structure": 62.7
+ },
+ {
+  "id": "c044",
+  "answers": [
+   {
+    "answer": "MANAGING",
+    "tiles": [
+     "MA",
+     "NAG",
+     "ING"
+    ]
+   },
+   {
+    "answer": "OUTREACH",
+    "tiles": [
+     "OUT",
+     "RE",
+     "ACH"
+    ]
+   },
+   {
+    "answer": "DAYDREAM",
+    "tiles": [
+     "DA",
+     "YDR",
+     "EAM"
+    ]
+   },
+   {
+    "answer": "COMPARABLE",
+    "tiles": [
+     "COM",
+     "PA",
+     "RA",
+     "BLE"
+    ]
+   },
+   {
+    "answer": "COMPUTER",
+    "tiles": [
+     "COM",
+     "PUT",
+     "ER"
+    ]
+   },
+   {
+    "answer": "CHESTNUT",
+    "tiles": [
+     "CHE",
+     "ST",
+     "NUT"
+    ]
+   },
+   {
+    "answer": "GAMBLE",
+    "tiles": [
+     "GAM",
+     "BLE"
+    ]
+   }
+  ],
+  "decoys": [
+   "COMING",
+   "PAST",
+   "REST",
+   "MANAGER",
+   "MASTER",
+   "RARE",
+   "STEAM",
+   "REACHING",
+   "COMPARE",
+   "OUTPUT",
+   "GAMING",
+   "DARE",
+   "OUTER",
+   "COMPUTING",
+   "CHEER",
+   "RESTING",
+   "CHEERING",
+   "STING",
+   "GAMMA",
+   "GAMER",
+   "MARE",
+   "MAST",
+   "BLEACH",
+   "OUTING",
+   "STOUT",
+   "STEAMER",
+   "STEAMING",
+   "ACHING",
+   "COMMA",
+   "RAREST",
+   "BLEACHING",
+   "STINGER",
+   "REACH",
+   "CHEST",
+   "PARABLE"
+  ],
+  "theme_hint": "",
+  "structure": 62.7
+ },
+ {
+  "id": "c045",
+  "answers": [
+   {
+    "answer": "APPLAUSE",
+    "tiles": [
+     "AP",
+     "PLA",
+     "USE"
+    ]
+   },
+   {
+    "answer": "PISTOL",
+    "tiles": [
+     "PIS",
+     "TOL"
+    ]
+   },
+   {
+    "answer": "STEEPLE",
+    "tiles": [
+     "ST",
+     "EEP",
+     "LE"
+    ]
+   },
+   {
+    "answer": "INFORMANT",
+    "tiles": [
+     "INF",
+     "ORM",
+     "ANT"
+    ]
+   },
+   {
+    "answer": "EDUCATOR",
+    "tiles": [
+     "ED",
+     "UCA",
+     "TOR"
+    ]
+   },
+   {
+    "answer": "COMPLIANT",
+    "tiles": [
+     "COM",
+     "PLI",
+     "ANT"
+    ]
+   },
+   {
+    "answer": "STEPPING",
+    "tiles": [
+     "ST",
+     "EPP",
+     "ING"
+    ]
+   }
+  ],
+  "decoys": [
+   "COMING",
+   "APPLIED",
+   "STORM",
+   "INFORMED",
+   "STEPPED",
+   "LEAP",
+   "STAPLE",
+   "INFORMING",
+   "STORMED",
+   "COMPLIED",
+   "LEAPING",
+   "STORMING",
+   "STEEPED",
+   "INFORM",
+   "INFANT",
+   "STEEP",
+   "STING",
+   "LEST"
+  ],
+  "theme_hint": "",
+  "structure": 62.6
+ },
+ {
+  "id": "c046",
+  "answers": [
+   {
+    "answer": "PRINTER",
+    "tiles": [
+     "PR",
+     "IN",
+     "TER"
+    ]
+   },
+   {
+    "answer": "OPTICAL",
+    "tiles": [
+     "OPT",
+     "IC",
+     "AL"
+    ]
+   },
+   {
+    "answer": "WILDERNESS",
+    "tiles": [
+     "WIL",
+     "DE",
+     "RN",
+     "ESS"
+    ]
+   },
+   {
+    "answer": "MAGNET",
+    "tiles": [
+     "MAG",
+     "NET"
+    ]
+   },
+   {
+    "answer": "MAGICIAN",
+    "tiles": [
+     "MAG",
+     "IC",
+     "IAN"
+    ]
+   },
+   {
+    "answer": "BATTALION",
+    "tiles": [
+     "BAT",
+     "TAL",
+     "ION"
+    ]
+   },
+   {
+    "answer": "WANDERING",
+    "tiles": [
+     "WAN",
+     "DER",
+     "ING"
+    ]
+   }
+  ],
+  "decoys": [
+   "DEAL",
+   "PRESS",
+   "INTERNET",
+   "OPTION",
+   "DEALING",
+   "MAGICAL",
+   "MAGNETIC",
+   "PRESSING",
+   "ALTER",
+   "PRICING",
+   "OPTIONAL",
+   "DEBATING",
+   "ALTERING",
+   "BATTER",
+   "ICING",
+   "DETER",
+   "WILDER",
+   "OPTING",
+   "ALDER",
+   "MAGIC",
+   "INTER",
+   "WANDER",
+   "OPTIC",
+   "WANING"
+  ],
+  "theme_hint": "",
+  "structure": 62.4
+ },
+ {
+  "id": "c047",
+  "answers": [
+   {
+    "answer": "BELFRY",
+    "tiles": [
+     "BEL",
+     "FRY"
+    ]
+   },
+   {
+    "answer": "ENVELOPE",
+    "tiles": [
+     "EN",
+     "VEL",
+     "OPE"
+    ]
+   },
+   {
+    "answer": "REPORTEDLY",
+    "tiles": [
+     "RE",
+     "POR",
+     "TED",
+     "LY"
+    ]
+   },
+   {
+    "answer": "TURNOVER",
+    "tiles": [
+     "TUR",
+     "NO",
+     "VER"
+    ]
+   },
+   {
+    "answer": "WINDMILL",
+    "tiles": [
+     "WI",
+     "NDM",
+     "ILL"
+    ]
+   },
+   {
+    "answer": "CATERING",
+    "tiles": [
+     "CA",
+     "TER",
+     "ING"
+    ]
+   },
+   {
+    "answer": "VOLCANO",
+    "tiles": [
+     "VO",
+     "LCA",
+     "NO"
+    ]
+   }
+  ],
+  "decoys": [
+   "CARE",
+   "ENTER",
+   "NOTED",
+   "LYING",
+   "NOVEL",
+   "VOTED",
+   "WIRE",
+   "ENTERING",
+   "REPORTER",
+   "VOTER",
+   "BELLY",
+   "REBEL",
+   "PORTER",
+   "RELYING",
+   "FRYING",
+   "REVERTED",
+   "REVEL",
+   "REPORTED",
+   "RELY",
+   "CATER",
+   "PORTED"
+  ],
+  "theme_hint": "",
+  "structure": 62.0
+ },
+ {
+  "id": "c048",
+  "answers": [
+   {
+    "answer": "PREMIUM",
+    "tiles": [
+     "PRE",
+     "MI",
+     "UM"
+    ]
+   },
+   {
+    "answer": "BISON",
+    "tiles": [
+     "BIS",
+     "ON"
+    ]
+   },
+   {
+    "answer": "PRISONER",
+    "tiles": [
+     "PRI",
+     "SON",
+     "ER"
+    ]
+   },
+   {
+    "answer": "LIGHTHOUSE",
+    "tiles": [
+     "LI",
+     "GHT",
+     "HOU",
+     "SE"
+    ]
+   },
+   {
+    "answer": "GRAPHITE",
+    "tiles": [
+     "GRA",
+     "PHI",
+     "TE"
+    ]
+   },
+   {
+    "answer": "BIOGRAPHY",
+    "tiles": [
+     "BIO",
+     "GRA",
+     "PHY"
+    ]
+   },
+   {
+    "answer": "TOLERANT",
+    "tiles": [
+     "TOL",
+     "ERA",
+     "NT"
+    ]
+   }
+  ],
+  "decoys": [
+   "MIGHT",
+   "PRESENT",
+   "SENT",
+   "GRANT",
+   "PREMIER",
+   "PRINT",
+   "SEMI",
+   "LION",
+   "LIGHTER",
+   "TENT",
+   "PRINTER",
+   "MINT",
+   "TOLERATE",
+   "PREMISE",
+   "MIGRANT",
+   "ERASE",
+   "LITE",
+   "MIGRATE",
+   "MITE",
+   "SEER",
+   "LINT",
+   "HOUSE",
+   "LIGHT",
+   "PRISON",
+   "GRATE"
+  ],
+  "theme_hint": "",
+  "structure": 61.7
+ },
+ {
+  "id": "c049",
+  "answers": [
+   {
+    "answer": "PLUMBER",
+    "tiles": [
+     "PLU",
+     "MB",
+     "ER"
+    ]
+   },
+   {
+    "answer": "CONSTABLE",
+    "tiles": [
+     "CON",
+     "STA",
+     "BLE"
+    ]
+   },
+   {
+    "answer": "PLEASING",
+    "tiles": [
+     "PLE",
+     "AS",
+     "ING"
+    ]
+   },
+   {
+    "answer": "HARMONICA",
+    "tiles": [
+     "HAR",
+     "MON",
+     "ICA"
+    ]
+   },
+   {
+    "answer": "HAZELNUT",
+    "tiles": [
+     "HAZ",
+     "ELN",
+     "UT"
+    ]
+   },
+   {
+    "answer": "PREACH",
+    "tiles": [
+     "PRE",
+     "ACH"
+    ]
+   },
+   {
+    "answer": "PROTESTANT",
+    "tiles": [
+     "PRO",
+     "TE",
+     "STA",
+     "NT"
+    ]
+   }
+  ],
+  "decoys": [
+   "CONTENT",
+   "TEACHER",
+   "TEACHING",
+   "TEACH",
+   "CONSTANT",
+   "PREACHING",
+   "PREACHER",
+   "STAPLE",
+   "PLUMBING",
+   "TEASING",
+   "BLEACH",
+   "TEASER",
+   "ACHING",
+   "ERAS",
+   "TEAS",
+   "BLEACHING",
+   "ERASING",
+   "STATE",
+   "STABLE",
+   "TENT",
+   "PROSTATE",
+   "PLEAS",
+   "PLUMB"
+  ],
+  "theme_hint": "",
+  "structure": 61.4
+ },
+ {
+  "id": "c050",
+  "answers": [
+   {
+    "answer": "APPALLING",
+    "tiles": [
+     "APP",
+     "ALL",
+     "ING"
+    ]
+   },
+   {
+    "answer": "MARMALADE",
+    "tiles": [
+     "MAR",
+     "MAL",
+     "ADE"
+    ]
+   },
+   {
+    "answer": "COCKTAIL",
+    "tiles": [
+     "CO",
+     "CKT",
+     "AIL"
+    ]
+   },
+   {
+    "answer": "MARTIAL",
+    "tiles": [
+     "MAR",
+     "TI",
+     "AL"
+    ]
+   },
+   {
+    "answer": "REHEARSAL",
+    "tiles": [
+     "REH",
+     "EAR",
+     "SAL"
+    ]
+   },
+   {
+    "answer": "SHALLOW",
+    "tiles": [
+     "SH",
+     "ALL",
+     "OW"
+    ]
+   },
+   {
+    "answer": "RENEW",
+    "tiles": [
+     "RE",
+     "NEW"
+    ]
+   }
+  ],
+  "decoys": [
+   "REAL",
+   "SHOWING",
+   "APPEAR",
+   "CORE",
+   "ALLOWING",
+   "COAL",
+   "SHADE",
+   "APPEARING",
+   "TIRE",
+   "MARSH",
+   "MARSHAL",
+   "RENEWAL",
+   "OWING",
+   "SHEAR",
+   "RENEWING",
+   "AILING",
+   "REAPPEAR",
+   "SHOW",
+   "SHALL",
+   "ALLOW"
+  ],
+  "theme_hint": "",
+  "structure": 61.2
+ },
+ {
+  "id": "c051",
+  "answers": [
+   {
+    "answer": "GARGOYLE",
+    "tiles": [
+     "GA",
+     "RGO",
+     "YLE"
+    ]
+   },
+   {
+    "answer": "POSTERIOR",
+    "tiles": [
+     "POS",
+     "TER",
+     "IOR"
+    ]
+   },
+   {
+    "answer": "BUTTON",
+    "tiles": [
+     "BUT",
+     "TON"
+    ]
+   },
+   {
+    "answer": "DEBUTED",
+    "tiles": [
+     "DE",
+     "BUT",
+     "ED"
+    ]
+   },
+   {
+    "answer": "TRADITION",
+    "tiles": [
+     "TRA",
+     "DIT",
+     "ION"
+    ]
+   },
+   {
+    "answer": "JAVELIN",
+    "tiles": [
+     "JAV",
+     "EL",
+     "IN"
+    ]
+   },
+   {
+    "answer": "DISHONEST",
+    "tiles": [
+     "DIS",
+     "HON",
+     "EST"
+    ]
+   }
+  ],
+  "decoys": [
+   "INTEREST",
+   "TRADE",
+   "TRAIN",
+   "GAIN",
+   "INDEED",
+   "TRAINED",
+   "INTERIOR",
+   "GAINED",
+   "BUTTER",
+   "INTER",
+   "POSED",
+   "DISPOSED",
+   "DETER",
+   "TONED",
+   "DEPOSED",
+   "HONED",
+   "HONEST",
+   "DEBUT",
+   "POSTER",
+   "DEED"
+  ],
+  "theme_hint": "",
+  "structure": 61.1
+ },
+ {
+  "id": "c052",
+  "answers": [
+   {
+    "answer": "ATTRIBUTED",
+    "tiles": [
+     "AT",
+     "TRI",
+     "BUT",
+     "ED"
+    ]
+   },
+   {
+    "answer": "SWEETNESS",
+    "tiles": [
+     "SWE",
+     "ETN",
+     "ESS"
+    ]
+   },
+   {
+    "answer": "CHAPTER",
+    "tiles": [
+     "CH",
+     "AP",
+     "TER"
+    ]
+   },
+   {
+    "answer": "TRAILER",
+    "tiles": [
+     "TR",
+     "AIL",
+     "ER"
+    ]
+   },
+   {
+    "answer": "REVERSAL",
+    "tiles": [
+     "REV",
+     "ERS",
+     "AL"
+    ]
+   },
+   {
+    "answer": "SEAMLESS",
+    "tiles": [
+     "SE",
+     "AML",
+     "ESS"
+    ]
+   },
+   {
+    "answer": "CAVERN",
+    "tiles": [
+     "CAV",
+     "ERN"
+    ]
+   }
+  ],
+  "decoys": [
+   "TRIAL",
+   "SEAT",
+   "CHAT",
+   "BUTTER",
+   "REVERSE",
+   "SEED",
+   "TRAP",
+   "SEAL",
+   "SWEAT",
+   "SEALED",
+   "ALTER",
+   "ALTERED",
+   "CHESS",
+   "SEATED",
+   "REVERSED",
+   "SWEATER",
+   "BUTCHER",
+   "TRAILERS",
+   "CHATTER",
+   "BUTCH",
+   "REVERED",
+   "SWEATERS",
+   "TRAILED",
+   "BUTCHERS",
+   "SEER",
+   "CAVED",
+   "TRIED",
+   "TRAIL",
+   "CHAP"
+  ],
+  "theme_hint": "",
+  "structure": 61.0
+ },
+ {
+  "id": "c053",
+  "answers": [
+   {
+    "answer": "PIONEER",
+    "tiles": [
+     "PI",
+     "ONE",
+     "ER"
+    ]
+   },
+   {
+    "answer": "SHRIMP",
+    "tiles": [
+     "SHR",
+     "IMP"
+    ]
+   },
+   {
+    "answer": "STEADY",
+    "tiles": [
+     "STE",
+     "ADY"
+    ]
+   },
+   {
+    "answer": "VETERINARY",
+    "tiles": [
+     "VE",
+     "TER",
+     "IN",
+     "ARY"
+    ]
+   },
+   {
+    "answer": "TANGERINE",
+    "tiles": [
+     "TAN",
+     "GER",
+     "INE"
+    ]
+   },
+   {
+    "answer": "STRAWBERRY",
+    "tiles": [
+     "ST",
+     "RAW",
+     "BER",
+     "RY"
+    ]
+   },
+   {
+    "answer": "THRILLING",
+    "tiles": [
+     "THR",
+     "ILL",
+     "ING"
+    ]
+   }
+  ],
+  "decoys": [
+   "VERY",
+   "STILL",
+   "STONE",
+   "INVEST",
+   "TERRY",
+   "THRONE",
+   "STEERING",
+   "THRILLER",
+   "STING",
+   "SHRINE",
+   "VEST",
+   "STEER",
+   "STEIN",
+   "VEER",
+   "INSTILL",
+   "STINGER",
+   "INTER",
+   "STRAW",
+   "BERRY",
+   "PIER",
+   "VEIN",
+   "THRILL"
+  ],
+  "theme_hint": "",
+  "structure": 60.9
+ },
+ {
+  "id": "c054",
+  "answers": [
+   {
+    "answer": "ARTICHOKE",
+    "tiles": [
+     "ART",
+     "ICH",
+     "OKE"
+    ]
+   },
+   {
+    "answer": "TEACHING",
+    "tiles": [
+     "TE",
+     "ACH",
+     "ING"
+    ]
+   },
+   {
+    "answer": "SWAMP",
+    "tiles": [
+     "SW",
+     "AMP"
+    ]
+   },
+   {
+    "answer": "STOMACH",
+    "tiles": [
+     "ST",
+     "OMA",
+     "CH"
+    ]
+   },
+   {
+    "answer": "TEAMWORK",
+    "tiles": [
+     "TE",
+     "AMW",
+     "ORK"
+    ]
+   },
+   {
+    "answer": "ANALYTICAL",
+    "tiles": [
+     "AN",
+     "ALY",
+     "TIC",
+     "AL"
+    ]
+   },
+   {
+    "answer": "HOMEWORK",
+    "tiles": [
+     "HO",
+     "MEW",
+     "ORK"
+    ]
+   }
+  ],
+  "decoys": [
+   "START",
+   "TEST",
+   "STARTING",
+   "HOST",
+   "TECH",
+   "TESTING",
+   "CHART",
+   "SWING",
+   "HOSTING",
+   "STAMP",
+   "ANALYST",
+   "CHAMP",
+   "SWAN",
+   "STING",
+   "STOKE",
+   "CHOKE",
+   "ANTE",
+   "TEAL",
+   "CHARTING",
+   "STAMPING",
+   "TEACH",
+   "ANAL",
+   "ANALYTIC",
+   "ACHING"
+  ],
+  "theme_hint": "",
+  "structure": 60.7
+ },
+ {
+  "id": "c055",
+  "answers": [
+   {
+    "answer": "MUSTARD",
+    "tiles": [
+     "MU",
+     "ST",
+     "ARD"
+    ]
+   },
+   {
+    "answer": "REVOLVER",
+    "tiles": [
+     "RE",
+     "VOL",
+     "VER"
+    ]
+   },
+   {
+    "answer": "YESTERDAY",
+    "tiles": [
+     "YES",
+     "TER",
+     "DAY"
+    ]
+   },
+   {
+    "answer": "SURGEON",
+    "tiles": [
+     "SUR",
+     "GE",
+     "ON"
+    ]
+   },
+   {
+    "answer": "CONFESSION",
+    "tiles": [
+     "CON",
+     "FES",
+     "SI",
+     "ON"
+    ]
+   },
+   {
+    "answer": "COMET",
+    "tiles": [
+     "COM",
+     "ET"
+    ]
+   },
+   {
+    "answer": "SURVEYING",
+    "tiles": [
+     "SUR",
+     "VEY",
+     "ING"
+    ]
+   }
+  ],
+  "decoys": [
+   "COMING",
+   "STREET",
+   "REST",
+   "VERSION",
+   "RESIST",
+   "CONSIST",
+   "RESTING",
+   "CONVEY",
+   "STING",
+   "VERGE",
+   "COMMUTER",
+   "SIRE",
+   "CONVERTER",
+   "CONVERGE",
+   "CONVEYING",
+   "ONCOMING",
+   "MUST",
+   "SURVEY",
+   "SURGE"
+  ],
+  "theme_hint": "",
+  "structure": 60.4
+ },
+ {
+  "id": "c056",
+  "answers": [
+   {
+    "answer": "SCORING",
+    "tiles": [
+     "SC",
+     "OR",
+     "ING"
+    ]
+   },
+   {
+    "answer": "CATHEDRAL",
+    "tiles": [
+     "CAT",
+     "HED",
+     "RAL"
+    ]
+   },
+   {
+    "answer": "CAMPFIRE",
+    "tiles": [
+     "CAM",
+     "PFI",
+     "RE"
+    ]
+   },
+   {
+    "answer": "UNILATERAL",
+    "tiles": [
+     "UN",
+     "ILA",
+     "TER",
+     "AL"
+    ]
+   },
+   {
+    "answer": "PENDULUM",
+    "tiles": [
+     "PEN",
+     "DU",
+     "LUM"
+    ]
+   },
+   {
+    "answer": "PREACHER",
+    "tiles": [
+     "PRE",
+     "ACH",
+     "ER"
+    ]
+   },
+   {
+    "answer": "PROPER",
+    "tiles": [
+     "PRO",
+     "PER"
+    ]
+   }
+  ],
+  "decoys": [
+   "REAL",
+   "REACH",
+   "REACHING",
+   "DUAL",
+   "ORAL",
+   "PREACHING",
+   "CATERING",
+   "SCALING",
+   "SCORER",
+   "ALTERING",
+   "UNREAL",
+   "CATER",
+   "PENAL",
+   "ACHING",
+   "CAMPER",
+   "REPROACH",
+   "ALTER",
+   "PREACH"
+  ],
+  "theme_hint": "",
+  "structure": 60.2
+ },
+ {
+  "id": "c057",
+  "answers": [
+   {
+    "answer": "ORPHANAGE",
+    "tiles": [
+     "ORP",
+     "HAN",
+     "AGE"
+    ]
+   },
+   {
+    "answer": "BRISTLE",
+    "tiles": [
+     "BRI",
+     "ST",
+     "LE"
+    ]
+   },
+   {
+    "answer": "SPOTLIGHT",
+    "tiles": [
+     "SPO",
+     "TLI",
+     "GHT"
+    ]
+   },
+   {
+    "answer": "BRINGING",
+    "tiles": [
+     "BRI",
+     "NG",
+     "ING"
+    ]
+   },
+   {
+    "answer": "EARLIER",
+    "tiles": [
+     "EAR",
+     "LI",
+     "ER"
+    ]
+   },
+   {
+    "answer": "MANTLE",
+    "tiles": [
+     "MAN",
+     "TLE"
+    ]
+   },
+   {
+    "answer": "THROTTLE",
+    "tiles": [
+     "TH",
+     "ROT",
+     "TLE"
+    ]
+   }
+  ],
+  "decoys": [
+   "THING",
+   "LIGHT",
+   "LIST",
+   "STAGE",
+   "EARTH",
+   "LENGTH",
+   "BRIGHT",
+   "MANAGE",
+   "LISTING",
+   "LIGHTING",
+   "LIGHTER",
+   "STING",
+   "BRIGHTER",
+   "AGEING",
+   "LINGER",
+   "STINGER",
+   "BRING",
+   "ORPHAN",
+   "LEST"
+  ],
+  "theme_hint": "",
+  "structure": 60.1
+ },
+ {
+  "id": "c058",
+  "answers": [
+   {
+    "answer": "REFEREE",
+    "tiles": [
+     "RE",
+     "FER",
+     "EE"
+    ]
+   },
+   {
+    "answer": "STRETCHER",
+    "tiles": [
+     "STR",
+     "ETC",
+     "HER"
+    ]
+   },
+   {
+    "answer": "GRANTING",
+    "tiles": [
+     "GRA",
+     "NT",
+     "ING"
+    ]
+   },
+   {
+    "answer": "ZIPPER",
+    "tiles": [
+     "ZIP",
+     "PER"
+    ]
+   },
+   {
+    "answer": "CONGESTION",
+    "tiles": [
+     "CO",
+     "NGE",
+     "ST",
+     "ION"
+    ]
+   },
+   {
+    "answer": "CONVENIENT",
+    "tiles": [
+     "CON",
+     "VE",
+     "NI",
+     "ENT"
+    ]
+   },
+   {
+    "answer": "NEARER",
+    "tiles": [
+     "NEA",
+     "RER"
+    ]
+   }
+  ],
+  "decoys": [
+   "REST",
+   "CONTENT",
+   "CORE",
+   "RENT",
+   "STRING",
+   "GRAVE",
+   "REVENGE",
+   "NEAREST",
+   "RESTING",
+   "STING",
+   "VENT",
+   "VEST",
+   "COSTING",
+   "COVE",
+   "COHERENT",
+   "RENTING",
+   "CONVENT",
+   "STRINGENT",
+   "GRANGE",
+   "CONT",
+   "CONFER",
+   "VENTING",
+   "FERVENT",
+   "STEEPER",
+   "COST",
+   "GRANT",
+   "REFER"
+  ],
+  "theme_hint": "",
+  "structure": 60.0
+ },
+ {
+  "id": "c059",
+  "answers": [
+   {
+    "answer": "WRESTLE",
+    "tiles": [
+     "WRE",
+     "ST",
+     "LE"
+    ]
+   },
+   {
+    "answer": "CONFESS",
+    "tiles": [
+     "CON",
+     "FE",
+     "SS"
+    ]
+   },
+   {
+    "answer": "COALITION",
+    "tiles": [
+     "COA",
+     "LIT",
+     "ION"
+    ]
+   },
+   {
+    "answer": "RISING",
+    "tiles": [
+     "RIS",
+     "ING"
+    ]
+   },
+   {
+    "answer": "PAMPHLET",
+    "tiles": [
+     "PA",
+     "MPH",
+     "LET"
+    ]
+   },
+   {
+    "answer": "CROSSWORD",
+    "tiles": [
+     "CRO",
+     "SSW",
+     "ORD"
+    ]
+   },
+   {
+    "answer": "DISORDER",
+    "tiles": [
+     "DIS",
+     "ORD",
+     "ER"
+    ]
+   }
+  ],
+  "decoys": [
+   "LESS",
+   "PAST",
+   "PASS",
+   "CROSS",
+   "COAST",
+   "PASSING",
+   "PASSION",
+   "CROSSING",
+   "LESSER",
+   "PALE",
+   "PASSWORD",
+   "ORDERING",
+   "STING",
+   "FEST",
+   "COASTER",
+   "LITER",
+   "PASSER",
+   "STINGER",
+   "ORDER",
+   "LEST"
+  ],
+  "theme_hint": "",
+  "structure": 59.2
+ },
+ {
+  "id": "c060",
+  "answers": [
+   {
+    "answer": "PERFORMER",
+    "tiles": [
+     "PER",
+     "FOR",
+     "MER"
+    ]
+   },
+   {
+    "answer": "SUBSTRATE",
+    "tiles": [
+     "SUB",
+     "STR",
+     "ATE"
+    ]
+   },
+   {
+    "answer": "HERMIT",
+    "tiles": [
+     "HER",
+     "MIT"
+    ]
+   },
+   {
+    "answer": "SMUGGLER",
+    "tiles": [
+     "SMU",
+     "GG",
+     "LER"
+    ]
+   },
+   {
+    "answer": "CREATURE",
+    "tiles": [
+     "CRE",
+     "ATU",
+     "RE"
+    ]
+   },
+   {
+    "answer": "EXPLOITING",
+    "tiles": [
+     "EX",
+     "PL",
+     "OIT",
+     "ING"
+    ]
+   },
+   {
+    "answer": "FLANNEL",
+    "tiles": [
+     "FL",
+     "ANN",
+     "EL"
+    ]
+   }
+  ],
+  "decoys": [
+   "CREATE",
+   "PLANNING",
+   "PLATE",
+   "STRING",
+   "SUBMIT",
+   "PERMIT",
+   "FLEX",
+   "REEL",
+   "RECREATE",
+   "ANNEX",
+   "REFLEX",
+   "FLING",
+   "REFORMER",
+   "REELING",
+   "REMIT",
+   "FLEXING",
+   "FORMER",
+   "EXPLOIT"
+  ],
+  "theme_hint": "",
+  "structure": 56.4
+ },
+ {
+  "id": "c061",
+  "answers": [
+   {
+    "answer": "SUPPER",
+    "tiles": [
+     "SUP",
+     "PER"
+    ]
+   },
+   {
+    "answer": "RIPPLE",
+    "tiles": [
+     "RIP",
+     "PLE"
+    ]
+   },
+   {
+    "answer": "RESTRAINED",
+    "tiles": [
+     "RE",
+     "STR",
+     "AIN",
+     "ED"
+    ]
+   },
+   {
+    "answer": "MIDNIGHT",
+    "tiles": [
+     "MI",
+     "DNI",
+     "GHT"
+    ]
+   },
+   {
+    "answer": "STAGNANT",
+    "tiles": [
+     "ST",
+     "AGN",
+     "ANT"
+    ]
+   },
+   {
+    "answer": "DISTRIBUTE",
+    "tiles": [
+     "DI",
+     "STR",
+     "IBU",
+     "TE"
+    ]
+   },
+   {
+    "answer": "PROCESSOR",
+    "tiles": [
+     "PRO",
+     "CES",
+     "SOR"
+    ]
+   }
+  ],
+  "decoys": [
+   "REST",
+   "DIED",
+   "TEST",
+   "PROPER",
+   "TESTED",
+   "PROTEST",
+   "STRIP",
+   "DISTANT",
+   "STAINED",
+   "STAIN",
+   "MIST",
+   "DIRE",
+   "RESTED",
+   "STRIPED",
+   "RIPPER",
+   "MITE",
+   "REPLETE",
+   "MIGHT",
+   "STRAIN",
+   "REED",
+   "STRAINED",
+   "RESTRAIN"
+  ],
+  "theme_hint": "",
+  "structure": 55.2
+ },
+ {
+  "id": "c062",
+  "answers": [
+   {
+    "answer": "SPOOKY",
+    "tiles": [
+     "SPO",
+     "OKY"
+    ]
+   },
+   {
+    "answer": "SLAUGHTER",
+    "tiles": [
+     "SLA",
+     "UGH",
+     "TER"
+    ]
+   },
+   {
+    "answer": "LLAMA",
+    "tiles": [
+     "LLA",
+     "MA"
+    ]
+   },
+   {
+    "answer": "DECLARED",
+    "tiles": [
+     "DE",
+     "CLA",
+     "RED"
+    ]
+   },
+   {
+    "answer": "WATERPROOF",
+    "tiles": [
+     "WA",
+     "TE",
+     "RPR",
+     "OOF"
+    ]
+   },
+   {
+    "answer": "SENATOR",
+    "tiles": [
+     "SE",
+     "NA",
+     "TOR"
+    ]
+   },
+   {
+    "answer": "CAPITALIST",
+    "tiles": [
+     "CA",
+     "PIT",
+     "AL",
+     "IST"
+    ]
+   }
+  ],
+  "decoys": [
+   "MADE",
+   "CASE",
+   "WATER",
+   "DEAL",
+   "SENATE",
+   "MATE",
+   "SEAL",
+   "CARED",
+   "ALTER",
+   "ALTERED",
+   "WADE",
+   "WAIST",
+   "SLATE",
+   "CATER",
+   "DETER",
+   "WATERED",
+   "TEAL",
+   "CATERED",
+   "ALOOF",
+   "DETERRED",
+   "CAPITAL"
+  ],
+  "theme_hint": "",
+  "structure": 52.2
+ }
+]
