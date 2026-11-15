@@ -1,3 +1,4 @@
+/// <reference types="expo/types" />
 import rawPuzzles from '../content/puzzles.json';
 
 export interface ClueAnswer {
@@ -11,6 +12,8 @@ export interface PuzzleDef {
   title: string;
   theme: string;
   clueAnswers: ClueAnswer[];
+  /** 'generated' (ours, committed) or 'borrowed' (sourced online, private). */
+  source?: string;
 }
 
 export interface Chunk {
@@ -43,4 +46,13 @@ export function buildPuzzle(def: PuzzleDef): Puzzle {
   return { def, chunks: shuffle(allChunks) };
 }
 
-export const PUZZLE_DEFS: PuzzleDef[] = rawPuzzles;
+// Sourced-online puzzles live in content/private/ (gitignored) and load only if present.
+const privateCtx = require.context('../content/private', false, /\.json$/);
+const privatePuzzles: PuzzleDef[] = privateCtx.keys().flatMap(key => privateCtx(key) as PuzzleDef[]);
+
+export const PUZZLE_DEFS: PuzzleDef[] = [
+  ...rawPuzzles.map(p => ({ ...p, source: 'generated' })),
+  ...privatePuzzles.map(p => ({ ...p, source: 'borrowed' })),
+];
+
+export const isBorrowed = (def: PuzzleDef) => def.source === 'borrowed';
