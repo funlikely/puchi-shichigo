@@ -1,5 +1,6 @@
 import React from 'react';
 import { StyleSheet, Text, TouchableOpacity, View } from 'react-native';
+import { Colors, useStyles } from '../theme';
 
 interface Props {
   chunkTexts: string[];
@@ -10,6 +11,7 @@ interface Props {
 // One row: assembled word on the left, Clear/Submit on the right.
 // Buttons are always rendered (hidden when empty) so the layout never shifts.
 export function WordBuilder({ chunkTexts, onClear, onSubmit }: Props) {
+  const styles = useStyles(makeStyles);
   const hasChunks = chunkTexts.length > 0;
   return (
     <View style={styles.container}>
@@ -36,13 +38,13 @@ export function WordBuilder({ chunkTexts, onClear, onSubmit }: Props) {
   );
 }
 
-const styles = StyleSheet.create({
+const makeStyles = (c: Colors) => StyleSheet.create({
   container: {
     flexDirection: 'row',
     alignItems: 'center',
     paddingHorizontal: 12,
     height: 54,
-    backgroundColor: '#EEEAE0',
+    backgroundColor: c.builderBg,
     borderRadius: 10,
     marginTop: 5,
     marginBottom: 10,
@@ -52,7 +54,7 @@ const styles = StyleSheet.create({
     flex: 1,
     fontSize: 21,
     fontWeight: '800',
-    color: '#222',
+    color: c.text,
     letterSpacing: 2,
   },
   buttons: {
@@ -62,23 +64,23 @@ const styles = StyleSheet.create({
   clearBtn: {
     paddingHorizontal: 12,
     paddingVertical: 8,
-    backgroundColor: '#C8C4BC',
+    backgroundColor: c.clearBtn,
     borderRadius: 8,
   },
   clearText: {
     fontSize: 14,
-    color: '#444',
+    color: c.textSecondary,
     fontWeight: '600',
   },
   submitBtn: {
     paddingHorizontal: 14,
     paddingVertical: 8,
-    backgroundColor: '#4A90D9',
+    backgroundColor: c.accent,
     borderRadius: 8,
   },
   submitText: {
     fontSize: 14,
-    color: '#fff',
+    color: c.onAccent,
     fontWeight: '700',
   },
   invisible: {

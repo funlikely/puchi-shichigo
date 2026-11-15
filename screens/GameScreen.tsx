@@ -8,6 +8,7 @@ import {
   TouchableOpacity,
   View,
 } from 'react-native';
+import { Colors, useStyles, useTheme } from '../theme';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { ChunkTile } from '../components/ChunkTile';
 import { ClueRow } from '../components/ClueRow';
@@ -23,6 +24,8 @@ interface Props {
 }
 
 export function GameScreen({ puzzleDef, onBack, onComplete }: Props) {
+  const styles = useStyles(makeStyles);
+  const { mode } = useTheme();
   const {
     puzzle, state, selectClue, tapChunk, clearSelection, submitAnswer, shuffleChunks, isComplete,
   } =
@@ -47,7 +50,7 @@ export function GameScreen({ puzzleDef, onBack, onComplete }: Props) {
 
   return (
     <SafeAreaView style={styles.safe}>
-      <StatusBar style="dark" />
+      <StatusBar style={mode === 'dark' ? 'light' : 'dark'} />
 
       <View style={styles.header}>
         <TouchableOpacity onPress={onBack} style={styles.backBtn} hitSlop={12}>
@@ -115,10 +118,10 @@ export function GameScreen({ puzzleDef, onBack, onComplete }: Props) {
   );
 }
 
-const styles = StyleSheet.create({
+const makeStyles = (c: Colors) => StyleSheet.create({
   safe: {
     flex: 1,
-    backgroundColor: '#FAF8F3',
+    backgroundColor: c.bg,
   },
   header: {
     flexDirection: 'row',
@@ -126,14 +129,14 @@ const styles = StyleSheet.create({
     paddingHorizontal: 16,
     paddingVertical: 8,
     borderBottomWidth: 1,
-    borderBottomColor: '#EBEBEB',
+    borderBottomColor: c.border,
   },
   backBtn: {
     marginRight: 12,
   },
   backText: {
     fontSize: 15,
-    color: '#4A90D9',
+    color: c.accent,
     fontWeight: '600',
   },
   shuffleBtn: {
@@ -141,12 +144,12 @@ const styles = StyleSheet.create({
     paddingHorizontal: 12,
     paddingVertical: 6,
     borderRadius: 8,
-    backgroundColor: '#E0D8C8',
+    backgroundColor: c.tile,
   },
   shuffleText: {
     fontSize: 14,
     fontWeight: '700',
-    color: '#444',
+    color: c.textSecondary,
   },
   headerTitles: {
     flex: 1,
@@ -154,14 +157,14 @@ const styles = StyleSheet.create({
   headerRound: {
     fontSize: 12,
     fontWeight: '700',
-    color: '#AAA',
+    color: c.textFainter,
     letterSpacing: 1,
     textTransform: 'uppercase',
   },
   headerTheme: {
     fontSize: 17,
     fontWeight: '700',
-    color: '#444',
+    color: c.textSecondary,
   },
   scroll: {
     flexGrow: 1,
@@ -189,16 +192,16 @@ const styles = StyleSheet.create({
     height: 260,
     borderRadius: 16,
     marginBottom: 6,
-    backgroundColor: '#EEE',
+    backgroundColor: c.imagePlaceholder,
   },
   winText: {
     fontSize: 28,
     fontWeight: '800',
-    color: '#222',
+    color: c.text,
   },
   winSub: {
     fontSize: 15,
-    color: '#999',
+    color: c.textFaint,
     marginBottom: 8,
   },
   menuBtn: {
@@ -206,11 +209,11 @@ const styles = StyleSheet.create({
     paddingHorizontal: 32,
     paddingVertical: 14,
     borderRadius: 12,
-    backgroundColor: '#4A90D9',
+    backgroundColor: c.accent,
   },
   menuBtnText: {
     fontSize: 16,
     fontWeight: '700',
-    color: '#fff',
+    color: c.onAccent,
   },
 });

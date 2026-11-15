@@ -7,6 +7,7 @@ import {
   TouchableOpacity,
   View,
 } from 'react-native';
+import { Colors, useStyles, useTheme } from '../theme';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { RoundStatus } from '../App';
 import { isBorrowed, PUZZLE_DEFS, PuzzleDef } from '../data/puzzles';
@@ -16,9 +17,15 @@ interface Props {
   roundStatuses: Record<number, RoundStatus>;
 }
 
-const STATUS_BG   = { completed: '#5CB85C', attempted: '#F5C518', none: '#fff' } as const;
-const STATUS_TEXT = { completed: '#fff',    attempted: '#333',    none: '#222' } as const;
-const STATUS_SUB  = { completed: 'rgba(255,255,255,0.8)', attempted: '#7A6000', none: '#AAA' } as const;
+type StatusKey = RoundStatus | 'none';
+
+// Card/row colors per round status: background, main text, secondary text.
+const statusColors = (c: Colors, key: StatusKey) =>
+  ({
+    completed: { bg: c.success, text: c.onAccent, sub: c.onAccentSub, number: c.onAccent },
+    attempted: { bg: c.warn, text: c.onWarn, sub: c.onWarnSub, number: c.onWarnSub },
+    none: { bg: c.surface, text: c.text, sub: c.textFainter, number: c.textNumber },
+  })[key];
 
 function GridCard({
   def,
@@ -31,16 +38,14 @@ function GridCard({
   status?: RoundStatus;
   onPress: () => void;
 }) {
-  const key = status ?? 'none';
-  const bg   = STATUS_BG[key];
-  const text = STATUS_TEXT[key];
-  const sub  = STATUS_SUB[key];
+  const styles = useStyles(makeStyles);
+  const { colors } = useTheme();
+  const sc = statusColors(colors, status ?? 'none');
   const isCompleted = status === 'completed';
-  const isColored = status != null;
 
   return (
-    <TouchableOpacity style={[styles.card, { backgroundColor: bg }]} onPress={onPress} activeOpacity={0.8}>
-      <Text style={[styles.number, { color: isCompleted ? '#fff' : isColored ? '#7A6000' : '#555' }]}>
+    <TouchableOpacity style={[styles.card, { backgroundColor: sc.bg }]} onPress={onPress} activeOpacity={0.8}>
+      <Text style={[styles.number, { color: sc.number }]}>
         {index + 1}
       </Text>
       {isCompleted && <Text style={styles.check}>✓</Text>}
@@ -60,6 +65,7 @@ function Toggle<T extends string>({
   value: T;
   onChange: (v: T) => void;
 }) {
+  const styles = useStyles(makeStyles);
   return (
     <View style={styles.toggle}>
       {options.map(o => (
@@ -86,21 +92,23 @@ function ListRow({
   status?: RoundStatus;
   onPress: () => void;
 }) {
-  const key = status ?? 'none';
+  const styles = useStyles(makeStyles);
+  const { colors } = useTheme();
+  const sc = statusColors(colors, status ?? 'none');
   const showTheme = !isBorrowed(def) && def.theme && def.theme !== 'Mixed';
   return (
     <TouchableOpacity
-      style={[styles.row, { backgroundColor: STATUS_BG[key] }]}
+      style={[styles.row, { backgroundColor: sc.bg }]}
       onPress={onPress}
       activeOpacity={0.8}
     >
-      <Text style={[styles.rowNumber, { color: STATUS_SUB[key] }]}>{index + 1}</Text>
+      <Text style={[styles.rowNumber, { color: sc.sub }]}>{index + 1}</Text>
       <View style={styles.rowTitles}>
-        <Text style={[styles.rowTitle, { color: STATUS_TEXT[key] }]} numberOfLines={1}>
+        <Text style={[styles.rowTitle, { color: sc.text }]} numberOfLines={1}>
           {def.title}
         </Text>
         {showTheme ? (
-          <Text style={[styles.rowTheme, { color: STATUS_SUB[key] }]} numberOfLines={1}>
+          <Text style={[styles.rowTheme, { color: sc.sub }]} numberOfLines={1}>
             {def.theme}
           </Text>
         ) : null}
@@ -111,6 +119,8 @@ function ListRow({
 }
 
 export function HomeScreen({ onSelectPuzzle, roundStatuses }: Props) {
+  const styles = useStyles(makeStyles);
+  const { mode, toggle } = useTheme();
   const [view, setView] = useState<View_>('numbers');
   const [tab, setTab] = useState<SourceTab>('generated');
 
@@ -122,6 +132,9 @@ export function HomeScreen({ onSelectPuzzle, roundStatuses }: Props) {
   const header = (
     <>
       <View style={styles.header}>
+        <TouchableOpacity onPress={toggle} style={styles.themeBtn} hitSlop={12}>
+          <Text style={styles.themeText}>{mode === 'dark' ? '☀ Light' : '☾ Dark'}</Text>
+        </TouchableOpacity>
         <Text style={styles.title}>puchi-shichigo</Text>
         <Text style={styles.subtitle}>Word chunk puzzles</Text>
       </View>
@@ -187,10 +200,10 @@ export function HomeScreen({ onSelectPuzzle, roundStatuses }: Props) {
   );
 }
 
-const styles = StyleSheet.create({
+const makeStyles = (c: Colors) => StyleSheet.create({
   safe: {
     flex: 1,
-    backgroundColor: '#FAF8F3',
+    backgroundColor: c.bg,
   },
   scroll: {
     padding: 16,
@@ -200,9 +213,22 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     marginBottom: 20,
   },
+  themeBtn: {
+    alignSelf: 'flex-end',
+    paddingHorizontal: 12,
+    paddingVertical: 6,
+    borderRadius: 8,
+    backgroundColor: c.surfaceMuted,
+    marginBottom: 8,
+  },
+  themeText: {
+    fontSize: 13,
+    fontWeight: '700',
+    color: c.textSecondary,
+  },
   toggle: {
     flexDirection: 'row',
-    backgroundColor: '#EDEDEB',
+    backgroundColor: c.surfaceMuted,
     borderRadius: 10,
     padding: 3,
     marginBottom: 12,
@@ -214,8 +240,8 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   toggleBtnOn: {
-    backgroundColor: '#fff',
-    shadowColor: '#000',
+    backgroundColor: c.toggleOn,
+    shadowColor: c.shadow,
     shadowOffset: { width: 0, height: 1 },
     shadowOpacity: 0.1,
     shadowRadius: 2,
@@ -224,10 +250,10 @@ const styles = StyleSheet.create({
   toggleText: {
     fontSize: 14,
     fontWeight: '600',
-    color: '#888',
+    color: c.textToggle,
   },
   toggleTextOn: {
-    color: '#222',
+    color: c.text,
   },
   row: {
     flexDirection: 'row',
@@ -236,7 +262,7 @@ const styles = StyleSheet.create({
     paddingVertical: 11,
     borderRadius: 10,
     marginBottom: 6,
-    shadowColor: '#000',
+    shadowColor: c.shadow,
     shadowOffset: { width: 0, height: 1 },
     shadowOpacity: 0.06,
     shadowRadius: 2,
@@ -261,24 +287,24 @@ const styles = StyleSheet.create({
   rowCheck: {
     fontSize: 14,
     fontWeight: '800',
-    color: '#fff',
+    color: c.onAccent,
     marginLeft: 8,
   },
   title: {
     fontSize: 26,
     fontWeight: '800',
-    color: '#222',
+    color: c.text,
     letterSpacing: 1,
     marginBottom: 4,
   },
   subtitle: {
     fontSize: 14,
-    color: '#999',
+    color: c.textFaint,
   },
   sectionLabel: {
     fontSize: 11,
     fontWeight: '700',
-    color: '#BBB',
+    color: c.textFaintest,
     letterSpacing: 1.5,
     textTransform: 'uppercase',
     marginBottom: 10,
@@ -294,7 +320,7 @@ const styles = StyleSheet.create({
     borderRadius: 10,
     justifyContent: 'center',
     alignItems: 'center',
-    shadowColor: '#000',
+    shadowColor: c.shadow,
     shadowOffset: { width: 0, height: 1 },
     shadowOpacity: 0.08,
     shadowRadius: 3,
@@ -310,6 +336,6 @@ const styles = StyleSheet.create({
     right: 6,
     fontSize: 10,
     fontWeight: '800',
-    color: 'rgba(255,255,255,0.8)',
+    color: c.onAccentSub,
   },
 });

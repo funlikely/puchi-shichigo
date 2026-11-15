@@ -1,5 +1,6 @@
 import React from 'react';
 import { StyleSheet, Text, TouchableOpacity } from 'react-native';
+import { Colors, useStyles } from '../theme';
 
 type TileState = 'normal' | 'selected' | 'used';
 
@@ -10,6 +11,7 @@ interface Props {
 }
 
 export function ChunkTile({ text, tileState, onPress }: Props) {
+  const styles = useStyles(makeStyles);
   return (
     <TouchableOpacity
       style={[styles.tile, styles[tileState]]}
@@ -22,7 +24,7 @@ export function ChunkTile({ text, tileState, onPress }: Props) {
   );
 }
 
-const styles = StyleSheet.create({
+const makeStyles = (c: Colors) => StyleSheet.create({
   // 5 columns: 5 x (18.4% + 2 x 0.8%) = 100%
   tile: {
     width: '18.4%',
@@ -32,14 +34,14 @@ const styles = StyleSheet.create({
     borderRadius: 8,
     alignItems: 'center',
   },
-  normal:   { backgroundColor: '#E0D8C8' },
-  selected: { backgroundColor: '#4A90D9' },
-  used:     { backgroundColor: '#D0D0D0' },
+  normal:   { backgroundColor: c.tile },
+  selected: { backgroundColor: c.accent },
+  used:     { backgroundColor: c.tileUsed },
   text: {
     fontSize: 16,
     fontWeight: '700',
-    color: '#222',
+    color: c.text,
     letterSpacing: 1,
   },
-  usedText: { color: '#999' },
+  usedText: { color: c.tileUsedText },
 });

@@ -1,5 +1,6 @@
 import React from 'react';
 import { StyleSheet, Text, TouchableOpacity } from 'react-native';
+import { Colors, useStyles } from '../theme';
 
 interface Props {
   index: number;
@@ -11,6 +12,7 @@ interface Props {
 }
 
 export function ClueRow({ index, clue, answer, isSolved, isActive, onPress }: Props) {
+  const styles = useStyles(makeStyles);
   const light = isActive || isSolved;
   return (
     <TouchableOpacity
@@ -33,7 +35,7 @@ export function ClueRow({ index, clue, answer, isSolved, isActive, onPress }: Pr
   );
 }
 
-const styles = StyleSheet.create({
+const makeStyles = (c: Colors) => StyleSheet.create({
   row: {
     flexDirection: 'row',
     alignItems: 'center',
@@ -41,32 +43,32 @@ const styles = StyleSheet.create({
     paddingVertical: 8,
     borderRadius: 8,
     marginBottom: 5,
-    backgroundColor: '#EDEDEB',
+    backgroundColor: c.surfaceMuted,
   },
-  active: { backgroundColor: '#4A90D9' },
-  solved: { backgroundColor: '#5CB85C' },
+  active: { backgroundColor: c.accent },
+  solved: { backgroundColor: c.success },
   index: {
     width: 22,
     fontSize: 13,
     fontWeight: '600',
-    color: '#777',
+    color: c.textMuted,
   },
   clue: {
     flex: 1,
     marginRight: 8,
     fontSize: 14,
-    color: '#333',
+    color: c.textBody,
   },
   answer: {
     fontSize: 14,
     fontWeight: '700',
-    color: '#333',
+    color: c.textBody,
     letterSpacing: 1,
   },
   letterCount: {
     fontSize: 13,
     fontWeight: '600',
-    color: '#777',
+    color: c.textMuted,
   },
-  lightText: { color: '#fff' },
+  lightText: { color: c.onAccent },
 });
