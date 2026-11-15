@@ -2,7 +2,7 @@ import { useCallback, useState } from 'react';
 import { buildPuzzle, Puzzle, PuzzleDef } from '../data/puzzles';
 
 export interface GameState {
-  activeClueIndex: number;
+  activeClueIndex: number | null; // null until the player taps a clue
   selectedChunkIds: number[];
   solved: boolean[];
   solvedChunkIds: Set<number>;
@@ -12,7 +12,7 @@ export function useGameState(def: PuzzleDef) {
   const [puzzle] = useState<Puzzle>(() => buildPuzzle(def));
 
   const [state, setState] = useState<GameState>(() => ({
-    activeClueIndex: 0,
+    activeClueIndex: null,
     selectedChunkIds: [],
     solved: new Array(def.clueAnswers.length).fill(false),
     solvedChunkIds: new Set<number>(),
@@ -27,7 +27,7 @@ export function useGameState(def: PuzzleDef) {
 
   const tapChunk = useCallback((chunkId: number) => {
     setState(prev => {
-      if (prev.solvedChunkIds.has(chunkId)) return prev;
+      if (prev.activeClueIndex === null || prev.solvedChunkIds.has(chunkId)) return prev;
       if (prev.selectedChunkIds.includes(chunkId)) {
         return { ...prev, selectedChunkIds: prev.selectedChunkIds.filter(id => id !== chunkId) };
       }
@@ -41,7 +41,7 @@ export function useGameState(def: PuzzleDef) {
 
   const submitAnswer = useCallback(() => {
     setState(prev => {
-      if (prev.selectedChunkIds.length === 0) return prev;
+      if (prev.activeClueIndex === null || prev.selectedChunkIds.length === 0) return prev;
 
       const builtWord = prev.selectedChunkIds
         .map(id => puzzle.chunks.find(c => c.id === id)!.text)
@@ -57,14 +57,9 @@ export function useGameState(def: PuzzleDef) {
       const newSolvedChunkIds = new Set(prev.solvedChunkIds);
       prev.selectedChunkIds.forEach(id => newSolvedChunkIds.add(id));
 
-      let nextActive = prev.activeClueIndex;
-      for (let i = 1; i <= puzzle.def.clueAnswers.length; i++) {
-        const next = (prev.activeClueIndex + i) % puzzle.def.clueAnswers.length;
-        if (!newSolved[next]) { nextActive = next; break; }
-      }
-
+      // No auto-advance: the player picks the next clue themselves.
       return {
-        activeClueIndex: nextActive,
+        activeClueIndex: null,
         selectedChunkIds: [],
         solved: newSolved,
         solvedChunkIds: newSolvedChunkIds,

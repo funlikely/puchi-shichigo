@@ -1,13 +1,13 @@
 import { StatusBar } from 'expo-status-bar';
 import React, { useEffect } from 'react';
 import {
-  SafeAreaView,
   ScrollView,
   StyleSheet,
   Text,
   TouchableOpacity,
   View,
 } from 'react-native';
+import { SafeAreaView } from 'react-native-safe-area-context';
 import { ChunkTile } from '../components/ChunkTile';
 import { ClueRow } from '../components/ClueRow';
 import { WordBuilder } from '../components/WordBuilder';
@@ -63,8 +63,6 @@ export function GameScreen({ puzzleDef, onBack, onComplete }: Props) {
         </View>
       ) : (
         <ScrollView contentContainerStyle={styles.scroll}>
-          <Text style={styles.hint}>Tap any clue to select it, then tap tiles to spell the answer</Text>
-
           <View style={styles.clues}>
             {puzzle.def.clueAnswers.map((ca, i) => (
               <ClueRow
@@ -110,7 +108,7 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     paddingHorizontal: 16,
-    paddingVertical: 12,
+    paddingVertical: 8,
     borderBottomWidth: 1,
     borderBottomColor: '#EBEBEB',
   },
@@ -138,23 +136,15 @@ const styles = StyleSheet.create({
     color: '#444',
   },
   scroll: {
-    padding: 16,
-    paddingTop: 16,
+    flexGrow: 1,
+    paddingHorizontal: 12,
+    paddingTop: 10,
+    paddingBottom: 12,
   },
-  hint: {
-    fontSize: 13,
-    color: '#999',
-    textAlign: 'center',
-    marginBottom: 14,
-  },
-  clues: {
-    marginBottom: 4,
-  },
+  clues: {},
   chunkGrid: {
     flexDirection: 'row',
     flexWrap: 'wrap',
-    justifyContent: 'center',
-    marginTop: 4,
   },
   winScreen: {
     flex: 1,

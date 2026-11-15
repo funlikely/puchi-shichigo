@@ -19,7 +19,7 @@ export function ClueRow({ index, clue, answer, isSolved, isActive, onPress }: Pr
       activeOpacity={0.7}
     >
       <Text style={[styles.index, light && styles.lightText]}>{index + 1}</Text>
-      <Text style={[styles.clue, light && styles.lightText]} numberOfLines={1}>
+      <Text style={[styles.clue, light && styles.lightText]} numberOfLines={2}>
         {clue}
       </Text>
       <Text style={[styles.answer, light && styles.lightText]}>
@@ -33,10 +33,10 @@ const styles = StyleSheet.create({
   row: {
     flexDirection: 'row',
     alignItems: 'center',
-    paddingHorizontal: 16,
-    paddingVertical: 11,
+    paddingHorizontal: 12,
+    paddingVertical: 8,
     borderRadius: 8,
-    marginBottom: 6,
+    marginBottom: 5,
     backgroundColor: '#EDEDEB',
   },
   active: { backgroundColor: '#4A90D9' },
@@ -49,11 +49,12 @@ const styles = StyleSheet.create({
   },
   clue: {
     flex: 1,
-    fontSize: 15,
+    marginRight: 8,
+    fontSize: 14,
     color: '#333',
   },
   answer: {
-    fontSize: 15,
+    fontSize: 14,
     fontWeight: '700',
     color: '#333',
     letterSpacing: 1,

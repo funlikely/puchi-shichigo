@@ -23,12 +23,13 @@ export function ChunkTile({ text, tileState, onPress }: Props) {
 }
 
 const styles = StyleSheet.create({
+  // 5 columns: 5 x (18.4% + 2 x 0.8%) = 100%
   tile: {
-    paddingHorizontal: 16,
-    paddingVertical: 11,
+    width: '18.4%',
+    marginHorizontal: '0.8%',
+    marginBottom: 7,
+    paddingVertical: 12,
     borderRadius: 8,
-    margin: 4,
-    minWidth: 64,
     alignItems: 'center',
   },
   normal:   { backgroundColor: '#E0D8C8' },

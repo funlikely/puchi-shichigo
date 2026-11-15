@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { Platform, StyleSheet, View } from 'react-native';
+import { SafeAreaProvider } from 'react-native-safe-area-context';
 import { PUZZLE_DEFS } from './data/puzzles';
 import { GameScreen } from './screens/GameScreen';
 import { HomeScreen } from './screens/HomeScreen';
@@ -24,26 +25,28 @@ export default function App() {
     setRoundStatuses(prev => ({ ...prev, [index]: 'completed' }));
 
   return (
-    <View style={styles.root}>
-      <View style={styles.phone}>
-        {screen === 'home' ? (
-          <HomeScreen
-            roundStatuses={roundStatuses}
-            onSelectPuzzle={index => {
-              markAttempted(index);
-              setPuzzleIndex(index);
-              setScreen('game');
-            }}
-          />
-        ) : (
-          <GameScreen
-            puzzleDef={PUZZLE_DEFS[puzzleIndex]}
-            onBack={() => setScreen('home')}
-            onComplete={() => markCompleted(puzzleIndex)}
-          />
-        )}
+    <SafeAreaProvider>
+      <View style={styles.root}>
+        <View style={styles.phone}>
+          {screen === 'home' ? (
+            <HomeScreen
+              roundStatuses={roundStatuses}
+              onSelectPuzzle={index => {
+                markAttempted(index);
+                setPuzzleIndex(index);
+                setScreen('game');
+              }}
+            />
+          ) : (
+            <GameScreen
+              puzzleDef={PUZZLE_DEFS[puzzleIndex]}
+              onBack={() => setScreen('home')}
+              onComplete={() => markCompleted(puzzleIndex)}
+            />
+          )}
+        </View>
       </View>
-    </View>
+    </SafeAreaProvider>
   );
 }
 
