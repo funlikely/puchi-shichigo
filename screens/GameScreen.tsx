@@ -1,6 +1,7 @@
 import { StatusBar } from 'expo-status-bar';
-import React, { useEffect } from 'react';
+import React, { useEffect, useMemo } from 'react';
 import {
+  Image,
   ScrollView,
   StyleSheet,
   Text,
@@ -13,6 +14,7 @@ import { ClueRow } from '../components/ClueRow';
 import { WordBuilder } from '../components/WordBuilder';
 import { PuzzleDef } from '../data/puzzles';
 import { useGameState } from '../hooks/useGameState';
+import { randomWinImage } from '../data/winImages';
 
 interface Props {
   puzzleDef: PuzzleDef;
@@ -27,6 +29,9 @@ export function GameScreen({ puzzleDef, onBack, onComplete }: Props) {
   useEffect(() => {
     if (isComplete) onComplete();
   }, [isComplete]);
+
+  // Picked once per solve so it doesn't change on re-render.
+  const winImage = useMemo(() => (isComplete ? randomWinImage() : null), [isComplete]);
 
   const selectedTexts = state.selectedChunkIds.map(
     id => puzzle.chunks.find(c => c.id === id)!.text
@@ -54,7 +59,11 @@ export function GameScreen({ puzzleDef, onBack, onComplete }: Props) {
 
       {isComplete ? (
         <View style={styles.winScreen}>
-          <Text style={styles.winEmoji}>🎉</Text>
+          {winImage ? (
+            <Image source={winImage} style={styles.winImage} resizeMode="cover" />
+          ) : (
+            <Text style={styles.winEmoji}>🎉</Text>
+          )}
           <Text style={styles.winText}>You solved it!</Text>
           <Text style={styles.winSub}>{puzzleDef.title} · {puzzleDef.theme}</Text>
           <TouchableOpacity style={styles.menuBtn} onPress={onBack}>
@@ -155,6 +164,13 @@ const styles = StyleSheet.create({
   },
   winEmoji: {
     fontSize: 64,
+  },
+  winImage: {
+    width: 260,
+    height: 260,
+    borderRadius: 16,
+    marginBottom: 6,
+    backgroundColor: '#EEE',
   },
   winText: {
     fontSize: 28,
