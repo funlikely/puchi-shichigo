@@ -1,0 +1,3124 @@
+[
+  {
+    "id": "round241",
+    "title": "Round 241",
+    "theme": "Word Nerd",
+    "clueAnswers": [
+      {
+        "clue": "Blue-green paint pigment",
+        "answer": "VIRIDIAN",
+        "chunkTexts": [
+          "VIR",
+          "ID",
+          "IAN"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Spoiling for a war",
+        "answer": "BELLICOSE",
+        "chunkTexts": [
+          "BEL",
+          "LIC",
+          "OSE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Baggy-trousered old fool of commedia",
+        "answer": "PANTALOON",
+        "chunkTexts": [
+          "PAN",
+          "TAL",
+          "OON"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Chew it over, literally",
+        "answer": "MASTICATE",
+        "chunkTexts": [
+          "MAS",
+          "TIC",
+          "ATE"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "Showy but worthless stuff",
+        "answer": "TRUMPERY",
+        "chunkTexts": [
+          "TRUM",
+          "PERY"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Saying the same thing twice twice",
+        "answer": "TAUTOLOGY",
+        "chunkTexts": [
+          "TAU",
+          "TOL",
+          "OGY"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "Quack with a con to sell",
+        "answer": "CHARLATAN",
+        "chunkTexts": [
+          "CHAR",
+          "LA",
+          "TAN"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-008",
+    "category": "mixed",
+    "candidateId": "N04",
+    "scores": {
+      "decoys": 2.7,
+      "tempting_pairs": 1.2,
+      "shared_fragments": 10.0,
+      "anchor_balance": 7.3,
+      "shape": 10.0,
+      "word_appeal": 14.0,
+      "penalties": -11.5,
+      "structure": 33.7,
+      "clue_rating": 18.2,
+      "clue_variety": 8.0,
+      "clue_puns": 6.0,
+      "clue_penalties": 0.0,
+      "clues": 32.2,
+      "structure_scaled": 21.1,
+      "total": 53.3
+    }
+  },
+  {
+    "id": "round242",
+    "title": "Round 242",
+    "theme": "Word Nerd",
+    "clueAnswers": [
+      {
+        "clue": "Cheeky upstart, once a pet monkey",
+        "answer": "JACKANAPES",
+        "chunkTexts": [
+          "JAC",
+          "KAN",
+          "APES"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Mournful to the point of comedy",
+        "answer": "LUGUBRIOUS",
+        "chunkTexts": [
+          "LUG",
+          "UBRI",
+          "OUS"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Kiss, or touch curves, formally",
+        "answer": "OSCULATE",
+        "chunkTexts": [
+          "OS",
+          "CUL",
+          "ATE"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Hiccup, if you're a doctor",
+        "answer": "SINGULTUS",
+        "chunkTexts": [
+          "SIN",
+          "GUL",
+          "TUS"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Insolent, scornful abuse",
+        "answer": "CONTUMELY",
+        "chunkTexts": [
+          "CON",
+          "TUM",
+          "ELY"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Notes scribbled on the edges",
+        "answer": "MARGINALIA",
+        "chunkTexts": [
+          "MAR",
+          "GIN",
+          "ALIA"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Horn that gives and gives",
+        "answer": "CORNUCOPIA",
+        "chunkTexts": [
+          "COR",
+          "NUC",
+          "OPIA"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-008",
+    "category": "mixed",
+    "candidateId": "N05",
+    "scores": {
+      "decoys": 0.5,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 6.2,
+      "anchor_balance": 7.1,
+      "shape": 10.0,
+      "word_appeal": 14.0,
+      "penalties": -10.9,
+      "structure": 27.3,
+      "clue_rating": 20.4,
+      "clue_variety": 8.0,
+      "clue_puns": 3.0,
+      "clue_penalties": 0.0,
+      "clues": 31.4,
+      "structure_scaled": 17.1,
+      "total": 48.5
+    }
+  },
+  {
+    "id": "round243",
+    "title": "Round 243",
+    "theme": "Word Nerd",
+    "clueAnswers": [
+      {
+        "clue": "Yawning, for the long-winded",
+        "answer": "OSCITATION",
+        "chunkTexts": [
+          "OSCI",
+          "TAT",
+          "ION"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "___-piggledy",
+        "answer": "HIGGLEDY",
+        "chunkTexts": [
+          "HIG",
+          "GLE",
+          "DY"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 3
+      },
+      {
+        "clue": "Plot device everyone's chasing",
+        "answer": "MACGUFFIN",
+        "chunkTexts": [
+          "MAC",
+          "GUF",
+          "FIN"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Sneaky harm creeping in slowly",
+        "answer": "INSIDIOUS",
+        "chunkTexts": [
+          "INS",
+          "IDI",
+          "OUS"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Shining radiantly",
+        "answer": "REFULGENT",
+        "chunkTexts": [
+          "REF",
+          "UL",
+          "GENT"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Long, tedious procedure",
+        "answer": "RIGMAROLE",
+        "chunkTexts": [
+          "RIG",
+          "MAR",
+          "OLE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Glacier's leftover rubble",
+        "answer": "MORAINE",
+        "chunkTexts": [
+          "MORA",
+          "INE"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-008",
+    "category": "mixed",
+    "candidateId": "N14",
+    "scores": {
+      "decoys": 2.7,
+      "tempting_pairs": 0.8,
+      "shared_fragments": 5.0,
+      "anchor_balance": 7.2,
+      "shape": 12.0,
+      "word_appeal": 14.0,
+      "penalties": -10.1,
+      "structure": 31.6,
+      "clue_rating": 13.9,
+      "clue_variety": 8.0,
+      "clue_puns": 6.0,
+      "clue_penalties": 0.0,
+      "clues": 27.9,
+      "structure_scaled": 19.8,
+      "total": 47.7
+    }
+  },
+  {
+    "id": "round244",
+    "title": "Round 244",
+    "theme": "Word Nerd",
+    "clueAnswers": [
+      {
+        "clue": "Accent mark, like a tilde",
+        "answer": "DIACRITIC",
+        "chunkTexts": [
+          "DIA",
+          "CRI",
+          "TIC"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Waffle between options",
+        "answer": "VACILLATE",
+        "chunkTexts": [
+          "VAC",
+          "ILL",
+          "ATE"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Belch, put politely",
+        "answer": "ERUCTATION",
+        "chunkTexts": [
+          "ER",
+          "UCTA",
+          "TION"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Wholesome and health-giving",
+        "answer": "SALUBRIOUS",
+        "chunkTexts": [
+          "SALU",
+          "BRI",
+          "OUS"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Tip or bribe, in the bazaar",
+        "answer": "BAKSHEESH",
+        "chunkTexts": [
+          "BAK",
+          "SHE",
+          "ESH"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Error clung to despite correction",
+        "answer": "MUMPSIMUS",
+        "chunkTexts": [
+          "MUM",
+          "PSI",
+          "MUS"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Sheer enough to see through",
+        "answer": "DIAPHANOUS",
+        "chunkTexts": [
+          "DIA",
+          "PHAN",
+          "OUS"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-008",
+    "category": "mixed",
+    "candidateId": "N25",
+    "scores": {
+      "decoys": 3.1,
+      "tempting_pairs": 1.2,
+      "shared_fragments": 7.5,
+      "anchor_balance": 7.4,
+      "shape": 9.0,
+      "word_appeal": 14.0,
+      "penalties": -9.9,
+      "structure": 32.3,
+      "clue_rating": 20.4,
+      "clue_variety": 4.0,
+      "clue_puns": 3.0,
+      "clue_penalties": 0.0,
+      "clues": 27.4,
+      "structure_scaled": 20.2,
+      "total": 47.6
+    }
+  },
+  {
+    "id": "round245",
+    "title": "Round 245",
+    "theme": "Word Nerd",
+    "clueAnswers": [
+      {
+        "clue": "Harmful in a sneaky, gradual way",
+        "answer": "PERNICIOUS",
+        "chunkTexts": [
+          "PER",
+          "NICI",
+          "OUS"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Lone hill rising from a plain",
+        "answer": "INSELBERG",
+        "chunkTexts": [
+          "IN",
+          "SEL",
+          "BERG"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Little hat over the e in fete",
+        "answer": "CIRCUMFLEX",
+        "chunkTexts": [
+          "CIR",
+          "CUM",
+          "FLEX"
+        ],
+        "clueType": "evocative",
+        "clueRating": 5
+      },
+      {
+        "clue": "Philosophy that it's all about you",
+        "answer": "SOLIPSISM",
+        "chunkTexts": [
+          "SOL",
+          "IPS",
+          "ISM"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Dress down, severely",
+        "answer": "CASTIGATE",
+        "chunkTexts": [
+          "CAS",
+          "TIG",
+          "ATE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Drowsy enough to drop off",
+        "answer": "SOMNOLENT",
+        "chunkTexts": [
+          "SOM",
+          "NOL",
+          "ENT"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Comic four-line biographical verse",
+        "answer": "CLERIHEW",
+        "chunkTexts": [
+          "CLE",
+          "RI",
+          "HEW"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-008",
+    "category": "mixed",
+    "candidateId": "N06",
+    "scores": {
+      "decoys": 2.4,
+      "tempting_pairs": 2.0,
+      "shared_fragments": 3.8,
+      "anchor_balance": 7.1,
+      "shape": 10.0,
+      "word_appeal": 14.0,
+      "penalties": -10.8,
+      "structure": 28.4,
+      "clue_rating": 18.2,
+      "clue_variety": 8.0,
+      "clue_puns": 3.0,
+      "clue_penalties": 0.0,
+      "clues": 29.2,
+      "structure_scaled": 17.8,
+      "total": 47.0
+    }
+  },
+  {
+    "id": "round246",
+    "title": "Round 246",
+    "theme": "Word Nerd",
+    "clueAnswers": [
+      {
+        "clue": "Berate abusively",
+        "answer": "VITUPERATE",
+        "chunkTexts": [
+          "VIT",
+          "UPER",
+          "ATE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Persian governor's province",
+        "answer": "SATRAPY",
+        "chunkTexts": [
+          "SAT",
+          "RAPY"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Plot's final untangling",
+        "answer": "DENOUEMENT",
+        "chunkTexts": [
+          "DEN",
+          "OUE",
+          "MENT"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "For the initiated only",
+        "answer": "ESOTERIC",
+        "chunkTexts": [
+          "ESO",
+          "TER",
+          "IC"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Scaly anteater that rolls up",
+        "answer": "PANGOLIN",
+        "chunkTexts": [
+          "PAN",
+          "GOL",
+          "IN"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Tons of soil for sons of toil",
+        "answer": "SPOONERISM",
+        "chunkTexts": [
+          "SPO",
+          "ONER",
+          "ISM"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 5
+      },
+      {
+        "clue": "Sparkle, like wit at its best",
+        "answer": "CORUSCATE",
+        "chunkTexts": [
+          "COR",
+          "US",
+          "CATE"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-008",
+    "category": "mixed",
+    "candidateId": "N26",
+    "scores": {
+      "decoys": 5.7,
+      "tempting_pairs": 2.0,
+      "shared_fragments": 0.0,
+      "anchor_balance": 7.5,
+      "shape": 9.0,
+      "word_appeal": 14.0,
+      "penalties": -14.0,
+      "structure": 24.1,
+      "clue_rating": 20.4,
+      "clue_variety": 8.0,
+      "clue_puns": 3.0,
+      "clue_penalties": 0.0,
+      "clues": 31.4,
+      "structure_scaled": 15.1,
+      "total": 46.5
+    }
+  },
+  {
+    "id": "round247",
+    "title": "Round 247",
+    "theme": "Word Nerd",
+    "clueAnswers": [
+      {
+        "clue": "Public disgrace; strong abuse",
+        "answer": "OBLOQUY",
+        "chunkTexts": [
+          "OBLO",
+          "QUY"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Craft of gluing cutouts and varnish",
+        "answer": "DECOUPAGE",
+        "chunkTexts": [
+          "DEC",
+          "OUP",
+          "AGE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Two dots that split naive vowels",
+        "answer": "DIAERESIS",
+        "chunkTexts": [
+          "DIA",
+          "ERE",
+          "SIS"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Soft whisper of rustling leaves",
+        "answer": "SUSURRUS",
+        "chunkTexts": [
+          "SUS",
+          "UR",
+          "RUS"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Dusty blue-green, like a cabbage leaf",
+        "answer": "GLAUCOUS",
+        "chunkTexts": [
+          "GLA",
+          "UC",
+          "OUS"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Oily, in charm as well as texture",
+        "answer": "UNCTUOUS",
+        "chunkTexts": [
+          "UNC",
+          "TU",
+          "OUS"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Quack who climbed on a bench",
+        "answer": "MOUNTEBANK",
+        "chunkTexts": [
+          "MOUN",
+          "TEB",
+          "ANK"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-008",
+    "category": "mixed",
+    "candidateId": "N13",
+    "scores": {
+      "decoys": 0.0,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 7.5,
+      "anchor_balance": 4.7,
+      "shape": 12.0,
+      "word_appeal": 14.0,
+      "penalties": -15.9,
+      "structure": 22.7,
+      "clue_rating": 18.2,
+      "clue_variety": 8.0,
+      "clue_puns": 6.0,
+      "clue_penalties": 0.0,
+      "clues": 32.2,
+      "structure_scaled": 14.2,
+      "total": 46.4
+    }
+  },
+  {
+    "id": "round248",
+    "title": "Round 248",
+    "theme": "Word Nerd",
+    "clueAnswers": [
+      {
+        "clue": "Books from print's cradle days",
+        "answer": "INCUNABULA",
+        "chunkTexts": [
+          "INCU",
+          "NAB",
+          "ULA"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Building with a beautiful view",
+        "answer": "BELVEDERE",
+        "chunkTexts": [
+          "BEL",
+          "VED",
+          "ERE"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Showy frill on a dress",
+        "answer": "FURBELOW",
+        "chunkTexts": [
+          "FUR",
+          "BE",
+          "LOW"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Password that betrays outsiders",
+        "answer": "SHIBBOLETH",
+        "chunkTexts": [
+          "SHIB",
+          "BOL",
+          "ETH"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Emotional purge, Greek-tragedy style",
+        "answer": "CATHARSIS",
+        "chunkTexts": [
+          "CAT",
+          "HAR",
+          "SIS"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Nonsense that sounds fishy",
+        "answer": "CODSWALLOP",
+        "chunkTexts": [
+          "COD",
+          "SWAL",
+          "LOP"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Messy and unkempt",
+        "answer": "SLOVENLY",
+        "chunkTexts": [
+          "SLO",
+          "VEN",
+          "LY"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-008",
+    "category": "mixed",
+    "candidateId": "N08",
+    "scores": {
+      "decoys": 3.9,
+      "tempting_pairs": 0.8,
+      "shared_fragments": 3.8,
+      "anchor_balance": 7.3,
+      "shape": 10.0,
+      "word_appeal": 14.0,
+      "penalties": -12.4,
+      "structure": 27.3,
+      "clue_rating": 18.2,
+      "clue_variety": 8.0,
+      "clue_puns": 3.0,
+      "clue_penalties": 0.0,
+      "clues": 29.2,
+      "structure_scaled": 17.1,
+      "total": 46.3
+    }
+  },
+  {
+    "id": "round249",
+    "title": "Round 249",
+    "theme": "Word Nerd",
+    "clueAnswers": [
+      {
+        "clue": "Thingamajig whose name escapes you",
+        "answer": "DOOHICKEY",
+        "chunkTexts": [
+          "DOO",
+          "HIC",
+          "KEY"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Bearcat that smells like popcorn",
+        "answer": "BINTURONG",
+        "chunkTexts": [
+          "BIN",
+          "TUR",
+          "ONG"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "Relentless; can't be stopped",
+        "answer": "INEXORABLE",
+        "chunkTexts": [
+          "INEX",
+          "ORA",
+          "BLE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Commotion over nothing much",
+        "answer": "KERFUFFLE",
+        "chunkTexts": [
+          "KER",
+          "FUF",
+          "FLE"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Windbag who never stops",
+        "answer": "BLOVIATOR",
+        "chunkTexts": [
+          "BLO",
+          "VIA",
+          "TOR"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Writing desk with flair",
+        "answer": "ESCRITOIRE",
+        "chunkTexts": [
+          "ES",
+          "CRIT",
+          "OIRE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Make unclear, deliberately",
+        "answer": "OBFUSCATE",
+        "chunkTexts": [
+          "OB",
+          "FUS",
+          "CATE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-008",
+    "category": "mixed",
+    "candidateId": "N19",
+    "scores": {
+      "decoys": 7.0,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 6.2,
+      "anchor_balance": 7.1,
+      "shape": 8.3,
+      "word_appeal": 14.0,
+      "penalties": -10.5,
+      "structure": 32.1,
+      "clue_rating": 16.1,
+      "clue_variety": 8.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 24.1,
+      "structure_scaled": 20.1,
+      "total": 44.2
+    }
+  },
+  {
+    "id": "round250",
+    "title": "Round 250",
+    "theme": "Word Nerd",
+    "clueAnswers": [
+      {
+        "clue": "Treacherous, faithless",
+        "answer": "PERFIDIOUS",
+        "chunkTexts": [
+          "PER",
+          "FID",
+          "IOUS"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Verbal diarrhea, clinically",
+        "answer": "LOGORRHEA",
+        "chunkTexts": [
+          "LOG",
+          "ORR",
+          "HEA"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Remark critically upon",
+        "answer": "ANIMADVERT",
+        "chunkTexts": [
+          "ANI",
+          "MAD",
+          "VERT"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "'Kiss this guy' for 'kiss the sky'",
+        "answer": "MONDEGREEN",
+        "chunkTexts": [
+          "MON",
+          "DEG",
+          "REEN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "Just begun, not yet formed",
+        "answer": "INCHOATE",
+        "chunkTexts": [
+          "IN",
+          "CHO",
+          "ATE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Aggressively defiant",
+        "answer": "TRUCULENT",
+        "chunkTexts": [
+          "TRU",
+          "CUL",
+          "ENT"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Appease, as angry gods",
+        "answer": "PROPITIATE",
+        "chunkTexts": [
+          "PROP",
+          "ITI",
+          "ATE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-008",
+    "category": "mixed",
+    "candidateId": "N27",
+    "scores": {
+      "decoys": 3.4,
+      "tempting_pairs": 2.4,
+      "shared_fragments": 2.5,
+      "anchor_balance": 7.4,
+      "shape": 10.0,
+      "word_appeal": 14.0,
+      "penalties": -9.0,
+      "structure": 30.7,
+      "clue_rating": 13.9,
+      "clue_variety": 8.0,
+      "clue_puns": 3.0,
+      "clue_penalties": 0.0,
+      "clues": 24.9,
+      "structure_scaled": 19.2,
+      "total": 44.1
+    }
+  },
+  {
+    "id": "round251",
+    "title": "Round 251",
+    "theme": "Word Nerd",
+    "clueAnswers": [
+      {
+        "clue": "Gad about for fun",
+        "answer": "GALLIVANT",
+        "chunkTexts": [
+          "GAL",
+          "LIV",
+          "ANT"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Mistress of the castle keys",
+        "answer": "CHATELAINE",
+        "chunkTexts": [
+          "CHA",
+          "TEL",
+          "AINE"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Nose-wrinklingly foul",
+        "answer": "MALODOROUS",
+        "chunkTexts": [
+          "MAL",
+          "ODOR",
+          "OUS"
+        ],
+        "clueType": "evocative",
+        "clueRating": 3
+      },
+      {
+        "clue": "Dawdle when you should be working",
+        "answer": "LOLLYGAG",
+        "chunkTexts": [
+          "LOL",
+          "LY",
+          "GAG"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Wood-inlay art on furniture",
+        "answer": "MARQUETRY",
+        "chunkTexts": [
+          "MAR",
+          "QUE",
+          "TRY"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Cuddle and kiss, not cook pasta",
+        "answer": "CANOODLE",
+        "chunkTexts": [
+          "CANO",
+          "ODLE"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Well, actually... fussy about details",
+        "answer": "PEDANTIC",
+        "chunkTexts": [
+          "PED",
+          "ANT",
+          "IC"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-008",
+    "category": "mixed",
+    "candidateId": "N11",
+    "scores": {
+      "decoys": 0.0,
+      "tempting_pairs": 0.8,
+      "shared_fragments": 6.2,
+      "anchor_balance": 7.1,
+      "shape": 10.0,
+      "word_appeal": 14.0,
+      "penalties": -11.1,
+      "structure": 27.0,
+      "clue_rating": 16.1,
+      "clue_variety": 8.0,
+      "clue_puns": 3.0,
+      "clue_penalties": 0.0,
+      "clues": 27.1,
+      "structure_scaled": 16.9,
+      "total": 44.0
+    }
+  },
+  {
+    "id": "round252",
+    "title": "Round 252",
+    "theme": "Word Nerd",
+    "clueAnswers": [
+      {
+        "clue": "Embarrassing tangle of a situation",
+        "answer": "IMBROGLIO",
+        "chunkTexts": [
+          "IMB",
+          "ROG",
+          "LIO"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Foodie with a fancier title",
+        "answer": "GASTRONOME",
+        "chunkTexts": [
+          "GAS",
+          "TRO",
+          "NOME"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Nonsense; also a frilly trifle",
+        "answer": "FOLDEROL",
+        "chunkTexts": [
+          "FOL",
+          "DER",
+          "OL"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Seeing patterns where none exist",
+        "answer": "APOPHENIA",
+        "chunkTexts": [
+          "APO",
+          "PHE",
+          "NIA"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Groove between your nose and lip",
+        "answer": "PHILTRUM",
+        "chunkTexts": [
+          "PHIL",
+          "TRUM"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Three dots for when words fail",
+        "answer": "ELLIPSIS",
+        "chunkTexts": [
+          "EL",
+          "LIP",
+          "SIS"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Hide true feelings; put on a front",
+        "answer": "DISSEMBLE",
+        "chunkTexts": [
+          "DIS",
+          "SEM",
+          "BLE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-008",
+    "category": "mixed",
+    "candidateId": "N03",
+    "scores": {
+      "decoys": 2.0,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 2.5,
+      "anchor_balance": 7.4,
+      "shape": 11.0,
+      "word_appeal": 14.0,
+      "penalties": -11.1,
+      "structure": 26.3,
+      "clue_rating": 16.1,
+      "clue_variety": 8.0,
+      "clue_puns": 3.0,
+      "clue_penalties": 0.0,
+      "clues": 27.1,
+      "structure_scaled": 16.4,
+      "total": 43.5
+    }
+  },
+  {
+    "id": "round253",
+    "title": "Round 253",
+    "theme": "Word Nerd",
+    "clueAnswers": [
+      {
+        "clue": "Peevish and bad-tempered",
+        "answer": "SPLENETIC",
+        "chunkTexts": [
+          "SPLE",
+          "NE",
+          "TIC"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Smooth-talking ladies' man",
+        "answer": "LOTHARIO",
+        "chunkTexts": [
+          "LOT",
+          "HA",
+          "RIO"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Snooze through summer",
+        "answer": "AESTIVATE",
+        "chunkTexts": [
+          "AES",
+          "TIV",
+          "ATE"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "High row of church windows",
+        "answer": "CLERESTORY",
+        "chunkTexts": [
+          "CLE",
+          "RES",
+          "TORY"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Redundancy, like 'free gift'",
+        "answer": "PLEONASM",
+        "chunkTexts": [
+          "PLE",
+          "ON",
+          "ASM"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Speak in weasel words",
+        "answer": "EQUIVOCATE",
+        "chunkTexts": [
+          "EQUI",
+          "VOC",
+          "ATE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Unintelligible babble",
+        "answer": "GIBBERISH",
+        "chunkTexts": [
+          "GIB",
+          "BER",
+          "ISH"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-008",
+    "category": "mixed",
+    "candidateId": "N30",
+    "scores": {
+      "decoys": 3.7,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 6.2,
+      "anchor_balance": 7.2,
+      "shape": 9.3,
+      "word_appeal": 14.0,
+      "penalties": -16.5,
+      "structure": 24.3,
+      "clue_rating": 13.9,
+      "clue_variety": 8.0,
+      "clue_puns": 6.0,
+      "clue_penalties": 0.0,
+      "clues": 27.9,
+      "structure_scaled": 15.2,
+      "total": 43.1
+    }
+  },
+  {
+    "id": "round254",
+    "title": "Round 254",
+    "theme": "Word Nerd",
+    "clueAnswers": [
+      {
+        "clue": "Make uneasy; throw off balance",
+        "answer": "DISCOMFIT",
+        "chunkTexts": [
+          "DIS",
+          "COM",
+          "FIT"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Stinkbird with clawed chicks",
+        "answer": "HOATZIN",
+        "chunkTexts": [
+          "HOAT",
+          "ZIN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Warmth of the winter sun",
+        "answer": "APRICITY",
+        "chunkTexts": [
+          "AP",
+          "RIC",
+          "ITY"
+        ],
+        "clueType": "evocative",
+        "clueRating": 5
+      },
+      {
+        "clue": "Outline faintly; foreshadow",
+        "answer": "ADUMBRATE",
+        "chunkTexts": [
+          "AD",
+          "UMB",
+          "RATE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Extra sound, as in 'athalete'",
+        "answer": "EPENTHESIS",
+        "chunkTexts": [
+          "EPEN",
+          "THE",
+          "SIS"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Quack remedy",
+        "answer": "NOSTRUM",
+        "chunkTexts": [
+          "NOS",
+          "TRUM"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Bass vs. bass, for one",
+        "answer": "HETERONYM",
+        "chunkTexts": [
+          "HE",
+          "TER",
+          "ONYM"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-008",
+    "category": "mixed",
+    "candidateId": "N22",
+    "scores": {
+      "decoys": 5.8,
+      "tempting_pairs": 1.6,
+      "shared_fragments": 1.2,
+      "anchor_balance": 4.7,
+      "shape": 8.6,
+      "word_appeal": 14.0,
+      "penalties": -13.8,
+      "structure": 22.1,
+      "clue_rating": 18.2,
+      "clue_variety": 8.0,
+      "clue_puns": 3.0,
+      "clue_penalties": 0.0,
+      "clues": 29.2,
+      "structure_scaled": 13.8,
+      "total": 43.0
+    }
+  },
+  {
+    "id": "round255",
+    "title": "Round 255",
+    "theme": "Word Nerd",
+    "clueAnswers": [
+      {
+        "clue": "Egg-shaped hill left by a glacier",
+        "answer": "DRUMLIN",
+        "chunkTexts": [
+          "DRUM",
+          "LIN"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Art from whatever's lying around",
+        "answer": "BRICOLAGE",
+        "chunkTexts": [
+          "BRI",
+          "COL",
+          "AGE"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Uncultured type, art be damned",
+        "answer": "PHILISTINE",
+        "chunkTexts": [
+          "PHI",
+          "LIS",
+          "TINE"
+        ],
+        "clueType": "evocative",
+        "clueRating": 3
+      },
+      {
+        "clue": "Snooze-inducing, like this clue",
+        "answer": "SOPORIFIC",
+        "chunkTexts": [
+          "SOP",
+          "ORI",
+          "FIC"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Quick to fly off the handle",
+        "answer": "IRASCIBLE",
+        "chunkTexts": [
+          "IRA",
+          "SCI",
+          "BLE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Bartleby's job: professional copyist",
+        "answer": "SCRIVENER",
+        "chunkTexts": [
+          "SCRI",
+          "VEN",
+          "ER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Publicity hype at full blast",
+        "answer": "BALLYHOO",
+        "chunkTexts": [
+          "BAL",
+          "LY",
+          "HOO"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-008",
+    "category": "mixed",
+    "candidateId": "N09",
+    "scores": {
+      "decoys": 1.2,
+      "tempting_pairs": 1.2,
+      "shared_fragments": 2.5,
+      "anchor_balance": 7.5,
+      "shape": 12.0,
+      "word_appeal": 14.0,
+      "penalties": -13.6,
+      "structure": 24.7,
+      "clue_rating": 16.1,
+      "clue_variety": 8.0,
+      "clue_puns": 3.0,
+      "clue_penalties": 0.0,
+      "clues": 27.1,
+      "structure_scaled": 15.4,
+      "total": 42.5
+    }
+  },
+  {
+    "id": "round256",
+    "title": "Round 256",
+    "theme": "Word Nerd",
+    "clueAnswers": [
+      {
+        "clue": "Sea monster, or Hobbes's state",
+        "answer": "LEVIATHAN",
+        "chunkTexts": [
+          "LEV",
+          "IAT",
+          "HAN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Confused hodgepodge",
+        "answer": "FARRAGO",
+        "chunkTexts": [
+          "FAR",
+          "RAGO"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Too great for words",
+        "answer": "INEFFABLE",
+        "chunkTexts": [
+          "IN",
+          "EFF",
+          "ABLE"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Dangerous flightless bird of Australia",
+        "answer": "CASSOWARY",
+        "chunkTexts": [
+          "CAS",
+          "SOW",
+          "ARY"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Rake with loose morals",
+        "answer": "LIBERTINE",
+        "chunkTexts": [
+          "LIB",
+          "ERT",
+          "INE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Seeing faces in electrical outlets",
+        "answer": "PAREIDOLIA",
+        "chunkTexts": [
+          "PARE",
+          "IDO",
+          "LIA"
+        ],
+        "clueType": "evocative",
+        "clueRating": 5
+      },
+      {
+        "clue": "Smooth spot between the eyebrows",
+        "answer": "GLABELLA",
+        "chunkTexts": [
+          "GLA",
+          "BEL",
+          "LA"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-008",
+    "category": "mixed",
+    "candidateId": "N21",
+    "scores": {
+      "decoys": 2.0,
+      "tempting_pairs": 0.8,
+      "shared_fragments": 1.2,
+      "anchor_balance": 5.0,
+      "shape": 12.0,
+      "word_appeal": 14.0,
+      "penalties": -12.6,
+      "structure": 22.5,
+      "clue_rating": 20.4,
+      "clue_variety": 8.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 28.4,
+      "structure_scaled": 14.1,
+      "total": 42.5
+    }
+  },
+  {
+    "id": "round257",
+    "title": "Round 257",
+    "theme": "Word Nerd",
+    "clueAnswers": [
+      {
+        "clue": "Unwanted adviser at the card table",
+        "answer": "KIBITZER",
+        "chunkTexts": [
+          "KI",
+          "BIT",
+          "ZER"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Tie, or letters joined as one",
+        "answer": "LIGATURE",
+        "chunkTexts": [
+          "LIGA",
+          "TURE"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Swagman's camp spot, an Aussie pool",
+        "answer": "BILLABONG",
+        "chunkTexts": [
+          "BIL",
+          "LAB",
+          "ONG"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Bitter, sustained verbal attack",
+        "answer": "DIATRIBE",
+        "chunkTexts": [
+          "DIA",
+          "TRI",
+          "BE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Unflappable calm, Epicurus's goal",
+        "answer": "ATARAXIA",
+        "chunkTexts": [
+          "AT",
+          "ARA",
+          "XIA"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Formal tribute of high praise",
+        "answer": "ENCOMIUM",
+        "chunkTexts": [
+          "ENCO",
+          "MIUM"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Glass tube made by lightning",
+        "answer": "FULGURITE",
+        "chunkTexts": [
+          "FUL",
+          "GUR",
+          "ITE"
+        ],
+        "clueType": "definition",
+        "clueRating": 5
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-008",
+    "category": "mixed",
+    "candidateId": "N12",
+    "scores": {
+      "decoys": 0.9,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 2.5,
+      "anchor_balance": 7.5,
+      "shape": 7.6,
+      "word_appeal": 14.0,
+      "penalties": -14.9,
+      "structure": 17.6,
+      "clue_rating": 20.4,
+      "clue_variety": 8.0,
+      "clue_puns": 3.0,
+      "clue_penalties": 0.0,
+      "clues": 31.4,
+      "structure_scaled": 11.0,
+      "total": 42.4
+    }
+  },
+  {
+    "id": "round258",
+    "title": "Round 258",
+    "theme": "Word Nerd",
+    "clueAnswers": [
+      {
+        "clue": "Abusive language, hurled",
+        "answer": "INVECTIVE",
+        "chunkTexts": [
+          "IN",
+          "VEC",
+          "TIVE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Silly antics and horseplay",
+        "answer": "TOMFOOLERY",
+        "chunkTexts": [
+          "TOM",
+          "FOO",
+          "LERY"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Know-nothing, Latin for 'we don't know'",
+        "answer": "IGNORAMUS",
+        "chunkTexts": [
+          "IGN",
+          "ORA",
+          "MUS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "Sickly sweet, syrupy",
+        "answer": "SACCHARINE",
+        "chunkTexts": [
+          "SAC",
+          "CHAR",
+          "INE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Talking a bill to death",
+        "answer": "FILIBUSTER",
+        "chunkTexts": [
+          "FILI",
+          "BUS",
+          "TER"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Green patina on the Statue of Liberty",
+        "answer": "VERDIGRIS",
+        "chunkTexts": [
+          "VER",
+          "DIG",
+          "RIS"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Rakishly disreputable",
+        "answer": "RAFFISH",
+        "chunkTexts": [
+          "RAFF",
+          "ISH"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-008",
+    "category": "mixed",
+    "candidateId": "N16",
+    "scores": {
+      "decoys": 4.1,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 3.8,
+      "anchor_balance": 7.2,
+      "shape": 10.0,
+      "word_appeal": 14.0,
+      "penalties": -11.3,
+      "structure": 28.2,
+      "clue_rating": 16.1,
+      "clue_variety": 8.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 24.1,
+      "structure_scaled": 17.6,
+      "total": 41.7
+    }
+  },
+  {
+    "id": "round259",
+    "title": "Round 259",
+    "theme": "Word Nerd",
+    "clueAnswers": [
+      {
+        "clue": "Earthy perfume after a rainstorm",
+        "answer": "PETRICHOR",
+        "chunkTexts": [
+          "PET",
+          "RIC",
+          "HOR"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Biblical beast; any hulking giant",
+        "answer": "BEHEMOTH",
+        "chunkTexts": [
+          "BE",
+          "HEM",
+          "OTH"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Late bloomer in the classroom",
+        "answer": "OPSIMATH",
+        "chunkTexts": [
+          "OP",
+          "SIM",
+          "ATH"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Ruckus raised at full volume",
+        "answer": "HULLABALOO",
+        "chunkTexts": [
+          "HUL",
+          "LAB",
+          "ALOO"
+        ],
+        "clueType": "evocative",
+        "clueRating": 3
+      },
+      {
+        "clue": "Grand poobah with a big head",
+        "answer": "PANJANDRUM",
+        "chunkTexts": [
+          "PAN",
+          "JAN",
+          "DRUM"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "A nickname, put fancily",
+        "answer": "SOBRIQUET",
+        "chunkTexts": [
+          "SO",
+          "BRI",
+          "QUET"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Wicked, like a mustache-twirler",
+        "answer": "NEFARIOUS",
+        "chunkTexts": [
+          "NEF",
+          "ARI",
+          "OUS"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-008",
+    "category": "mixed",
+    "candidateId": "N01",
+    "scores": {
+      "decoys": 1.2,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 2.5,
+      "anchor_balance": 2.4,
+      "shape": 9.3,
+      "word_appeal": 14.0,
+      "penalties": -15.5,
+      "structure": 14.3,
+      "clue_rating": 18.2,
+      "clue_variety": 8.0,
+      "clue_puns": 6.0,
+      "clue_penalties": 0.0,
+      "clues": 32.2,
+      "structure_scaled": 8.9,
+      "total": 41.1
+    }
+  },
+  {
+    "id": "round260",
+    "title": "Round 260",
+    "theme": "Word Nerd",
+    "clueAnswers": [
+      {
+        "clue": "Lone peak that survived erosion",
+        "answer": "MONADNOCK",
+        "chunkTexts": [
+          "MON",
+          "AD",
+          "NOCK"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Fussy about every detail",
+        "answer": "FASTIDIOUS",
+        "chunkTexts": [
+          "FAS",
+          "TID",
+          "IOUS"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Job perk, in full",
+        "answer": "PERQUISITE",
+        "chunkTexts": [
+          "PER",
+          "QUIS",
+          "ITE"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Cushy job with no real duties",
+        "answer": "SINECURE",
+        "chunkTexts": [
+          "SIN",
+          "ECU",
+          "RE"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Deep sky blue",
+        "answer": "CERULEAN",
+        "chunkTexts": [
+          "CER",
+          "UL",
+          "EAN"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Unprincipled scoundrel",
+        "answer": "REPROBATE",
+        "chunkTexts": [
+          "REP",
+          "ROB",
+          "ATE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Salad of everything, or a hodgepodge",
+        "answer": "SALMAGUNDI",
+        "chunkTexts": [
+          "SAL",
+          "MAG",
+          "UNDI"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-008",
+    "category": "mixed",
+    "candidateId": "N18",
+    "scores": {
+      "decoys": 4.9,
+      "tempting_pairs": 2.0,
+      "shared_fragments": 2.5,
+      "anchor_balance": 7.5,
+      "shape": 8.3,
+      "word_appeal": 14.0,
+      "penalties": -12.5,
+      "structure": 26.8,
+      "clue_rating": 16.1,
+      "clue_variety": 4.0,
+      "clue_puns": 3.0,
+      "clue_penalties": 0.0,
+      "clues": 23.1,
+      "structure_scaled": 16.8,
+      "total": 39.9
+    }
+  },
+  {
+    "id": "round261",
+    "title": "Round 261",
+    "theme": "Word Nerd",
+    "clueAnswers": [
+      {
+        "clue": "Yes-man with a brown nose",
+        "answer": "SYCOPHANT",
+        "chunkTexts": [
+          "SYC",
+          "OPH",
+          "ANT"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Painter's change of mind, peeking through",
+        "answer": "PENTIMENTO",
+        "chunkTexts": [
+          "PEN",
+          "TIM",
+          "ENTO"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Softly flickering, like candlelight",
+        "answer": "LAMBENT",
+        "chunkTexts": [
+          "LAM",
+          "BENT"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Speech heaping on the praise",
+        "answer": "PANEGYRIC",
+        "chunkTexts": [
+          "PAN",
+          "EGY",
+          "RIC"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Here today, gone tomorrow",
+        "answer": "EPHEMERAL",
+        "chunkTexts": [
+          "EPH",
+          "EME",
+          "RAL"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Noisy brawl",
+        "answer": "FRACAS",
+        "chunkTexts": [
+          "FRA",
+          "CAS"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Backwards-P paragraph mark",
+        "answer": "PILCROW",
+        "chunkTexts": [
+          "PIL",
+          "CROW"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-008",
+    "category": "mixed",
+    "candidateId": "N07",
+    "scores": {
+      "decoys": 0.0,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 2.5,
+      "anchor_balance": 6.9,
+      "shape": 11.0,
+      "word_appeal": 14.0,
+      "penalties": -8.8,
+      "structure": 25.6,
+      "clue_rating": 18.2,
+      "clue_variety": 4.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 22.2,
+      "structure_scaled": 16.0,
+      "total": 38.2
+    }
+  },
+  {
+    "id": "round262",
+    "title": "Round 262",
+    "theme": "Word Nerd",
+    "clueAnswers": [
+      {
+        "clue": "Loom-wrecker turned tech skeptic",
+        "answer": "LUDDITE",
+        "chunkTexts": [
+          "LUD",
+          "DITE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Breezily unconcerned",
+        "answer": "INSOUCIANT",
+        "chunkTexts": [
+          "INS",
+          "OUC",
+          "IANT"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Wheedle your way in",
+        "answer": "INVEIGLE",
+        "chunkTexts": [
+          "IN",
+          "VEI",
+          "GLE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Aimless, half-hearted",
+        "answer": "DESULTORY",
+        "chunkTexts": [
+          "DES",
+          "ULT",
+          "ORY"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Stinky, though it sounds merely loud",
+        "answer": "NOISOME",
+        "chunkTexts": [
+          "NOIS",
+          "OME"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Boastful talk, extravagant bragging",
+        "answer": "GASCONADE",
+        "chunkTexts": [
+          "GAS",
+          "CON",
+          "ADE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Radiantly brilliant",
+        "answer": "EFFULGENT",
+        "chunkTexts": [
+          "EFF",
+          "UL",
+          "GENT"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-008",
+    "category": "mixed",
+    "candidateId": "N29",
+    "scores": {
+      "decoys": 3.3,
+      "tempting_pairs": 0.8,
+      "shared_fragments": 0.0,
+      "anchor_balance": 7.6,
+      "shape": 10.7,
+      "word_appeal": 14.0,
+      "penalties": -13.1,
+      "structure": 23.3,
+      "clue_rating": 11.8,
+      "clue_variety": 8.0,
+      "clue_puns": 3.0,
+      "clue_penalties": 0.0,
+      "clues": 22.8,
+      "structure_scaled": 14.6,
+      "total": 37.4
+    }
+  },
+  {
+    "id": "round263",
+    "title": "Round 263",
+    "theme": "Word Nerd",
+    "clueAnswers": [
+      {
+        "clue": "Bitter tirade, Demosthenes-style",
+        "answer": "PHILIPPIC",
+        "chunkTexts": [
+          "PHI",
+          "LIP",
+          "PIC"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Excited fuss and fanfare",
+        "answer": "HOOPLA",
+        "chunkTexts": [
+          "HOO",
+          "PLA"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Old-timey punch-up",
+        "answer": "FISTICUFFS",
+        "chunkTexts": [
+          "FIS",
+          "TIC",
+          "UFFS"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Of the morning, like dew",
+        "answer": "MATUTINAL",
+        "chunkTexts": [
+          "MAT",
+          "UTI",
+          "NAL"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Brilliant red pigment",
+        "answer": "VERMILION",
+        "chunkTexts": [
+          "VER",
+          "MIL",
+          "ION"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Never at a loss for words",
+        "answer": "LOQUACIOUS",
+        "chunkTexts": [
+          "LOQU",
+          "ACI",
+          "OUS"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Vain dandy; a jester's cap",
+        "answer": "COXCOMB",
+        "chunkTexts": [
+          "COX",
+          "COMB"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-008",
+    "category": "mixed",
+    "candidateId": "N20",
+    "scores": {
+      "decoys": 0.0,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 1.2,
+      "anchor_balance": 4.6,
+      "shape": 12.0,
+      "word_appeal": 14.0,
+      "penalties": -8.1,
+      "structure": 24.1,
+      "clue_rating": 13.9,
+      "clue_variety": 8.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 21.9,
+      "structure_scaled": 15.1,
+      "total": 37.0
+    }
+  },
+  {
+    "id": "round264",
+    "title": "Round 264",
+    "theme": "Word Nerd",
+    "clueAnswers": [
+      {
+        "clue": "Clumsy comic verse",
+        "answer": "DOGGEREL",
+        "chunkTexts": [
+          "DOG",
+          "GE",
+          "REL"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Salary, for the fancy",
+        "answer": "EMOLUMENT",
+        "chunkTexts": [
+          "EMO",
+          "LUM",
+          "ENT"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Foul-smelling, like a skunk",
+        "answer": "MEPHITIC",
+        "chunkTexts": [
+          "ME",
+          "PHI",
+          "TIC"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Quickly fading from sight",
+        "answer": "EVANESCENT",
+        "chunkTexts": [
+          "EVA",
+          "NES",
+          "CENT"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Scraped manuscript, rewritten over",
+        "answer": "PALIMPSEST",
+        "chunkTexts": [
+          "PAL",
+          "IMPS",
+          "EST"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Sap the strength from",
+        "answer": "ENERVATE",
+        "chunkTexts": [
+          "ENER",
+          "VATE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Freshly minted word, like 'rizz'",
+        "answer": "NEOLOGISM",
+        "chunkTexts": [
+          "NEO",
+          "LOG",
+          "ISM"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-008",
+    "category": "mixed",
+    "candidateId": "N17",
+    "scores": {
+      "decoys": 2.8,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 3.8,
+      "anchor_balance": 7.6,
+      "shape": 10.0,
+      "word_appeal": 14.0,
+      "penalties": -14.5,
+      "structure": 23.6,
+      "clue_rating": 13.9,
+      "clue_variety": 8.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 21.9,
+      "structure_scaled": 14.8,
+      "total": 36.7
+    }
+  },
+  {
+    "id": "round265",
+    "title": "Round 265",
+    "theme": "Word Nerd",
+    "clueAnswers": [
+      {
+        "clue": "Text that avoids a letter, say E",
+        "answer": "LIPOGRAM",
+        "chunkTexts": [
+          "LI",
+          "POG",
+          "RAM"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Harsh jumble of sounds",
+        "answer": "CACOPHONY",
+        "chunkTexts": [
+          "CAC",
+          "OPH",
+          "ONY"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Get-off-my-lawn type",
+        "answer": "CURMUDGEON",
+        "chunkTexts": [
+          "CUR",
+          "MUD",
+          "GEON"
+        ],
+        "clueType": "evocative",
+        "clueRating": 5
+      },
+      {
+        "clue": "Noisy disturbance",
+        "answer": "RUMPUS",
+        "chunkTexts": [
+          "RUM",
+          "PUS"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Coax with flattery",
+        "answer": "BLANDISH",
+        "chunkTexts": [
+          "BLAN",
+          "DISH"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Cobweb-fine and delicate",
+        "answer": "GOSSAMER",
+        "chunkTexts": [
+          "GOS",
+          "SAM",
+          "ER"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Extremely poor; also stingy",
+        "answer": "PENURIOUS",
+        "chunkTexts": [
+          "PEN",
+          "URI",
+          "OUS"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-008",
+    "category": "mixed",
+    "candidateId": "N23",
+    "scores": {
+      "decoys": 0.0,
+      "tempting_pairs": 0.8,
+      "shared_fragments": 3.8,
+      "anchor_balance": 7.2,
+      "shape": 11.7,
+      "word_appeal": 14.0,
+      "penalties": -12.7,
+      "structure": 24.8,
+      "clue_rating": 16.1,
+      "clue_variety": 4.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 20.1,
+      "structure_scaled": 15.5,
+      "total": 35.6
+    }
+  },
+  {
+    "id": "round266",
+    "title": "Round 266",
+    "theme": "Word Nerd",
+    "clueAnswers": [
+      {
+        "clue": "Flagrantly bad; literally out of the herd",
+        "answer": "EGREGIOUS",
+        "chunkTexts": [
+          "EG",
+          "REG",
+          "IOUS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Hot-tempered, full of yellow bile",
+        "answer": "CHOLERIC",
+        "chunkTexts": [
+          "CHO",
+          "LER",
+          "IC"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "One who simply loves to learn",
+        "answer": "PHILOMATH",
+        "chunkTexts": [
+          "PHI",
+          "LOM",
+          "ATH"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Itching for a fight",
+        "answer": "PUGNACIOUS",
+        "chunkTexts": [
+          "PUG",
+          "NAC",
+          "IOUS"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Monarch with a lot of clout",
+        "answer": "POTENTATE",
+        "chunkTexts": [
+          "POT",
+          "ENT",
+          "ATE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Pointing-hand symbol in margins",
+        "answer": "MANICULE",
+        "chunkTexts": [
+          "MANI",
+          "CULE"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Scram, Civil War-style",
+        "answer": "SKEDADDLE",
+        "chunkTexts": [
+          "SKE",
+          "DAD",
+          "DLE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-008",
+    "category": "mixed",
+    "candidateId": "N02",
+    "scores": {
+      "decoys": 1.5,
+      "tempting_pairs": 0.8,
+      "shared_fragments": 3.8,
+      "anchor_balance": 6.8,
+      "shape": 10.0,
+      "word_appeal": 14.0,
+      "penalties": -12.7,
+      "structure": 24.1,
+      "clue_rating": 16.1,
+      "clue_variety": 4.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 20.1,
+      "structure_scaled": 15.1,
+      "total": 35.2
+    }
+  },
+  {
+    "id": "round267",
+    "title": "Round 267",
+    "theme": "Word Nerd",
+    "clueAnswers": [
+      {
+        "clue": "Make bad worse",
+        "answer": "EXACERBATE",
+        "chunkTexts": [
+          "EXAC",
+          "ERB",
+          "ATE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Scribe taking dictation",
+        "answer": "AMANUENSIS",
+        "chunkTexts": [
+          "AMA",
+          "NUEN",
+          "SIS"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Pleasantly lazy and dreamy",
+        "answer": "LANGUOROUS",
+        "chunkTexts": [
+          "LAN",
+          "GUO",
+          "ROUS"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "ABBA figure: ask not what your country",
+        "answer": "CHIASMUS",
+        "chunkTexts": [
+          "CHI",
+          "AS",
+          "MUS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Grumpy, as if from indigestion",
+        "answer": "DYSPEPTIC",
+        "chunkTexts": [
+          "DYS",
+          "PEP",
+          "TIC"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Perpetual complainer",
+        "answer": "MALCONTENT",
+        "chunkTexts": [
+          "MAL",
+          "CONT",
+          "ENT"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Bowing and scraping excessively",
+        "answer": "OBSEQUIOUS",
+        "chunkTexts": [
+          "OBS",
+          "EQU",
+          "IOUS"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-008",
+    "category": "mixed",
+    "candidateId": "N15",
+    "scores": {
+      "decoys": 2.5,
+      "tempting_pairs": 0.8,
+      "shared_fragments": 1.2,
+      "anchor_balance": 7.2,
+      "shape": 9.3,
+      "word_appeal": 14.0,
+      "penalties": -12.3,
+      "structure": 22.7,
+      "clue_rating": 13.9,
+      "clue_variety": 4.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 17.9,
+      "structure_scaled": 14.2,
+      "total": 32.1
+    }
+  },
+  {
+    "id": "round268",
+    "title": "Round 268",
+    "theme": "Word Nerd",
+    "clueAnswers": [
+      {
+        "clue": "Obsessive urge to stay in bed",
+        "answer": "CLINOMANIA",
+        "chunkTexts": [
+          "CLI",
+          "NOMA",
+          "NIA"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Scold sharply",
+        "answer": "OBJURGATE",
+        "chunkTexts": [
+          "OB",
+          "JUR",
+          "GATE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Showy, frivolous finery",
+        "answer": "FRIPPERY",
+        "chunkTexts": [
+          "FRIP",
+          "PERY"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Ne'er-do-well with a rap sheet",
+        "answer": "MISCREANT",
+        "chunkTexts": [
+          "MIS",
+          "CRE",
+          "ANT"
+        ],
+        "clueType": "evocative",
+        "clueRating": 3
+      },
+      {
+        "clue": "Obscure, known to few",
+        "answer": "RECONDITE",
+        "chunkTexts": [
+          "REC",
+          "OND",
+          "ITE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Hard to understand",
+        "answer": "ABSTRUSE",
+        "chunkTexts": [
+          "ABS",
+          "TRU",
+          "SE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Word lover, like you",
+        "answer": "LOGOPHILE",
+        "chunkTexts": [
+          "LOG",
+          "OPH",
+          "ILE"
+        ],
+        "clueType": "evocative",
+        "clueRating": 5
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-008",
+    "category": "mixed",
+    "candidateId": "N24",
+    "scores": {
+      "decoys": 1.0,
+      "tempting_pairs": 1.2,
+      "shared_fragments": 1.2,
+      "anchor_balance": 7.1,
+      "shape": 10.0,
+      "word_appeal": 14.0,
+      "penalties": -12.3,
+      "structure": 22.2,
+      "clue_rating": 13.9,
+      "clue_variety": 4.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 17.9,
+      "structure_scaled": 13.9,
+      "total": 31.8
+    }
+  },
+  {
+    "id": "round269",
+    "title": "Round 269",
+    "theme": "Word Nerd",
+    "clueAnswers": [
+      {
+        "clue": "Always on the road",
+        "answer": "ITINERANT",
+        "chunkTexts": [
+          "ITI",
+          "NER",
+          "ANT"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Steeped in sorrow",
+        "answer": "DOLOROUS",
+        "chunkTexts": [
+          "DO",
+          "LOR",
+          "OUS"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Slash, by another name",
+        "answer": "VIRGULE",
+        "chunkTexts": [
+          "VIRG",
+          "ULE"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Trickery, legal or otherwise",
+        "answer": "CHICANERY",
+        "chunkTexts": [
+          "CHI",
+          "CAN",
+          "ERY"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Wind-carved ridges in snow",
+        "answer": "SASTRUGI",
+        "chunkTexts": [
+          "SAS",
+          "TRU",
+          "GI"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Diamond-suited clown",
+        "answer": "HARLEQUIN",
+        "chunkTexts": [
+          "HAR",
+          "LE",
+          "QUIN"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Prolonged fuss and idle chatter",
+        "answer": "PALAVER",
+        "chunkTexts": [
+          "PALA",
+          "VER"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-008",
+    "category": "mixed",
+    "candidateId": "N10",
+    "scores": {
+      "decoys": 3.8,
+      "tempting_pairs": 0.8,
+      "shared_fragments": 1.2,
+      "anchor_balance": 7.2,
+      "shape": 9.7,
+      "word_appeal": 14.0,
+      "penalties": -14.7,
+      "structure": 22.0,
+      "clue_rating": 13.9,
+      "clue_variety": 4.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 17.9,
+      "structure_scaled": 13.8,
+      "total": 31.7
+    }
+  },
+  {
+    "id": "round270",
+    "title": "Round 270",
+    "theme": "Word Nerd",
+    "clueAnswers": [
+      {
+        "clue": "Sideboard for dining room stuff",
+        "answer": "CREDENZA",
+        "chunkTexts": [
+          "CRE",
+          "DEN",
+          "ZA"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Fool with a silly-sounding name",
+        "answer": "NINCOMPOOP",
+        "chunkTexts": [
+          "NIN",
+          "COMP",
+          "OOP"
+        ],
+        "clueType": "evocative",
+        "clueRating": 3
+      },
+      {
+        "clue": "Unstoppable force",
+        "answer": "JUGGERNAUT",
+        "chunkTexts": [
+          "JUG",
+          "GER",
+          "NAUT"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Pompous talk; also a twill cloth",
+        "answer": "FUSTIAN",
+        "chunkTexts": [
+          "FUS",
+          "TIAN"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Clear of blame",
+        "answer": "EXCULPATE",
+        "chunkTexts": [
+          "EX",
+          "CULP",
+          "ATE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Lengthy, ranting lecture",
+        "answer": "HARANGUE",
+        "chunkTexts": [
+          "HAR",
+          "AN",
+          "GUE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Evening-blooming or evening-active",
+        "answer": "VESPERTINE",
+        "chunkTexts": [
+          "VES",
+          "PER",
+          "TINE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-008",
+    "category": "mixed",
+    "candidateId": "N28",
+    "scores": {
+      "decoys": 4.5,
+      "tempting_pairs": 1.6,
+      "shared_fragments": 1.2,
+      "anchor_balance": 7.3,
+      "shape": 9.0,
+      "word_appeal": 14.0,
+      "penalties": -11.7,
+      "structure": 26.0,
+      "clue_rating": 9.6,
+      "clue_variety": 4.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 13.6,
+      "structure_scaled": 16.2,
+      "total": 29.8
+    }
+  }
+]

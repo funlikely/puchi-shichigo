@@ -1,9 +1,10 @@
-import React, { useState } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import { Platform, StyleSheet, View } from 'react-native';
 import { StatusBar } from 'expo-status-bar';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 import { Colors, ThemeProvider, useStyles, useTheme } from './theme';
 import { PUZZLE_DEFS } from './data/puzzles';
+import { KEYS, loadJSON, saveJSON } from './data/storage';
 import { GameScreen } from './screens/GameScreen';
 import { HomeScreen } from './screens/HomeScreen';
 
@@ -27,6 +28,31 @@ function AppInner() {
   const [screen, setScreen] = useState<Screen>('home');
   const [puzzleIndex, setPuzzleIndex] = useState(0);
   const [roundStatuses, setRoundStatuses] = useState<Record<number, RoundStatus>>({});
+  const loaded = useRef(false);
+
+  // Progress is stored by puzzle id, so adding or removing rounds never shifts it.
+  useEffect(() => {
+    loadJSON<Record<string, RoundStatus>>(KEYS.progress).then(saved => {
+      if (saved) {
+        const byIndex: Record<number, RoundStatus> = {};
+        PUZZLE_DEFS.forEach((def, i) => {
+          if (saved[def.id]) byIndex[i] = saved[def.id];
+        });
+        setRoundStatuses(prev => ({ ...byIndex, ...prev }));
+      }
+      loaded.current = true;
+    });
+  }, []);
+
+  useEffect(() => {
+    if (!loaded.current) return;
+    const byId: Record<string, RoundStatus> = {};
+    Object.entries(roundStatuses).forEach(([i, st]) => {
+      const def = PUZZLE_DEFS[Number(i)];
+      if (def) byId[def.id] = st;
+    });
+    saveJSON(KEYS.progress, byId);
+  }, [roundStatuses]);
 
   const markAttempted = (index: number) =>
     setRoundStatuses(prev =>

@@ -1,0 +1,531 @@
+[
+ {
+  "id": "N01",
+  "category": "mixed",
+  "theme": "Word Nerd",
+  "allowProperNouns": false,
+  "words": [
+   "BAMBOOZLE",
+   "AXOLOTL",
+   "PETRICHOR",
+   "BEHEMOTH",
+   "OPSIMATH",
+   "DEBONAIR",
+   "HULLABALOO",
+   "PANJANDRUM",
+   "SOBRIQUET",
+   "NEFARIOUS"
+  ]
+ },
+ {
+  "id": "N02",
+  "category": "mixed",
+  "theme": "Word Nerd",
+  "allowProperNouns": false,
+  "words": [
+   "TROGLODYTE",
+   "EGREGIOUS",
+   "CHOLERIC",
+   "PHILOMATH",
+   "PUGNACIOUS",
+   "RAGAMUFFIN",
+   "POTENTATE",
+   "MANICULE"
+  ]
+ },
+ {
+  "id": "N03",
+  "category": "mixed",
+  "theme": "Word Nerd",
+  "allowProperNouns": false,
+  "words": [
+   "POPINJAY",
+   "IMBROGLIO",
+   "GASTRONOME",
+   "FOLDEROL",
+   "APOPHENIA",
+   "BAILIWICK",
+   "PHILTRUM",
+   "ANHEDONIA",
+   "ELLIPSIS",
+   "DISSEMBLE"
+  ]
+ },
+ {
+  "id": "N04",
+  "category": "mixed",
+  "theme": "Word Nerd",
+  "allowProperNouns": false,
+  "words": [
+   "VIRIDIAN",
+   "BUMPTIOUS",
+   "GARRULOUS",
+   "BELLICOSE",
+   "PANTALOON",
+   "MASTICATE",
+   "TRUMPERY",
+   "TAUTOLOGY",
+   "CHARLATAN",
+   "FLAPDOODLE"
+  ]
+ },
+ {
+  "id": "N05",
+  "category": "mixed",
+  "theme": "Word Nerd",
+  "allowProperNouns": false,
+  "words": [
+   "JACKANAPES",
+   "STULTIFY",
+   "LACHRYMOSE",
+   "SCINTILLA",
+   "LUGUBRIOUS",
+   "OSCULATE",
+   "SINGULTUS",
+   "CONTUMELY",
+   "MARGINALIA",
+   "CORNUCOPIA"
+  ]
+ },
+ {
+  "id": "N06",
+  "category": "mixed",
+  "theme": "Word Nerd",
+  "allowProperNouns": false,
+  "words": [
+   "BIBELOT",
+   "HYPERBOLE",
+   "PERNICIOUS",
+   "INSELBERG",
+   "CIRCUMFLEX",
+   "SOLIPSISM",
+   "BRAGGART",
+   "CASTIGATE",
+   "SOMNOLENT",
+   "CLERIHEW"
+  ]
+ },
+ {
+  "id": "N07",
+  "category": "mixed",
+  "theme": "Word Nerd",
+  "allowProperNouns": false,
+  "words": [
+   "SYCOPHANT",
+   "FATUOUS",
+   "PENTIMENTO",
+   "LAMBENT",
+   "PANEGYRIC",
+   "EPHEMERAL",
+   "GUMPTION",
+   "FRACAS",
+   "NARTHEX",
+   "PILCROW"
+  ]
+ },
+ {
+  "id": "N08",
+  "category": "mixed",
+  "theme": "Word Nerd",
+  "allowProperNouns": false,
+  "words": [
+   "FECKLESS",
+   "RUCKUS",
+   "INCUNABULA",
+   "BELVEDERE",
+   "BUNKUM",
+   "FURBELOW",
+   "SHIBBOLETH",
+   "CATHARSIS",
+   "CODSWALLOP",
+   "SLOVENLY"
+  ]
+ },
+ {
+  "id": "N09",
+  "category": "mixed",
+  "theme": "Word Nerd",
+  "allowProperNouns": false,
+  "words": [
+   "DRUMLIN",
+   "MAELSTROM",
+   "BRICOLAGE",
+   "COLOPHON",
+   "TARDIGRADE",
+   "PHILISTINE",
+   "SOPORIFIC",
+   "IRASCIBLE",
+   "SCRIVENER",
+   "BALLYHOO"
+  ]
+ },
+ {
+  "id": "N10",
+  "category": "mixed",
+  "theme": "Word Nerd",
+  "allowProperNouns": false,
+  "words": [
+   "ITINERANT",
+   "FLIMFLAM",
+   "DOLOROUS",
+   "VIRGULE",
+   "CHICANERY",
+   "SASTRUGI",
+   "HARLEQUIN",
+   "PALAVER",
+   "VAMOOSE",
+   "BUGBEAR"
+  ]
+ },
+ {
+  "id": "N11",
+  "category": "mixed",
+  "theme": "Word Nerd",
+  "allowProperNouns": false,
+  "words": [
+   "EUDAIMONIA",
+   "GALLIVANT",
+   "CHATELAINE",
+   "MALODOROUS",
+   "FLUMMOX",
+   "LOLLYGAG",
+   "LAGNIAPPE",
+   "MARQUETRY",
+   "CANOODLE",
+   "PEDANTIC"
+  ]
+ },
+ {
+  "id": "N12",
+  "category": "mixed",
+  "theme": "Word Nerd",
+  "allowProperNouns": false,
+  "words": [
+   "RAMSHACKLE",
+   "REDOLENT",
+   "KIBITZER",
+   "LIGATURE",
+   "BILLABONG",
+   "DIATRIBE",
+   "QUIDNUNC",
+   "ATARAXIA",
+   "ENCOMIUM",
+   "FULGURITE"
+  ]
+ },
+ {
+  "id": "N13",
+  "category": "mixed",
+  "theme": "Word Nerd",
+  "allowProperNouns": false,
+  "words": [
+   "OBLOQUY",
+   "OPPROBRIUM",
+   "DECOUPAGE",
+   "DIAERESIS",
+   "CALUMNY",
+   "SUSURRUS",
+   "GLAUCOUS",
+   "UNCTUOUS",
+   "MOUNTEBANK",
+   "VILLANELLE"
+  ]
+ },
+ {
+  "id": "N14",
+  "category": "mixed",
+  "theme": "Word Nerd",
+  "allowProperNouns": false,
+  "words": [
+   "OSCITATION",
+   "HIGGLEDY",
+   "MACGUFFIN",
+   "INSIDIOUS",
+   "HOKUM",
+   "REFULGENT",
+   "RIGMAROLE",
+   "CEDILLA",
+   "GALUMPH",
+   "MORAINE"
+  ]
+ },
+ {
+  "id": "N15",
+  "category": "mixed",
+  "theme": "Word Nerd",
+  "allowProperNouns": false,
+  "words": [
+   "EXACERBATE",
+   "AMANUENSIS",
+   "LANGUOROUS",
+   "POPPYCOCK",
+   "CHIASMUS",
+   "DYSPEPTIC",
+   "MALCONTENT",
+   "OBSEQUIOUS",
+   "GENUFLECT",
+   "BROUHAHA"
+  ]
+ },
+ {
+  "id": "N16",
+  "category": "mixed",
+  "theme": "Word Nerd",
+  "allowProperNouns": false,
+  "words": [
+   "INVECTIVE",
+   "TOMFOOLERY",
+   "IGNORAMUS",
+   "BOMBAST",
+   "EXCORIATE",
+   "CAPYBARA",
+   "SACCHARINE",
+   "FILIBUSTER",
+   "VERDIGRIS",
+   "RAFFISH"
+  ]
+ },
+ {
+  "id": "N17",
+  "category": "mixed",
+  "theme": "Word Nerd",
+  "allowProperNouns": false,
+  "words": [
+   "DOGGEREL",
+   "EMOLUMENT",
+   "MEPHITIC",
+   "EVANESCENT",
+   "PALIMPSEST",
+   "ENERVATE",
+   "SHENANIGAN",
+   "NEOLOGISM",
+   "FULIGINOUS"
+  ]
+ },
+ {
+  "id": "N18",
+  "category": "mixed",
+  "theme": "Word Nerd",
+  "allowProperNouns": false,
+  "words": [
+   "MONADNOCK",
+   "FASTIDIOUS",
+   "PERQUISITE",
+   "EPICURE",
+   "SINECURE",
+   "CERULEAN",
+   "REPROBATE",
+   "SALMAGUNDI",
+   "OCTOTHORPE",
+   "FLUMMERY"
+  ]
+ },
+ {
+  "id": "N19",
+  "category": "mixed",
+  "theme": "Word Nerd",
+  "allowProperNouns": false,
+  "words": [
+   "TACITURN",
+   "AUTODIDACT",
+   "DOOHICKEY",
+   "BINTURONG",
+   "INEXORABLE",
+   "PETTIFOG",
+   "KERFUFFLE",
+   "BLOVIATOR",
+   "ESCRITOIRE",
+   "OBFUSCATE"
+  ]
+ },
+ {
+  "id": "N20",
+  "category": "mixed",
+  "theme": "Word Nerd",
+  "allowProperNouns": false,
+  "words": [
+   "PHILIPPIC",
+   "HOOPLA",
+   "LUCUBRATE",
+   "FISTICUFFS",
+   "MATUTINAL",
+   "VERMILION",
+   "LOQUACIOUS",
+   "COXCOMB"
+  ]
+ },
+ {
+  "id": "N21",
+  "category": "mixed",
+  "theme": "Word Nerd",
+  "allowProperNouns": false,
+  "words": [
+   "LEVIATHAN",
+   "FARRAGO",
+   "MAWKISH",
+   "INEFFABLE",
+   "OLEAGINOUS",
+   "CASSOWARY",
+   "DONNYBROOK",
+   "LIBERTINE",
+   "PAREIDOLIA",
+   "GLABELLA"
+  ]
+ },
+ {
+  "id": "N22",
+  "category": "mixed",
+  "theme": "Word Nerd",
+  "allowProperNouns": false,
+  "words": [
+   "DISCOMFIT",
+   "HOATZIN",
+   "WILLIWAW",
+   "APRICITY",
+   "ADUMBRATE",
+   "EPENTHESIS",
+   "NOSTRUM",
+   "HETERONYM",
+   "QUIXOTIC"
+  ]
+ },
+ {
+  "id": "N23",
+  "category": "mixed",
+  "theme": "Word Nerd",
+  "allowProperNouns": false,
+  "words": [
+   "LIPOGRAM",
+   "CACOPHONY",
+   "CURMUDGEON",
+   "JEREMIAD",
+   "RUMPUS",
+   "BLANDISH",
+   "BOONDOGGLE",
+   "GOSSAMER",
+   "PENURIOUS"
+  ]
+ },
+ {
+  "id": "N24",
+  "category": "mixed",
+  "theme": "Word Nerd",
+  "allowProperNouns": false,
+  "words": [
+   "CLINOMANIA",
+   "OBJURGATE",
+   "FRIPPERY",
+   "MISCREANT",
+   "RECONDITE",
+   "WHIRLIGIG",
+   "DUMBFOUND",
+   "ABSTRUSE",
+   "LOGOPHILE"
+  ]
+ },
+ {
+  "id": "N25",
+  "category": "mixed",
+  "theme": "Word Nerd",
+  "allowProperNouns": false,
+  "words": [
+   "DIACRITIC",
+   "VACILLATE",
+   "ERUCTATION",
+   "BALDERDASH",
+   "SALUBRIOUS",
+   "BAKSHEESH",
+   "EVISCERATE",
+   "MUMPSIMUS",
+   "ZEITGEIST",
+   "DIAPHANOUS"
+  ]
+ },
+ {
+  "id": "N26",
+  "category": "mixed",
+  "theme": "Word Nerd",
+  "allowProperNouns": false,
+  "words": [
+   "VITUPERATE",
+   "SATRAPY",
+   "FALDERAL",
+   "DENOUEMENT",
+   "BORBORYGMI",
+   "ESOTERIC",
+   "DILLYDALLY",
+   "PANGOLIN",
+   "SPOONERISM",
+   "CORUSCATE"
+  ]
+ },
+ {
+  "id": "N27",
+  "category": "mixed",
+  "theme": "Word Nerd",
+  "allowProperNouns": false,
+  "words": [
+   "KICKSHAW",
+   "PERFIDIOUS",
+   "LOGORRHEA",
+   "ANIMADVERT",
+   "MONDEGREEN",
+   "INCHOATE",
+   "TRUCULENT",
+   "GOURMAND",
+   "PROPITIATE",
+   "AARDVARK"
+  ]
+ },
+ {
+  "id": "N28",
+  "category": "mixed",
+  "theme": "Word Nerd",
+  "allowProperNouns": false,
+  "words": [
+   "CREDENZA",
+   "GRAWLIX",
+   "LIMERENCE",
+   "NINCOMPOOP",
+   "JUGGERNAUT",
+   "FUSTIAN",
+   "EXCULPATE",
+   "HARANGUE",
+   "VESPERTINE"
+  ]
+ },
+ {
+  "id": "N29",
+  "category": "mixed",
+  "theme": "Word Nerd",
+  "allowProperNouns": false,
+  "words": [
+   "LUDDITE",
+   "INSOUCIANT",
+   "INVEIGLE",
+   "DESULTORY",
+   "NOISOME",
+   "POTPOURRI",
+   "GASCONADE",
+   "EFFULGENT",
+   "FILIGREE"
+  ]
+ },
+ {
+  "id": "N30",
+  "category": "mixed",
+  "theme": "Word Nerd",
+  "allowProperNouns": false,
+  "words": [
+   "GRAUPEL",
+   "SPLENETIC",
+   "LOTHARIO",
+   "AESTIVATE",
+   "CLERESTORY",
+   "PLEONASM",
+   "EQUIVOCATE",
+   "GIBBERISH",
+   "THINGUMMY"
+  ]
+ }
+]

@@ -1,0 +1,535 @@
+{
+ "_meta": {
+  "batch": "batch-006",
+  "writer": "hand-written (Claude, no API); original trivia clues",
+  "judge": "self-rated by the writer"
+ },
+ "F01": {
+  "theme": "Taskmaster: Champions",
+  "category": "themed",
+  "clues": {
+   "HERRING": {
+    "clue": "Series 10 champ; red ones mislead",
+    "type": "wordplay",
+    "rating": 5
+   },
+   "WIDDICOMBE": {
+    "clue": "Josh, the very first champion",
+    "type": "trivia",
+    "rating": 3
+   },
+   "GODLIMAN": {
+    "clue": "Kerry, champion of series 7",
+    "type": "trivia",
+    "rating": 3
+   },
+   "ROBINS": {
+    "clue": "Champion John, or red-breasted birds",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "MORTIMER": {
+    "clue": "Series 5 champ, Vic Reeves's partner",
+    "type": "trivia",
+    "rating": 4
+   },
+   "GAMBLE": {
+    "clue": "Ed, series 9 champ, or a punt",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "FIELDING": {
+    "clue": "Mighty Boosh man who won series 4",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "F02": {
+  "theme": "Taskmaster: Behind the Tasks",
+  "category": "themed",
+  "clues": {
+   "HORNE": {
+    "clue": "Little Alex, the dutiful assistant",
+    "type": "trivia",
+    "rating": 3
+   },
+   "SECTION": {
+    "clue": "Alex's band: The Horne ___",
+    "type": "trivia",
+    "rating": 4
+   },
+   "TIEBREAK": {
+    "clue": "Studio decider when points are level",
+    "type": "definition",
+    "rating": 3
+   },
+   "DAVIES": {
+    "clue": "Greg, the 6-foot-8 Taskmaster",
+    "type": "trivia",
+    "rating": 3
+   },
+   "PRIZETASK": {
+    "clue": "Bring-from-home contest opening each show",
+    "type": "trivia",
+    "rating": 4
+   },
+   "GOLDENHEAD": {
+    "clue": "Gilded bust of Greg, the trophy",
+    "type": "trivia",
+    "rating": 5
+   },
+   "GILBERT": {
+    "clue": "Mr ___, Greg's Inbetweeners role",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "F03": {
+  "theme": "Star Trek: Crew Manifest",
+  "category": "themed",
+  "clues": {
+   "BENJAMIN": {
+    "clue": "Sisko the Emissary, informally",
+    "type": "trivia",
+    "rating": 3
+   },
+   "TASHAYAR": {
+    "clue": "Security chief killed by Armus",
+    "type": "trivia",
+    "rating": 4
+   },
+   "LEONARD": {
+    "clue": "Bones's first name, and Nimoy's",
+    "type": "wordplay",
+    "rating": 5
+   },
+   "KATHRYN": {
+    "clue": "Janeway, on a first-name basis",
+    "type": "trivia",
+    "rating": 3
+   },
+   "JEANLUC": {
+    "clue": "Captain born in La Barre, France",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CHAKOTAY": {
+    "clue": "Maquis first officer with a facial tattoo",
+    "type": "trivia",
+    "rating": 3
+   },
+   "CRUSHER": {
+    "clue": "Doctor and mother of Wesley",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "F04": {
+  "theme": "Star Trek: Final Frontier",
+  "category": "themed",
+  "clues": {
+   "HORTA": {
+    "clue": "Silicon creature that wrote NO KILL I",
+    "type": "trivia",
+    "rating": 5
+   },
+   "TALAXIAN": {
+    "clue": "Neelix's species",
+    "type": "trivia",
+    "rating": 3
+   },
+   "TRIBBLE": {
+    "clue": "Purrer McCoy says is born pregnant",
+    "type": "trivia",
+    "rating": 5
+   },
+   "HOLODECK": {
+    "clue": "Where Data played Sherlock Holmes",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CARDASSIAN": {
+    "clue": "Garak's people, fans of Enigma Tales",
+    "type": "trivia",
+    "rating": 5
+   },
+   "DILITHIUM": {
+    "clue": "Warp-core crystals taming antimatter",
+    "type": "definition",
+    "rating": 3
+   },
+   "DEFIANT": {
+    "clue": "Sisko's overgunned little warship",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "F05": {
+  "theme": "They Might Be Giants: Songbook",
+  "category": "themed",
+  "clues": {
+   "BIRDHOUSE": {
+    "clue": "___ in Your Soul, a nightlight's song",
+    "type": "trivia",
+    "rating": 5
+   },
+   "PARTICLE": {
+    "clue": "___ Man, hated by Triangle Man",
+    "type": "trivia",
+    "rating": 4
+   },
+   "FINGERTIPS": {
+    "clue": "Suite of tiny songs on Apollo 18",
+    "type": "trivia",
+    "rating": 5
+   },
+   "ENSOR": {
+    "clue": "Belgian painter they'd have you meet",
+    "type": "trivia",
+    "rating": 5
+   },
+   "GILGAMESH": {
+    "clue": "Epic king alongside Sargon and Hammurabi",
+    "type": "trivia",
+    "rating": 4
+   },
+   "HAMMURABI": {
+    "clue": "Code-writing king in The Mesopotamians",
+    "type": "trivia",
+    "rating": 4
+   },
+   "SARGON": {
+    "clue": "Akkadian king in The Mesopotamians",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "F06": {
+  "theme": "They Might Be Giants: Band Lore",
+  "category": "themed",
+  "clues": {
+   "DIALASONG": {
+    "clue": "Answering-machine service: call for a tune",
+    "type": "trivia",
+    "rating": 5
+   },
+   "QUIXOTE": {
+    "clue": "Knight whose giants were only windmills",
+    "type": "evocative",
+    "rating": 4
+   },
+   "NANOBOTS": {
+    "clue": "2013 album of tiny machines",
+    "type": "trivia",
+    "rating": 4
+   },
+   "HOTDOG": {
+    "clue": "Their Mickey Mouse Clubhouse closer",
+    "type": "trivia",
+    "rating": 5
+   },
+   "MAMMAL": {
+    "clue": "Apollo 18 song about warm-blooded kin",
+    "type": "trivia",
+    "rating": 4
+   },
+   "LINNELL": {
+    "clue": "The John on accordion",
+    "type": "trivia",
+    "rating": 3
+   },
+   "LINCOLN": {
+    "clue": "Massachusetts hometown and 1988 album",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "F07": {
+  "theme": "Cosmere: Mistborn",
+  "category": "themed",
+  "clues": {
+   "SAZED": {
+    "clue": "Keeper who took up both Shards",
+    "type": "trivia",
+    "rating": 4
+   },
+   "SCADRIAL": {
+    "clue": "Ash-choked world of the Final Empire",
+    "type": "trivia",
+    "rating": 4
+   },
+   "LERASIUM": {
+    "clue": "Bead that makes anyone Mistborn",
+    "type": "trivia",
+    "rating": 5
+   },
+   "ALLOMANCY": {
+    "clue": "Burning metals to Push and Pull",
+    "type": "definition",
+    "rating": 3
+   },
+   "FERUCHEMY": {
+    "clue": "Storing traits in metalminds",
+    "type": "definition",
+    "rating": 3
+   },
+   "TENSOON": {
+    "clue": "Kandra who broke his Contract for Vin",
+    "type": "trivia",
+    "rating": 4
+   },
+   "INQUISITOR": {
+    "clue": "Steel Ministry hunter with spiked eyes",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "F08": {
+  "theme": "Cosmere: Roshar and Beyond",
+  "category": "themed",
+  "clues": {
+   "KALADIN": {
+    "clue": "Windrunner bonded to Syl",
+    "type": "trivia",
+    "rating": 3
+   },
+   "SHALLAN": {
+    "clue": "Lightweaver who sketches Memories",
+    "type": "trivia",
+    "rating": 4
+   },
+   "DALINAR": {
+    "clue": "The Blackthorn, reformed",
+    "type": "trivia",
+    "rating": 4
+   },
+   "ADOLIN": {
+    "clue": "Fashion-minded duelist, the Kholin heir",
+    "type": "trivia",
+    "rating": 4
+   },
+   "WARBREAKER": {
+    "clue": "Novel he posted free, draft by draft",
+    "type": "trivia",
+    "rating": 5
+   },
+   "ELANTRIS": {
+    "clue": "Sanderson's debut, a city of fallen gods",
+    "type": "trivia",
+    "rating": 4
+   },
+   "SHADESMAR": {
+    "clue": "Cognitive Realm with oceans of beads",
+    "type": "trivia",
+    "rating": 5
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "F09": {
+  "theme": "The Good Place: Residents",
+  "category": "themed",
+  "clues": {
+   "TEDDANSON": {
+    "clue": "Michael, played by a Cheers barman",
+    "type": "trivia",
+    "rating": 4
+   },
+   "MENDOZA": {
+    "clue": "Jason, the Jaguars-loving DJ, by surname",
+    "type": "trivia",
+    "rating": 4
+   },
+   "ANAGONYE": {
+    "clue": "Chidi, the indecisive ethicist, by surname",
+    "type": "trivia",
+    "rating": 3
+   },
+   "ELEANOR": {
+    "clue": "Arizona dirtbag sent to the wrong place",
+    "type": "evocative",
+    "rating": 4
+   },
+   "TAHANI": {
+    "clue": "Al-Jamil, champion name-dropper",
+    "type": "trivia",
+    "rating": 4
+   },
+   "SIMONE": {
+    "clue": "Chidi's neuroscientist love in season 4",
+    "type": "trivia",
+    "rating": 4
+   },
+   "PILLBOI": {
+    "clue": "Jason's best friend back in Jacksonville",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "F10": {
+  "theme": "The Good Place: Points and Ethics",
+  "category": "themed",
+  "clues": {
+   "AFTERLIFE": {
+    "clue": "Where all those points finally count",
+    "type": "pun",
+    "rating": 4
+   },
+   "NEIGHBORS": {
+    "clue": "Residents of Michael's designed hood",
+    "type": "wordplay",
+    "rating": 3
+   },
+   "PHILOSOPHY": {
+    "clue": "Chidi's field, ethics included",
+    "type": "definition",
+    "rating": 3
+   },
+   "TIMEKNIFE": {
+    "clue": "Chidi Sees the ___",
+    "type": "trivia",
+    "rating": 5
+   },
+   "SOULMATE": {
+    "clue": "What Chidi supposedly was to Eleanor",
+    "type": "trivia",
+    "rating": 4
+   },
+   "MOLOTOV": {
+    "clue": "Jason's cocktail solution to every problem",
+    "type": "pun",
+    "rating": 5
+   },
+   "SCANLON": {
+    "clue": "What We Owe to Each Other author",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "F11": {
+  "theme": "Project Hail Mary: Crew",
+  "category": "themed",
+  "clues": {
+   "ILYUKHINA": {
+    "clue": "Russian crewmate with gallows humor",
+    "type": "trivia",
+    "rating": 4
+   },
+   "RADIATION": {
+    "clue": "Unknown peril that killed Rocky's crew",
+    "type": "trivia",
+    "rating": 5
+   },
+   "PRESSURE": {
+    "clue": "Rocky lives under crushing amounts",
+    "type": "pun",
+    "rating": 4
+   },
+   "AMNESIA": {
+    "clue": "Coma side effect that wiped Grace",
+    "type": "trivia",
+    "rating": 4
+   },
+   "ERIDIAN": {
+    "clue": "Rocky's blind, five-legged kind",
+    "type": "trivia",
+    "rating": 4
+   },
+   "AMMONIA": {
+    "clue": "What Rocky breathes back home",
+    "type": "trivia",
+    "rating": 4
+   },
+   "RYLAND": {
+    "clue": "Grace's first name, slow to return",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "F12": {
+  "theme": "Project Hail Mary: Science",
+  "category": "themed",
+  "clues": {
+   "ASTROPHAGE": {
+    "clue": "Microbe eating the Sun's energy",
+    "type": "trivia",
+    "rating": 3
+   },
+   "TAUMOEBA": {
+    "clue": "Microbe that eats the Sun-eaters",
+    "type": "trivia",
+    "rating": 4
+   },
+   "TAUCETI": {
+    "clue": "Infected star that somehow stayed bright",
+    "type": "trivia",
+    "rating": 5
+   },
+   "BEETLES": {
+    "clue": "Probes named John, Paul, George, Ringo",
+    "type": "trivia",
+    "rating": 5
+   },
+   "SAHARA": {
+    "clue": "Desert paved with breeder panels",
+    "type": "trivia",
+    "rating": 4
+   },
+   "ANTARCTICA": {
+    "clue": "Continent nuked to warm the planet",
+    "type": "trivia",
+    "rating": 5
+   },
+   "PETROVA": {
+    "clue": "Infrared line that betrayed the infection",
+    "type": "trivia",
+    "rating": 5
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ }
+}

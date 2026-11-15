@@ -114,6 +114,12 @@ like this:
    pool only uses words whose best split has none; the 8-point tile component of the structure
    score loses 2 per giveaway tile beyond two and 10 x the round's mean giveaway.
 
+5. **Ugly clusters (batch 005+):** a tile that starts mid-word with a consonant cluster no familiar
+   English word starts with (TRU·MPET, SAN·DCAS·TLE, CHE·CKMA·TE) or ends mid-word with one no word
+   ends with costs +3.0 per edge (`lexicon.ugly_boundaries`, `UGLY_COST`), and such splits are
+   dropped entirely when a clean split exists. For themed sets, words whose best split is still ugly
+   (CHECKMATE, HAYSTACK) are left out by the editor script (`work/themes-005.py`).
+
 Pair giveaway (how far the first two tiles pin the answer down) is not implemented.
 
 | Split | Giveaway per tile | Worst | Cost | Verdict |

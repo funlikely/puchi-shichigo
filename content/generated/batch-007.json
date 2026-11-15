@@ -1,0 +1,6978 @@
+[
+  {
+    "id": "round173",
+    "title": "Round 173",
+    "theme": "Taskmaster: Series 1-4",
+    "clueAnswers": [
+      {
+        "clue": "Roisin, a series 1 original",
+        "answer": "CONATY",
+        "chunkTexts": [
+          "CON",
+          "ATY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Jon, series 2's tidy grump",
+        "answer": "RICHARDSON",
+        "chunkTexts": [
+          "RIC",
+          "HARD",
+          "SON"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Series 2's Joe, a razor brand",
+        "answer": "WILKINSON",
+        "chunkTexts": [
+          "WIL",
+          "KIN",
+          "SON"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Al, the Pub Landlord in series 3",
+        "answer": "MURRAY",
+        "chunkTexts": [
+          "MUR",
+          "RAY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Paul, series 3 stand-up",
+        "answer": "CHOWDHRY",
+        "chunkTexts": [
+          "CHOW",
+          "DHRY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Lolly of series 4",
+        "answer": "ADEFOPE",
+        "chunkTexts": [
+          "ADE",
+          "FO",
+          "PE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Hugh of series 4, Mock the Week",
+        "answer": "DENNIS",
+        "chunkTexts": [
+          "DEN",
+          "NIS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "A01",
+    "scores": {
+      "decoys": 0.7,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 3.8,
+      "anchor_balance": 6.4,
+      "shape": 9.1,
+      "word_appeal": 14.0,
+      "penalties": -12.0,
+      "structure": 22.0,
+      "clue_rating": 11.8,
+      "clue_variety": 4.0,
+      "clue_puns": 3.0,
+      "clue_penalties": 0.0,
+      "clues": 18.8,
+      "structure_scaled": 13.8,
+      "total": 32.6
+    }
+  },
+  {
+    "id": "round174",
+    "title": "Round 174",
+    "theme": "Taskmaster: Series 5-9",
+    "clueAnswers": [
+      {
+        "clue": "Irish comic of series 5, in full",
+        "answer": "AISLINGBEA",
+        "chunkTexts": [
+          "AIS",
+          "LING",
+          "BEA"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Series 5's Mash Report host, in full",
+        "answer": "NISHKUMAR",
+        "chunkTexts": [
+          "NISH",
+          "KU",
+          "MAR"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Iain of series 8, Love Island's voice",
+        "answer": "STIRLING",
+        "chunkTexts": [
+          "STIR",
+          "LING"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "James of series 7, a fan favourite",
+        "answer": "ACASTER",
+        "chunkTexts": [
+          "ACA",
+          "STER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Rose of series 9, a Kiwi",
+        "answer": "MATAFEO",
+        "chunkTexts": [
+          "MAT",
+          "AF",
+          "EO"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Mark of series 5, or Sherlock's sidekick",
+        "answer": "WATSON",
+        "chunkTexts": [
+          "WAT",
+          "SON"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Alice of series 6, Radio 1 presenter",
+        "answer": "LEVINE",
+        "chunkTexts": [
+          "LEV",
+          "INE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "A02",
+    "scores": {
+      "decoys": 5.0,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 6.2,
+      "anchor_balance": 7.0,
+      "shape": 5.6,
+      "word_appeal": 14.0,
+      "penalties": -15.0,
+      "structure": 22.9,
+      "clue_rating": 11.8,
+      "clue_variety": 4.0,
+      "clue_puns": 3.0,
+      "clue_penalties": 0.0,
+      "clues": 18.8,
+      "structure_scaled": 14.3,
+      "total": 33.1
+    }
+  },
+  {
+    "id": "round175",
+    "title": "Round 175",
+    "theme": "Taskmaster: Series 10-14",
+    "clueAnswers": [
+      {
+        "clue": "Katherine, The IT Crowd's Jen, series 10",
+        "answer": "PARKINSON",
+        "chunkTexts": [
+          "PAR",
+          "KIN",
+          "SON"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Daisy May of series 10, This Country",
+        "answer": "COOPER",
+        "chunkTexts": [
+          "COO",
+          "PER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Charlotte of series 11, haunted by Ghosts",
+        "answer": "RITCHIE",
+        "chunkTexts": [
+          "RIT",
+          "CHIE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Jamali, series 11's horizontal chiller",
+        "answer": "MADDIX",
+        "chunkTexts": [
+          "MAD",
+          "DIX"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Chris of series 13, Geordie charmer",
+        "answer": "RAMSEY",
+        "chunkTexts": [
+          "RAM",
+          "SEY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Sarah of series 14, South Shields' finest",
+        "answer": "MILLICAN",
+        "chunkTexts": [
+          "MIL",
+          "LIC",
+          "AN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Munya, series 14's sketch satirist",
+        "answer": "CHAWAWA",
+        "chunkTexts": [
+          "CHA",
+          "WA",
+          "WA"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "A03",
+    "scores": {
+      "decoys": 1.7,
+      "tempting_pairs": 0.8,
+      "shared_fragments": 3.8,
+      "anchor_balance": 6.6,
+      "shape": 10.0,
+      "word_appeal": 14.0,
+      "penalties": -15.3,
+      "structure": 21.5,
+      "clue_rating": 16.1,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 16.1,
+      "structure_scaled": 13.4,
+      "total": 29.5
+    }
+  },
+  {
+    "id": "round176",
+    "title": "Round 176",
+    "theme": "Taskmaster: Series 15-19",
+    "clueAnswers": [
+      {
+        "clue": "Ivo of series 15, posh and anxious",
+        "answer": "GRAHAM",
+        "chunkTexts": [
+          "GRA",
+          "HAM"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Lucy of series 16, Hull's dry wit",
+        "answer": "BEAUMONT",
+        "chunkTexts": [
+          "BEA",
+          "UM",
+          "ONT"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Julian, series 16's camp icon",
+        "answer": "CLARY",
+        "chunkTexts": [
+          "CLA",
+          "RY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Sue, ex-Bake Off host in series 16",
+        "answer": "PERKINS",
+        "chunkTexts": [
+          "PER",
+          "KINS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Susan of series 16, Chewing Gum star",
+        "answer": "WOKOMA",
+        "chunkTexts": [
+          "WOK",
+          "OMA"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Nick of series 17, Ted Lasso's Nate",
+        "answer": "MOHAMMED",
+        "chunkTexts": [
+          "MO",
+          "HAM",
+          "MED"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Steve of series 17, League of Gentlemen",
+        "answer": "PEMBERTON",
+        "chunkTexts": [
+          "PEM",
+          "BER",
+          "TON"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "A04",
+    "scores": {
+      "decoys": 3.2,
+      "tempting_pairs": 0.8,
+      "shared_fragments": 6.2,
+      "anchor_balance": 6.7,
+      "shape": 10.0,
+      "word_appeal": 14.0,
+      "penalties": -17.3,
+      "structure": 23.6,
+      "clue_rating": 16.1,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 16.1,
+      "structure_scaled": 14.8,
+      "total": 30.9
+    }
+  },
+  {
+    "id": "round177",
+    "title": "Round 177",
+    "theme": "Taskmaster: More Champions",
+    "clueAnswers": [
+      {
+        "clue": "Liza, series 6 champion",
+        "answer": "TARBUCK",
+        "chunkTexts": [
+          "TAR",
+          "BUCK"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Lou, series 8's surreal winner",
+        "answer": "SANDERS",
+        "chunkTexts": [
+          "SAN",
+          "DERS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Morgana, series 12 champion",
+        "answer": "ROBINSON",
+        "chunkTexts": [
+          "ROB",
+          "IN",
+          "SON"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Mathew of Ghosts, a recent champ",
+        "answer": "BAYNTON",
+        "chunkTexts": [
+          "BAYN",
+          "TON"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Mae, series 15 champion",
+        "answer": "MARTIN",
+        "chunkTexts": [
+          "MAR",
+          "TIN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Ms Ryan, series 2 champ, informally",
+        "answer": "KATHERINE",
+        "chunkTexts": [
+          "KAT",
+          "HER",
+          "INE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Le Fay's first name, and a champ's",
+        "answer": "MORGANA",
+        "chunkTexts": [
+          "MOR",
+          "GA",
+          "NA"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "A05",
+    "scores": {
+      "decoys": 4.2,
+      "tempting_pairs": 0.8,
+      "shared_fragments": 6.2,
+      "anchor_balance": 4.4,
+      "shape": 7.9,
+      "word_appeal": 14.0,
+      "penalties": -15.2,
+      "structure": 22.4,
+      "clue_rating": 11.8,
+      "clue_variety": 4.0,
+      "clue_puns": 3.0,
+      "clue_penalties": 0.0,
+      "clues": 18.8,
+      "structure_scaled": 14.0,
+      "total": 32.8
+    }
+  },
+  {
+    "id": "round178",
+    "title": "Round 178",
+    "theme": "Taskmaster: The House Rules",
+    "clueAnswers": [
+      {
+        "clue": "Where tasks get judged, not done",
+        "answer": "STUDIO",
+        "chunkTexts": [
+          "STU",
+          "DIO"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "West London home of the task house",
+        "answer": "CHISWICK",
+        "chunkTexts": [
+          "CHIS",
+          "WICK"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Greg's golden head, for one",
+        "answer": "TROPHY",
+        "chunkTexts": [
+          "TRO",
+          "PHY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Extra point for flair",
+        "answer": "BONUS",
+        "chunkTexts": [
+          "BON",
+          "US"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Alex's verdict on rule-benders",
+        "answer": "DISQUALIFY",
+        "chunkTexts": [
+          "DIS",
+          "QUAL",
+          "IFY"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Mobile home parked for tasks",
+        "answer": "CARAVAN",
+        "chunkTexts": [
+          "CAR",
+          "AV",
+          "AN"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Greg's arbitrary scoring call",
+        "answer": "JUDGEMENT",
+        "chunkTexts": [
+          "JUD",
+          "GEM",
+          "ENT"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "A06",
+    "scores": {
+      "decoys": 3.2,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 1.2,
+      "anchor_balance": 6.7,
+      "shape": 7.9,
+      "word_appeal": 14.0,
+      "penalties": -13.0,
+      "structure": 20.4,
+      "clue_rating": 11.8,
+      "clue_variety": 4.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 15.8,
+      "structure_scaled": 12.8,
+      "total": 28.6
+    }
+  },
+  {
+    "id": "round179",
+    "title": "Round 179",
+    "theme": "Taskmaster: Around the World",
+    "clueAnswers": [
+      {
+        "clue": "Kids' spin-off: ___ Taskmaster",
+        "answer": "JUNIOR",
+        "chunkTexts": [
+          "JUN",
+          "IOR"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Tom, the Australian Taskmaster",
+        "answer": "GLEESON",
+        "chunkTexts": [
+          "GLE",
+          "ESON"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Taskmaster ___, the schools version",
+        "answer": "EDUCATION",
+        "chunkTexts": [
+          "EDU",
+          "CAT",
+          "ION"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "___ 4, its home from series 10",
+        "answer": "CHANNEL",
+        "chunkTexts": [
+          "CHAN",
+          "NEL"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Mr Watts, the US Taskmaster",
+        "answer": "REGGIE",
+        "chunkTexts": [
+          "REG",
+          "GIE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Tabletop tie-in for family tasking",
+        "answer": "BOARDGAME",
+        "chunkTexts": [
+          "BO",
+          "ARD",
+          "GA",
+          "ME"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Home of Kongen befaler",
+        "answer": "NORWAY",
+        "chunkTexts": [
+          "NOR",
+          "WAY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "A07",
+    "scores": {
+      "decoys": 5.5,
+      "tempting_pairs": 0.8,
+      "shared_fragments": 3.8,
+      "anchor_balance": 6.6,
+      "shape": 8.1,
+      "word_appeal": 14.0,
+      "penalties": -14.3,
+      "structure": 24.5,
+      "clue_rating": 18.2,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 18.2,
+      "structure_scaled": 15.3,
+      "total": 33.5
+    }
+  },
+  {
+    "id": "round180",
+    "title": "Round 180",
+    "theme": "Taskmaster: Greg and Alex",
+    "clueAnswers": [
+      {
+        "clue": "Fringe city where the show began",
+        "answer": "EDINBURGH",
+        "chunkTexts": [
+          "ED",
+          "INB",
+          "URGH"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Greg's sitcom as a hapless teacher",
+        "answer": "MANDOWN",
+        "chunkTexts": [
+          "MAND",
+          "OWN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Sitcom where Greg played Ken",
+        "answer": "CUCKOO",
+        "chunkTexts": [
+          "CUC",
+          "KOO"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Greg's tour: Firing ___s at a Dog",
+        "answer": "CHEESEBALL",
+        "chunkTexts": [
+          "CHE",
+          "ESE",
+          "BALL"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "Alex Horne's real job title",
+        "answer": "CREATOR",
+        "chunkTexts": [
+          "CRE",
+          "ATOR"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Subject Greg once taught",
+        "answer": "DRAMA",
+        "chunkTexts": [
+          "DRA",
+          "MA"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Every contestant's day job",
+        "answer": "COMEDIAN",
+        "chunkTexts": [
+          "COM",
+          "ED",
+          "IAN"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "A08",
+    "scores": {
+      "decoys": 6.9,
+      "tempting_pairs": 1.6,
+      "shared_fragments": 3.8,
+      "anchor_balance": 6.0,
+      "shape": 6.8,
+      "word_appeal": 14.0,
+      "penalties": -15.8,
+      "structure": 23.2,
+      "clue_rating": 20.4,
+      "clue_variety": 4.0,
+      "clue_puns": 0.0,
+      "clue_penalties": -2.0,
+      "clues": 22.4,
+      "structure_scaled": 14.5,
+      "total": 36.9
+    }
+  },
+  {
+    "id": "round181",
+    "title": "Round 181",
+    "theme": "Star Trek: Starfleet Officers",
+    "clueAnswers": [
+      {
+        "clue": "Earl Grey sipper of the Enterprise-D",
+        "answer": "PICARD",
+        "chunkTexts": [
+          "PIC",
+          "ARD"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "B'Elanna, half-Klingon engineer",
+        "answer": "TORRES",
+        "chunkTexts": [
+          "TOR",
+          "RES"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Captain whose beagle was Porthos",
+        "answer": "ARCHER",
+        "chunkTexts": [
+          "ARC",
+          "HER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Scotty's given name",
+        "answer": "MONTGOMERY",
+        "chunkTexts": [
+          "MONT",
+          "GO",
+          "MERY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Voyager's coffee-fuelled captain",
+        "answer": "JANEWAY",
+        "chunkTexts": [
+          "JAN",
+          "EWAY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Fencing helmsman, in full",
+        "answer": "HIKARUSULU",
+        "chunkTexts": [
+          "HIK",
+          "AR",
+          "USU",
+          "LU"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "DS9 doctor, secretly enhanced",
+        "answer": "BASHIR",
+        "chunkTexts": [
+          "BAS",
+          "HIR"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "B01",
+    "scores": {
+      "decoys": 0.7,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 3.8,
+      "anchor_balance": 2.6,
+      "shape": 6.9,
+      "word_appeal": 14.0,
+      "penalties": -15.6,
+      "structure": 12.8,
+      "clue_rating": 16.1,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 16.1,
+      "structure_scaled": 8.0,
+      "total": 24.1
+    }
+  },
+  {
+    "id": "round182",
+    "title": "Round 182",
+    "theme": "Star Trek: Species",
+    "clueAnswers": [
+      {
+        "clue": "Snouted, argumentative Federation founders",
+        "answer": "TELLARITE",
+        "chunkTexts": [
+          "TEL",
+          "LAR",
+          "ITE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Troi's telepathic people",
+        "answer": "BETAZOID",
+        "chunkTexts": [
+          "BET",
+          "AZ",
+          "OID"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Blue antennae-bearers like Shran",
+        "answer": "ANDORIAN",
+        "chunkTexts": [
+          "AND",
+          "ORI",
+          "AN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Spock's father's people",
+        "answer": "VULCAN",
+        "chunkTexts": [
+          "VUL",
+          "CAN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Delta Quadrant big-game hunters",
+        "answer": "HIROGEN",
+        "chunkTexts": [
+          "HIR",
+          "OGEN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Odo's shape-shifting kind",
+        "answer": "CHANGELING",
+        "chunkTexts": [
+          "CHAN",
+          "GEL",
+          "ING"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Cloaked cousins of the logical ones",
+        "answer": "ROMULAN",
+        "chunkTexts": [
+          "ROM",
+          "ULAN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "B02",
+    "scores": {
+      "decoys": 4.0,
+      "tempting_pairs": 1.6,
+      "shared_fragments": 1.2,
+      "anchor_balance": 7.2,
+      "shape": 10.4,
+      "word_appeal": 14.0,
+      "penalties": -13.1,
+      "structure": 25.4,
+      "clue_rating": 13.9,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 13.9,
+      "structure_scaled": 15.9,
+      "total": 29.8
+    }
+  },
+  {
+    "id": "round183",
+    "title": "Round 183",
+    "theme": "Star Trek: Ships",
+    "clueAnswers": [
+      {
+        "clue": "NCC-1701, no bloody A or B",
+        "answer": "ENTERPRISE",
+        "chunkTexts": [
+          "ENT",
+          "ERP",
+          "RISE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Burnham's spore-drive ship",
+        "answer": "DISCOVERY",
+        "chunkTexts": [
+          "DIS",
+          "COV",
+          "ERY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Ship Khan hijacked in Wrath",
+        "answer": "RELIANT",
+        "chunkTexts": [
+          "RELI",
+          "ANT"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Lower Decks' support vessel",
+        "answer": "CERRITOS",
+        "chunkTexts": [
+          "CER",
+          "RI",
+          "TOS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Riker's command after the D",
+        "answer": "TITAN",
+        "chunkTexts": [
+          "TI",
+          "TAN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Prodigy kids' stolen starship",
+        "answer": "PROTOSTAR",
+        "chunkTexts": [
+          "PRO",
+          "TOS",
+          "TAR"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Romulan D'deridex, for one",
+        "answer": "WARBIRD",
+        "chunkTexts": [
+          "WAR",
+          "BIRD"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "B03",
+    "scores": {
+      "decoys": 1.0,
+      "tempting_pairs": 0.8,
+      "shared_fragments": 7.5,
+      "anchor_balance": 7.1,
+      "shape": 10.4,
+      "word_appeal": 14.0,
+      "penalties": -13.2,
+      "structure": 27.7,
+      "clue_rating": 18.2,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 18.2,
+      "structure_scaled": 17.3,
+      "total": 35.5
+    }
+  },
+  {
+    "id": "round184",
+    "title": "Round 184",
+    "theme": "Star Trek: Worlds",
+    "clueAnswers": [
+      {
+        "clue": "Garak's homeworld, Prime",
+        "answer": "CARDASSIA",
+        "chunkTexts": [
+          "CAR",
+          "DAS",
+          "SIA"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Rainy capital of profit",
+        "answer": "FERENGINAR",
+        "chunkTexts": [
+          "FER",
+          "ENGI",
+          "NAR"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Khan's exile system, minus a V",
+        "answer": "CETIALPHA",
+        "chunkTexts": [
+          "CET",
+          "IAL",
+          "PHA"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Qo'noS, anglicized",
+        "answer": "KRONOS",
+        "chunkTexts": [
+          "KRO",
+          "NOS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Planet of illusionists, IV",
+        "answer": "TALOS",
+        "chunkTexts": [
+          "TA",
+          "LOS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Device that made a planet in Khan",
+        "answer": "GENESIS",
+        "chunkTexts": [
+          "GEN",
+          "ESIS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Planet of Galactic Peace, III",
+        "answer": "NIMBUS",
+        "chunkTexts": [
+          "NIM",
+          "BUS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "B04",
+    "scores": {
+      "decoys": 0.0,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 2.5,
+      "anchor_balance": 6.6,
+      "shape": 10.0,
+      "word_appeal": 14.0,
+      "penalties": -8.8,
+      "structure": 24.3,
+      "clue_rating": 18.2,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 18.2,
+      "structure_scaled": 15.2,
+      "total": 33.4
+    }
+  },
+  {
+    "id": "round185",
+    "title": "Round 185",
+    "theme": "Star Trek: Tech Manual",
+    "clueAnswers": [
+      {
+        "clue": "Beeping handheld scanner",
+        "answer": "TRICORDER",
+        "chunkTexts": [
+          "TRI",
+          "COR",
+          "DER"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "___ device, the Romulan vanishing act",
+        "answer": "CLOAKING",
+        "chunkTexts": [
+          "CLO",
+          "AK",
+          "ING"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Dish that fixes every plot",
+        "answer": "DEFLECTOR",
+        "chunkTexts": [
+          "DEF",
+          "LEC",
+          "TOR"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "___ chips, the computer's memory",
+        "answer": "ISOLINEAR",
+        "chunkTexts": [
+          "ISO",
+          "LIN",
+          "EAR"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Tea, Earl Grey, hot dispenser",
+        "answer": "REPLICATOR",
+        "chunkTexts": [
+          "REP",
+          "LICA",
+          "TOR"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Warp pod on a pylon",
+        "answer": "NACELLE",
+        "chunkTexts": [
+          "NAC",
+          "ELLE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Set it to stun",
+        "answer": "PHASER",
+        "chunkTexts": [
+          "PHA",
+          "SER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "B05",
+    "scores": {
+      "decoys": 4.7,
+      "tempting_pairs": 1.6,
+      "shared_fragments": 6.2,
+      "anchor_balance": 7.5,
+      "shape": 12.0,
+      "word_appeal": 14.0,
+      "penalties": -12.3,
+      "structure": 33.7,
+      "clue_rating": 13.9,
+      "clue_variety": 8.0,
+      "clue_puns": 3.0,
+      "clue_penalties": 0.0,
+      "clues": 24.9,
+      "structure_scaled": 21.1,
+      "total": 46.0
+    }
+  },
+  {
+    "id": "round186",
+    "title": "Round 186",
+    "theme": "Star Trek: Catchphrases",
+    "clueAnswers": [
+      {
+        "clue": "Picard's one-word go",
+        "answer": "ENGAGE",
+        "chunkTexts": [
+          "ENG",
+          "AGE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Picard's order to proceed",
+        "answer": "MAKEITSO",
+        "chunkTexts": [
+          "MAK",
+          "EIT",
+          "SO"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Resistance is ___",
+        "answer": "FUTILE",
+        "chunkTexts": [
+          "FUT",
+          "ILE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "What the Borg do to you",
+        "answer": "ASSIMILATE",
+        "chunkTexts": [
+          "ASSI",
+          "MIL",
+          "ATE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Spock's highest praise",
+        "answer": "LOGICAL",
+        "chunkTexts": [
+          "LOG",
+          "ICAL"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Bones's opener, before 'I'm a doctor'",
+        "answer": "DAMMITJIM",
+        "chunkTexts": [
+          "DAM",
+          "MIT",
+          "JIM"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "Picard's nickname for Riker",
+        "answer": "NUMBERONE",
+        "chunkTexts": [
+          "NUM",
+          "BER",
+          "ONE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "B06",
+    "scores": {
+      "decoys": 3.3,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 3.8,
+      "anchor_balance": 6.7,
+      "shape": 11.0,
+      "word_appeal": 14.0,
+      "penalties": -9.9,
+      "structure": 28.9,
+      "clue_rating": 13.9,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 13.9,
+      "structure_scaled": 18.1,
+      "total": 32.0
+    }
+  },
+  {
+    "id": "round187",
+    "title": "Round 187",
+    "theme": "Star Trek: Adversaries",
+    "clueAnswers": [
+      {
+        "clue": "Holodeck villain who woke up",
+        "answer": "MORIARTY",
+        "chunkTexts": [
+          "MOR",
+          "IAR",
+          "TY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Gul who insisted on five lights",
+        "answer": "MADRED",
+        "chunkTexts": [
+          "MAD",
+          "RED"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "Picard's Reman-raised clone",
+        "answer": "SHINZON",
+        "chunkTexts": [
+          "SHIN",
+          "ZON"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Picard, assimilated",
+        "answer": "LOCUTUS",
+        "chunkTexts": [
+          "LOCU",
+          "TUS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Wide-eyed Klingon chancellor",
+        "answer": "GOWRON",
+        "chunkTexts": [
+          "GOW",
+          "RON"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Con man with android wives",
+        "answer": "HARRYMUDD",
+        "chunkTexts": [
+          "HAR",
+          "RY",
+          "MUDD"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Hive mind's seductive center",
+        "answer": "BORGQUEEN",
+        "chunkTexts": [
+          "BORG",
+          "QUE",
+          "EN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "B07",
+    "scores": {
+      "decoys": 1.9,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 2.5,
+      "anchor_balance": 4.4,
+      "shape": 6.8,
+      "word_appeal": 14.0,
+      "penalties": -15.0,
+      "structure": 14.9,
+      "clue_rating": 24.6,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 24.6,
+      "structure_scaled": 9.3,
+      "total": 33.9
+    }
+  },
+  {
+    "id": "round188",
+    "title": "Round 188",
+    "theme": "Star Trek: Cast and Crew",
+    "clueAnswers": [
+      {
+        "clue": "O'Brien's actor, in full",
+        "answer": "COLMMEANEY",
+        "chunkTexts": [
+          "COLM",
+          "MEA",
+          "NEY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Ricardo who played Khan",
+        "answer": "MONTALBAN",
+        "chunkTexts": [
+          "MON",
+          "TAL",
+          "BAN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Armin under Quark's ears",
+        "answer": "SHIMERMAN",
+        "chunkTexts": [
+          "SHI",
+          "MER",
+          "MAN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Mr Kelley's first name",
+        "answer": "DEFOREST",
+        "chunkTexts": [
+          "DE",
+          "FOR",
+          "EST"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Kirk's actor, spoken-word crooner",
+        "answer": "SHATNER",
+        "chunkTexts": [
+          "SHAT",
+          "NER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Robert, Voyager's Doctor",
+        "answer": "PICARDO",
+        "chunkTexts": [
+          "PIC",
+          "ARDO"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Nana, who played Kira",
+        "answer": "VISITOR",
+        "chunkTexts": [
+          "VIS",
+          "ITOR"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "B08",
+    "scores": {
+      "decoys": 7.2,
+      "tempting_pairs": 1.2,
+      "shared_fragments": 6.2,
+      "anchor_balance": 6.7,
+      "shape": 10.4,
+      "word_appeal": 14.0,
+      "penalties": -9.7,
+      "structure": 36.1,
+      "clue_rating": 20.4,
+      "clue_variety": 4.0,
+      "clue_puns": 3.0,
+      "clue_penalties": 0.0,
+      "clues": 27.4,
+      "structure_scaled": 22.6,
+      "total": 50.0
+    }
+  },
+  {
+    "id": "round189",
+    "title": "Round 189",
+    "theme": "They Might Be Giants: Albums",
+    "clueAnswers": [
+      {
+        "clue": "___ 18, home of Fingertips",
+        "answer": "APOLLO",
+        "chunkTexts": [
+          "APOL",
+          "LO"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "2001 album, a furry auto",
+        "answer": "MINKCAR",
+        "chunkTexts": [
+          "MINK",
+          "CAR"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "The ___, 2004 backbone of an album",
+        "answer": "SPINE",
+        "chunkTexts": [
+          "SPI",
+          "NE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "2018 album, dial up the energy",
+        "answer": "PHONEPOWER",
+        "chunkTexts": [
+          "PHO",
+          "NEP",
+          "OWER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Factory ___, 1996",
+        "answer": "SHOWROOM",
+        "chunkTexts": [
+          "SHO",
+          "WRO",
+          "OM"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "2011 album, an open invitation",
+        "answer": "JOINUS",
+        "chunkTexts": [
+          "JOI",
+          "NUS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "The ___, 2018's sci-fi concept",
+        "answer": "ESCAPETEAM",
+        "chunkTexts": [
+          "ESCA",
+          "PET",
+          "EAM"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "C01",
+    "scores": {
+      "decoys": 4.3,
+      "tempting_pairs": 1.2,
+      "shared_fragments": 1.2,
+      "anchor_balance": 6.5,
+      "shape": 6.8,
+      "word_appeal": 14.0,
+      "penalties": -15.9,
+      "structure": 18.2,
+      "clue_rating": 18.2,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 18.2,
+      "structure_scaled": 11.4,
+      "total": 29.6
+    }
+  },
+  {
+    "id": "round190",
+    "title": "Round 190",
+    "theme": "They Might Be Giants: Songbook II",
+    "clueAnswers": [
+      {
+        "clue": "Not Constantinople",
+        "answer": "ISTANBUL",
+        "chunkTexts": [
+          "IS",
+          "TAN",
+          "BUL"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Flood single with a dance in it",
+        "answer": "TWISTING",
+        "chunkTexts": [
+          "TWIS",
+          "TING"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Purple hairpiece of song",
+        "answer": "TOUPEE",
+        "chunkTexts": [
+          "TOU",
+          "PEE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "___ Rock, a one-eyed tune",
+        "answer": "CYCLOPS",
+        "chunkTexts": [
+          "CYC",
+          "LOPS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "___ With Teeth, a biting tool",
+        "answer": "SHOEHORN",
+        "chunkTexts": [
+          "SHO",
+          "EH",
+          "ORN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Downpour of number twos, in song",
+        "answer": "PENCILRAIN",
+        "chunkTexts": [
+          "PEN",
+          "CIL",
+          "RAIN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Song with ears on loan",
+        "answer": "HEARINGAID",
+        "chunkTexts": [
+          "HEA",
+          "RING",
+          "AID"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "C02",
+    "scores": {
+      "decoys": 5.3,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 2.5,
+      "anchor_balance": 6.7,
+      "shape": 8.2,
+      "word_appeal": 14.0,
+      "penalties": -15.6,
+      "structure": 21.5,
+      "clue_rating": 18.2,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 18.2,
+      "structure_scaled": 13.4,
+      "total": 31.6
+    }
+  },
+  {
+    "id": "round191",
+    "title": "Round 191",
+    "theme": "They Might Be Giants: Here Comes Science",
+    "clueAnswers": [
+      {
+        "clue": "Glow, like the sun's gas in song",
+        "answer": "INCANDESCE",
+        "chunkTexts": [
+          "INC",
+          "ANDE",
+          "SCE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "___ Car, a Here Comes Science track",
+        "answer": "ELECTRIC",
+        "chunkTexts": [
+          "EL",
+          "ECT",
+          "RIC"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "___ Assisted Design, a science song",
+        "answer": "COMPUTER",
+        "chunkTexts": [
+          "COM",
+          "PUT",
+          "ER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "What Is a ___ Star?",
+        "answer": "SHOOTING",
+        "chunkTexts": [
+          "SHO",
+          "OT",
+          "ING"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "The sun's a gigantic nuclear one",
+        "answer": "FURNACE",
+        "chunkTexts": [
+          "FURN",
+          "ACE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "The sun's a ___ of incandescent plasma",
+        "answer": "MIASMA",
+        "chunkTexts": [
+          "MIA",
+          "SMA"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "Not gas after all, they sang back",
+        "answer": "PLASMA",
+        "chunkTexts": [
+          "PLA",
+          "SMA"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "C03",
+    "scores": {
+      "decoys": 6.7,
+      "tempting_pairs": 2.8,
+      "shared_fragments": 5.0,
+      "anchor_balance": 6.5,
+      "shape": 10.4,
+      "word_appeal": 14.0,
+      "penalties": -16.9,
+      "structure": 28.5,
+      "clue_rating": 20.4,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 20.4,
+      "structure_scaled": 17.8,
+      "total": 38.2
+    }
+  },
+  {
+    "id": "round192",
+    "title": "Round 192",
+    "theme": "They Might Be Giants: On Screen",
+    "clueAnswers": [
+      {
+        "clue": "Middle child; theme: Boss of Me",
+        "answer": "MALCOLM",
+        "chunkTexts": [
+          "MAL",
+          "COLM"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Button-eyed film they wrote songs for",
+        "answer": "CORALINE",
+        "chunkTexts": [
+          "COR",
+          "AL",
+          "INE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "2002 band documentary",
+        "answer": "GIGANTIC",
+        "chunkTexts": [
+          "GIG",
+          "AN",
+          "TIC"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "___ Heroes, a Disney theme job",
+        "answer": "HIGGLYTOWN",
+        "chunkTexts": [
+          "HIG",
+          "GLY",
+          "TOWN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Mickey Mouse ___",
+        "answer": "CLUBHOUSE",
+        "chunkTexts": [
+          "CLUB",
+          "HOU",
+          "SE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "___ Runner, a web-toon collaborator",
+        "answer": "HOMESTAR",
+        "chunkTexts": [
+          "HOME",
+          "STAR"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Austin Powers villain who got a song",
+        "answer": "DREVIL",
+        "chunkTexts": [
+          "DRE",
+          "VIL"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "C04",
+    "scores": {
+      "decoys": 6.1,
+      "tempting_pairs": 1.2,
+      "shared_fragments": 1.2,
+      "anchor_balance": 6.8,
+      "shape": 7.1,
+      "word_appeal": 14.0,
+      "penalties": -20.7,
+      "structure": 15.8,
+      "clue_rating": 20.4,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 20.4,
+      "structure_scaled": 9.9,
+      "total": 30.3
+    }
+  },
+  {
+    "id": "round193",
+    "title": "Round 193",
+    "theme": "They Might Be Giants: The Band",
+    "clueAnswers": [
+      {
+        "clue": "Linnell's earlier, unremarkable band",
+        "answer": "MUNDANES",
+        "chunkTexts": [
+          "MUN",
+          "DA",
+          "NES"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Flansburgh side project",
+        "answer": "MONOPUFF",
+        "chunkTexts": [
+          "MON",
+          "OP",
+          "UFF"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Linnell solo album touring the map",
+        "answer": "STATESONGS",
+        "chunkTexts": [
+          "STA",
+          "TES",
+          "ONGS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Early indie label, second to nobody",
+        "answer": "BARNONE",
+        "chunkTexts": [
+          "BARN",
+          "ONE"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Marty, behind the kit",
+        "answer": "BELLER",
+        "chunkTexts": [
+          "BEL",
+          "LER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Robin, Flansburgh's wife and collaborator",
+        "answer": "GOLDWASSER",
+        "chunkTexts": [
+          "GOLD",
+          "WAS",
+          "SER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Flansburgh's axe",
+        "answer": "GUITAR",
+        "chunkTexts": [
+          "GUI",
+          "TAR"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "C05",
+    "scores": {
+      "decoys": 6.0,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 3.8,
+      "anchor_balance": 7.4,
+      "shape": 10.4,
+      "word_appeal": 14.0,
+      "penalties": -13.6,
+      "structure": 28.0,
+      "clue_rating": 11.8,
+      "clue_variety": 8.0,
+      "clue_puns": 6.0,
+      "clue_penalties": -2.0,
+      "clues": 23.8,
+      "structure_scaled": 17.5,
+      "total": 41.3
+    }
+  },
+  {
+    "id": "round194",
+    "title": "Round 194",
+    "theme": "They Might Be Giants: Lyric Sheet",
+    "clueAnswers": [
+      {
+        "clue": "Blue bird in the outlet, per Birdhouse",
+        "answer": "CANARY",
+        "chunkTexts": [
+          "CAN",
+          "ARY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Where the nightlight bird perches",
+        "answer": "OUTLET",
+        "chunkTexts": [
+          "OUT",
+          "LET"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Old New York was once New ___",
+        "answer": "AMSTERDAM",
+        "chunkTexts": [
+          "AMS",
+          "TER",
+          "DAM"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "___ Man, Particle Man's rival",
+        "answer": "UNIVERSE",
+        "chunkTexts": [
+          "UNI",
+          "VER",
+          "SE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Person Man was hit by one",
+        "answer": "FRYINGPAN",
+        "chunkTexts": [
+          "FRY",
+          "ING",
+          "PAN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "Nobody gets what they want: ___",
+        "answer": "BEAUTIFUL",
+        "chunkTexts": [
+          "BEA",
+          "UTI",
+          "FUL"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Ana Ng's presence, glowing",
+        "answer": "MAJESTIC",
+        "chunkTexts": [
+          "MAJ",
+          "ES",
+          "TIC"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "C06",
+    "scores": {
+      "decoys": 13.2,
+      "tempting_pairs": 1.2,
+      "shared_fragments": 5.0,
+      "anchor_balance": 6.8,
+      "shape": 11.0,
+      "word_appeal": 14.0,
+      "penalties": -17.2,
+      "structure": 33.9,
+      "clue_rating": 24.6,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 24.6,
+      "structure_scaled": 21.2,
+      "total": 45.8
+    }
+  },
+  {
+    "id": "round195",
+    "title": "Round 195",
+    "theme": "They Might Be Giants: Songbook III",
+    "clueAnswers": [
+      {
+        "clue": "The ___ Got Me High",
+        "answer": "STATUE",
+        "chunkTexts": [
+          "STA",
+          "TUE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "___ Wage, a two-word song",
+        "answer": "MINIMUM",
+        "chunkTexts": [
+          "MIN",
+          "IMUM"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "___ Dead Guy",
+        "answer": "EXQUISITE",
+        "chunkTexts": [
+          "EX",
+          "QUIS",
+          "ITE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Song named for a mail slot",
+        "answer": "LETTERBOX",
+        "chunkTexts": [
+          "LET",
+          "TER",
+          "BOX"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Hovering ___, a floating hat",
+        "answer": "SOMBRERO",
+        "chunkTexts": [
+          "SOM",
+          "BRE",
+          "RO"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Song ringing for supper",
+        "answer": "DINNERBELL",
+        "chunkTexts": [
+          "DIN",
+          "NER",
+          "BELL"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "You're ___ than you've ever been",
+        "answer": "OLDER",
+        "chunkTexts": [
+          "OLD",
+          "ER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "C07",
+    "scores": {
+      "decoys": 4.0,
+      "tempting_pairs": 1.2,
+      "shared_fragments": 2.5,
+      "anchor_balance": 6.6,
+      "shape": 9.3,
+      "word_appeal": 14.0,
+      "penalties": -13.6,
+      "structure": 24.0,
+      "clue_rating": 18.2,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 18.2,
+      "structure_scaled": 15.0,
+      "total": 33.2
+    }
+  },
+  {
+    "id": "round196",
+    "title": "Round 196",
+    "theme": "They Might Be Giants: Letters and Numbers",
+    "clueAnswers": [
+      {
+        "clue": "___ of the Week, a lazy song",
+        "answer": "SEVENDAYS",
+        "chunkTexts": [
+          "SEV",
+          "END",
+          "AYS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "___ of Soup, a counting song",
+        "answer": "NINEBOWLS",
+        "chunkTexts": [
+          "NIN",
+          "EB",
+          "OWLS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "ABC, in full",
+        "answer": "ALPHABET",
+        "chunkTexts": [
+          "AL",
+          "PHA",
+          "BET"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Nine-sided shape with its own song",
+        "answer": "NONAGON",
+        "chunkTexts": [
+          "NON",
+          "AGON"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Alphabet of ___",
+        "answer": "NATIONS",
+        "chunkTexts": [
+          "NAT",
+          "IONS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Three-eyed critter of the 123s",
+        "answer": "TRIOPS",
+        "chunkTexts": [
+          "TRI",
+          "OPS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "123s song about nothing much",
+        "answer": "ZEROES",
+        "chunkTexts": [
+          "ZER",
+          "OES"
+        ],
+        "clueType": "pun",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "C08",
+    "scores": {
+      "decoys": 2.2,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 2.5,
+      "anchor_balance": 6.7,
+      "shape": 9.1,
+      "word_appeal": 14.0,
+      "penalties": -11.8,
+      "structure": 22.7,
+      "clue_rating": 18.2,
+      "clue_variety": 4.0,
+      "clue_puns": 3.0,
+      "clue_penalties": 0.0,
+      "clues": 25.2,
+      "structure_scaled": 14.2,
+      "total": 39.4
+    }
+  },
+  {
+    "id": "round197",
+    "title": "Round 197",
+    "theme": "Cosmere: The Crew",
+    "clueAnswers": [
+      {
+        "clue": "Capital of the Final Empire",
+        "answer": "LUTHADEL",
+        "chunkTexts": [
+          "LU",
+          "THA",
+          "DEL"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Vin's noble disguise, ___ Renoux",
+        "answer": "VALETTE",
+        "chunkTexts": [
+          "VAL",
+          "ETTE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Steel Ministry bureaucrat-priest",
+        "answer": "OBLIGATOR",
+        "chunkTexts": [
+          "OB",
+          "LIG",
+          "ATOR"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Rashek's imperial title",
+        "answer": "LORDRULER",
+        "chunkTexts": [
+          "LOR",
+          "DRU",
+          "LER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Ham, in full",
+        "answer": "HAMMOND",
+        "chunkTexts": [
+          "HAM",
+          "MOND"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Hero of Ages who wasn't",
+        "answer": "ALENDI",
+        "chunkTexts": [
+          "AL",
+          "ENDI"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Survivor of Hathsin",
+        "answer": "KELSIER",
+        "chunkTexts": [
+          "KEL",
+          "SIER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "D01",
+    "scores": {
+      "decoys": 2.7,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 1.2,
+      "anchor_balance": 7.0,
+      "shape": 5.6,
+      "word_appeal": 14.0,
+      "penalties": -14.6,
+      "structure": 16.3,
+      "clue_rating": 16.1,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 16.1,
+      "structure_scaled": 10.2,
+      "total": 26.3
+    }
+  },
+  {
+    "id": "round198",
+    "title": "Round 198",
+    "theme": "Cosmere: Metals",
+    "clueAnswers": [
+      {
+        "clue": "Burn it to be a Thug",
+        "answer": "PEWTER",
+        "chunkTexts": [
+          "PEW",
+          "TER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Smoker's metal, hiding Allomancy",
+        "answer": "COPPER",
+        "chunkTexts": [
+          "COP",
+          "PER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Turns your next burn into one blast",
+        "answer": "DURALUMIN",
+        "chunkTexts": [
+          "DUR",
+          "ALU",
+          "MIN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Wipes your reserves, blocks Pushes",
+        "answer": "ALUMINUM",
+        "chunkTexts": [
+          "ALU",
+          "MI",
+          "NUM"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Supercharges someone else's burn",
+        "answer": "NICROSIL",
+        "chunkTexts": [
+          "NIC",
+          "ROS",
+          "IL"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Leecher's metal",
+        "answer": "CHROMIUM",
+        "chunkTexts": [
+          "CHRO",
+          "MIUM"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Slows time in a bubble",
+        "answer": "CADMIUM",
+        "chunkTexts": [
+          "CAD",
+          "MIUM"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "D02",
+    "scores": {
+      "decoys": 4.0,
+      "tempting_pairs": 1.2,
+      "shared_fragments": 7.5,
+      "anchor_balance": 6.7,
+      "shape": 9.1,
+      "word_appeal": 14.0,
+      "penalties": -10.8,
+      "structure": 31.7,
+      "clue_rating": 20.4,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 20.4,
+      "structure_scaled": 19.8,
+      "total": 40.2
+    }
+  },
+  {
+    "id": "round199",
+    "title": "Round 199",
+    "theme": "Cosmere: Wax and Wayne",
+    "clueAnswers": [
+      {
+        "clue": "Metal-burner like Wax",
+        "answer": "ALLOMANCER",
+        "chunkTexts": [
+          "ALLO",
+          "MAN",
+          "CER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Train-robbing gang in Alloy of Law",
+        "answer": "VANISHERS",
+        "chunkTexts": [
+          "VAN",
+          "ISH",
+          "ERS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "The Bands of ___",
+        "answer": "MOURNING",
+        "chunkTexts": [
+          "MO",
+          "URN",
+          "ING"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Marsh's later, spiky alias",
+        "answer": "IRONEYES",
+        "chunkTexts": [
+          "IRO",
+          "NEY",
+          "ES"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Basin city named for a king",
+        "answer": "ELENDEL",
+        "chunkTexts": [
+          "ELEN",
+          "DEL"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Gunsmith who'd gladly shoot Wayne",
+        "answer": "RANETTE",
+        "chunkTexts": [
+          "RAN",
+          "ETTE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Wax's meticulous fiancée",
+        "answer": "STERIS",
+        "chunkTexts": [
+          "STE",
+          "RIS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "D03",
+    "scores": {
+      "decoys": 10.3,
+      "tempting_pairs": 1.6,
+      "shared_fragments": 3.8,
+      "anchor_balance": 7.3,
+      "shape": 10.4,
+      "word_appeal": 14.0,
+      "penalties": -12.8,
+      "structure": 34.7,
+      "clue_rating": 18.2,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 18.2,
+      "structure_scaled": 21.7,
+      "total": 39.9
+    }
+  },
+  {
+    "id": "round200",
+    "title": "Round 200",
+    "theme": "Cosmere: Bridge Four and Friends",
+    "clueAnswers": [
+      {
+        "clue": "Kaladin's order of Radiants",
+        "answer": "WINDRUNNER",
+        "chunkTexts": [
+          "WIN",
+          "DRUN",
+          "NER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Gavilar's son, an unlucky king",
+        "answer": "ELHOKAR",
+        "chunkTexts": [
+          "EL",
+          "HOK",
+          "AR"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Dalinar's son, a secret Truthwatcher",
+        "answer": "RENARIN",
+        "chunkTexts": [
+          "RENA",
+          "RIN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Syl, in full",
+        "answer": "SYLPHRENA",
+        "chunkTexts": [
+          "SYL",
+          "PHRE",
+          "NA"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Atheist princess and Elsecaller",
+        "answer": "JASNAH",
+        "chunkTexts": [
+          "JAS",
+          "NAH"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Ardent bearing poisoned bread",
+        "answer": "KABSAL",
+        "chunkTexts": [
+          "KAB",
+          "SAL"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Dalinar's house",
+        "answer": "KHOLIN",
+        "chunkTexts": [
+          "KHO",
+          "LIN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "D04",
+    "scores": {
+      "decoys": 1.2,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 5.0,
+      "anchor_balance": 6.5,
+      "shape": 7.9,
+      "word_appeal": 14.0,
+      "penalties": -14.7,
+      "structure": 19.9,
+      "clue_rating": 16.1,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 16.1,
+      "structure_scaled": 12.4,
+      "total": 28.5
+    }
+  },
+  {
+    "id": "round201",
+    "title": "Round 201",
+    "theme": "Cosmere: Roshar Lore",
+    "clueAnswers": [
+      {
+        "clue": "Syl's kind",
+        "answer": "HONORSPREN",
+        "chunkTexts": [
+          "HON",
+          "ORS",
+          "PREN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Gem-powered gadget",
+        "answer": "FABRIAL",
+        "chunkTexts": [
+          "FAB",
+          "RIAL"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Knight sworn to Ideals",
+        "answer": "RADIANT",
+        "chunkTexts": [
+          "RADI",
+          "ANT"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Glowing gem currency",
+        "answer": "SPHERES",
+        "chunkTexts": [
+          "SPHE",
+          "RES"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Parshendi's name for themselves",
+        "answer": "LISTENER",
+        "chunkTexts": [
+          "LI",
+          "STE",
+          "NER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Kholin kingdom",
+        "answer": "ALETHKAR",
+        "chunkTexts": [
+          "AL",
+          "ETH",
+          "KAR"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Alethi faith of the Almighty",
+        "answer": "VORINISM",
+        "chunkTexts": [
+          "VOR",
+          "IN",
+          "ISM"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "D05",
+    "scores": {
+      "decoys": 6.5,
+      "tempting_pairs": 2.4,
+      "shared_fragments": 0.0,
+      "anchor_balance": 2.2,
+      "shape": 7.2,
+      "word_appeal": 14.0,
+      "penalties": -14.6,
+      "structure": 17.7,
+      "clue_rating": 11.8,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 11.8,
+      "structure_scaled": 11.1,
+      "total": 22.9
+    }
+  },
+  {
+    "id": "round202",
+    "title": "Round 202",
+    "theme": "Cosmere: Shards and Realms",
+    "clueAnswers": [
+      {
+        "clue": "Original power, split sixteen ways",
+        "answer": "ADONALSIUM",
+        "chunkTexts": [
+          "ADO",
+          "NAL",
+          "SIUM"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Event that made the Shards",
+        "answer": "SHATTERING",
+        "chunkTexts": [
+          "SHAT",
+          "TER",
+          "ING"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Shard that gives Breath on Nalthis",
+        "answer": "ENDOWMENT",
+        "chunkTexts": [
+          "EN",
+          "DOW",
+          "MENT"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "One of the sixteen, still unseen",
+        "answer": "INVENTION",
+        "chunkTexts": [
+          "IN",
+          "VENT",
+          "ION"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Realm where Shadesmar lies",
+        "answer": "COGNITIVE",
+        "chunkTexts": [
+          "COG",
+          "NIT",
+          "IVE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Realm of the soul's true shape",
+        "answer": "SPIRITUAL",
+        "chunkTexts": [
+          "SPI",
+          "RIT",
+          "UAL"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Splintered Shard Odium hunted",
+        "answer": "AMBITION",
+        "chunkTexts": [
+          "AM",
+          "BIT",
+          "ION"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "D06",
+    "scores": {
+      "decoys": 20.0,
+      "tempting_pairs": 4.0,
+      "shared_fragments": 8.8,
+      "anchor_balance": 6.9,
+      "shape": 8.3,
+      "word_appeal": 14.0,
+      "penalties": -12.3,
+      "structure": 49.7,
+      "clue_rating": 16.1,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 16.1,
+      "structure_scaled": 31.1,
+      "total": 47.2
+    }
+  },
+  {
+    "id": "round203",
+    "title": "Round 203",
+    "theme": "Cosmere: Nalthis and Sel",
+    "clueAnswers": [
+      {
+        "clue": "Kingdom with Elantris at its heart",
+        "answer": "ARELON",
+        "chunkTexts": [
+          "ARE",
+          "LON"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Colorful realm of the Returned",
+        "answer": "HALLANDREN",
+        "chunkTexts": [
+          "HAL",
+          "LAN",
+          "DREN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Princess widowed before her wedding",
+        "answer": "SARENE",
+        "chunkTexts": [
+          "SAR",
+          "ENE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "One who animates objects with Breath",
+        "answer": "AWAKENER",
+        "chunkTexts": [
+          "AWA",
+          "KEN",
+          "ER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Shai's forged seal of a self",
+        "answer": "SOULSTAMP",
+        "chunkTexts": [
+          "SO",
+          "ULS",
+          "TAMP"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Siri's elder sister",
+        "answer": "VIVENNA",
+        "chunkTexts": [
+          "VIV",
+          "ENNA"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Prince who fell into Elantris",
+        "answer": "RAODEN",
+        "chunkTexts": [
+          "RAO",
+          "DEN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "D07",
+    "scores": {
+      "decoys": 1.3,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 2.5,
+      "anchor_balance": 7.0,
+      "shape": 9.1,
+      "word_appeal": 14.0,
+      "penalties": -11.8,
+      "structure": 22.2,
+      "clue_rating": 16.1,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 16.1,
+      "structure_scaled": 13.9,
+      "total": 30.0
+    }
+  },
+  {
+    "id": "round204",
+    "title": "Round 204",
+    "theme": "Cosmere: On the Shelf",
+    "clueAnswers": [
+      {
+        "clue": "Lift's novella, and her order",
+        "answer": "EDGEDANCER",
+        "chunkTexts": [
+          "EDGE",
+          "DAN",
+          "CER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Graphic novel of Taldain's masters",
+        "answer": "WHITESAND",
+        "chunkTexts": [
+          "WHI",
+          "TES",
+          "AND"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Nomad's sunrise-dodging novel",
+        "answer": "SUNLITMAN",
+        "chunkTexts": [
+          "SUN",
+          "LIT",
+          "MAN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Words of ___",
+        "answer": "RADIANCE",
+        "chunkTexts": [
+          "RADI",
+          "ANCE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Brandon, architect of it all",
+        "answer": "SANDERSON",
+        "chunkTexts": [
+          "SAN",
+          "DER",
+          "SON"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "The author, on a first-name basis",
+        "answer": "BRANDON",
+        "chunkTexts": [
+          "BRAN",
+          "DON"
+        ],
+        "clueType": "trivia",
+        "clueRating": 2
+      },
+      {
+        "clue": "___ of Self",
+        "answer": "SHADOWS",
+        "chunkTexts": [
+          "SHA",
+          "DOWS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "D08",
+    "scores": {
+      "decoys": 2.3,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 10.0,
+      "anchor_balance": 7.0,
+      "shape": 10.4,
+      "word_appeal": 14.0,
+      "penalties": -12.3,
+      "structure": 31.4,
+      "clue_rating": 11.8,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": -2.0,
+      "clues": 9.8,
+      "structure_scaled": 19.6,
+      "total": 29.4
+    }
+  },
+  {
+    "id": "round205",
+    "title": "Round 205",
+    "theme": "The Good Place: Staff and Neighbors",
+    "clueAnswers": [
+      {
+        "clue": "Jason's dad, a fellow small-timer",
+        "answer": "DONKEYDOUG",
+        "chunkTexts": [
+          "DON",
+          "KEY",
+          "DOUG"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Tahani's overachieving sister",
+        "answer": "KAMILAH",
+        "chunkTexts": [
+          "KA",
+          "MIL",
+          "AH"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Ancient sage in the real paradise",
+        "answer": "HYPATIA",
+        "chunkTexts": [
+          "HYP",
+          "ATIA"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "The Good Place's paralyzed rulers",
+        "answer": "COMMITTEE",
+        "chunkTexts": [
+          "COM",
+          "MIT",
+          "TEE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "John, gossip-blogging neighbor",
+        "answer": "WHEATON",
+        "chunkTexts": [
+          "WHE",
+          "ATON"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Brent, the entitled neighbor",
+        "answer": "NORWALK",
+        "chunkTexts": [
+          "NOR",
+          "WALK"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "St. Claire of the Medium Place",
+        "answer": "MINDY",
+        "chunkTexts": [
+          "MIN",
+          "DY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "E01",
+    "scores": {
+      "decoys": 1.0,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 3.8,
+      "anchor_balance": 6.5,
+      "shape": 6.8,
+      "word_appeal": 14.0,
+      "penalties": -16.5,
+      "structure": 15.5,
+      "clue_rating": 18.2,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 18.2,
+      "structure_scaled": 9.7,
+      "total": 27.9
+    }
+  },
+  {
+    "id": "round206",
+    "title": "Round 206",
+    "theme": "The Good Place: Cast and Characters",
+    "clueAnswers": [
+      {
+        "clue": "Michael's dreaded fate: eternal shrieking",
+        "answer": "RETIREMENT",
+        "chunkTexts": [
+          "RET",
+          "IRE",
+          "MENT"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "Trevor's portrayer, Parks and Rec's Ben",
+        "answer": "ADAMSCOTT",
+        "chunkTexts": [
+          "AD",
+          "AMS",
+          "COTT"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Ms Jamil, our Tahani",
+        "answer": "JAMEELA",
+        "chunkTexts": [
+          "JAM",
+          "EE",
+          "LA"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "D'Arcy, Janet in every form",
+        "answer": "CARDEN",
+        "chunkTexts": [
+          "CAR",
+          "DEN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "William Jackson ___, Chidi",
+        "answer": "HARPER",
+        "chunkTexts": [
+          "HAR",
+          "PER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Obnoxious demon from the welcome committee",
+        "answer": "TREVOR",
+        "chunkTexts": [
+          "TRE",
+          "VOR"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Michael's signature neckwear",
+        "answer": "BOWTIE",
+        "chunkTexts": [
+          "BOW",
+          "TIE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "E02",
+    "scores": {
+      "decoys": 5.5,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 3.8,
+      "anchor_balance": 7.5,
+      "shape": 9.1,
+      "word_appeal": 14.0,
+      "penalties": -13.9,
+      "structure": 26.3,
+      "clue_rating": 20.4,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 20.4,
+      "structure_scaled": 16.4,
+      "total": 36.8
+    }
+  },
+  {
+    "id": "round207",
+    "title": "Round 207",
+    "theme": "The Good Place: Afterlife Admin",
+    "clueAnswers": [
+      {
+        "clue": "Point-tallier in the back office",
+        "answer": "ACCOUNTANT",
+        "chunkTexts": [
+          "ACCO",
+          "UNT",
+          "ANT"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Where the torture happens, officially",
+        "answer": "BADPLACE",
+        "chunkTexts": [
+          "BAD",
+          "PLA",
+          "CE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Jeremy Bearimy, technically",
+        "answer": "TIMELINE",
+        "chunkTexts": [
+          "TIM",
+          "ELI",
+          "NE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "How long paradise lasts, in theory",
+        "answer": "ETERNITY",
+        "chunkTexts": [
+          "ET",
+          "ERN",
+          "ITY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Jeremy ___, afterlife time",
+        "answer": "BEARIMY",
+        "chunkTexts": [
+          "BEAR",
+          "IMY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "Problem Michael made literal",
+        "answer": "TROLLEY",
+        "chunkTexts": [
+          "TROL",
+          "LEY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "___ Place, Mindy's limbo",
+        "answer": "MEDIUM",
+        "chunkTexts": [
+          "MED",
+          "IUM"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "E03",
+    "scores": {
+      "decoys": 3.0,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 1.2,
+      "anchor_balance": 6.7,
+      "shape": 9.3,
+      "word_appeal": 14.0,
+      "penalties": -17.7,
+      "structure": 17.0,
+      "clue_rating": 20.4,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 20.4,
+      "structure_scaled": 10.6,
+      "total": 31.0
+    }
+  },
+  {
+    "id": "round208",
+    "title": "Round 208",
+    "theme": "The Good Place: Language, Please",
+    "clueAnswers": [
+      {
+        "clue": "Censored intensifier of choice",
+        "answer": "FORKING",
+        "chunkTexts": [
+          "FOR",
+          "KING"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Janet's first correction",
+        "answer": "NOTAGIRL",
+        "chunkTexts": [
+          "NOT",
+          "AG",
+          "IRL"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "Janet's other correction",
+        "answer": "NOTAROBOT",
+        "chunkTexts": [
+          "NOT",
+          "ARO",
+          "BOT"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "Take it ___, a sign-off",
+        "answer": "SLEAZY",
+        "chunkTexts": [
+          "SLE",
+          "AZY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Pobody's ___",
+        "answer": "NERFECT",
+        "chunkTexts": [
+          "NER",
+          "FECT"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "'Ya ___!'",
+        "answer": "BASIC",
+        "chunkTexts": [
+          "BAS",
+          "IC"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Top-shelf censored oath",
+        "answer": "MOTHERFORK",
+        "chunkTexts": [
+          "MOT",
+          "HER",
+          "FORK"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "E04",
+    "scores": {
+      "decoys": 2.2,
+      "tempting_pairs": 1.2,
+      "shared_fragments": 7.5,
+      "anchor_balance": 7.2,
+      "shape": 9.1,
+      "word_appeal": 14.0,
+      "penalties": -11.9,
+      "structure": 29.3,
+      "clue_rating": 28.9,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 28.9,
+      "structure_scaled": 18.3,
+      "total": 47.2
+    }
+  },
+  {
+    "id": "round209",
+    "title": "Round 209",
+    "theme": "The Good Place: Chidi's Syllabus",
+    "clueAnswers": [
+      {
+        "clue": "Nothing-matters creed of season 3",
+        "answer": "NIHILISM",
+        "chunkTexts": [
+          "NI",
+          "HIL",
+          "ISM"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Gadfly who drank hemlock",
+        "answer": "SOCRATES",
+        "chunkTexts": [
+          "SOC",
+          "RAT",
+          "ES"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Hell is other people, he wrote",
+        "answer": "SARTRE",
+        "chunkTexts": [
+          "SAR",
+          "TRE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Chidi's subject",
+        "answer": "ETHICS",
+        "chunkTexts": [
+          "ETH",
+          "ICS"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      },
+      {
+        "clue": "Virtue's champion, Plato's pupil",
+        "answer": "ARISTOTLE",
+        "chunkTexts": [
+          "ARIS",
+          "TOT",
+          "LE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "___ ethics, Aristotle's line",
+        "answer": "VIRTUE",
+        "chunkTexts": [
+          "VIR",
+          "TUE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Like Chidi's categorical thinking",
+        "answer": "KANTIAN",
+        "chunkTexts": [
+          "KAN",
+          "TIAN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "E05",
+    "scores": {
+      "decoys": 4.2,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 1.2,
+      "anchor_balance": 6.7,
+      "shape": 9.1,
+      "word_appeal": 14.0,
+      "penalties": -14.6,
+      "structure": 20.7,
+      "clue_rating": 9.6,
+      "clue_variety": 4.0,
+      "clue_puns": 0.0,
+      "clue_penalties": -2.0,
+      "clues": 11.6,
+      "structure_scaled": 12.9,
+      "total": 24.5
+    }
+  },
+  {
+    "id": "round210",
+    "title": "Round 210",
+    "theme": "The Good Place: Episode Titles",
+    "clueAnswers": [
+      {
+        "clue": "Michael's ___, season 1 finale",
+        "answer": "GAMBIT",
+        "chunkTexts": [
+          "GAM",
+          "BIT"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "The ___, named for the Judge's idol",
+        "answer": "BURRITO",
+        "chunkTexts": [
+          "BUR",
+          "RITO"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Episode title, relaxing but cooler",
+        "answer": "CHILLAXING",
+        "chunkTexts": [
+          "CHIL",
+          "LAX",
+          "ING"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "The Ballad of ___ Doug",
+        "answer": "DONKEY",
+        "chunkTexts": [
+          "DON",
+          "KEY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Dance Dance ___",
+        "answer": "RESOLUTION",
+        "chunkTexts": [
+          "RES",
+          "OLUT",
+          "ION"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Episode 2, up in the air",
+        "answer": "FLYING",
+        "chunkTexts": [
+          "FLY",
+          "ING"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "___ You're Ready, the finale",
+        "answer": "WHENEVER",
+        "chunkTexts": [
+          "WHE",
+          "NEV",
+          "ER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "E06",
+    "scores": {
+      "decoys": 6.0,
+      "tempting_pairs": 2.0,
+      "shared_fragments": 3.8,
+      "anchor_balance": 6.8,
+      "shape": 10.0,
+      "word_appeal": 14.0,
+      "penalties": -12.4,
+      "structure": 30.2,
+      "clue_rating": 20.4,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 20.4,
+      "structure_scaled": 18.9,
+      "total": 39.3
+    }
+  },
+  {
+    "id": "round211",
+    "title": "Round 211",
+    "theme": "The Good Place: Jason and Janet",
+    "clueAnswers": [
+      {
+        "clue": "Jason's Sunshine State",
+        "answer": "FLORIDA",
+        "chunkTexts": [
+          "FLOR",
+          "IDA"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Jianyu's vow, faked",
+        "answer": "SILENCE",
+        "chunkTexts": [
+          "SIL",
+          "ENCE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Rude counterpart from down below",
+        "answer": "BADJANET",
+        "chunkTexts": [
+          "BAD",
+          "JA",
+          "NET"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Glitched assistant, ready to boogie",
+        "answer": "DISCOJANET",
+        "chunkTexts": [
+          "DIS",
+          "CO",
+          "JA",
+          "NET"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "___ Janet, in Accounting",
+        "answer": "NEUTRAL",
+        "chunkTexts": [
+          "NEU",
+          "TRAL"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Janet's spiky wrong delivery",
+        "answer": "CACTUS",
+        "chunkTexts": [
+          "CAC",
+          "TUS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "What a killed Janet does",
+        "answer": "REBOOT",
+        "chunkTexts": [
+          "REB",
+          "OOT"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "E07",
+    "scores": {
+      "decoys": 0.3,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 6.2,
+      "anchor_balance": 6.4,
+      "shape": 7.9,
+      "word_appeal": 14.0,
+      "penalties": -14.7,
+      "structure": 20.3,
+      "clue_rating": 20.4,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 20.4,
+      "structure_scaled": 12.7,
+      "total": 33.1
+    }
+  },
+  {
+    "id": "round212",
+    "title": "Round 212",
+    "theme": "The Good Place: Back on Earth",
+    "clueAnswers": [
+      {
+        "clue": "Where Chidi lectured in Sydney",
+        "answer": "UNIVERSITY",
+        "chunkTexts": [
+          "UNI",
+          "VER",
+          "SITY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Scene of Eleanor's fatal cart pile-up",
+        "answer": "PARKINGLOT",
+        "chunkTexts": [
+          "PAR",
+          "KING",
+          "LOT"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Eleanor's job, hawking fake meds",
+        "answer": "SALESWOMAN",
+        "chunkTexts": [
+          "SAL",
+          "ESWO",
+          "MAN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Where Chidi grew up",
+        "answer": "SENEGAL",
+        "chunkTexts": [
+          "SEN",
+          "EGAL"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Eleanor's home state",
+        "answer": "ARIZONA",
+        "chunkTexts": [
+          "ARI",
+          "ZO",
+          "NA"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Doug Forcett's Canadian base",
+        "answer": "CALGARY",
+        "chunkTexts": [
+          "CAL",
+          "GARY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Tahani's posh stomping ground",
+        "answer": "LONDON",
+        "chunkTexts": [
+          "LON",
+          "DON"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "E08",
+    "scores": {
+      "decoys": 6.2,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 2.5,
+      "anchor_balance": 6.9,
+      "shape": 7.2,
+      "word_appeal": 14.0,
+      "penalties": -13.8,
+      "structure": 23.1,
+      "clue_rating": 13.9,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 13.9,
+      "structure_scaled": 14.4,
+      "total": 28.3
+    }
+  },
+  {
+    "id": "round213",
+    "title": "Round 213",
+    "theme": "Project Hail Mary: Earth Team",
+    "clueAnswers": [
+      {
+        "clue": "Grace's crew role: science ___",
+        "answer": "SPECIALIST",
+        "chunkTexts": [
+          "SPE",
+          "CIAL",
+          "IST"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "What Commander Yao is",
+        "answer": "TAIKONAUT",
+        "chunkTexts": [
+          "TAI",
+          "KON",
+          "AUT"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "What Ilyukhina is",
+        "answer": "COSMONAUT",
+        "chunkTexts": [
+          "COS",
+          "MON",
+          "AUT"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Russian behind the spin drive",
+        "answer": "DIMITRI",
+        "chunkTexts": [
+          "DIMI",
+          "TRI"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Original science lead, lost in a blast",
+        "answer": "DUBOIS",
+        "chunkTexts": [
+          "DUB",
+          "OIS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Norwegian who designed the ship",
+        "answer": "LOKKEN",
+        "chunkTexts": [
+          "LOK",
+          "KEN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Disgraced engineer of the Sahara farm",
+        "answer": "REDELL",
+        "chunkTexts": [
+          "RED",
+          "ELL"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "F01",
+    "scores": {
+      "decoys": 0.5,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 6.2,
+      "anchor_balance": 6.1,
+      "shape": 10.0,
+      "word_appeal": 14.0,
+      "penalties": -9.1,
+      "structure": 27.8,
+      "clue_rating": 9.6,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 9.6,
+      "structure_scaled": 17.4,
+      "total": 27.0
+    }
+  },
+  {
+    "id": "round214",
+    "title": "Round 214",
+    "theme": "Project Hail Mary: Eridians",
+    "clueAnswers": [
+      {
+        "clue": "How Rocky 'sees'",
+        "answer": "ECHOLOCATE",
+        "chunkTexts": [
+          "ECH",
+          "OLO",
+          "CATE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Grace's laptop, turned Eridian ___",
+        "answer": "TRANSLATOR",
+        "chunkTexts": [
+          "TRAN",
+          "SLA",
+          "TOR"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Shape of Rocky's shell",
+        "answer": "PENTAGONAL",
+        "chunkTexts": [
+          "PEN",
+          "TAGO",
+          "NAL"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Eridian wonder-material",
+        "answer": "XENONITE",
+        "chunkTexts": [
+          "XE",
+          "NON",
+          "ITE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Rocky's rocky shell",
+        "answer": "CARAPACE",
+        "chunkTexts": [
+          "CAR",
+          "APA",
+          "CE"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Like Eridian speech",
+        "answer": "MUSICAL",
+        "chunkTexts": [
+          "MUS",
+          "ICAL"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Rocky's triple-stacked exclamation",
+        "answer": "AMAZE",
+        "chunkTexts": [
+          "AMA",
+          "ZE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "F02",
+    "scores": {
+      "decoys": 3.4,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 1.2,
+      "anchor_balance": 6.7,
+      "shape": 9.6,
+      "word_appeal": 14.0,
+      "penalties": -15.6,
+      "structure": 19.4,
+      "clue_rating": 24.6,
+      "clue_variety": 4.0,
+      "clue_puns": 3.0,
+      "clue_penalties": 0.0,
+      "clues": 31.6,
+      "structure_scaled": 12.1,
+      "total": 43.7
+    }
+  },
+  {
+    "id": "round215",
+    "title": "Round 215",
+    "theme": "Project Hail Mary: Shipboard",
+    "clueAnswers": [
+      {
+        "clue": "Door between ship and void",
+        "answer": "AIRLOCK",
+        "chunkTexts": [
+          "AIRL",
+          "OCK"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Grace's state for the trip",
+        "answer": "COMATOSE",
+        "chunkTexts": [
+          "COM",
+          "AT",
+          "OSE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Bedside helper that fed him",
+        "answer": "ROBOTARM",
+        "chunkTexts": [
+          "ROB",
+          "OT",
+          "ARM"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Taumoeba in jars, e.g.",
+        "answer": "SAMPLES",
+        "chunkTexts": [
+          "SAM",
+          "PLES"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Mid-deck room for experiments",
+        "answer": "LABORATORY",
+        "chunkTexts": [
+          "LAB",
+          "ORAT",
+          "ORY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Bunk deck where he woke",
+        "answer": "DORMITORY",
+        "chunkTexts": [
+          "DOR",
+          "MIT",
+          "ORY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Control room, up top",
+        "answer": "COCKPIT",
+        "chunkTexts": [
+          "COCK",
+          "PIT"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "F03",
+    "scores": {
+      "decoys": 4.3,
+      "tempting_pairs": 0.8,
+      "shared_fragments": 3.8,
+      "anchor_balance": 6.7,
+      "shape": 9.3,
+      "word_appeal": 14.0,
+      "penalties": -14.3,
+      "structure": 24.6,
+      "clue_rating": 11.8,
+      "clue_variety": 4.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 15.8,
+      "structure_scaled": 15.4,
+      "total": 31.2
+    }
+  },
+  {
+    "id": "round216",
+    "title": "Round 216",
+    "theme": "Project Hail Mary: Lab Notes",
+    "clueAnswers": [
+      {
+        "clue": "Why less time passed for Grace",
+        "answer": "RELATIVITY",
+        "chunkTexts": [
+          "REL",
+          "ATIV",
+          "ITY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "___ factor, time dilation's math",
+        "answer": "LORENTZ",
+        "chunkTexts": [
+          "LOR",
+          "ENTZ"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Breeding nitrogen-proof taumoeba",
+        "answer": "EVOLUTION",
+        "chunkTexts": [
+          "EVO",
+          "LUT",
+          "ION"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Astrophage, at heart",
+        "answer": "MICROBE",
+        "chunkTexts": [
+          "MIC",
+          "ROBE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "___ panels farming Astrophage",
+        "answer": "BREEDER",
+        "chunkTexts": [
+          "BRE",
+          "EDER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "How taumoeba got past xenonite",
+        "answer": "ADAPTATION",
+        "chunkTexts": [
+          "AD",
+          "APT",
+          "AT",
+          "ION"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Petri dish crowd",
+        "answer": "CULTURE",
+        "chunkTexts": [
+          "CUL",
+          "TURE"
+        ],
+        "clueType": "pun",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "F04",
+    "scores": {
+      "decoys": 3.2,
+      "tempting_pairs": 0.8,
+      "shared_fragments": 2.5,
+      "anchor_balance": 6.0,
+      "shape": 7.2,
+      "word_appeal": 14.0,
+      "penalties": -12.1,
+      "structure": 21.6,
+      "clue_rating": 18.2,
+      "clue_variety": 4.0,
+      "clue_puns": 3.0,
+      "clue_penalties": 0.0,
+      "clues": 25.2,
+      "structure_scaled": 13.5,
+      "total": 38.7
+    }
+  },
+  {
+    "id": "round217",
+    "title": "Round 217",
+    "theme": "Project Hail Mary: Grace's Story",
+    "clueAnswers": [
+      {
+        "clue": "Grace's old career",
+        "answer": "BIOLOGIST",
+        "chunkTexts": [
+          "BIO",
+          "LOG",
+          "IST"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Kind of biologist Grace was",
+        "answer": "MOLECULAR",
+        "chunkTexts": [
+          "MOL",
+          "ECU",
+          "LAR"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "What Grace learns he was",
+        "answer": "COWARD",
+        "chunkTexts": [
+          "COW",
+          "ARD"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "Kids Grace taught, then and after",
+        "answer": "STUDENTS",
+        "chunkTexts": [
+          "STUD",
+          "ENTS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Returns in flashbacks",
+        "answer": "MEMORY",
+        "chunkTexts": [
+          "MEM",
+          "ORY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Turning back for Rocky",
+        "answer": "SACRIFICE",
+        "chunkTexts": [
+          "SAC",
+          "RIF",
+          "ICE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Life, in his ridiculed thesis",
+        "answer": "WATERLESS",
+        "chunkTexts": [
+          "WAT",
+          "ERL",
+          "ESS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "F05",
+    "scores": {
+      "decoys": 1.0,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 0.0,
+      "anchor_balance": 2.2,
+      "shape": 10.0,
+      "word_appeal": 14.0,
+      "penalties": -9.1,
+      "structure": 18.1,
+      "clue_rating": 18.2,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 18.2,
+      "structure_scaled": 11.3,
+      "total": 29.5
+    }
+  },
+  {
+    "id": "round218",
+    "title": "Round 218",
+    "theme": "Project Hail Mary: Page to Screen",
+    "clueAnswers": [
+      {
+        "clue": "Directing duo, as one",
+        "answer": "LORDMILLER",
+        "chunkTexts": [
+          "LORD",
+          "MIL",
+          "LER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Star of Weir's first film adaptation",
+        "answer": "MATTDAMON",
+        "chunkTexts": [
+          "MATT",
+          "DAM",
+          "ON"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "The ___, Weir's breakout",
+        "answer": "MARTIAN",
+        "chunkTexts": [
+          "MAR",
+          "TI",
+          "AN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Weir's moon-city heist novel",
+        "answer": "ARTEMIS",
+        "chunkTexts": [
+          "ARTE",
+          "MIS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Sandra, the film's Stratt",
+        "answer": "HULLER",
+        "chunkTexts": [
+          "HUL",
+          "LER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Weir's potato-growing hero",
+        "answer": "WATNEY",
+        "chunkTexts": [
+          "WAT",
+          "NEY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "How Rocky came to the screen",
+        "answer": "PUPPET",
+        "chunkTexts": [
+          "PUP",
+          "PET"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "F06",
+    "scores": {
+      "decoys": 0.9,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 3.8,
+      "anchor_balance": 6.8,
+      "shape": 7.9,
+      "word_appeal": 14.0,
+      "penalties": -18.3,
+      "structure": 15.5,
+      "clue_rating": 20.4,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 20.4,
+      "structure_scaled": 9.7,
+      "total": 30.1
+    }
+  },
+  {
+    "id": "round219",
+    "title": "Round 219",
+    "theme": "Project Hail Mary: Star Chart",
+    "clueAnswers": [
+      {
+        "clue": "Where Astrophage breeds sunward",
+        "answer": "VENUS",
+        "chunkTexts": [
+          "VEN",
+          "US"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Sun's output, dropping",
+        "answer": "LUMINOSITY",
+        "chunkTexts": [
+          "LUM",
+          "INO",
+          "SITY"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "What the infected Sun is doing",
+        "answer": "DIMMING",
+        "chunkTexts": [
+          "DIM",
+          "MING"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Alpha ___, another infected neighbor",
+        "answer": "CENTAURI",
+        "chunkTexts": [
+          "CEN",
+          "TAU",
+          "RI"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Where the Petrova line shows",
+        "answer": "SPECTRUM",
+        "chunkTexts": [
+          "SPEC",
+          "TRUM"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Earth's looming fate",
+        "answer": "ICEAGE",
+        "chunkTexts": [
+          "ICE",
+          "AGE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Like most nearby stars",
+        "answer": "INFECTED",
+        "chunkTexts": [
+          "IN",
+          "FEC",
+          "TED"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "F07",
+    "scores": {
+      "decoys": 6.5,
+      "tempting_pairs": 2.0,
+      "shared_fragments": 1.2,
+      "anchor_balance": 7.2,
+      "shape": 6.8,
+      "word_appeal": 14.0,
+      "penalties": -12.0,
+      "structure": 25.7,
+      "clue_rating": 13.9,
+      "clue_variety": 4.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 17.9,
+      "structure_scaled": 16.1,
+      "total": 34.0
+    }
+  },
+  {
+    "id": "round220",
+    "title": "Round 220",
+    "theme": "Project Hail Mary: Mission Control",
+    "clueAnswers": [
+      {
+        "clue": "The crew's kind of ticket",
+        "answer": "ONEWAY",
+        "chunkTexts": [
+          "ONE",
+          "WAY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "What Grace wasn't, exactly",
+        "answer": "VOLUNTEER",
+        "chunkTexts": [
+          "VOL",
+          "UNT",
+          "EER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "Beetles, e.g.",
+        "answer": "PAYLOAD",
+        "chunkTexts": [
+          "PAY",
+          "LOAD"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Stratt's unlimited power",
+        "answer": "AUTHORITY",
+        "chunkTexts": [
+          "AUT",
+          "HOR",
+          "ITY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Pact granting Stratt that power",
+        "answer": "TREATY",
+        "chunkTexts": [
+          "TRE",
+          "ATY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Aircraft ship hosting the lab",
+        "answer": "CARRIER",
+        "chunkTexts": [
+          "CAR",
+          "RIER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Putting the ship together in orbit",
+        "answer": "ASSEMBLY",
+        "chunkTexts": [
+          "AS",
+          "SEM",
+          "BLY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "themed",
+    "candidateId": "F08",
+    "scores": {
+      "decoys": 2.2,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 2.5,
+      "anchor_balance": 6.3,
+      "shape": 10.0,
+      "word_appeal": 14.0,
+      "penalties": -10.2,
+      "structure": 25.2,
+      "clue_rating": 18.2,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 18.2,
+      "structure_scaled": 15.8,
+      "total": 34.0
+    }
+  },
+  {
+    "id": "round221",
+    "title": "Round 221",
+    "theme": "Long Haul",
+    "clueAnswers": [
+      {
+        "clue": "Big show, or one lens of glasses",
+        "answer": "SPECTACLE",
+        "chunkTexts": [
+          "SPEC",
+          "TA",
+          "CLE"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Spin with a state budget",
+        "answer": "PROPAGANDA",
+        "chunkTexts": [
+          "PRO",
+          "PAG",
+          "ANDA"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Bobby on the beat",
+        "answer": "CONSTABLE",
+        "chunkTexts": [
+          "CON",
+          "STA",
+          "BLE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Bench warmer of the courts",
+        "answer": "MAGISTRATE",
+        "chunkTexts": [
+          "MAG",
+          "IST",
+          "RATE"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Big guns, collectively",
+        "answer": "ARTILLERY",
+        "chunkTexts": [
+          "ART",
+          "ILL",
+          "ERY"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Lens for very small dramas",
+        "answer": "MICROSCOPE",
+        "chunkTexts": [
+          "MI",
+          "CRO",
+          "SCO",
+          "PE"
+        ],
+        "clueType": "pun",
+        "clueRating": 3
+      },
+      {
+        "clue": "Laughing beyond control",
+        "answer": "HYSTERICAL",
+        "chunkTexts": [
+          "HYS",
+          "TER",
+          "ICAL"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "mixed",
+    "candidateId": "G01",
+    "scores": {
+      "decoys": 9.5,
+      "tempting_pairs": 3.2,
+      "shared_fragments": 3.8,
+      "anchor_balance": 7.2,
+      "shape": 6.6,
+      "word_appeal": 8.9,
+      "penalties": -9.5,
+      "structure": 29.7,
+      "clue_rating": 13.9,
+      "clue_variety": 8.0,
+      "clue_puns": 12.0,
+      "clue_penalties": 0.0,
+      "clues": 33.9,
+      "structure_scaled": 18.6,
+      "total": 52.5
+    }
+  },
+  {
+    "id": "round222",
+    "title": "Round 222",
+    "theme": "Long Haul",
+    "clueAnswers": [
+      {
+        "clue": "Ink refill, or a blown-on game",
+        "answer": "CARTRIDGE",
+        "chunkTexts": [
+          "CAR",
+          "TRID",
+          "GE"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Absurd beyond repair",
+        "answer": "RIDICULOUS",
+        "chunkTexts": [
+          "RID",
+          "ICUL",
+          "OUS"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Spiteful by design",
+        "answer": "MALICIOUS",
+        "chunkTexts": [
+          "MAL",
+          "ICI",
+          "OUS"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Fabled, or just very cool",
+        "answer": "LEGENDARY",
+        "chunkTexts": [
+          "LEG",
+          "END",
+          "ARY"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Indented chunk of prose",
+        "answer": "PARAGRAPH",
+        "chunkTexts": [
+          "PAR",
+          "AG",
+          "RAPH"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Pillar of the opinion page",
+        "answer": "COLUMNIST",
+        "chunkTexts": [
+          "COL",
+          "UMN",
+          "IST"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Salt-rimmed tequila sipper",
+        "answer": "MARGARITA",
+        "chunkTexts": [
+          "MAR",
+          "GAR",
+          "ITA"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "mixed",
+    "candidateId": "G02",
+    "scores": {
+      "decoys": 3.2,
+      "tempting_pairs": 0.8,
+      "shared_fragments": 10.0,
+      "anchor_balance": 6.9,
+      "shape": 9.0,
+      "word_appeal": 7.6,
+      "penalties": -13.3,
+      "structure": 24.1,
+      "clue_rating": 11.8,
+      "clue_variety": 8.0,
+      "clue_puns": 3.0,
+      "clue_penalties": 0.0,
+      "clues": 22.8,
+      "structure_scaled": 15.1,
+      "total": 37.9
+    }
+  },
+  {
+    "id": "round223",
+    "title": "Round 223",
+    "theme": "Long Haul",
+    "clueAnswers": [
+      {
+        "clue": "First draft in metal",
+        "answer": "PROTOTYPE",
+        "chunkTexts": [
+          "PROT",
+          "OTY",
+          "PE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Red-carpet ready",
+        "answer": "GLAMOROUS",
+        "chunkTexts": [
+          "GLA",
+          "MOR",
+          "OUS"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Haggle in a suit",
+        "answer": "NEGOTIATE",
+        "chunkTexts": [
+          "NEG",
+          "OTI",
+          "ATE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Hall built for hearing",
+        "answer": "AUDITORIUM",
+        "chunkTexts": [
+          "AUDI",
+          "TOR",
+          "IUM"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 3
+      },
+      {
+        "clue": "It throws slides at the wall",
+        "answer": "PROJECTOR",
+        "chunkTexts": [
+          "PRO",
+          "JEC",
+          "TOR"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Off-center, like a quirky aunt",
+        "answer": "ECCENTRIC",
+        "chunkTexts": [
+          "EC",
+          "CEN",
+          "TRIC"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Keeper of the grounds",
+        "answer": "CARETAKER",
+        "chunkTexts": [
+          "CAR",
+          "ETA",
+          "KER"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "mixed",
+    "candidateId": "G03",
+    "scores": {
+      "decoys": 2.3,
+      "tempting_pairs": 1.2,
+      "shared_fragments": 5.0,
+      "anchor_balance": 7.0,
+      "shape": 9.0,
+      "word_appeal": 7.1,
+      "penalties": -9.4,
+      "structure": 22.1,
+      "clue_rating": 11.8,
+      "clue_variety": 8.0,
+      "clue_puns": 9.0,
+      "clue_penalties": 0.0,
+      "clues": 28.8,
+      "structure_scaled": 13.8,
+      "total": 42.6
+    }
+  },
+  {
+    "id": "round224",
+    "title": "Round 224",
+    "theme": "Long Haul",
+    "clueAnswers": [
+      {
+        "clue": "Size of a quake, or starshine",
+        "answer": "MAGNITUDE",
+        "chunkTexts": [
+          "MAG",
+          "NIT",
+          "UDE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Office note, in full",
+        "answer": "MEMORANDUM",
+        "chunkTexts": [
+          "MEM",
+          "ORAN",
+          "DUM"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Vote handed straight to the people",
+        "answer": "REFERENDUM",
+        "chunkTexts": [
+          "REF",
+          "EREN",
+          "DUM"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Wonderful, superhero-adjacent",
+        "answer": "MARVELOUS",
+        "chunkTexts": [
+          "MAR",
+          "VEL",
+          "OUS"
+        ],
+        "clueType": "pun",
+        "clueRating": 3
+      },
+      {
+        "clue": "Rubber boot, or beef in pastry",
+        "answer": "WELLINGTON",
+        "chunkTexts": [
+          "WEL",
+          "LING",
+          "TON"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Seamless spectrum, like space-time",
+        "answer": "CONTINUUM",
+        "chunkTexts": [
+          "CON",
+          "TIN",
+          "UUM"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Embassy's little sibling",
+        "answer": "CONSULATE",
+        "chunkTexts": [
+          "CON",
+          "SUL",
+          "ATE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "mixed",
+    "candidateId": "G04",
+    "scores": {
+      "decoys": 2.7,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 10.0,
+      "anchor_balance": 6.8,
+      "shape": 9.0,
+      "word_appeal": 7.4,
+      "penalties": -6.2,
+      "structure": 29.7,
+      "clue_rating": 9.6,
+      "clue_variety": 8.0,
+      "clue_puns": 6.0,
+      "clue_penalties": 0.0,
+      "clues": 23.6,
+      "structure_scaled": 18.6,
+      "total": 42.2
+    }
+  },
+  {
+    "id": "round225",
+    "title": "Round 225",
+    "theme": "Long Haul",
+    "clueAnswers": [
+      {
+        "clue": "Dark outline against the light",
+        "answer": "SILHOUETTE",
+        "chunkTexts": [
+          "SIL",
+          "HOU",
+          "ETTE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Quest with risk included",
+        "answer": "ADVENTURE",
+        "chunkTexts": [
+          "AD",
+          "VEN",
+          "TURE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Chain license, or film series",
+        "answer": "FRANCHISE",
+        "chunkTexts": [
+          "FRAN",
+          "CHI",
+          "SE"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 3
+      },
+      {
+        "clue": "Doctor's forecast",
+        "answer": "PROGNOSIS",
+        "chunkTexts": [
+          "PRO",
+          "GNO",
+          "SIS"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Your name, on the dotted line",
+        "answer": "SIGNATURE",
+        "chunkTexts": [
+          "SIG",
+          "NAT",
+          "URE"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      },
+      {
+        "clue": "Naval rank, or an 80s computer",
+        "answer": "COMMODORE",
+        "chunkTexts": [
+          "COM",
+          "MOD",
+          "ORE"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "'Oh, great,' said this way",
+        "answer": "SARCASTIC",
+        "chunkTexts": [
+          "SAR",
+          "CAS",
+          "TIC"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "mixed",
+    "candidateId": "G05",
+    "scores": {
+      "decoys": 8.3,
+      "tempting_pairs": 1.2,
+      "shared_fragments": 5.0,
+      "anchor_balance": 7.3,
+      "shape": 9.0,
+      "word_appeal": 6.5,
+      "penalties": -9.2,
+      "structure": 28.1,
+      "clue_rating": 9.6,
+      "clue_variety": 8.0,
+      "clue_puns": 6.0,
+      "clue_penalties": -2.0,
+      "clues": 21.6,
+      "structure_scaled": 17.6,
+      "total": 39.2
+    }
+  },
+  {
+    "id": "round226",
+    "title": "Round 226",
+    "theme": "Long Haul",
+    "clueAnswers": [
+      {
+        "clue": "Yummy, formally",
+        "answer": "DELICIOUS",
+        "chunkTexts": [
+          "DEL",
+          "ICI",
+          "OUS"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      },
+      {
+        "clue": "Like i, or a childhood friend",
+        "answer": "IMAGINARY",
+        "chunkTexts": [
+          "IMA",
+          "GIN",
+          "ARY"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 5
+      },
+      {
+        "clue": "Unbeatable, like some summers",
+        "answer": "INVINCIBLE",
+        "chunkTexts": [
+          "IN",
+          "VINC",
+          "IBLE"
+        ],
+        "clueType": "evocative",
+        "clueRating": 3
+      },
+      {
+        "clue": "Like pi, or a phobia",
+        "answer": "IRRATIONAL",
+        "chunkTexts": [
+          "IRR",
+          "ATI",
+          "ONAL"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 5
+      },
+      {
+        "clue": "Top-floor luxury pad",
+        "answer": "PENTHOUSE",
+        "chunkTexts": [
+          "PEN",
+          "THO",
+          "USE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Middle class, per Marx",
+        "answer": "BOURGEOIS",
+        "chunkTexts": [
+          "BOUR",
+          "GE",
+          "OIS"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Crime ring, or news service",
+        "answer": "SYNDICATE",
+        "chunkTexts": [
+          "SYN",
+          "DIC",
+          "ATE"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "mixed",
+    "candidateId": "G06",
+    "scores": {
+      "decoys": 2.8,
+      "tempting_pairs": 2.4,
+      "shared_fragments": 2.5,
+      "anchor_balance": 7.1,
+      "shape": 8.3,
+      "word_appeal": 6.5,
+      "penalties": -11.3,
+      "structure": 18.3,
+      "clue_rating": 13.9,
+      "clue_variety": 8.0,
+      "clue_puns": 9.0,
+      "clue_penalties": -2.0,
+      "clues": 28.9,
+      "structure_scaled": 11.4,
+      "total": 40.3
+    }
+  },
+  {
+    "id": "round227",
+    "title": "Round 227",
+    "theme": "Long Haul",
+    "clueAnswers": [
+      {
+        "clue": "Inexplicably wonderful",
+        "answer": "MIRACULOUS",
+        "chunkTexts": [
+          "MIR",
+          "ACUL",
+          "OUS"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      },
+      {
+        "clue": "Branch office for family trees",
+        "answer": "GENEALOGY",
+        "chunkTexts": [
+          "GEN",
+          "EAL",
+          "OGY"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "School sick bay",
+        "answer": "INFIRMARY",
+        "chunkTexts": [
+          "IN",
+          "FIR",
+          "MARY"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Full of beans",
+        "answer": "ENERGETIC",
+        "chunkTexts": [
+          "EN",
+          "ERG",
+          "ETIC"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Class with maps and capitals",
+        "answer": "GEOGRAPHY",
+        "chunkTexts": [
+          "GEO",
+          "GRA",
+          "PHY"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Coffin nail, slangily",
+        "answer": "CIGARETTE",
+        "chunkTexts": [
+          "CI",
+          "GAR",
+          "ETTE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Counter-intelligence for pills",
+        "answer": "PHARMACIST",
+        "chunkTexts": [
+          "PHAR",
+          "MAC",
+          "IST"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "mixed",
+    "candidateId": "G07",
+    "scores": {
+      "decoys": 4.9,
+      "tempting_pairs": 1.2,
+      "shared_fragments": 2.5,
+      "anchor_balance": 6.8,
+      "shape": 6.4,
+      "word_appeal": 6.1,
+      "penalties": -13.9,
+      "structure": 13.9,
+      "clue_rating": 11.8,
+      "clue_variety": 4.0,
+      "clue_puns": 6.0,
+      "clue_penalties": -2.0,
+      "clues": 19.8,
+      "structure_scaled": 8.7,
+      "total": 28.5
+    }
+  },
+  {
+    "id": "round228",
+    "title": "Round 228",
+    "theme": "Long Haul",
+    "clueAnswers": [
+      {
+        "clue": "Enormously awful",
+        "answer": "MONSTROUS",
+        "chunkTexts": [
+          "MON",
+          "STRO",
+          "US"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Open to two readings",
+        "answer": "AMBIGUOUS",
+        "chunkTexts": [
+          "AMB",
+          "IGU",
+          "OUS"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Catching, like a yawn",
+        "answer": "CONTAGIOUS",
+        "chunkTexts": [
+          "CON",
+          "TAG",
+          "IOUS"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Everywhere at once",
+        "answer": "UBIQUITOUS",
+        "chunkTexts": [
+          "UBI",
+          "QUI",
+          "TOUS"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Analysis ___, overthinking's cost",
+        "answer": "PARALYSIS",
+        "chunkTexts": [
+          "PAR",
+          "ALY",
+          "SIS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Side-splitting",
+        "answer": "HILARIOUS",
+        "chunkTexts": [
+          "HIL",
+          "ARI",
+          "OUS"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "One of seven big landmasses",
+        "answer": "CONTINENT",
+        "chunkTexts": [
+          "CON",
+          "TIN",
+          "ENT"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "mixed",
+    "candidateId": "G08",
+    "scores": {
+      "decoys": 1.7,
+      "tempting_pairs": 0.8,
+      "shared_fragments": 7.5,
+      "anchor_balance": 7.1,
+      "shape": 9.0,
+      "word_appeal": 7.1,
+      "penalties": -7.6,
+      "structure": 25.6,
+      "clue_rating": 9.6,
+      "clue_variety": 8.0,
+      "clue_puns": 0.0,
+      "clue_penalties": -2.0,
+      "clues": 15.6,
+      "structure_scaled": 16.0,
+      "total": 31.6
+    }
+  },
+  {
+    "id": "round229",
+    "title": "Round 229",
+    "theme": "Long Haul",
+    "clueAnswers": [
+      {
+        "clue": "Good at many things",
+        "answer": "VERSATILE",
+        "chunkTexts": [
+          "VER",
+          "SAT",
+          "ILE"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      },
+      {
+        "clue": "Medicine of the mind",
+        "answer": "PSYCHIATRY",
+        "chunkTexts": [
+          "PSY",
+          "CHIA",
+          "TRY"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "A thousand years, or a Falcon",
+        "answer": "MILLENNIUM",
+        "chunkTexts": [
+          "MIL",
+          "LEN",
+          "NIUM"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "'___, heal thyself'",
+        "answer": "PHYSICIAN",
+        "chunkTexts": [
+          "PHY",
+          "SIC",
+          "IAN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Run on pressurized fluid",
+        "answer": "HYDRAULIC",
+        "chunkTexts": [
+          "HYD",
+          "RAU",
+          "LIC"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Annie's hard-knock home",
+        "answer": "ORPHANAGE",
+        "chunkTexts": [
+          "ORP",
+          "HAN",
+          "AGE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Superman's city, or any big one",
+        "answer": "METROPOLIS",
+        "chunkTexts": [
+          "MET",
+          "ROPO",
+          "LIS"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "mixed",
+    "candidateId": "G09",
+    "scores": {
+      "decoys": 0.5,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 5.0,
+      "anchor_balance": 0.0,
+      "shape": 9.0,
+      "word_appeal": 7.7,
+      "penalties": -8.1,
+      "structure": 14.5,
+      "clue_rating": 11.8,
+      "clue_variety": 8.0,
+      "clue_puns": 6.0,
+      "clue_penalties": -2.0,
+      "clues": 23.8,
+      "structure_scaled": 9.1,
+      "total": 32.9
+    }
+  },
+  {
+    "id": "round230",
+    "title": "Round 230",
+    "theme": "Long Haul",
+    "clueAnswers": [
+      {
+        "clue": "Shelf for Zeus and Thor",
+        "answer": "MYTHOLOGY",
+        "chunkTexts": [
+          "MYT",
+          "HOL",
+          "OGY"
+        ],
+        "clueType": "evocative",
+        "clueRating": 3
+      },
+      {
+        "clue": "Belief system with a sign-up sheet",
+        "answer": "ASTROLOGY",
+        "chunkTexts": [
+          "AST",
+          "ROL",
+          "OGY"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Beyond science, like ghosts",
+        "answer": "PARANORMAL",
+        "chunkTexts": [
+          "PARA",
+          "NOR",
+          "MAL"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "First, like a president's address",
+        "answer": "INAUGURAL",
+        "chunkTexts": [
+          "INA",
+          "UGU",
+          "RAL"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Like Wells's see-through man",
+        "answer": "INVISIBLE",
+        "chunkTexts": [
+          "IN",
+          "VISI",
+          "BLE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Like Eden's fruit",
+        "answer": "FORBIDDEN",
+        "chunkTexts": [
+          "FOR",
+          "BID",
+          "DEN"
+        ],
+        "clueType": "evocative",
+        "clueRating": 3
+      },
+      {
+        "clue": "Cocoa confection",
+        "answer": "CHOCOLATE",
+        "chunkTexts": [
+          "CHO",
+          "COL",
+          "ATE"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "mixed",
+    "candidateId": "G10",
+    "scores": {
+      "decoys": 7.8,
+      "tempting_pairs": 1.2,
+      "shared_fragments": 10.0,
+      "anchor_balance": 7.1,
+      "shape": 9.0,
+      "word_appeal": 7.6,
+      "penalties": -10.0,
+      "structure": 32.7,
+      "clue_rating": 7.5,
+      "clue_variety": 8.0,
+      "clue_puns": 3.0,
+      "clue_penalties": -2.0,
+      "clues": 16.5,
+      "structure_scaled": 20.4,
+      "total": 36.9
+    }
+  },
+  {
+    "id": "round231",
+    "title": "Round 231",
+    "theme": "Long Haul",
+    "clueAnswers": [
+      {
+        "clue": "Tiny version, like a schnauzer",
+        "answer": "MINIATURE",
+        "chunkTexts": [
+          "MIN",
+          "IAT",
+          "URE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Marvel worth observing",
+        "answer": "PHENOMENON",
+        "chunkTexts": [
+          "PHE",
+          "NOME",
+          "NON"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      },
+      {
+        "clue": "Your word hoard",
+        "answer": "VOCABULARY",
+        "chunkTexts": [
+          "VOC",
+          "ABU",
+          "LARY"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Story's villain-in-chief",
+        "answer": "ANTAGONIST",
+        "chunkTexts": [
+          "ANT",
+          "AGON",
+          "IST"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Study of disease",
+        "answer": "PATHOLOGY",
+        "chunkTexts": [
+          "PAT",
+          "HOL",
+          "OGY"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      },
+      {
+        "clue": "Film-like in sweep",
+        "answer": "CINEMATIC",
+        "chunkTexts": [
+          "CIN",
+          "EMA",
+          "TIC"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Plato's drinking-party dialogue",
+        "answer": "SYMPOSIUM",
+        "chunkTexts": [
+          "SYM",
+          "POS",
+          "IUM"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "mixed",
+    "candidateId": "G11",
+    "scores": {
+      "decoys": 1.5,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 3.8,
+      "anchor_balance": 6.8,
+      "shape": 9.0,
+      "word_appeal": 7.7,
+      "penalties": -8.4,
+      "structure": 20.3,
+      "clue_rating": 5.4,
+      "clue_variety": 4.0,
+      "clue_puns": 0.0,
+      "clue_penalties": -4.0,
+      "clues": 5.4,
+      "structure_scaled": 12.7,
+      "total": 18.1
+    }
+  },
+  {
+    "id": "round232",
+    "title": "Round 232",
+    "theme": "Long Haul",
+    "clueAnswers": [
+      {
+        "clue": "Collected works, bound together",
+        "answer": "ANTHOLOGY",
+        "chunkTexts": [
+          "ANT",
+          "HOL",
+          "OGY"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Handbag, or crime helper",
+        "answer": "ACCESSORY",
+        "chunkTexts": [
+          "AC",
+          "CESS",
+          "ORY"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Cleverly inventive",
+        "answer": "INGENIOUS",
+        "chunkTexts": [
+          "ING",
+          "ENI",
+          "OUS"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      },
+      {
+        "clue": "Animal-doctoring adjective",
+        "answer": "VETERINARY",
+        "chunkTexts": [
+          "VET",
+          "ERI",
+          "NARY"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "One who brings the suit",
+        "answer": "PLAINTIFF",
+        "chunkTexts": [
+          "PLA",
+          "INT",
+          "IFF"
+        ],
+        "clueType": "pun",
+        "clueRating": 3
+      },
+      {
+        "clue": "Math-class gadget",
+        "answer": "CALCULATOR",
+        "chunkTexts": [
+          "CAL",
+          "CULA",
+          "TOR"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      },
+      {
+        "clue": "Blue-green gem",
+        "answer": "TURQUOISE",
+        "chunkTexts": [
+          "TUR",
+          "QUO",
+          "ISE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "mixed",
+    "candidateId": "G12",
+    "scores": {
+      "decoys": 3.7,
+      "tempting_pairs": 2.4,
+      "shared_fragments": 6.2,
+      "anchor_balance": 7.2,
+      "shape": 9.0,
+      "word_appeal": 6.6,
+      "penalties": -12.9,
+      "structure": 22.3,
+      "clue_rating": 5.4,
+      "clue_variety": 8.0,
+      "clue_puns": 6.0,
+      "clue_penalties": -4.0,
+      "clues": 15.4,
+      "structure_scaled": 13.9,
+      "total": 29.3
+    }
+  },
+  {
+    "id": "round233",
+    "title": "Round 233",
+    "theme": "Long Haul",
+    "clueAnswers": [
+      {
+        "clue": "Sorcerer's helper",
+        "answer": "APPRENTICE",
+        "chunkTexts": [
+          "AP",
+          "PREN",
+          "TICE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Life story by someone else",
+        "answer": "BIOGRAPHY",
+        "chunkTexts": [
+          "BIO",
+          "GRA",
+          "PHY"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Walker, or dull",
+        "answer": "PEDESTRIAN",
+        "chunkTexts": [
+          "PED",
+          "EST",
+          "RIAN"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Orbital in scale",
+        "answer": "PLANETARY",
+        "chunkTexts": [
+          "PLA",
+          "NET",
+          "ARY"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Spark between two people",
+        "answer": "CHEMISTRY",
+        "chunkTexts": [
+          "CHE",
+          "MIS",
+          "TRY"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Cogs and gears",
+        "answer": "MACHINERY",
+        "chunkTexts": [
+          "MAC",
+          "HIN",
+          "ERY"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      },
+      {
+        "clue": "Game-show hopeful",
+        "answer": "CONTESTANT",
+        "chunkTexts": [
+          "CON",
+          "TES",
+          "TANT"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "mixed",
+    "candidateId": "G13",
+    "scores": {
+      "decoys": 7.7,
+      "tempting_pairs": 0.8,
+      "shared_fragments": 3.8,
+      "anchor_balance": 7.1,
+      "shape": 9.0,
+      "word_appeal": 8.0,
+      "penalties": -8.9,
+      "structure": 27.4,
+      "clue_rating": 11.8,
+      "clue_variety": 8.0,
+      "clue_puns": 6.0,
+      "clue_penalties": -2.0,
+      "clues": 23.8,
+      "structure_scaled": 17.1,
+      "total": 40.9
+    }
+  },
+  {
+    "id": "round234",
+    "title": "Round 234",
+    "theme": "Long Haul",
+    "clueAnswers": [
+      {
+        "clue": "Nameless, like a tipster",
+        "answer": "ANONYMOUS",
+        "chunkTexts": [
+          "ANO",
+          "NY",
+          "MOUS"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Three-sided, like a sandwich",
+        "answer": "TRIANGULAR",
+        "chunkTexts": [
+          "TRI",
+          "ANG",
+          "ULAR"
+        ],
+        "clueType": "evocative",
+        "clueRating": 3
+      },
+      {
+        "clue": "Make blush",
+        "answer": "EMBARRASS",
+        "chunkTexts": [
+          "EMB",
+          "ARR",
+          "ASS"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "___ Dogs, or a water store",
+        "answer": "RESERVOIR",
+        "chunkTexts": [
+          "RES",
+          "ERVO",
+          "IR"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Toxic",
+        "answer": "POISONOUS",
+        "chunkTexts": [
+          "POI",
+          "SON",
+          "OUS"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      },
+      {
+        "clue": "Bumpy, like a flight",
+        "answer": "TURBULENT",
+        "chunkTexts": [
+          "TUR",
+          "BUL",
+          "ENT"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "___ of Broken Dreams",
+        "answer": "BOULEVARD",
+        "chunkTexts": [
+          "BOU",
+          "LEV",
+          "ARD"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "mixed",
+    "candidateId": "G14",
+    "scores": {
+      "decoys": 5.2,
+      "tempting_pairs": 1.6,
+      "shared_fragments": 2.5,
+      "anchor_balance": 7.4,
+      "shape": 9.0,
+      "word_appeal": 7.1,
+      "penalties": -12.0,
+      "structure": 20.8,
+      "clue_rating": 9.6,
+      "clue_variety": 8.0,
+      "clue_puns": 3.0,
+      "clue_penalties": -2.0,
+      "clues": 18.6,
+      "structure_scaled": 13.0,
+      "total": 31.6
+    }
+  },
+  {
+    "id": "round235",
+    "title": "Round 235",
+    "theme": "Long Haul",
+    "clueAnswers": [
+      {
+        "clue": "Mocking with a point",
+        "answer": "SATIRICAL",
+        "chunkTexts": [
+          "SAT",
+          "IRI",
+          "CAL"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Thriving financially",
+        "answer": "PROSPEROUS",
+        "chunkTexts": [
+          "PRO",
+          "SPE",
+          "ROUS"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      },
+      {
+        "clue": "Party game of whispered errors",
+        "answer": "TELEPHONE",
+        "chunkTexts": [
+          "TEL",
+          "EPH",
+          "ONE"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Preacher sent abroad",
+        "answer": "MISSIONARY",
+        "chunkTexts": [
+          "MIS",
+          "SION",
+          "ARY"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Penicillin, e.g.",
+        "answer": "ANTIBIOTIC",
+        "chunkTexts": [
+          "ANT",
+          "IBI",
+          "OTIC"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Over-dramatic",
+        "answer": "THEATRICAL",
+        "chunkTexts": [
+          "THE",
+          "ATRI",
+          "CAL"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Baby's first picture",
+        "answer": "ULTRASOUND",
+        "chunkTexts": [
+          "ULT",
+          "RAS",
+          "OUND"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "mixed",
+    "candidateId": "G15",
+    "scores": {
+      "decoys": 2.5,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 3.8,
+      "anchor_balance": 7.3,
+      "shape": 9.0,
+      "word_appeal": 7.4,
+      "penalties": -10.4,
+      "structure": 19.9,
+      "clue_rating": 9.6,
+      "clue_variety": 8.0,
+      "clue_puns": 3.0,
+      "clue_penalties": -2.0,
+      "clues": 18.6,
+      "structure_scaled": 12.4,
+      "total": 31.0
+    }
+  },
+  {
+    "id": "round236",
+    "title": "Round 236",
+    "theme": "Long Haul",
+    "clueAnswers": [
+      {
+        "clue": "Science of the stars",
+        "answer": "ASTRONOMY",
+        "chunkTexts": [
+          "AST",
+          "RON",
+          "OMY"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      },
+      {
+        "clue": "Safe haven",
+        "answer": "SANCTUARY",
+        "chunkTexts": [
+          "SANC",
+          "TU",
+          "ARY"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      },
+      {
+        "clue": "Doubting, like Thomas",
+        "answer": "SKEPTICAL",
+        "chunkTexts": [
+          "SKEP",
+          "TI",
+          "CAL"
+        ],
+        "clueType": "evocative",
+        "clueRating": 3
+      },
+      {
+        "clue": "___ Me, with Minions",
+        "answer": "DESPICABLE",
+        "chunkTexts": [
+          "DES",
+          "PICA",
+          "BLE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Star's scribble for fans",
+        "answer": "AUTOGRAPH",
+        "chunkTexts": [
+          "AUT",
+          "OG",
+          "RAPH"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Man-made",
+        "answer": "ARTIFICIAL",
+        "chunkTexts": [
+          "ART",
+          "IFIC",
+          "IAL"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      },
+      {
+        "clue": "Uprising",
+        "answer": "REBELLION",
+        "chunkTexts": [
+          "REB",
+          "ELL",
+          "ION"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "mixed",
+    "candidateId": "G16",
+    "scores": {
+      "decoys": 2.4,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 7.5,
+      "anchor_balance": 6.6,
+      "shape": 6.4,
+      "word_appeal": 7.8,
+      "penalties": -13.9,
+      "structure": 17.2,
+      "clue_rating": 1.1,
+      "clue_variety": 8.0,
+      "clue_puns": 0.0,
+      "clue_penalties": -8.0,
+      "clues": 1.1,
+      "structure_scaled": 10.8,
+      "total": 11.9
+    }
+  },
+  {
+    "id": "round237",
+    "title": "Round 237",
+    "theme": "Long Haul",
+    "clueAnswers": [
+      {
+        "clue": "Gear-driven, or rote",
+        "answer": "MECHANICAL",
+        "chunkTexts": [
+          "ME",
+          "CHAN",
+          "ICAL"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 3
+      },
+      {
+        "clue": "Angular, like a pattern",
+        "answer": "GEOMETRIC",
+        "chunkTexts": [
+          "GEO",
+          "MET",
+          "RIC"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Made up",
+        "answer": "FICTIONAL",
+        "chunkTexts": [
+          "FIC",
+          "TIO",
+          "NAL"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      },
+      {
+        "clue": "Longing for the good old days",
+        "answer": "NOSTALGIA",
+        "chunkTexts": [
+          "NOS",
+          "TAL",
+          "GIA"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Spotless",
+        "answer": "IMMACULATE",
+        "chunkTexts": [
+          "IMMA",
+          "CUL",
+          "ATE"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      },
+      {
+        "clue": "Brave",
+        "answer": "COURAGEOUS",
+        "chunkTexts": [
+          "COUR",
+          "AGE",
+          "OUS"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      },
+      {
+        "clue": "Heavenly",
+        "answer": "CELESTIAL",
+        "chunkTexts": [
+          "CEL",
+          "EST",
+          "IAL"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "mixed",
+    "candidateId": "G17",
+    "scores": {
+      "decoys": 3.8,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 7.5,
+      "anchor_balance": 7.0,
+      "shape": 9.0,
+      "word_appeal": 7.6,
+      "penalties": -8.6,
+      "structure": 26.7,
+      "clue_rating": 0.0,
+      "clue_variety": 4.0,
+      "clue_puns": 3.0,
+      "clue_penalties": -8.0,
+      "clues": -1.0,
+      "structure_scaled": 16.7,
+      "total": 15.7
+    }
+  },
+  {
+    "id": "round238",
+    "title": "Round 238",
+    "theme": "Long Haul",
+    "clueAnswers": [
+      {
+        "clue": "Dauntingly impressive",
+        "answer": "FORMIDABLE",
+        "chunkTexts": [
+          "FOR",
+          "MIDA",
+          "BLE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Crude oil",
+        "answer": "PETROLEUM",
+        "chunkTexts": [
+          "PET",
+          "ROL",
+          "EUM"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      },
+      {
+        "clue": "Watcher in the stands",
+        "answer": "SPECTATOR",
+        "chunkTexts": [
+          "SPEC",
+          "TA",
+          "TOR"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Pieces a performer knows",
+        "answer": "REPERTOIRE",
+        "chunkTexts": [
+          "REP",
+          "ERTO",
+          "IRE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Fridge's squeezing part",
+        "answer": "COMPRESSOR",
+        "chunkTexts": [
+          "COMP",
+          "RES",
+          "SOR"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Too early",
+        "answer": "PREMATURE",
+        "chunkTexts": [
+          "PRE",
+          "MAT",
+          "URE"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      },
+      {
+        "clue": "___ Housewives",
+        "answer": "DESPERATE",
+        "chunkTexts": [
+          "DES",
+          "PER",
+          "ATE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "mixed",
+    "candidateId": "G18",
+    "scores": {
+      "decoys": 6.9,
+      "tempting_pairs": 1.6,
+      "shared_fragments": 10.0,
+      "anchor_balance": 7.4,
+      "shape": 9.0,
+      "word_appeal": 7.2,
+      "penalties": -7.3,
+      "structure": 34.8,
+      "clue_rating": 3.2,
+      "clue_variety": 4.0,
+      "clue_puns": 0.0,
+      "clue_penalties": -4.0,
+      "clues": 3.2,
+      "structure_scaled": 21.8,
+      "total": 25.0
+    }
+  },
+  {
+    "id": "round239",
+    "title": "Round 239",
+    "theme": "Long Haul",
+    "clueAnswers": [
+      {
+        "clue": "PhD",
+        "answer": "DOCTORATE",
+        "chunkTexts": [
+          "DOC",
+          "TOR",
+          "ATE"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      },
+      {
+        "clue": "Enigmatic",
+        "answer": "MYSTERIOUS",
+        "chunkTexts": [
+          "MYS",
+          "TER",
+          "IOUS"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      },
+      {
+        "clue": "Jewish house of worship",
+        "answer": "SYNAGOGUE",
+        "chunkTexts": [
+          "SYN",
+          "AGO",
+          "GUE"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      },
+      {
+        "clue": "British lawyer",
+        "answer": "SOLICITOR",
+        "chunkTexts": [
+          "SOL",
+          "ICI",
+          "TOR"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Thing a rapper drops",
+        "answer": "MICROPHONE",
+        "chunkTexts": [
+          "MIC",
+          "ROPH",
+          "ONE"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Man-made, like nylon",
+        "answer": "SYNTHETIC",
+        "chunkTexts": [
+          "SYN",
+          "THE",
+          "TIC"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Forty-day isolation, originally",
+        "answer": "QUARANTINE",
+        "chunkTexts": [
+          "QUAR",
+          "ANT",
+          "INE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "mixed",
+    "candidateId": "G19",
+    "scores": {
+      "decoys": 3.8,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 8.8,
+      "anchor_balance": 7.0,
+      "shape": 9.0,
+      "word_appeal": 7.5,
+      "penalties": -6.1,
+      "structure": 30.0,
+      "clue_rating": 5.4,
+      "clue_variety": 8.0,
+      "clue_puns": 0.0,
+      "clue_penalties": -6.0,
+      "clues": 7.4,
+      "structure_scaled": 18.8,
+      "total": 26.2
+    }
+  },
+  {
+    "id": "round240",
+    "title": "Round 240",
+    "theme": "Long Haul",
+    "clueAnswers": [
+      {
+        "clue": "Joint pain",
+        "answer": "ARTHRITIS",
+        "chunkTexts": [
+          "AR",
+          "THRI",
+          "TIS"
+        ],
+        "clueType": "pun",
+        "clueRating": 3
+      },
+      {
+        "clue": "Popcorn zapper",
+        "answer": "MICROWAVE",
+        "chunkTexts": [
+          "MIC",
+          "ROW",
+          "AVE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Don't shoot this person",
+        "answer": "MESSENGER",
+        "chunkTexts": [
+          "MES",
+          "SEN",
+          "GER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Journey to Mecca, e.g.",
+        "answer": "PILGRIMAGE",
+        "chunkTexts": [
+          "PIL",
+          "GRI",
+          "MAGE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "On the edges, like vision",
+        "answer": "PERIPHERAL",
+        "chunkTexts": [
+          "PER",
+          "IPH",
+          "ERAL"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Drilling for a living",
+        "answer": "DENTISTRY",
+        "chunkTexts": [
+          "DEN",
+          "TIS",
+          "TRY"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "In the genes",
+        "answer": "HEREDITARY",
+        "chunkTexts": [
+          "HER",
+          "EDI",
+          "TARY"
+        ],
+        "clueType": "pun",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-007",
+    "category": "mixed",
+    "candidateId": "G20",
+    "scores": {
+      "decoys": 4.2,
+      "tempting_pairs": 0.8,
+      "shared_fragments": 7.5,
+      "anchor_balance": 7.1,
+      "shape": 9.0,
+      "word_appeal": 7.4,
+      "penalties": -9.6,
+      "structure": 26.4,
+      "clue_rating": 11.8,
+      "clue_variety": 8.0,
+      "clue_puns": 9.0,
+      "clue_penalties": 0.0,
+      "clues": 28.8,
+      "structure_scaled": 16.5,
+      "total": 45.3
+    }
+  }
+]

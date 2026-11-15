@@ -1,0 +1,224 @@
+[
+ {
+  "id": "F01",
+  "category": "themed",
+  "theme": "Taskmaster: Champions",
+  "allowProperNouns": true,
+  "words": [
+   "WIDDICOMBE",
+   "BECKETT",
+   "FIELDING",
+   "MORTIMER",
+   "TARBUCK",
+   "GODLIMAN",
+   "HERRING",
+   "GAMBLE",
+   "ZALTZMAN",
+   "BAYNTON",
+   "ROBINS",
+   "KENDALL"
+  ]
+ },
+ {
+  "id": "F02",
+  "category": "themed",
+  "theme": "Taskmaster: Behind the Tasks",
+  "allowProperNouns": true,
+  "words": [
+   "HORNE",
+   "DAVIES",
+   "CHISWICK",
+   "SECTION",
+   "GILBERT",
+   "FRINGE",
+   "WELLS",
+   "CHAMPIONS",
+   "PRIZETASK",
+   "TIEBREAK",
+   "GOLDENHEAD"
+  ]
+ },
+ {
+  "id": "F03",
+  "category": "themed",
+  "theme": "Star Trek: Crew Manifest",
+  "allowProperNouns": true,
+  "words": [
+   "MONTGOMERY",
+   "BENJAMIN",
+   "TASHAYAR",
+   "LEONARD",
+   "KATHRYN",
+   "JEANLUC",
+   "CHAKOTAY",
+   "LAFORGE",
+   "CRUSHER"
+  ]
+ },
+ {
+  "id": "F04",
+  "category": "themed",
+  "theme": "Star Trek: Final Frontier",
+  "allowProperNouns": true,
+  "words": [
+   "KOBAYASHI",
+   "TRIBBLE",
+   "DILITHIUM",
+   "HORTA",
+   "BETAZOID",
+   "FERENGI",
+   "ROMULAN",
+   "HOLODECK",
+   "DEFIANT",
+   "REDSHIRT",
+   "TALAXIAN",
+   "BAJORAN",
+   "CARDASSIAN"
+  ]
+ },
+ {
+  "id": "F05",
+  "category": "themed",
+  "theme": "They Might Be Giants: Songbook",
+  "allowProperNouns": true,
+  "words": [
+   "ISTANBUL",
+   "BIRDHOUSE",
+   "PARTICLE",
+   "FINGERTIPS",
+   "MIASMA",
+   "ENSOR",
+   "GILGAMESH",
+   "HAMMURABI",
+   "SARGON",
+   "NIGHTLIGHT"
+  ]
+ },
+ {
+  "id": "F06",
+  "category": "themed",
+  "theme": "They Might Be Giants: Band Lore",
+  "allowProperNouns": true,
+  "words": [
+   "FLANSBURGH",
+   "LINNELL",
+   "LINCOLN",
+   "APOLLO",
+   "FLOOD",
+   "DIALASONG",
+   "HOTDOG",
+   "MALCOLM",
+   "NANOBOTS",
+   "QUIXOTE",
+   "MAMMAL",
+   "MINKCAR"
+  ]
+ },
+ {
+  "id": "F07",
+  "category": "themed",
+  "theme": "Cosmere: Mistborn",
+  "allowProperNouns": true,
+  "words": [
+   "ALLOMANCY",
+   "FERUCHEMY",
+   "HEMALURGY",
+   "KELSIER",
+   "SAZED",
+   "WAXILLIUM",
+   "WAYNE",
+   "KANDRA",
+   "TENSOON",
+   "ATIUM",
+   "LERASIUM",
+   "INQUISITOR",
+   "SCADRIAL"
+  ]
+ },
+ {
+  "id": "F08",
+  "category": "themed",
+  "theme": "Cosmere: Roshar and Beyond",
+  "allowProperNouns": true,
+  "words": [
+   "STORMLIGHT",
+   "KALADIN",
+   "SHALLAN",
+   "DALINAR",
+   "ADOLIN",
+   "WYNDLE",
+   "NIGHTBLOOD",
+   "WARBREAKER",
+   "ELANTRIS",
+   "TRESS",
+   "SHADESMAR",
+   "LIGHTSONG"
+  ]
+ },
+ {
+  "id": "F09",
+  "category": "themed",
+  "theme": "The Good Place: Residents",
+  "allowProperNouns": true,
+  "words": [
+   "TEDDANSON",
+   "BEARIMY",
+   "MENDOZA",
+   "ANAGONYE",
+   "ELEANOR",
+   "TAHANI",
+   "SIMONE",
+   "DEREK",
+   "PILLBOI"
+  ]
+ },
+ {
+  "id": "F10",
+  "category": "themed",
+  "theme": "The Good Place: Points and Ethics",
+  "allowProperNouns": true,
+  "words": [
+   "AFTERLIFE",
+   "NEIGHBORS",
+   "PHILOSOPHY",
+   "TIMEKNIFE",
+   "EVERYTHING",
+   "SOULMATE",
+   "MOLOTOV",
+   "SCANLON"
+  ]
+ },
+ {
+  "id": "F11",
+  "category": "themed",
+  "theme": "Project Hail Mary: Crew",
+  "allowProperNouns": true,
+  "words": [
+   "ILYUKHINA",
+   "RADIATION",
+   "PRESSURE",
+   "AMNESIA",
+   "ERIDIAN",
+   "AMMONIA",
+   "TEACHER",
+   "ADRIAN",
+   "RYLAND"
+  ]
+ },
+ {
+  "id": "F12",
+  "category": "themed",
+  "theme": "Project Hail Mary: Science",
+  "allowProperNouns": true,
+  "words": [
+   "ASTROPHAGE",
+   "TAUMOEBA",
+   "TAUCETI",
+   "XENONITE",
+   "PETROVA",
+   "BEETLES",
+   "SAHARA",
+   "ANTARCTICA"
+  ]
+ }
+]

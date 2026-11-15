@@ -1,0 +1,1223 @@
+[
+ {
+  "id": "round161",
+  "title": "Round 161",
+  "theme": "Taskmaster: Behind the Tasks",
+  "clueAnswers": [
+   {
+    "clue": "Little Alex, the dutiful assistant",
+    "answer": "HORNE",
+    "chunkTexts": [
+     "HOR",
+     "NE"
+    ],
+    "clueType": "trivia",
+    "clueRating": 3
+   },
+   {
+    "clue": "Alex's band: The Horne ___",
+    "answer": "SECTION",
+    "chunkTexts": [
+     "SEC",
+     "TION"
+    ],
+    "clueType": "trivia",
+    "clueRating": 4
+   },
+   {
+    "clue": "Studio decider when points are level",
+    "answer": "TIEBREAK",
+    "chunkTexts": [
+     "TIE",
+     "BRE",
+     "AK"
+    ],
+    "clueType": "definition",
+    "clueRating": 3
+   },
+   {
+    "clue": "Greg, the 6-foot-8 Taskmaster",
+    "answer": "DAVIES",
+    "chunkTexts": [
+     "DAV",
+     "IES"
+    ],
+    "clueType": "trivia",
+    "clueRating": 3
+   },
+   {
+    "clue": "Bring-from-home contest opening each show",
+    "answer": "PRIZETASK",
+    "chunkTexts": [
+     "PRI",
+     "ZET",
+     "ASK"
+    ],
+    "clueType": "trivia",
+    "clueRating": 4
+   },
+   {
+    "clue": "Gilded bust of Greg, the trophy",
+    "answer": "GOLDENHEAD",
+    "chunkTexts": [
+     "GOL",
+     "DEN",
+     "HEAD"
+    ],
+    "clueType": "trivia",
+    "clueRating": 5
+   },
+   {
+    "clue": "Mr ___, Greg's Inbetweeners role",
+    "answer": "GILBERT",
+    "chunkTexts": [
+     "GIL",
+     "BERT"
+    ],
+    "clueType": "trivia",
+    "clueRating": 4
+   }
+  ],
+  "source": "generated",
+  "batch": "batch-006",
+  "category": "themed",
+  "candidateId": "F02",
+  "scores": {
+   "decoys": 2.5,
+   "tempting_pairs": 0.0,
+   "shared_fragments": 1.2,
+   "anchor_balance": 6.5,
+   "shape": 9.1,
+   "word_appeal": 14.0,
+   "penalties": -13.9,
+   "structure": 19.5,
+   "clue_rating": 18.2,
+   "clue_variety": 4.0,
+   "clue_puns": 0.0,
+   "clue_penalties": 0.0,
+   "clues": 22.2,
+   "structure_scaled": 12.2,
+   "total": 34.4
+  }
+ },
+ {
+  "id": "round162",
+  "title": "Round 162",
+  "theme": "Taskmaster: Champions",
+  "clueAnswers": [
+   {
+    "clue": "Series 10 champ; red ones mislead",
+    "answer": "HERRING",
+    "chunkTexts": [
+     "HER",
+     "RING"
+    ],
+    "clueType": "wordplay",
+    "clueRating": 5
+   },
+   {
+    "clue": "Josh, the very first champion",
+    "answer": "WIDDICOMBE",
+    "chunkTexts": [
+     "WID",
+     "DIC",
+     "OMBE"
+    ],
+    "clueType": "trivia",
+    "clueRating": 3
+   },
+   {
+    "clue": "Kerry, champion of series 7",
+    "answer": "GODLIMAN",
+    "chunkTexts": [
+     "GOD",
+     "LIM",
+     "AN"
+    ],
+    "clueType": "trivia",
+    "clueRating": 3
+   },
+   {
+    "clue": "Champion John, or red-breasted birds",
+    "answer": "ROBINS",
+    "chunkTexts": [
+     "ROB",
+     "INS"
+    ],
+    "clueType": "wordplay",
+    "clueRating": 4
+   },
+   {
+    "clue": "Series 5 champ, Vic Reeves's partner",
+    "answer": "MORTIMER",
+    "chunkTexts": [
+     "MOR",
+     "TIM",
+     "ER"
+    ],
+    "clueType": "trivia",
+    "clueRating": 4
+   },
+   {
+    "clue": "Ed, series 9 champ, or a punt",
+    "answer": "GAMBLE",
+    "chunkTexts": [
+     "GAM",
+     "BLE"
+    ],
+    "clueType": "wordplay",
+    "clueRating": 4
+   },
+   {
+    "clue": "Mighty Boosh man who won series 4",
+    "answer": "FIELDING",
+    "chunkTexts": [
+     "FI",
+     "ELD",
+     "ING"
+    ],
+    "clueType": "trivia",
+    "clueRating": 4
+   }
+  ],
+  "source": "generated",
+  "batch": "batch-006",
+  "category": "themed",
+  "candidateId": "F01",
+  "scores": {
+   "decoys": 12.9,
+   "tempting_pairs": 3.2,
+   "shared_fragments": 2.5,
+   "anchor_balance": 7.2,
+   "shape": 10.4,
+   "word_appeal": 14.0,
+   "penalties": -16.3,
+   "structure": 33.9,
+   "clue_rating": 20.4,
+   "clue_variety": 4.0,
+   "clue_puns": 9.0,
+   "clue_penalties": 0.0,
+   "clues": 33.4,
+   "structure_scaled": 21.2,
+   "total": 54.6
+  }
+ },
+ {
+  "id": "round163",
+  "title": "Round 163",
+  "theme": "Star Trek: Crew Manifest",
+  "clueAnswers": [
+   {
+    "clue": "Sisko the Emissary, informally",
+    "answer": "BENJAMIN",
+    "chunkTexts": [
+     "BEN",
+     "JAM",
+     "IN"
+    ],
+    "clueType": "trivia",
+    "clueRating": 3
+   },
+   {
+    "clue": "Security chief killed by Armus",
+    "answer": "TASHAYAR",
+    "chunkTexts": [
+     "TAS",
+     "HA",
+     "YAR"
+    ],
+    "clueType": "trivia",
+    "clueRating": 4
+   },
+   {
+    "clue": "Bones's first name, and Nimoy's",
+    "answer": "LEONARD",
+    "chunkTexts": [
+     "LEON",
+     "ARD"
+    ],
+    "clueType": "wordplay",
+    "clueRating": 5
+   },
+   {
+    "clue": "Janeway, on a first-name basis",
+    "answer": "KATHRYN",
+    "chunkTexts": [
+     "KAT",
+     "HRYN"
+    ],
+    "clueType": "trivia",
+    "clueRating": 3
+   },
+   {
+    "clue": "Captain born in La Barre, France",
+    "answer": "JEANLUC",
+    "chunkTexts": [
+     "JEAN",
+     "LUC"
+    ],
+    "clueType": "trivia",
+    "clueRating": 4
+   },
+   {
+    "clue": "Maquis first officer with a facial tattoo",
+    "answer": "CHAKOTAY",
+    "chunkTexts": [
+     "CHA",
+     "KO",
+     "TAY"
+    ],
+    "clueType": "trivia",
+    "clueRating": 3
+   },
+   {
+    "clue": "Doctor and mother of Wesley",
+    "answer": "CRUSHER",
+    "chunkTexts": [
+     "CRU",
+     "SHER"
+    ],
+    "clueType": "trivia",
+    "clueRating": 3
+   }
+  ],
+  "source": "generated",
+  "batch": "batch-006",
+  "category": "themed",
+  "candidateId": "F03",
+  "scores": {
+   "decoys": 2.2,
+   "tempting_pairs": 0.0,
+   "shared_fragments": 1.2,
+   "anchor_balance": 0.0,
+   "shape": 4.8,
+   "word_appeal": 14.0,
+   "penalties": -14.3,
+   "structure": 7.9,
+   "clue_rating": 16.1,
+   "clue_variety": 4.0,
+   "clue_puns": 3.0,
+   "clue_penalties": 0.0,
+   "clues": 23.1,
+   "structure_scaled": 4.9,
+   "total": 28.0
+  }
+ },
+ {
+  "id": "round164",
+  "title": "Round 164",
+  "theme": "Star Trek: Final Frontier",
+  "clueAnswers": [
+   {
+    "clue": "Silicon creature that wrote NO KILL I",
+    "answer": "HORTA",
+    "chunkTexts": [
+     "HOR",
+     "TA"
+    ],
+    "clueType": "trivia",
+    "clueRating": 5
+   },
+   {
+    "clue": "Neelix's species",
+    "answer": "TALAXIAN",
+    "chunkTexts": [
+     "TA",
+     "LAX",
+     "IAN"
+    ],
+    "clueType": "trivia",
+    "clueRating": 3
+   },
+   {
+    "clue": "Purrer McCoy says is born pregnant",
+    "answer": "TRIBBLE",
+    "chunkTexts": [
+     "TRIB",
+     "BLE"
+    ],
+    "clueType": "trivia",
+    "clueRating": 5
+   },
+   {
+    "clue": "Where Data played Sherlock Holmes",
+    "answer": "HOLODECK",
+    "chunkTexts": [
+     "HOL",
+     "OD",
+     "ECK"
+    ],
+    "clueType": "trivia",
+    "clueRating": 4
+   },
+   {
+    "clue": "Garak's people, fans of Enigma Tales",
+    "answer": "CARDASSIAN",
+    "chunkTexts": [
+     "CARD",
+     "ASS",
+     "IAN"
+    ],
+    "clueType": "trivia",
+    "clueRating": 5
+   },
+   {
+    "clue": "Warp-core crystals taming antimatter",
+    "answer": "DILITHIUM",
+    "chunkTexts": [
+     "DIL",
+     "ITH",
+     "IUM"
+    ],
+    "clueType": "definition",
+    "clueRating": 3
+   },
+   {
+    "clue": "Sisko's overgunned little warship",
+    "answer": "DEFIANT",
+    "chunkTexts": [
+     "DEF",
+     "IANT"
+    ],
+    "clueType": "trivia",
+    "clueRating": 4
+   }
+  ],
+  "source": "generated",
+  "batch": "batch-006",
+  "category": "themed",
+  "candidateId": "F04",
+  "scores": {
+   "decoys": 1.2,
+   "tempting_pairs": 0.4,
+   "shared_fragments": 6.2,
+   "anchor_balance": 7.8,
+   "shape": 9.3,
+   "word_appeal": 14.0,
+   "penalties": -15.1,
+   "structure": 23.8,
+   "clue_rating": 24.6,
+   "clue_variety": 4.0,
+   "clue_puns": 0.0,
+   "clue_penalties": 0.0,
+   "clues": 28.6,
+   "structure_scaled": 14.9,
+   "total": 43.5
+  }
+ },
+ {
+  "id": "round165",
+  "title": "Round 165",
+  "theme": "They Might Be Giants: Band Lore",
+  "clueAnswers": [
+   {
+    "clue": "Answering-machine service: call for a tune",
+    "answer": "DIALASONG",
+    "chunkTexts": [
+     "DIA",
+     "LAS",
+     "ONG"
+    ],
+    "clueType": "trivia",
+    "clueRating": 5
+   },
+   {
+    "clue": "Knight whose giants were only windmills",
+    "answer": "QUIXOTE",
+    "chunkTexts": [
+     "QUI",
+     "XO",
+     "TE"
+    ],
+    "clueType": "evocative",
+    "clueRating": 4
+   },
+   {
+    "clue": "2013 album of tiny machines",
+    "answer": "NANOBOTS",
+    "chunkTexts": [
+     "NAN",
+     "OB",
+     "OTS"
+    ],
+    "clueType": "trivia",
+    "clueRating": 4
+   },
+   {
+    "clue": "Their Mickey Mouse Clubhouse closer",
+    "answer": "HOTDOG",
+    "chunkTexts": [
+     "HOT",
+     "DOG"
+    ],
+    "clueType": "trivia",
+    "clueRating": 5
+   },
+   {
+    "clue": "Apollo 18 song about warm-blooded kin",
+    "answer": "MAMMAL",
+    "chunkTexts": [
+     "MAM",
+     "MAL"
+    ],
+    "clueType": "trivia",
+    "clueRating": 4
+   },
+   {
+    "clue": "The John on accordion",
+    "answer": "LINNELL",
+    "chunkTexts": [
+     "LIN",
+     "NELL"
+    ],
+    "clueType": "trivia",
+    "clueRating": 3
+   },
+   {
+    "clue": "Massachusetts hometown and 1988 album",
+    "answer": "LINCOLN",
+    "chunkTexts": [
+     "LIN",
+     "COLN"
+    ],
+    "clueType": "trivia",
+    "clueRating": 4
+   }
+  ],
+  "source": "generated",
+  "batch": "batch-006",
+  "category": "themed",
+  "candidateId": "F06",
+  "scores": {
+   "decoys": 0.3,
+   "tempting_pairs": 0.0,
+   "shared_fragments": 2.5,
+   "anchor_balance": 4.2,
+   "shape": 9.1,
+   "word_appeal": 14.0,
+   "penalties": -14.3,
+   "structure": 15.9,
+   "clue_rating": 24.6,
+   "clue_variety": 4.0,
+   "clue_puns": 0.0,
+   "clue_penalties": 0.0,
+   "clues": 28.6,
+   "structure_scaled": 9.9,
+   "total": 38.5
+  }
+ },
+ {
+  "id": "round166",
+  "title": "Round 166",
+  "theme": "They Might Be Giants: Songbook",
+  "clueAnswers": [
+   {
+    "clue": "___ in Your Soul, a nightlight's song",
+    "answer": "BIRDHOUSE",
+    "chunkTexts": [
+     "BIRD",
+     "HOU",
+     "SE"
+    ],
+    "clueType": "trivia",
+    "clueRating": 5
+   },
+   {
+    "clue": "___ Man, hated by Triangle Man",
+    "answer": "PARTICLE",
+    "chunkTexts": [
+     "PAR",
+     "TI",
+     "CLE"
+    ],
+    "clueType": "trivia",
+    "clueRating": 4
+   },
+   {
+    "clue": "Suite of tiny songs on Apollo 18",
+    "answer": "FINGERTIPS",
+    "chunkTexts": [
+     "FING",
+     "ERT",
+     "IPS"
+    ],
+    "clueType": "trivia",
+    "clueRating": 5
+   },
+   {
+    "clue": "Belgian painter they'd have you meet",
+    "answer": "ENSOR",
+    "chunkTexts": [
+     "EN",
+     "SOR"
+    ],
+    "clueType": "trivia",
+    "clueRating": 5
+   },
+   {
+    "clue": "Epic king alongside Sargon and Hammurabi",
+    "answer": "GILGAMESH",
+    "chunkTexts": [
+     "GIL",
+     "GAM",
+     "ESH"
+    ],
+    "clueType": "trivia",
+    "clueRating": 4
+   },
+   {
+    "clue": "Code-writing king in The Mesopotamians",
+    "answer": "HAMMURABI",
+    "chunkTexts": [
+     "HAM",
+     "MUR",
+     "ABI"
+    ],
+    "clueType": "trivia",
+    "clueRating": 4
+   },
+   {
+    "clue": "Akkadian king in The Mesopotamians",
+    "answer": "SARGON",
+    "chunkTexts": [
+     "SAR",
+     "GON"
+    ],
+    "clueType": "trivia",
+    "clueRating": 4
+   }
+  ],
+  "source": "generated",
+  "batch": "batch-006",
+  "category": "themed",
+  "candidateId": "F05",
+  "scores": {
+   "decoys": 1.6,
+   "tempting_pairs": 2.0,
+   "shared_fragments": 3.8,
+   "anchor_balance": 6.8,
+   "shape": 11.7,
+   "word_appeal": 14.0,
+   "penalties": -14.5,
+   "structure": 25.4,
+   "clue_rating": 28.9,
+   "clue_variety": 0.0,
+   "clue_puns": 0.0,
+   "clue_penalties": 0.0,
+   "clues": 28.9,
+   "structure_scaled": 15.9,
+   "total": 44.8
+  }
+ },
+ {
+  "id": "round167",
+  "title": "Round 167",
+  "theme": "Cosmere: Mistborn",
+  "clueAnswers": [
+   {
+    "clue": "Keeper who took up both Shards",
+    "answer": "SAZED",
+    "chunkTexts": [
+     "SA",
+     "ZED"
+    ],
+    "clueType": "trivia",
+    "clueRating": 4
+   },
+   {
+    "clue": "Ash-choked world of the Final Empire",
+    "answer": "SCADRIAL",
+    "chunkTexts": [
+     "SCA",
+     "DRI",
+     "AL"
+    ],
+    "clueType": "trivia",
+    "clueRating": 4
+   },
+   {
+    "clue": "Bead that makes anyone Mistborn",
+    "answer": "LERASIUM",
+    "chunkTexts": [
+     "LERA",
+     "SIUM"
+    ],
+    "clueType": "trivia",
+    "clueRating": 5
+   },
+   {
+    "clue": "Burning metals to Push and Pull",
+    "answer": "ALLOMANCY",
+    "chunkTexts": [
+     "AL",
+     "LOM",
+     "ANCY"
+    ],
+    "clueType": "definition",
+    "clueRating": 3
+   },
+   {
+    "clue": "Storing traits in metalminds",
+    "answer": "FERUCHEMY",
+    "chunkTexts": [
+     "FER",
+     "UCH",
+     "EMY"
+    ],
+    "clueType": "definition",
+    "clueRating": 3
+   },
+   {
+    "clue": "Kandra who broke his Contract for Vin",
+    "answer": "TENSOON",
+    "chunkTexts": [
+     "TENS",
+     "OON"
+    ],
+    "clueType": "trivia",
+    "clueRating": 4
+   },
+   {
+    "clue": "Steel Ministry hunter with spiked eyes",
+    "answer": "INQUISITOR",
+    "chunkTexts": [
+     "INQU",
+     "ISI",
+     "TOR"
+    ],
+    "clueType": "trivia",
+    "clueRating": 4
+   }
+  ],
+  "source": "generated",
+  "batch": "batch-006",
+  "category": "themed",
+  "candidateId": "F07",
+  "scores": {
+   "decoys": 1.9,
+   "tempting_pairs": 0.4,
+   "shared_fragments": 2.5,
+   "anchor_balance": 6.9,
+   "shape": 7.1,
+   "word_appeal": 14.0,
+   "penalties": -15.3,
+   "structure": 17.5,
+   "clue_rating": 20.4,
+   "clue_variety": 4.0,
+   "clue_puns": 0.0,
+   "clue_penalties": 0.0,
+   "clues": 24.4,
+   "structure_scaled": 10.9,
+   "total": 35.3
+  }
+ },
+ {
+  "id": "round168",
+  "title": "Round 168",
+  "theme": "Cosmere: Roshar and Beyond",
+  "clueAnswers": [
+   {
+    "clue": "Windrunner bonded to Syl",
+    "answer": "KALADIN",
+    "chunkTexts": [
+     "KA",
+     "LAD",
+     "IN"
+    ],
+    "clueType": "trivia",
+    "clueRating": 3
+   },
+   {
+    "clue": "Lightweaver who sketches Memories",
+    "answer": "SHALLAN",
+    "chunkTexts": [
+     "SHAL",
+     "LAN"
+    ],
+    "clueType": "trivia",
+    "clueRating": 4
+   },
+   {
+    "clue": "The Blackthorn, reformed",
+    "answer": "DALINAR",
+    "chunkTexts": [
+     "DALI",
+     "NAR"
+    ],
+    "clueType": "trivia",
+    "clueRating": 4
+   },
+   {
+    "clue": "Fashion-minded duelist, the Kholin heir",
+    "answer": "ADOLIN",
+    "chunkTexts": [
+     "ADO",
+     "LIN"
+    ],
+    "clueType": "trivia",
+    "clueRating": 4
+   },
+   {
+    "clue": "Novel he posted free, draft by draft",
+    "answer": "WARBREAKER",
+    "chunkTexts": [
+     "WAR",
+     "BREA",
+     "KER"
+    ],
+    "clueType": "trivia",
+    "clueRating": 5
+   },
+   {
+    "clue": "Sanderson's debut, a city of fallen gods",
+    "answer": "ELANTRIS",
+    "chunkTexts": [
+     "EL",
+     "ANT",
+     "RIS"
+    ],
+    "clueType": "trivia",
+    "clueRating": 4
+   },
+   {
+    "clue": "Cognitive Realm with oceans of beads",
+    "answer": "SHADESMAR",
+    "chunkTexts": [
+     "SHA",
+     "DES",
+     "MAR"
+    ],
+    "clueType": "trivia",
+    "clueRating": 5
+   }
+  ],
+  "source": "generated",
+  "batch": "batch-006",
+  "category": "themed",
+  "candidateId": "F08",
+  "scores": {
+   "decoys": 6.3,
+   "tempting_pairs": 0.0,
+   "shared_fragments": 6.2,
+   "anchor_balance": 4.7,
+   "shape": 9.3,
+   "word_appeal": 14.0,
+   "penalties": -15.6,
+   "structure": 25.0,
+   "clue_rating": 24.6,
+   "clue_variety": 0.0,
+   "clue_puns": 0.0,
+   "clue_penalties": 0.0,
+   "clues": 24.6,
+   "structure_scaled": 15.6,
+   "total": 40.2
+  }
+ },
+ {
+  "id": "round169",
+  "title": "Round 169",
+  "theme": "The Good Place: Points and Ethics",
+  "clueAnswers": [
+   {
+    "clue": "Where all those points finally count",
+    "answer": "AFTERLIFE",
+    "chunkTexts": [
+     "AFT",
+     "ERL",
+     "IFE"
+    ],
+    "clueType": "pun",
+    "clueRating": 4
+   },
+   {
+    "clue": "Residents of Michael's designed hood",
+    "answer": "NEIGHBORS",
+    "chunkTexts": [
+     "NE",
+     "IGH",
+     "BORS"
+    ],
+    "clueType": "wordplay",
+    "clueRating": 3
+   },
+   {
+    "clue": "Chidi's field, ethics included",
+    "answer": "PHILOSOPHY",
+    "chunkTexts": [
+     "PHI",
+     "LOS",
+     "OPHY"
+    ],
+    "clueType": "definition",
+    "clueRating": 3
+   },
+   {
+    "clue": "Chidi Sees the ___",
+    "answer": "TIMEKNIFE",
+    "chunkTexts": [
+     "TIM",
+     "EK",
+     "NIFE"
+    ],
+    "clueType": "trivia",
+    "clueRating": 5
+   },
+   {
+    "clue": "What Chidi supposedly was to Eleanor",
+    "answer": "SOULMATE",
+    "chunkTexts": [
+     "SO",
+     "ULM",
+     "ATE"
+    ],
+    "clueType": "trivia",
+    "clueRating": 4
+   },
+   {
+    "clue": "Jason's cocktail solution to every problem",
+    "answer": "MOLOTOV",
+    "chunkTexts": [
+     "MOLO",
+     "TOV"
+    ],
+    "clueType": "pun",
+    "clueRating": 5
+   },
+   {
+    "clue": "What We Owe to Each Other author",
+    "answer": "SCANLON",
+    "chunkTexts": [
+     "SCAN",
+     "LON"
+    ],
+    "clueType": "trivia",
+    "clueRating": 4
+   }
+  ],
+  "source": "generated",
+  "batch": "batch-006",
+  "category": "themed",
+  "candidateId": "F10",
+  "scores": {
+   "decoys": 0.7,
+   "tempting_pairs": 0.4,
+   "shared_fragments": 1.2,
+   "anchor_balance": 0.0,
+   "shape": 8.6,
+   "word_appeal": 14.0,
+   "penalties": -16.1,
+   "structure": 8.8,
+   "clue_rating": 22.5,
+   "clue_variety": 8.0,
+   "clue_puns": 9.0,
+   "clue_penalties": 0.0,
+   "clues": 39.5,
+   "structure_scaled": 5.5,
+   "total": 45.0
+  }
+ },
+ {
+  "id": "round170",
+  "title": "Round 170",
+  "theme": "The Good Place: Residents",
+  "clueAnswers": [
+   {
+    "clue": "Michael, played by a Cheers barman",
+    "answer": "TEDDANSON",
+    "chunkTexts": [
+     "TED",
+     "DAN",
+     "SON"
+    ],
+    "clueType": "trivia",
+    "clueRating": 4
+   },
+   {
+    "clue": "Jason, the Jaguars-loving DJ, by surname",
+    "answer": "MENDOZA",
+    "chunkTexts": [
+     "MEN",
+     "DO",
+     "ZA"
+    ],
+    "clueType": "trivia",
+    "clueRating": 4
+   },
+   {
+    "clue": "Chidi, the indecisive ethicist, by surname",
+    "answer": "ANAGONYE",
+    "chunkTexts": [
+     "ANA",
+     "GON",
+     "YE"
+    ],
+    "clueType": "trivia",
+    "clueRating": 3
+   },
+   {
+    "clue": "Arizona dirtbag sent to the wrong place",
+    "answer": "ELEANOR",
+    "chunkTexts": [
+     "ELE",
+     "ANOR"
+    ],
+    "clueType": "evocative",
+    "clueRating": 4
+   },
+   {
+    "clue": "Al-Jamil, champion name-dropper",
+    "answer": "TAHANI",
+    "chunkTexts": [
+     "TAH",
+     "ANI"
+    ],
+    "clueType": "trivia",
+    "clueRating": 4
+   },
+   {
+    "clue": "Chidi's neuroscientist love in season 4",
+    "answer": "SIMONE",
+    "chunkTexts": [
+     "SIM",
+     "ONE"
+    ],
+    "clueType": "trivia",
+    "clueRating": 4
+   },
+   {
+    "clue": "Jason's best friend back in Jacksonville",
+    "answer": "PILLBOI",
+    "chunkTexts": [
+     "PILL",
+     "BOI"
+    ],
+    "clueType": "trivia",
+    "clueRating": 4
+   }
+  ],
+  "source": "generated",
+  "batch": "batch-006",
+  "category": "themed",
+  "candidateId": "F09",
+  "scores": {
+   "decoys": 0.0,
+   "tempting_pairs": 0.8,
+   "shared_fragments": 2.5,
+   "anchor_balance": 4.6,
+   "shape": 9.1,
+   "word_appeal": 14.0,
+   "penalties": -15.8,
+   "structure": 15.2,
+   "clue_rating": 20.4,
+   "clue_variety": 4.0,
+   "clue_puns": 0.0,
+   "clue_penalties": 0.0,
+   "clues": 24.4,
+   "structure_scaled": 9.5,
+   "total": 33.9
+  }
+ },
+ {
+  "id": "round171",
+  "title": "Round 171",
+  "theme": "Project Hail Mary: Crew",
+  "clueAnswers": [
+   {
+    "clue": "Russian crewmate with gallows humor",
+    "answer": "ILYUKHINA",
+    "chunkTexts": [
+     "ILY",
+     "UK",
+     "HINA"
+    ],
+    "clueType": "trivia",
+    "clueRating": 4
+   },
+   {
+    "clue": "Unknown peril that killed Rocky's crew",
+    "answer": "RADIATION",
+    "chunkTexts": [
+     "RAD",
+     "IAT",
+     "ION"
+    ],
+    "clueType": "trivia",
+    "clueRating": 5
+   },
+   {
+    "clue": "Rocky lives under crushing amounts",
+    "answer": "PRESSURE",
+    "chunkTexts": [
+     "PRES",
+     "SURE"
+    ],
+    "clueType": "pun",
+    "clueRating": 4
+   },
+   {
+    "clue": "Coma side effect that wiped Grace",
+    "answer": "AMNESIA",
+    "chunkTexts": [
+     "AM",
+     "NE",
+     "SIA"
+    ],
+    "clueType": "trivia",
+    "clueRating": 4
+   },
+   {
+    "clue": "Rocky's blind, five-legged kind",
+    "answer": "ERIDIAN",
+    "chunkTexts": [
+     "ERI",
+     "DIAN"
+    ],
+    "clueType": "trivia",
+    "clueRating": 4
+   },
+   {
+    "clue": "What Rocky breathes back home",
+    "answer": "AMMONIA",
+    "chunkTexts": [
+     "AMMO",
+     "NIA"
+    ],
+    "clueType": "trivia",
+    "clueRating": 4
+   },
+   {
+    "clue": "Grace's first name, slow to return",
+    "answer": "RYLAND",
+    "chunkTexts": [
+     "RYL",
+     "AND"
+    ],
+    "clueType": "trivia",
+    "clueRating": 3
+   }
+  ],
+  "source": "generated",
+  "batch": "batch-006",
+  "category": "themed",
+  "candidateId": "F11",
+  "scores": {
+   "decoys": 0.0,
+   "tempting_pairs": 0.0,
+   "shared_fragments": 1.2,
+   "anchor_balance": 2.0,
+   "shape": 5.6,
+   "word_appeal": 14.0,
+   "penalties": -16.8,
+   "structure": 6.1,
+   "clue_rating": 22.5,
+   "clue_variety": 4.0,
+   "clue_puns": 3.0,
+   "clue_penalties": 0.0,
+   "clues": 29.5,
+   "structure_scaled": 3.8,
+   "total": 33.3
+  }
+ },
+ {
+  "id": "round172",
+  "title": "Round 172",
+  "theme": "Project Hail Mary: Science",
+  "clueAnswers": [
+   {
+    "clue": "Microbe eating the Sun's energy",
+    "answer": "ASTROPHAGE",
+    "chunkTexts": [
+     "AST",
+     "ROPH",
+     "AGE"
+    ],
+    "clueType": "trivia",
+    "clueRating": 3
+   },
+   {
+    "clue": "Microbe that eats the Sun-eaters",
+    "answer": "TAUMOEBA",
+    "chunkTexts": [
+     "TAU",
+     "MO",
+     "EBA"
+    ],
+    "clueType": "trivia",
+    "clueRating": 4
+   },
+   {
+    "clue": "Infected star that somehow stayed bright",
+    "answer": "TAUCETI",
+    "chunkTexts": [
+     "TAU",
+     "CE",
+     "TI"
+    ],
+    "clueType": "trivia",
+    "clueRating": 5
+   },
+   {
+    "clue": "Infrared line that betrayed the infection",
+    "answer": "PETROVA",
+    "chunkTexts": [
+     "PET",
+     "ROVA"
+    ],
+    "clueType": "trivia",
+    "clueRating": 5
+   },
+   {
+    "clue": "Probes named John, Paul, George, Ringo",
+    "answer": "BEETLES",
+    "chunkTexts": [
+     "BEET",
+     "LES"
+    ],
+    "clueType": "trivia",
+    "clueRating": 5
+   },
+   {
+    "clue": "Desert paved with breeder panels",
+    "answer": "SAHARA",
+    "chunkTexts": [
+     "SAH",
+     "ARA"
+    ],
+    "clueType": "trivia",
+    "clueRating": 4
+   },
+   {
+    "clue": "Continent nuked to warm the planet",
+    "answer": "ANTARCTICA",
+    "chunkTexts": [
+     "ANT",
+     "ARC",
+     "TICA"
+    ],
+    "clueType": "trivia",
+    "clueRating": 5
+   }
+  ],
+  "source": "generated",
+  "batch": "batch-006",
+  "category": "themed",
+  "candidateId": "F12",
+  "scores": {
+   "decoys": 2.6,
+   "tempting_pairs": 0.4,
+   "shared_fragments": 5.0,
+   "anchor_balance": 2.0,
+   "shape": 8.2,
+   "word_appeal": 14.0,
+   "penalties": -16.2,
+   "structure": 16.0,
+   "clue_rating": 28.9,
+   "clue_variety": 0.0,
+   "clue_puns": 0.0,
+   "clue_penalties": 0.0,
+   "clues": 28.9,
+   "structure_scaled": 10.0,
+   "total": 38.9
+  }
+ }
+]

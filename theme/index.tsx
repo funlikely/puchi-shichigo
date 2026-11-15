@@ -1,4 +1,5 @@
-import React, { createContext, useContext, useMemo, useState } from 'react';
+import React, { createContext, useContext, useEffect, useMemo, useState } from 'react';
+import { KEYS, loadJSON, saveJSON } from '../data/storage';
 import { useColorScheme } from 'react-native';
 
 export type ThemeMode = 'light' | 'dark';
@@ -78,14 +79,24 @@ interface ThemeValue {
 const ThemeContext = createContext<ThemeValue>({ mode: 'light', colors: light, toggle: () => {} });
 
 export function ThemeProvider({ children }: { children: React.ReactNode }) {
-  // Starts from the device setting; the in-app toggle overrides it for this session.
+  // Starts from the device setting; a saved in-app choice overrides it.
   const system = useColorScheme();
   const [mode, setMode] = useState<ThemeMode>(system === 'dark' ? 'dark' : 'light');
+  useEffect(() => {
+    loadJSON<ThemeMode>(KEYS.theme).then(m => {
+      if (m === 'dark' || m === 'light') setMode(m);
+    });
+  }, []);
   const value = useMemo<ThemeValue>(
     () => ({
       mode,
       colors: mode === 'dark' ? dark : light,
-      toggle: () => setMode(m => (m === 'dark' ? 'light' : 'dark')),
+      toggle: () =>
+        setMode(m => {
+          const next = m === 'dark' ? 'light' : 'dark';
+          saveJSON(KEYS.theme, next);
+          return next;
+        }),
     }),
     [mode],
   );

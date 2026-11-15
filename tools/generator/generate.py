@@ -32,7 +32,7 @@ GEN_FOUR_MIN, GEN_FOUR_MAX_FRAC = 2, 0.2    # and 2-letter tiles must not outnum
 GEN_MIN_FRAC3 = 0.6
 GEN_MAX_INFLECTED = 0              # no -ING/-ED filler answers
 GEN_MAX_ABSTRACT = 1
-MANUAL_MAX_WORDS = 9
+MANUAL_MAX_WORDS = 12      # combos of 7 from 12 = 792; fewer starves rounds of long words
 EXCLUDE: set = set()               # answers already used in earlier batches
 GEN_MIN_FAVORITES = 4              # vivid, hand-vetted words per round
 STEPS = 90

@@ -1,0 +1,1327 @@
+{
+ "_meta": {
+  "batch": "batch-005",
+  "writer": "hand-written (Claude, no API); original clues",
+  "judge": "self-rated by the writer"
+ },
+ "T01": {
+  "theme": "Insects",
+  "category": "themed",
+  "clues": {
+   "MOSQUITO": {
+    "clue": "Summer's little bloodsucker",
+    "type": "evocative",
+    "rating": 3
+   },
+   "TERMITE": {
+    "clue": "Critic who really eats up the woodwork",
+    "type": "pun",
+    "rating": 4
+   },
+   "FIREFLY": {
+    "clue": "Bug with a bright future",
+    "type": "pun",
+    "rating": 4
+   },
+   "BUMBLEBEE": {
+    "clue": "Buzzy worker that never stops to hum",
+    "type": "pun",
+    "rating": 3
+   },
+   "CENTIPEDE": {
+    "clue": "Leggy crawler with a shoe budget",
+    "type": "pun",
+    "rating": 4
+   },
+   "LOCUST": {
+    "clue": "Plague member in swarming form",
+    "type": "definition",
+    "rating": 3
+   },
+   "EARWIG": {
+    "clue": "Bug named for hairpiece placement",
+    "type": "wordplay",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Weakest: MOSQUITO, BUMBLEBEE, LOCUST"
+  }
+ },
+ "T02": {
+  "theme": "Musical Instruments",
+  "category": "themed",
+  "clues": {
+   "BAGPIPES": {
+    "clue": "Highland sack with drones",
+    "type": "pun",
+    "rating": 4
+   },
+   "VIOLIN": {
+    "clue": "Fiddle, in formal attire",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "MANDOLIN": {
+    "clue": "Lute's little Italian cousin",
+    "type": "definition",
+    "rating": 3
+   },
+   "BASSOON": {
+    "clue": "Low reed full of hot air",
+    "type": "pun",
+    "rating": 4
+   },
+   "PICCOLO": {
+    "clue": "Flute's shrill kid sibling",
+    "type": "evocative",
+    "rating": 3
+   },
+   "XYLOPHONE": {
+    "clue": "Bars you hit for an A",
+    "type": "pun",
+    "rating": 5
+   },
+   "UKULELE": {
+    "clue": "Four strings, Hawaiian vacation",
+    "type": "evocative",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Weakest: MANDOLIN, PICCOLO, UKULELE"
+  }
+ },
+ "T03": {
+  "theme": "On the Farm",
+  "category": "themed",
+  "clues": {
+   "BARNYARD": {
+    "clue": "Where the cock of the walk walks",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "TROUGH": {
+    "clue": "Long dinner table for pigs",
+    "type": "pun",
+    "rating": 4
+   },
+   "HARROW": {
+    "clue": "Clod-breaking rig, or distressing",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "ROOSTER": {
+    "clue": "Dawn caller with a comb, no hair",
+    "type": "pun",
+    "rating": 4
+   },
+   "HENHOUSE": {
+    "clue": "Lay-by for poultry",
+    "type": "pun",
+    "rating": 5
+   },
+   "FARMHAND": {
+    "clue": "Hired help that's always in the field",
+    "type": "pun",
+    "rating": 4
+   },
+   "PLOUGHMAN": {
+    "clue": "Furrow maker behind a horse",
+    "type": "evocative",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Weakest: PLOUGHMAN"
+  }
+ },
+ "T04": {
+  "theme": "Fairy Tales",
+  "category": "themed",
+  "clues": {
+   "TALISMAN": {
+    "clue": "Lucky charm, no cereal required",
+    "type": "pun",
+    "rating": 4
+   },
+   "ENCHANTED": {
+    "clue": "Under a spell, or simply delighted",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "MAIDEN": {
+    "clue": "Damsel's first voyage, perhaps",
+    "type": "wordplay",
+    "rating": 3
+   },
+   "CURSE": {
+    "clue": "Hex, or what a stubbed toe gets",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "SORCERESS": {
+    "clue": "Witch who's a cut above",
+    "type": "pun",
+    "rating": 3
+   },
+   "STEPMOTHER": {
+    "clue": "Cinderella's wicked in-law",
+    "type": "definition",
+    "rating": 3
+   },
+   "TOADSTOOL": {
+    "clue": "Seat for a warty fellow",
+    "type": "pun",
+    "rating": 5
+   }
+  },
+  "critique": {
+   "notes": "Weakest: MAIDEN, SORCERESS, STEPMOTHER"
+  }
+ },
+ "T05": {
+  "theme": "Board Games",
+  "category": "themed",
+  "clues": {
+   "HOURGLASS": {
+    "clue": "Sand timer with a slim waist",
+    "type": "evocative",
+    "rating": 4
+   },
+   "MARBLES": {
+    "clue": "What you lose when you lose it",
+    "type": "wordplay",
+    "rating": 5
+   },
+   "GAMEPIECE": {
+    "clue": "Mover you might pawn off",
+    "type": "pun",
+    "rating": 4
+   },
+   "GAMEBOARD": {
+    "clue": "Where dice get rolling",
+    "type": "evocative",
+    "rating": 3
+   },
+   "TOKEN": {
+    "clue": "Thimble, say, or a gesture",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "SPINNER": {
+    "clue": "Arrow that never quite flies",
+    "type": "pun",
+    "rating": 4
+   },
+   "BISHOP": {
+    "clue": "Diagonal clergyman",
+    "type": "wordplay",
+    "rating": 5
+   }
+  },
+  "critique": {
+   "notes": "Weakest: GAMEBOARD"
+  }
+ },
+ "T06": {
+  "theme": "Kitchen Drawer",
+  "category": "themed",
+  "clues": {
+   "COLANDER": {
+    "clue": "It holds water like a sieve",
+    "type": "pun",
+    "rating": 5
+   },
+   "CANOPENER": {
+    "clue": "Tin buster with a geared wheel",
+    "type": "definition",
+    "rating": 3
+   },
+   "GRATER": {
+    "clue": "Cheese shredder, the very best",
+    "type": "pun",
+    "rating": 5
+   },
+   "NUTCRACKER": {
+    "clue": "Ballet star with a shell game",
+    "type": "pun",
+    "rating": 4
+   },
+   "SAUCEPAN": {
+    "clue": "Panhandle's cozy kitchen home",
+    "type": "pun",
+    "rating": 3
+   },
+   "THERMOS": {
+    "clue": "Hot today, still hot tomorrow",
+    "type": "evocative",
+    "rating": 4
+   },
+   "TEASPOON": {
+    "clue": "Small stirrer, a sugar's measure",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Weakest: CANOPENER, SAUCEPAN, TEASPOON"
+  }
+ },
+ "T07": {
+  "theme": "Toolbox",
+  "category": "themed",
+  "clues": {
+   "SOLDERING": {
+    "clue": "Joining wires, metal-to-metal",
+    "type": "definition",
+    "rating": 3
+   },
+   "CHISEL": {
+    "clue": "Cheat, or carve a niche",
+    "type": "wordplay",
+    "rating": 5
+   },
+   "SANDPAPER": {
+    "clue": "Grit with a rough-and-ready finish",
+    "type": "pun",
+    "rating": 4
+   },
+   "STAPLEGUN": {
+    "clue": "Shooter that pins things down",
+    "type": "pun",
+    "rating": 4
+   },
+   "VISEGRIP": {
+    "clue": "Locking pliers with a firm hold",
+    "type": "definition",
+    "rating": 3
+   },
+   "NAILGUN": {
+    "clue": "Hammer with no time to lose",
+    "type": "pun",
+    "rating": 3
+   },
+   "CALIPER": {
+    "clue": "Gauge with a jaw for size",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Weakest: SOLDERING, VISEGRIP, NAILGUN, CALIPER"
+  }
+ },
+ "T08": {
+  "theme": "Desserts",
+  "category": "themed",
+  "clues": {
+   "POPSICLE": {
+    "clue": "Frozen treat on a stick",
+    "type": "definition",
+    "rating": 3
+   },
+   "CUSTARD": {
+    "clue": "Pie filler with a set mind",
+    "type": "pun",
+    "rating": 3
+   },
+   "MOLASSES": {
+    "clue": "Slow pour, as in January",
+    "type": "evocative",
+    "rating": 4
+   },
+   "TURNOVER": {
+    "clue": "Pastry, or a fumbled possession",
+    "type": "wordplay",
+    "rating": 5
+   },
+   "PAVLOVA": {
+    "clue": "Meringue that rings a bell",
+    "type": "pun",
+    "rating": 5
+   },
+   "CANNOLI": {
+    "clue": "Leave the gun, take these",
+    "type": "evocative",
+    "rating": 5
+   },
+   "SORBET": {
+    "clue": "Icy palate cleanser, sorta",
+    "type": "pun",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Weakest: POPSICLE, CUSTARD"
+  }
+ },
+ "T09": {
+  "theme": "Fruit Bowl",
+  "category": "themed",
+  "clues": {
+   "PERSIMMON": {
+    "clue": "Orange fruit that puckers if unripe",
+    "type": "definition",
+    "rating": 3
+   },
+   "CLEMENTINE": {
+    "clue": "Darlin' of an orange",
+    "type": "pun",
+    "rating": 5
+   },
+   "MANGO": {
+    "clue": "Stone fruit with a tropical twist",
+    "type": "pun",
+    "rating": 3
+   },
+   "MANDARIN": {
+    "clue": "Orange, or Beijing's tongue",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "PINEAPPLE": {
+    "clue": "Spiky fruit that isn't from Maine",
+    "type": "pun",
+    "rating": 4
+   },
+   "NECTARINE": {
+    "clue": "Peach with a close shave",
+    "type": "pun",
+    "rating": 5
+   },
+   "APRICOT": {
+    "clue": "Fruit that's a pricey cot",
+    "type": "wordplay",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Weakest: PERSIMMON, MANGO"
+  }
+ },
+ "T10": {
+  "theme": "Vegetable Patch",
+  "category": "themed",
+  "clues": {
+   "CUCUMBER": {
+    "clue": "Cool customer in a salad",
+    "type": "pun",
+    "rating": 5
+   },
+   "PUMPKIN": {
+    "clue": "Coach in disguise, at midnight",
+    "type": "evocative",
+    "rating": 4
+   },
+   "ZUCCHINI": {
+    "clue": "Squash that won't stop multiplying",
+    "type": "evocative",
+    "rating": 4
+   },
+   "LETTUCE": {
+    "clue": "Green that says let us",
+    "type": "pun",
+    "rating": 5
+   },
+   "ASPARAGUS": {
+    "clue": "Spears that leave a scent",
+    "type": "evocative",
+    "rating": 3
+   },
+   "BEETROOT": {
+    "clue": "Red veg that can't be beaten",
+    "type": "pun",
+    "rating": 4
+   },
+   "PARSNIP": {
+    "clue": "Pale carrot cousin, average cut",
+    "type": "pun",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Weakest: ASPARAGUS"
+  }
+ },
+ "T11": {
+  "theme": "Wild West",
+  "category": "themed",
+  "clues": {
+   "HOLSTER": {
+    "clue": "Hip home for a pistol",
+    "type": "definition",
+    "rating": 3
+   },
+   "SALOON": {
+    "clue": "Swinging-door watering hole",
+    "type": "evocative",
+    "rating": 4
+   },
+   "PROSPECTOR": {
+    "clue": "Panner with high hopes",
+    "type": "pun",
+    "rating": 4
+   },
+   "LASSO": {
+    "clue": "Rope trick for a steer",
+    "type": "definition",
+    "rating": 3
+   },
+   "DESPERADO": {
+    "clue": "Outlaw with nothing left to lose",
+    "type": "evocative",
+    "rating": 3
+   },
+   "RODEO": {
+    "clue": "Bronco bust-up for a buckle",
+    "type": "evocative",
+    "rating": 3
+   },
+   "WAGONTRAIN": {
+    "clue": "Settlers' convoy, westward ho",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Weakest: HOLSTER, LASSO, DESPERADO, RODEO, WAGONTRAIN"
+  }
+ },
+ "T12": {
+  "theme": "Space Mission",
+  "category": "themed",
+  "clues": {
+   "ROCKET": {
+    "clue": "Arugula, or a lift-off",
+    "type": "wordplay",
+    "rating": 5
+   },
+   "ORBIT": {
+    "clue": "Round trip that never lands",
+    "type": "pun",
+    "rating": 4
+   },
+   "LAUNCHPAD": {
+    "clue": "Liftoff site, or career springboard",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "COUNTDOWN": {
+    "clue": "Ten to one it's a launch",
+    "type": "pun",
+    "rating": 5
+   },
+   "SPACESUIT": {
+    "clue": "Outfit for a stellar outing",
+    "type": "pun",
+    "rating": 4
+   },
+   "MODULE": {
+    "clue": "Lander part, or course unit",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "GRAVITY": {
+    "clue": "It keeps you down to earth",
+    "type": "pun",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Weakest: "
+  }
+ },
+ "T13": {
+  "theme": "Rainforest",
+  "category": "themed",
+  "clues": {
+   "JAGUAR": {
+    "clue": "Spotted cat, or luxury car",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "TOUCAN": {
+    "clue": "Big-billed bird for a duet",
+    "type": "pun",
+    "rating": 5
+   },
+   "CANOPY": {
+    "clue": "Treetop roof, or bed's crown",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "PIRANHA": {
+    "clue": "Fish with a biting wit",
+    "type": "pun",
+    "rating": 4
+   },
+   "TREEFROG": {
+    "clue": "Sticky-toed croaker up a trunk",
+    "type": "evocative",
+    "rating": 3
+   },
+   "GORILLA": {
+    "clue": "Silverback in the mist",
+    "type": "evocative",
+    "rating": 3
+   },
+   "BROMELIAD": {
+    "clue": "Pineapple's flowery jungle relative",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Weakest: TREEFROG, GORILLA, BROMELIAD"
+  }
+ },
+ "T14": {
+  "theme": "Arctic",
+  "category": "themed",
+  "clues": {
+   "WALRUS": {
+    "clue": "Tusked mustache with flippers",
+    "type": "evocative",
+    "rating": 4
+   },
+   "POLARBEAR": {
+    "clue": "White hunter who's hard to sell",
+    "type": "pun",
+    "rating": 5
+   },
+   "PARKA": {
+    "clue": "Hooded coat for a long wait",
+    "type": "pun",
+    "rating": 3
+   },
+   "SEALSKIN": {
+    "clue": "Pinniped pelt, once in fashion",
+    "type": "definition",
+    "rating": 3
+   },
+   "HARPOON": {
+    "clue": "Whaler's spear on a line",
+    "type": "definition",
+    "rating": 3
+   },
+   "SNOWMOBILE": {
+    "clue": "Sled with an engine",
+    "type": "definition",
+    "rating": 3
+   },
+   "TUNDRA": {
+    "clue": "Treeless, frozen plain",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Weakest: PARKA, SEALSKIN, HARPOON, SNOWMOBILE, TUNDRA"
+  }
+ },
+ "T15": {
+  "theme": "Clothing",
+  "category": "themed",
+  "clues": {
+   "SWEATER": {
+    "clue": "What you wear when Mom is cold",
+    "type": "pun",
+    "rating": 5
+   },
+   "JACKET": {
+    "clue": "Book's cover, or a blazer",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "TROUSERS": {
+    "clue": "Pants, if you're being proper",
+    "type": "wordplay",
+    "rating": 3
+   },
+   "BLOUSE": {
+    "clue": "Top that's a bit puffed up",
+    "type": "pun",
+    "rating": 3
+   },
+   "CARDIGAN": {
+    "clue": "Mister Rogers' button-down knit",
+    "type": "evocative",
+    "rating": 4
+   },
+   "POLKADOT": {
+    "clue": "Spot that's part of a pattern",
+    "type": "pun",
+    "rating": 4
+   },
+   "COLLAR": {
+    "clue": "Arrest, or a neck's dress",
+    "type": "wordplay",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Weakest: TROUSERS, BLOUSE"
+  }
+ },
+ "T16": {
+  "theme": "Weather Report",
+  "category": "themed",
+  "clues": {
+   "SQUALL": {
+    "clue": "Sudden gust, or a baby's yell",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "DOWNPOUR": {
+    "clue": "Rain without a drop of restraint",
+    "type": "pun",
+    "rating": 4
+   },
+   "HEATWAVE": {
+    "clue": "Summer greeting from the sun",
+    "type": "pun",
+    "rating": 4
+   },
+   "OVERCAST": {
+    "clue": "Gray sky, or too many actors",
+    "type": "wordplay",
+    "rating": 5
+   },
+   "MONSOONS": {
+    "clue": "Rainy seasons in South Asia",
+    "type": "definition",
+    "rating": 3
+   },
+   "BREEZE": {
+    "clue": "Gentle wind, or easy task",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "MILLIBAR": {
+    "clue": "Pressure unit, not a candy",
+    "type": "pun",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Weakest: MONSOONS"
+  }
+ },
+ "T17": {
+  "theme": "Sports Equipment",
+  "category": "themed",
+  "clues": {
+   "RACKET": {
+    "clue": "Net worth for a tennis player",
+    "type": "pun",
+    "rating": 5
+   },
+   "HELMET": {
+    "clue": "Head case for a cyclist",
+    "type": "pun",
+    "rating": 4
+   },
+   "JAVELIN": {
+    "clue": "Spear that's thrown for points",
+    "type": "definition",
+    "rating": 3
+   },
+   "DUMBBELL": {
+    "clue": "Weight for the not-so-bright",
+    "type": "pun",
+    "rating": 5
+   },
+   "SKATEBOARD": {
+    "clue": "Deck with wheels",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "SURFBOARD": {
+    "clue": "Plank that's on a roll",
+    "type": "pun",
+    "rating": 4
+   },
+   "BARBELL": {
+    "clue": "Lifter's bar with a weight problem",
+    "type": "pun",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Weakest: JAVELIN"
+  }
+ },
+ "T18": {
+  "theme": "Detective Kit",
+  "category": "themed",
+  "clues": {
+   "CASEFILE": {
+    "clue": "Folder for a cold one",
+    "type": "pun",
+    "rating": 4
+   },
+   "STAKEOUT": {
+    "clue": "Surveillance from a parked car",
+    "type": "definition",
+    "rating": 3
+   },
+   "SLEUTH": {
+    "clue": "Private eye, in a word",
+    "type": "definition",
+    "rating": 3
+   },
+   "DISGUISE": {
+    "clue": "Fake mustache and other faces",
+    "type": "evocative",
+    "rating": 4
+   },
+   "TAILING": {
+    "clue": "Following, at a discreet distance",
+    "type": "definition",
+    "rating": 3
+   },
+   "INQUEST": {
+    "clue": "Coroner's hearing into a death",
+    "type": "definition",
+    "rating": 3
+   },
+   "MAGNIFYING": {
+    "clue": "Making mountains out of molehills",
+    "type": "wordplay",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Weakest: STAKEOUT, SLEUTH, TAILING, INQUEST"
+  }
+ },
+ "T19": {
+  "theme": "Music Theory",
+  "category": "themed",
+  "clues": {
+   "TREBLE": {
+    "clue": "Clef that's three times as high",
+    "type": "pun",
+    "rating": 4
+   },
+   "DISSONANCE": {
+    "clue": "Clashing notes, or a jarring mismatch",
+    "type": "definition",
+    "rating": 3
+   },
+   "CADENCE": {
+    "clue": "Rhythm in a march or phrase",
+    "type": "definition",
+    "rating": 3
+   },
+   "CONTRALTO": {
+    "clue": "Lowest female voice, singing low",
+    "type": "definition",
+    "rating": 3
+   },
+   "OCTAVE": {
+    "clue": "Eight notes in a row",
+    "type": "definition",
+    "rating": 3
+   },
+   "NOTATION": {
+    "clue": "Score keeping, in music",
+    "type": "pun",
+    "rating": 5
+   },
+   "SOPRANO": {
+    "clue": "Tony's family name, or high voice",
+    "type": "wordplay",
+    "rating": 5
+   }
+  },
+  "critique": {
+   "notes": "Weakest: DISSONANCE, CADENCE, CONTRALTO, OCTAVE"
+  }
+ },
+ "T20": {
+  "theme": "Seaside",
+  "category": "themed",
+  "clues": {
+   "PROMENADE": {
+    "clue": "Seaside walk, or a dance's grand march",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "SUNSCREEN": {
+    "clue": "Lotion for your outer layer",
+    "type": "pun",
+    "rating": 3
+   },
+   "PIERHEAD": {
+    "clue": "Jetty's tip, a sea-facing end",
+    "type": "definition",
+    "rating": 3
+   },
+   "SEASHELL": {
+    "clue": "Sold by a she by the shore",
+    "type": "wordplay",
+    "rating": 5
+   },
+   "TIDEPOOL": {
+    "clue": "Rocky basin left at low water",
+    "type": "definition",
+    "rating": 3
+   },
+   "SANDBAR": {
+    "clue": "Shoal with nothing on tap",
+    "type": "pun",
+    "rating": 5
+   },
+   "PELICAN": {
+    "clue": "Bird with a bill that holds",
+    "type": "pun",
+    "rating": 5
+   }
+  },
+  "critique": {
+   "notes": "Weakest: SUNSCREEN, PIERHEAD, TIDEPOOL"
+  }
+ },
+ "T21": {
+  "theme": "Office Supplies",
+  "category": "themed",
+  "clues": {
+   "ENVELOPE": {
+    "clue": "Letter's jacket, or its limit",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "PAPERCLIP": {
+    "clue": "Bent wire that holds sheets",
+    "type": "definition",
+    "rating": 3
+   },
+   "NOTEBOOK": {
+    "clue": "Spiral for thoughts",
+    "type": "pun",
+    "rating": 3
+   },
+   "FOLDER": {
+    "clue": "Poker player, or file holder",
+    "type": "wordplay",
+    "rating": 5
+   },
+   "BINDER": {
+    "clue": "Three rings to hold them all",
+    "type": "pun",
+    "rating": 5
+   },
+   "SCISSORS": {
+    "clue": "Rock's loser, paper's cutter",
+    "type": "wordplay",
+    "rating": 5
+   },
+   "MARKER": {
+    "clue": "Highlighter's bolder cousin",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Weakest: PAPERCLIP, NOTEBOOK, MARKER"
+  }
+ },
+ "T22": {
+  "theme": "Hospital",
+  "category": "themed",
+  "clues": {
+   "SURGEON": {
+    "clue": "Cutting-edge doctor",
+    "type": "pun",
+    "rating": 5
+   },
+   "BANDAGE": {
+    "clue": "Wound wrap, or a quick fix",
+    "type": "wordplay",
+    "rating": 3
+   },
+   "SYRINGE": {
+    "clue": "Jab-delivering needle",
+    "type": "definition",
+    "rating": 3
+   },
+   "AMBULANCE": {
+    "clue": "Siren on wheels",
+    "type": "evocative",
+    "rating": 3
+   },
+   "ANESTHESIA": {
+    "clue": "Put-under for an operation",
+    "type": "definition",
+    "rating": 3
+   },
+   "DIAGNOSIS": {
+    "clue": "Doc's verdict on what ails you",
+    "type": "definition",
+    "rating": 3
+   },
+   "MEDICINE": {
+    "clue": "Laughter, reportedly the best",
+    "type": "wordplay",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Weakest: BANDAGE, SYRINGE, AMBULANCE, ANESTHESIA, DIAGNOSIS"
+  }
+ },
+ "T23": {
+  "theme": "Haunted House",
+  "category": "themed",
+  "clues": {
+   "SEANCE": {
+    "clue": "Table talk with the departed",
+    "type": "pun",
+    "rating": 4
+   },
+   "CREAKING": {
+    "clue": "Floorboard's late-night complaint",
+    "type": "evocative",
+    "rating": 4
+   },
+   "CHANDELIER": {
+    "clue": "Swinging lights, at least in movies",
+    "type": "evocative",
+    "rating": 3
+   },
+   "CELLAR": {
+    "clue": "Below-stairs place for spirits",
+    "type": "pun",
+    "rating": 5
+   },
+   "CANDELABRA": {
+    "clue": "Liberace's three-branched light",
+    "type": "evocative",
+    "rating": 3
+   },
+   "SKELETON": {
+    "clue": "Closet resident with no body",
+    "type": "pun",
+    "rating": 5
+   },
+   "COFFIN": {
+    "clue": "Box that's a dead end",
+    "type": "pun",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Weakest: CHANDELIER, CANDELABRA"
+  }
+ },
+ "T24": {
+  "theme": "Mythical Creatures",
+  "category": "themed",
+  "clues": {
+   "GRIFFIN": {
+    "clue": "Half eagle, half lion",
+    "type": "definition",
+    "rating": 3
+   },
+   "WEREWOLF": {
+    "clue": "Hairy guy at full moon",
+    "type": "evocative",
+    "rating": 4
+   },
+   "KRAKEN": {
+    "clue": "Sea monster to be released",
+    "type": "evocative",
+    "rating": 4
+   },
+   "BANSHEE": {
+    "clue": "Wailing spirit with a scream",
+    "type": "definition",
+    "rating": 3
+   },
+   "LEPRECHAUN": {
+    "clue": "Gold-hoarding shoemaker",
+    "type": "evocative",
+    "rating": 4
+   },
+   "BASILISK": {
+    "clue": "Serpent with a killer gaze",
+    "type": "pun",
+    "rating": 4
+   },
+   "GARGOYLE": {
+    "clue": "Gutter spout with a face",
+    "type": "pun",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Weakest: GRIFFIN, BANSHEE"
+  }
+ },
+ "T25": {
+  "theme": "Reptiles",
+  "category": "themed",
+  "clues": {
+   "LIZARD": {
+    "clue": "Lounge _____, or a scaly creature",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "IGUANA": {
+    "clue": "Pet lizard that's green with envy",
+    "type": "pun",
+    "rating": 3
+   },
+   "CHAMELEON": {
+    "clue": "Color-changer who blends in",
+    "type": "definition",
+    "rating": 3
+   },
+   "ANACONDA": {
+    "clue": "Squeezer from the Amazon",
+    "type": "pun",
+    "rating": 3
+   },
+   "TERRAPIN": {
+    "clue": "Turtle's freshwater cousin",
+    "type": "definition",
+    "rating": 3
+   },
+   "SALAMANDER": {
+    "clue": "Amphibian once thought fireproof",
+    "type": "evocative",
+    "rating": 3
+   },
+   "TUATARA": {
+    "clue": "Kiwi reptile with a third eye",
+    "type": "evocative",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Weakest: IGUANA, CHAMELEON, ANACONDA, TERRAPIN, SALAMANDER"
+  }
+ },
+ "T26": {
+  "theme": "Theater",
+  "category": "themed",
+  "clues": {
+   "ENCORE": {
+    "clue": "Once more, with feeling",
+    "type": "evocative",
+    "rating": 4
+   },
+   "MONOLOGUE": {
+    "clue": "One-person show of talk",
+    "type": "definition",
+    "rating": 3
+   },
+   "USHER": {
+    "clue": "Torch bearer who seats you",
+    "type": "pun",
+    "rating": 3
+   },
+   "PROSCENIUM": {
+    "clue": "Arch that frames the stage",
+    "type": "definition",
+    "rating": 3
+   },
+   "AUDIENCE": {
+    "clue": "The house, in a theater",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "STAGEHAND": {
+    "clue": "Crew member who works the wings",
+    "type": "pun",
+    "rating": 4
+   },
+   "COSTUME": {
+    "clue": "Dress for a role",
+    "type": "pun",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Weakest: MONOLOGUE, USHER, PROSCENIUM, COSTUME"
+  }
+ },
+ "T27": {
+  "theme": "Coffee Shop",
+  "category": "themed",
+  "clues": {
+   "BISCOTTI": {
+    "clue": "Twice-baked dunker",
+    "type": "definition",
+    "rating": 4
+   },
+   "AMERICANO": {
+    "clue": "Espresso watered down",
+    "type": "definition",
+    "rating": 3
+   },
+   "MACCHIATO": {
+    "clue": "Espresso with a spot of milk",
+    "type": "definition",
+    "rating": 3
+   },
+   "PERCOLATOR": {
+    "clue": "Pot whose ideas keep bubbling",
+    "type": "pun",
+    "rating": 4
+   },
+   "BARISTA": {
+    "clue": "Latte artist behind the counter",
+    "type": "evocative",
+    "rating": 4
+   },
+   "MUFFIN": {
+    "clue": "Top choice for a baker",
+    "type": "pun",
+    "rating": 4
+   },
+   "GRINDER": {
+    "clue": "Bean machine, or a hard worker",
+    "type": "wordplay",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Weakest: AMERICANO, MACCHIATO"
+  }
+ },
+ "T28": {
+  "theme": "Garden Shed",
+  "category": "themed",
+  "clues": {
+   "SECATEURS": {
+    "clue": "British pruning shears",
+    "type": "definition",
+    "rating": 3
+   },
+   "TROWEL": {
+    "clue": "Hand-held digger for bulbs",
+    "type": "definition",
+    "rating": 3
+   },
+   "BIRDFEEDER": {
+    "clue": "Hanging diner with seed menu",
+    "type": "pun",
+    "rating": 4
+   },
+   "FLOWERPOT": {
+    "clue": "Container for planting ideas",
+    "type": "pun",
+    "rating": 3
+   },
+   "PRUNER": {
+    "clue": "Trimmer who's into dried plums",
+    "type": "pun",
+    "rating": 4
+   },
+   "FERTILIZER": {
+    "clue": "Growth stock for gardeners",
+    "type": "pun",
+    "rating": 5
+   },
+   "GARDENER": {
+    "clue": "One with lots of plots",
+    "type": "pun",
+    "rating": 5
+   }
+  },
+  "critique": {
+   "notes": "Weakest: SECATEURS, TROWEL, FLOWERPOT"
+  }
+ },
+ "T29": {
+  "theme": "Royal Court",
+  "category": "themed",
+  "clues": {
+   "EMPRESS": {
+    "clue": "Woman wearing the empire's crown",
+    "type": "definition",
+    "rating": 3
+   },
+   "CORONATION": {
+    "clue": "Crowning moment",
+    "type": "pun",
+    "rating": 5
+   },
+   "REGENT": {
+    "clue": "Ruler for a ruler too young",
+    "type": "definition",
+    "rating": 3
+   },
+   "CHANCELLOR": {
+    "clue": "Exchequer's head, or a university's",
+    "type": "definition",
+    "rating": 3
+   },
+   "PALACE": {
+    "clue": "Royal residence with a lot of rooms",
+    "type": "definition",
+    "rating": 3
+   },
+   "AMBASSADOR": {
+    "clue": "Envoy on a foreign mission",
+    "type": "definition",
+    "rating": 3
+   },
+   "COURTIER": {
+    "clue": "One who plays to the throne",
+    "type": "pun",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Weakest: EMPRESS, REGENT, CHANCELLOR, PALACE, AMBASSADOR"
+  }
+ },
+ "T30": {
+  "theme": "Volcano",
+  "category": "themed",
+  "clues": {
+   "EPICENTER": {
+    "clue": "Ground zero for a quake",
+    "type": "definition",
+    "rating": 3
+   },
+   "MAGMATIC": {
+    "clue": "Of rock, molten and furious",
+    "type": "evocative",
+    "rating": 3
+   },
+   "CRATER": {
+    "clue": "Bowl with a hot temper",
+    "type": "pun",
+    "rating": 4
+   },
+   "TREMOR": {
+    "clue": "Shake that's not on the menu",
+    "type": "pun",
+    "rating": 4
+   },
+   "PUMICE": {
+    "clue": "Floating stone for scrubbing",
+    "type": "definition",
+    "rating": 3
+   },
+   "ERUPTION": {
+    "clue": "Outburst from a mountain",
+    "type": "pun",
+    "rating": 4
+   },
+   "LAVAFLOW": {
+    "clue": "Hot stream with no fish",
+    "type": "pun",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Weakest: EPICENTER, MAGMATIC, PUMICE, LAVAFLOW"
+  }
+ }
+}

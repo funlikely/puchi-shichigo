@@ -1,0 +1,2364 @@
+[
+ {
+  "id": "S01",
+  "entries": [
+   {
+    "answer": "HADRON",
+    "chunkTexts": [
+     "HAD",
+     "RON"
+    ]
+   },
+   {
+    "answer": "LEPTON",
+    "chunkTexts": [
+     "LEP",
+     "TON"
+    ]
+   },
+   {
+    "answer": "FERMION",
+    "chunkTexts": [
+     "FERM",
+     "ION"
+    ]
+   },
+   {
+    "answer": "POSITRON",
+    "chunkTexts": [
+     "POS",
+     "IT",
+     "RON"
+    ]
+   },
+   {
+    "answer": "GRAVITON",
+    "chunkTexts": [
+     "GRA",
+     "VIT",
+     "ON"
+    ]
+   },
+   {
+    "answer": "TACHYON",
+    "chunkTexts": [
+     "TACH",
+     "YON"
+    ]
+   },
+   {
+    "answer": "COLLIDER",
+    "chunkTexts": [
+     "COL",
+     "LI",
+     "DER"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 7.0,
+   "tempting_pairs": 1.2,
+   "shared_fragments": 10.0,
+   "anchor_balance": 6.7,
+   "shape": 8.1,
+   "word_appeal": 14.0,
+   "penalties": -14.9,
+   "structure": 32.1
+  },
+  "analysis": {
+   "n_tiles": 17,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 12,
+    "4": 2
+   },
+   "decoys": [
+    "POSITION=POS+IT+ION",
+    "LION=LI+ON",
+    "ONION=ON+ION",
+    "COLON=COL+ON",
+    "GRADER=GRA+DER",
+    "YONDER=YON+DER",
+    "COLDER=COL+DER*"
+   ],
+   "tempting_pairs": [
+    "COL+ON",
+    "IT+ION",
+    "LI+ON"
+   ],
+   "anchors": [
+    "HAD",
+    "TACH"
+   ],
+   "word_tiles": [],
+   "misaligned": 8,
+   "dup_tiles": [
+    "RON"
+   ],
+   "near_pairs": [
+    "ION/RON",
+    "ION/TON",
+    "ION/YON",
+    "RON/TON",
+    "RON/YON",
+    "TON/YON"
+   ],
+   "no_start_rival": [
+    "HADRON",
+    "LEPTON",
+    "FERMION",
+    "POSITRON",
+    "GRAVITON",
+    "TACHYON"
+   ],
+   "inflected": [],
+   "zipf": {
+    "HADRON": 2.68,
+    "LEPTON": 1.98,
+    "FERMION": 2.05,
+    "POSITRON": 2.64,
+    "GRAVITON": 2.21,
+    "TACHYON": 2.21,
+    "COLLIDER": 2.84
+   }
+  },
+  "theme_hint": "Particle Zoo",
+  "category": "themed"
+ },
+ {
+  "id": "S02",
+  "entries": [
+   {
+    "answer": "STAMEN",
+    "chunkTexts": [
+     "STA",
+     "MEN"
+    ]
+   },
+   {
+    "answer": "MERISTEM",
+    "chunkTexts": [
+     "MER",
+     "IS",
+     "TEM"
+    ]
+   },
+   {
+    "answer": "CUTICLE",
+    "chunkTexts": [
+     "CUT",
+     "ICLE"
+    ]
+   },
+   {
+    "answer": "RECEPTACLE",
+    "chunkTexts": [
+     "REC",
+     "EPT",
+     "ACLE"
+    ]
+   },
+   {
+    "answer": "TENDRIL",
+    "chunkTexts": [
+     "TEN",
+     "DRIL"
+    ]
+   },
+   {
+    "answer": "EPIDERMIS",
+    "chunkTexts": [
+     "EPI",
+     "DER",
+     "MIS"
+    ]
+   },
+   {
+    "answer": "XYLEM",
+    "chunkTexts": [
+     "XY",
+     "LEM"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 1.7,
+   "tempting_pairs": 0.4,
+   "shared_fragments": 8.8,
+   "anchor_balance": 6.9,
+   "shape": 9.1,
+   "word_appeal": 14.0,
+   "penalties": -11.5,
+   "structure": 29.4
+  },
+  "analysis": {
+   "n_tiles": 17,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 12,
+    "4": 3
+   },
+   "decoys": [
+    "TENDER=TEN+DER"
+   ],
+   "tempting_pairs": [
+    "TEN+DER"
+   ],
+   "anchors": [
+    "DRIL",
+    "XY"
+   ],
+   "word_tiles": [],
+   "misaligned": 5,
+   "dup_tiles": [],
+   "near_pairs": [
+    "ACLE/ICLE",
+    "DER/MER",
+    "EPI/EPT",
+    "LEM/TEM",
+    "MEN/MER",
+    "MEN/TEN",
+    "TEM/TEN"
+   ],
+   "no_start_rival": [
+    "STAMEN",
+    "MERISTEM",
+    "CUTICLE",
+    "RECEPTACLE",
+    "TENDRIL",
+    "EPIDERMIS",
+    "XYLEM"
+   ],
+   "inflected": [],
+   "zipf": {
+    "STAMEN": 2.0,
+    "MERISTEM": 1.85,
+    "CUTICLE": 2.69,
+    "RECEPTACLE": 2.87,
+    "TENDRIL": 2.03,
+    "EPIDERMIS": 2.71,
+    "XYLEM": 2.21
+   }
+  },
+  "theme_hint": "Plant Anatomy",
+  "category": "themed"
+ },
+ {
+  "id": "S03",
+  "entries": [
+   {
+    "answer": "NEURON",
+    "chunkTexts": [
+     "NEU",
+     "RON"
+    ]
+   },
+   {
+    "answer": "SYNAPSE",
+    "chunkTexts": [
+     "SYNA",
+     "PSE"
+    ]
+   },
+   {
+    "answer": "DENDRITE",
+    "chunkTexts": [
+     "DEN",
+     "DRI",
+     "TE"
+    ]
+   },
+   {
+    "answer": "AMYGDALA",
+    "chunkTexts": [
+     "AMYG",
+     "DALA"
+    ]
+   },
+   {
+    "answer": "SEROTONIN",
+    "chunkTexts": [
+     "SER",
+     "OTO",
+     "NIN"
+    ]
+   },
+   {
+    "answer": "THALAMUS",
+    "chunkTexts": [
+     "THA",
+     "LA",
+     "MUS"
+    ]
+   },
+   {
+    "answer": "NEOCORTEX",
+    "chunkTexts": [
+     "NEO",
+     "COR",
+     "TEX"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 5.7,
+   "tempting_pairs": 0.8,
+   "shared_fragments": 1.2,
+   "anchor_balance": 3.9,
+   "shape": 10.4,
+   "word_appeal": 14.0,
+   "penalties": -11.5,
+   "structure": 24.6
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 13,
+    "4": 3
+   },
+   "decoys": [
+    "LATE=LA+TE",
+    "LASER=LA+SER",
+    "LADEN=LA+DEN",
+    "LAPSE=LA+PSE",
+    "LATEX=LA+TEX",
+    "DENSER=DEN+SER",
+    "CORTEX=COR+TEX*"
+   ],
+   "tempting_pairs": [
+    "LA+PSE",
+    "LA+TE"
+   ],
+   "anchors": [
+    "AMYG",
+    "DALA",
+    "NIN"
+   ],
+   "word_tiles": [],
+   "misaligned": 5,
+   "dup_tiles": [],
+   "near_pairs": [
+    "NEO/NEU"
+   ],
+   "no_start_rival": [
+    "NEURON",
+    "SYNAPSE",
+    "DENDRITE",
+    "AMYGDALA",
+    "SEROTONIN",
+    "THALAMUS",
+    "NEOCORTEX"
+   ],
+   "inflected": [],
+   "zipf": {
+    "NEURON": 3.16,
+    "SYNAPSE": 2.76,
+    "DENDRITE": 2.01,
+    "AMYGDALA": 2.84,
+    "SEROTONIN": 3.26,
+    "THALAMUS": 2.44,
+    "NEOCORTEX": 2.22
+   }
+  },
+  "theme_hint": "Neuroscience",
+  "category": "themed"
+ },
+ {
+  "id": "S04",
+  "entries": [
+   {
+    "answer": "MILLIKAN",
+    "chunkTexts": [
+     "MIL",
+     "LIK",
+     "AN"
+    ]
+   },
+   {
+    "answer": "PAVLOV",
+    "chunkTexts": [
+     "PAV",
+     "LOV"
+    ]
+   },
+   {
+    "answer": "MICHELSON",
+    "chunkTexts": [
+     "MIC",
+     "HEL",
+     "SON"
+    ]
+   },
+   {
+    "answer": "CAVENDISH",
+    "chunkTexts": [
+     "CAV",
+     "END",
+     "ISH"
+    ]
+   },
+   {
+    "answer": "PASTEUR",
+    "chunkTexts": [
+     "PAS",
+     "TEUR"
+    ]
+   },
+   {
+    "answer": "MILGRAM",
+    "chunkTexts": [
+     "MIL",
+     "GRAM"
+    ]
+   },
+   {
+    "answer": "EDDINGTON",
+    "chunkTexts": [
+     "ED",
+     "DING",
+     "TON"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 5.6,
+   "tempting_pairs": 2.0,
+   "shared_fragments": 7.5,
+   "anchor_balance": 7.2,
+   "shape": 10.4,
+   "word_appeal": 14.0,
+   "penalties": -11.5,
+   "structure": 35.3
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 13,
+    "4": 3
+   },
+   "decoys": [
+    "LOVED=LOV+ED",
+    "ENDED=END+ED",
+    "LIKED=LIK+ED",
+    "PAVED=PAV+ED",
+    "CAVED=CAV+ED",
+    "TONED=TON+ED*"
+   ],
+   "tempting_pairs": [
+    "AN+DING",
+    "AN+ED",
+    "END+ED",
+    "ISH+ED",
+    "SON+ED"
+   ],
+   "anchors": [
+    "LOV"
+   ],
+   "word_tiles": [],
+   "misaligned": 5,
+   "dup_tiles": [
+    "MIL"
+   ],
+   "near_pairs": [
+    "CAV/PAV",
+    "MIC/MIL",
+    "PAS/PAV",
+    "SON/TON"
+   ],
+   "no_start_rival": [
+    "MILLIKAN",
+    "PAVLOV",
+    "MICHELSON",
+    "CAVENDISH",
+    "PASTEUR",
+    "MILGRAM",
+    "EDDINGTON"
+   ],
+   "inflected": [],
+   "zipf": {
+    "MILLIKAN": 2.01,
+    "PAVLOV": 2.61,
+    "MICHELSON": 2.39,
+    "CAVENDISH": 3.16,
+    "PASTEUR": 2.8,
+    "MILGRAM": 2.24,
+    "EDDINGTON": 2.37
+   }
+  },
+  "theme_hint": "Landmark Experiments",
+  "category": "themed"
+ },
+ {
+  "id": "S05",
+  "entries": [
+   {
+    "answer": "HYGROMETER",
+    "chunkTexts": [
+     "HYG",
+     "ROM",
+     "ETER"
+    ]
+   },
+   {
+    "answer": "SEXTANT",
+    "chunkTexts": [
+     "SEX",
+     "TANT"
+    ]
+   },
+   {
+    "answer": "THEODOLITE",
+    "chunkTexts": [
+     "THEO",
+     "DOL",
+     "ITE"
+    ]
+   },
+   {
+    "answer": "ASTROLABE",
+    "chunkTexts": [
+     "AST",
+     "ROL",
+     "ABE"
+    ]
+   },
+   {
+    "answer": "GYROSCOPE",
+    "chunkTexts": [
+     "GY",
+     "ROS",
+     "COPE"
+    ]
+   },
+   {
+    "answer": "MICROMETER",
+    "chunkTexts": [
+     "MIC",
+     "ROM",
+     "ETER"
+    ]
+   },
+   {
+    "answer": "SPIROMETER",
+    "chunkTexts": [
+     "SPIR",
+     "OME",
+     "TER"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 3.3,
+   "tempting_pairs": 0.0,
+   "shared_fragments": 10.0,
+   "anchor_balance": 7.1,
+   "shape": 9.0,
+   "word_appeal": 14.0,
+   "penalties": -14.4,
+   "structure": 29.0
+  },
+  "analysis": {
+   "n_tiles": 20,
+   "tile_len_hist": {
+    "2": 1,
+    "3": 13,
+    "4": 6
+   },
+   "decoys": [
+    "ROSTER=ROS+TER",
+    "MICROSCOPE=MIC+ROS+COPE"
+   ],
+   "tempting_pairs": [],
+   "anchors": [
+    "MIC"
+   ],
+   "word_tiles": [
+    "COPE"
+   ],
+   "misaligned": 8,
+   "dup_tiles": [
+    "ETER",
+    "ROM"
+   ],
+   "near_pairs": [
+    "DOL/ROL",
+    "ROL/ROM",
+    "ROL/ROS",
+    "ROM/ROS"
+   ],
+   "no_start_rival": [
+    "HYGROMETER",
+    "SEXTANT",
+    "THEODOLITE",
+    "ASTROLABE",
+    "GYROSCOPE",
+    "MICROMETER",
+    "SPIROMETER"
+   ],
+   "inflected": [],
+   "zipf": {
+    "HYGROMETER": 1.87,
+    "SEXTANT": 2.28,
+    "THEODOLITE": 1.75,
+    "ASTROLABE": 2.24,
+    "GYROSCOPE": 2.55,
+    "MICROMETER": 2.32,
+    "SPIROMETER": 1.44
+   }
+  },
+  "theme_hint": "Measuring Instruments",
+  "category": "themed"
+ },
+ {
+  "id": "S06",
+  "entries": [
+   {
+    "answer": "TRILOBITE",
+    "chunkTexts": [
+     "TRI",
+     "LOB",
+     "ITE"
+    ]
+   },
+   {
+    "answer": "COPROLITE",
+    "chunkTexts": [
+     "COP",
+     "ROL",
+     "ITE"
+    ]
+   },
+   {
+    "answer": "GASTROLITH",
+    "chunkTexts": [
+     "GAS",
+     "TROL",
+     "ITH"
+    ]
+   },
+   {
+    "answer": "PTEROSAUR",
+    "chunkTexts": [
+     "PTE",
+     "ROS",
+     "AUR"
+    ]
+   },
+   {
+    "answer": "CAMBRIAN",
+    "chunkTexts": [
+     "CAM",
+     "BRI",
+     "AN"
+    ]
+   },
+   {
+    "answer": "TRIASSIC",
+    "chunkTexts": [
+     "TRI",
+     "AS",
+     "SIC"
+    ]
+   },
+   {
+    "answer": "AMBER",
+    "chunkTexts": [
+     "AMB",
+     "ER"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 2.0,
+   "tempting_pairs": 0.8,
+   "shared_fragments": 10.0,
+   "anchor_balance": 7.3,
+   "shape": 12.0,
+   "word_appeal": 13.2,
+   "penalties": -14.9,
+   "structure": 30.4
+  },
+  "analysis": {
+   "n_tiles": 20,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 16,
+    "4": 1
+   },
+   "decoys": [
+    "CAMERAS=CAM+ER+AS",
+    "ERAS=ER+AS"
+   ],
+   "tempting_pairs": [
+    "AS+ER",
+    "ER+AS"
+   ],
+   "anchors": [
+    "PTE"
+   ],
+   "word_tiles": [],
+   "misaligned": 8,
+   "dup_tiles": [
+    "ITE",
+    "TRI"
+   ],
+   "near_pairs": [
+    "BRI/TRI",
+    "ITE/ITH",
+    "ITE/PTE",
+    "ROL/ROS"
+   ],
+   "no_start_rival": [
+    "COPROLITE",
+    "GASTROLITH",
+    "PTEROSAUR",
+    "AMBER"
+   ],
+   "inflected": [],
+   "zipf": {
+    "TRILOBITE": 2.04,
+    "COPROLITE": 1.39,
+    "GASTROLITH": 0.0,
+    "PTEROSAUR": 1.94,
+    "CAMBRIAN": 2.97,
+    "TRIASSIC": 2.79,
+    "AMBER": 3.97
+   }
+  },
+  "theme_hint": "Fossil Record",
+  "category": "themed"
+ },
+ {
+  "id": "S07",
+  "entries": [
+   {
+    "answer": "KETONE",
+    "chunkTexts": [
+     "KET",
+     "ONE"
+    ]
+   },
+   {
+    "answer": "ISOMER",
+    "chunkTexts": [
+     "ISO",
+     "MER"
+    ]
+   },
+   {
+    "answer": "AROMATIC",
+    "chunkTexts": [
+     "ARO",
+     "MA",
+     "TIC"
+    ]
+   },
+   {
+    "answer": "METHANOL",
+    "chunkTexts": [
+     "MET",
+     "HAN",
+     "OL"
+    ]
+   },
+   {
+    "answer": "ACETONE",
+    "chunkTexts": [
+     "ACET",
+     "ONE"
+    ]
+   },
+   {
+    "answer": "ENANTIOMER",
+    "chunkTexts": [
+     "ENAN",
+     "TIO",
+     "MER"
+    ]
+   },
+   {
+    "answer": "PROPANE",
+    "chunkTexts": [
+     "PROP",
+     "ANE"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 1.9,
+   "tempting_pairs": 0.0,
+   "shared_fragments": 10.0,
+   "anchor_balance": 7.2,
+   "shape": 9.1,
+   "word_appeal": 12.5,
+   "penalties": -12.1,
+   "structure": 28.6
+  },
+  "analysis": {
+   "n_tiles": 17,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 12,
+    "4": 3
+   },
+   "decoys": [
+    "TICKET=TIC+KET",
+    "AROMA=ARO+MA*"
+   ],
+   "tempting_pairs": [],
+   "anchors": [
+    "ENAN"
+   ],
+   "word_tiles": [],
+   "misaligned": 7,
+   "dup_tiles": [
+    "MER",
+    "ONE"
+   ],
+   "near_pairs": [
+    "ANE/ONE",
+    "KET/MET",
+    "MER/MET",
+    "TIC/TIO"
+   ],
+   "no_start_rival": [
+    "KETONE",
+    "ISOMER",
+    "AROMATIC",
+    "METHANOL",
+    "ACETONE",
+    "ENANTIOMER",
+    "PROPANE"
+   ],
+   "inflected": [],
+   "zipf": {
+    "KETONE": 2.64,
+    "ISOMER": 2.46,
+    "AROMATIC": 3.32,
+    "METHANOL": 2.98,
+    "ACETONE": 2.79,
+    "ENANTIOMER": 1.83,
+    "PROPANE": 3.21
+   }
+  },
+  "theme_hint": "Organic Chemistry",
+  "category": "themed"
+ },
+ {
+  "id": "S08",
+  "entries": [
+   {
+    "answer": "FAHRENHEIT",
+    "chunkTexts": [
+     "FAH",
+     "REN",
+     "HEIT"
+    ]
+   },
+   {
+    "answer": "ROENTGEN",
+    "chunkTexts": [
+     "RO",
+     "ENT",
+     "GEN"
+    ]
+   },
+   {
+    "answer": "BECQUEREL",
+    "chunkTexts": [
+     "BEC",
+     "QUE",
+     "REL"
+    ]
+   },
+   {
+    "answer": "COULOMB",
+    "chunkTexts": [
+     "COUL",
+     "OMB"
+    ]
+   },
+   {
+    "answer": "SIEVERT",
+    "chunkTexts": [
+     "SIE",
+     "VERT"
+    ]
+   },
+   {
+    "answer": "AMPERE",
+    "chunkTexts": [
+     "AMP",
+     "ERE"
+    ]
+   },
+   {
+    "answer": "NEWTON",
+    "chunkTexts": [
+     "NEW",
+     "TON"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 0.0,
+   "tempting_pairs": 0.0,
+   "shared_fragments": 2.5,
+   "anchor_balance": 6.4,
+   "shape": 10.0,
+   "word_appeal": 13.2,
+   "penalties": -10.3,
+   "structure": 21.8
+  },
+  "analysis": {
+   "n_tiles": 17,
+   "tile_len_hist": {
+    "2": 1,
+    "3": 13,
+    "4": 3
+   },
+   "decoys": [],
+   "tempting_pairs": [],
+   "anchors": [
+    "FAH",
+    "HEIT"
+   ],
+   "word_tiles": [],
+   "misaligned": 6,
+   "dup_tiles": [],
+   "near_pairs": [
+    "GEN/REN",
+    "REL/REN"
+   ],
+   "no_start_rival": [
+    "FAHRENHEIT",
+    "ROENTGEN",
+    "BECQUEREL",
+    "COULOMB",
+    "SIEVERT",
+    "AMPERE",
+    "NEWTON"
+   ],
+   "inflected": [],
+   "zipf": {
+    "FAHRENHEIT": 3.24,
+    "ROENTGEN": 1.88,
+    "BECQUEREL": 1.83,
+    "COULOMB": 2.39,
+    "SIEVERT": 1.68,
+    "AMPERE": 2.21,
+    "NEWTON": 3.94
+   }
+  },
+  "theme_hint": "Eponymous Units",
+  "category": "themed"
+ },
+ {
+  "id": "S09",
+  "entries": [
+   {
+    "answer": "BACILLUS",
+    "chunkTexts": [
+     "BAC",
+     "ILL",
+     "US"
+    ]
+   },
+   {
+    "answer": "PLASMID",
+    "chunkTexts": [
+     "PLAS",
+     "MID"
+    ]
+   },
+   {
+    "answer": "FLAGELLUM",
+    "chunkTexts": [
+     "FLA",
+     "GEL",
+     "LUM"
+    ]
+   },
+   {
+    "answer": "PATHOGEN",
+    "chunkTexts": [
+     "PAT",
+     "HO",
+     "GEN"
+    ]
+   },
+   {
+    "answer": "SPIROCHETE",
+    "chunkTexts": [
+     "SPIR",
+     "OCH",
+     "ETE"
+    ]
+   },
+   {
+    "answer": "PENICILLIN",
+    "chunkTexts": [
+     "PENI",
+     "CIL",
+     "LIN"
+    ]
+   },
+   {
+    "answer": "PROKARYOTE",
+    "chunkTexts": [
+     "PRO",
+     "KAR",
+     "YOTE"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 1.2,
+   "tempting_pairs": 0.4,
+   "shared_fragments": 1.2,
+   "anchor_balance": 7.4,
+   "shape": 11.0,
+   "word_appeal": 14.0,
+   "penalties": -12.7,
+   "structure": 22.5
+  },
+  "analysis": {
+   "n_tiles": 20,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 14,
+    "4": 4
+   },
+   "decoys": [
+    "GENUS=GEN+US"
+   ],
+   "tempting_pairs": [
+    "HO+US"
+   ],
+   "anchors": [],
+   "word_tiles": [],
+   "misaligned": 9,
+   "dup_tiles": [],
+   "near_pairs": [
+    "GEL/GEN"
+   ],
+   "no_start_rival": [
+    "BACILLUS",
+    "PLASMID",
+    "FLAGELLUM",
+    "PATHOGEN",
+    "SPIROCHETE",
+    "PENICILLIN",
+    "PROKARYOTE"
+   ],
+   "inflected": [],
+   "zipf": {
+    "BACILLUS": 2.7,
+    "PLASMID": 2.68,
+    "FLAGELLUM": 2.11,
+    "PATHOGEN": 3.17,
+    "SPIROCHETE": 1.54,
+    "PENICILLIN": 3.04,
+    "PROKARYOTE": 1.45
+   }
+  },
+  "theme_hint": "Microbiology",
+  "category": "themed"
+ },
+ {
+  "id": "S10",
+  "entries": [
+   {
+    "answer": "SPECIATION",
+    "chunkTexts": [
+     "SPE",
+     "CIA",
+     "TION"
+    ]
+   },
+   {
+    "answer": "GALAPAGOS",
+    "chunkTexts": [
+     "GAL",
+     "APA",
+     "GOS"
+    ]
+   },
+   {
+    "answer": "VESTIGIAL",
+    "chunkTexts": [
+     "VES",
+     "TIG",
+     "IAL"
+    ]
+   },
+   {
+    "answer": "PHYLOGENY",
+    "chunkTexts": [
+     "PHY",
+     "LOG",
+     "ENY"
+    ]
+   },
+   {
+    "answer": "ANCESTOR",
+    "chunkTexts": [
+     "ANC",
+     "ES",
+     "TOR"
+    ]
+   },
+   {
+    "answer": "LAMARCK",
+    "chunkTexts": [
+     "LAM",
+     "ARCK"
+    ]
+   },
+   {
+    "answer": "WALLACE",
+    "chunkTexts": [
+     "WAL",
+     "LACE"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 1.2,
+   "tempting_pairs": 0.8,
+   "shared_fragments": 3.8,
+   "anchor_balance": 6.8,
+   "shape": 12.0,
+   "word_appeal": 12.9,
+   "penalties": -10.0,
+   "structure": 27.5
+  },
+  "analysis": {
+   "n_tiles": 19,
+   "tile_len_hist": {
+    "2": 1,
+    "3": 15,
+    "4": 3
+   },
+   "decoys": [
+    "WALES=WAL+ES"
+   ],
+   "tempting_pairs": [
+    "ES+TION",
+    "TOR+IAL"
+   ],
+   "anchors": [
+    "ARCK"
+   ],
+   "word_tiles": [],
+   "misaligned": 5,
+   "dup_tiles": [],
+   "near_pairs": [
+    "GAL/IAL",
+    "GAL/WAL",
+    "IAL/WAL"
+   ],
+   "no_start_rival": [
+    "SPECIATION",
+    "GALAPAGOS",
+    "VESTIGIAL",
+    "PHYLOGENY",
+    "ANCESTOR",
+    "LAMARCK",
+    "WALLACE"
+   ],
+   "inflected": [],
+   "zipf": {
+    "SPECIATION": 2.63,
+    "GALAPAGOS": 2.92,
+    "VESTIGIAL": 2.47,
+    "PHYLOGENY": 2.5,
+    "ANCESTOR": 3.49,
+    "LAMARCK": 2.23,
+    "WALLACE": 4.05
+   }
+  },
+  "theme_hint": "Natural Selection",
+  "category": "themed"
+ },
+ {
+  "id": "S11",
+  "entries": [
+   {
+    "answer": "ADIABATIC",
+    "chunkTexts": [
+     "ADI",
+     "ABA",
+     "TIC"
+    ]
+   },
+   {
+    "answer": "ISOTHERMAL",
+    "chunkTexts": [
+     "ISO",
+     "THER",
+     "MAL"
+    ]
+   },
+   {
+    "answer": "CONVECTION",
+    "chunkTexts": [
+     "CON",
+     "VEC",
+     "TION"
+    ]
+   },
+   {
+    "answer": "CONDUCTION",
+    "chunkTexts": [
+     "CON",
+     "DUCT",
+     "ION"
+    ]
+   },
+   {
+    "answer": "ISOBARIC",
+    "chunkTexts": [
+     "ISO",
+     "BA",
+     "RIC"
+    ]
+   },
+   {
+    "answer": "EXOTHERMIC",
+    "chunkTexts": [
+     "EXO",
+     "THER",
+     "MIC"
+    ]
+   },
+   {
+    "answer": "LATENT",
+    "chunkTexts": [
+     "LAT",
+     "ENT"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 5.5,
+   "tempting_pairs": 1.2,
+   "shared_fragments": 10.0,
+   "anchor_balance": 7.3,
+   "shape": 12.0,
+   "word_appeal": 14.0,
+   "penalties": -7.3,
+   "structure": 42.7
+  },
+  "analysis": {
+   "n_tiles": 20,
+   "tile_len_hist": {
+    "2": 1,
+    "3": 15,
+    "4": 4
+   },
+   "decoys": [
+    "BACON=BA+CON",
+    "ISOLATION=ISO+LAT+ION",
+    "EXOTIC=EXO+TIC",
+    "CONDUCT=CON+DUCT*",
+    "THERMAL=THER+MAL*"
+   ],
+   "tempting_pairs": [
+    "ENT+ION",
+    "ISO+LAT",
+    "LAT+ION"
+   ],
+   "anchors": [
+    "ADI"
+   ],
+   "word_tiles": [],
+   "misaligned": 6,
+   "dup_tiles": [
+    "CON",
+    "ISO",
+    "THER"
+   ],
+   "near_pairs": [
+    "CON/ION",
+    "MIC/RIC",
+    "MIC/TIC",
+    "RIC/TIC"
+   ],
+   "no_start_rival": [
+    "ADIABATIC",
+    "CONDUCTION",
+    "EXOTHERMIC",
+    "LATENT"
+   ],
+   "inflected": [],
+   "zipf": {
+    "ADIABATIC": 2.4,
+    "ISOTHERMAL": 2.32,
+    "CONVECTION": 3.22,
+    "CONDUCTION": 2.98,
+    "ISOBARIC": 1.65,
+    "EXOTHERMIC": 2.26,
+    "LATENT": 3.27
+   }
+  },
+  "theme_hint": "Thermodynamics",
+  "category": "themed"
+ },
+ {
+  "id": "S12",
+  "entries": [
+   {
+    "answer": "SALINITY",
+    "chunkTexts": [
+     "SAL",
+     "IN",
+     "ITY"
+    ]
+   },
+   {
+    "answer": "HALOCLINE",
+    "chunkTexts": [
+     "HAL",
+     "OC",
+     "LINE"
+    ]
+   },
+   {
+    "answer": "TSUNAMI",
+    "chunkTexts": [
+     "TSUN",
+     "AMI"
+    ]
+   },
+   {
+    "answer": "CORIOLIS",
+    "chunkTexts": [
+     "COR",
+     "IO",
+     "LIS"
+    ]
+   },
+   {
+    "answer": "ABYSSAL",
+    "chunkTexts": [
+     "ABYS",
+     "SAL"
+    ]
+   },
+   {
+    "answer": "MARIANA",
+    "chunkTexts": [
+     "MARI",
+     "ANA"
+    ]
+   },
+   {
+    "answer": "ESTUARY",
+    "chunkTexts": [
+     "EST",
+     "UARY"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 1.0,
+   "tempting_pairs": 0.0,
+   "shared_fragments": 3.8,
+   "anchor_balance": 6.5,
+   "shape": 4.6,
+   "word_appeal": 13.0,
+   "penalties": -17.1,
+   "structure": 11.7
+  },
+  "analysis": {
+   "n_tiles": 17,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 9,
+    "4": 5
+   },
+   "decoys": [
+    "INLINE=IN+LINE"
+   ],
+   "tempting_pairs": [],
+   "anchors": [
+    "ABYS",
+    "TSUN"
+   ],
+   "word_tiles": [
+    "LINE"
+   ],
+   "misaligned": 7,
+   "dup_tiles": [
+    "SAL"
+   ],
+   "near_pairs": [
+    "HAL/SAL"
+   ],
+   "no_start_rival": [
+    "SALINITY",
+    "HALOCLINE",
+    "TSUNAMI",
+    "CORIOLIS",
+    "ABYSSAL",
+    "MARIANA",
+    "ESTUARY"
+   ],
+   "inflected": [],
+   "zipf": {
+    "SALINITY": 2.96,
+    "HALOCLINE": 1.11,
+    "TSUNAMI": 3.52,
+    "CORIOLIS": 2.28,
+    "ABYSSAL": 2.39,
+    "MARIANA": 3.07,
+    "ESTUARY": 3.26
+   }
+  },
+  "theme_hint": "Oceanography",
+  "category": "themed"
+ },
+ {
+  "id": "S13",
+  "entries": [
+   {
+    "answer": "ANTIGEN",
+    "chunkTexts": [
+     "ANTI",
+     "GEN"
+    ]
+   },
+   {
+    "answer": "MACROPHAGE",
+    "chunkTexts": [
+     "MAC",
+     "ROPH",
+     "AGE"
+    ]
+   },
+   {
+    "answer": "HISTAMINE",
+    "chunkTexts": [
+     "HIS",
+     "TAM",
+     "INE"
+    ]
+   },
+   {
+    "answer": "INTERFERON",
+    "chunkTexts": [
+     "INT",
+     "ERFE",
+     "RON"
+    ]
+   },
+   {
+    "answer": "THYMUS",
+    "chunkTexts": [
+     "THY",
+     "MUS"
+    ]
+   },
+   {
+    "answer": "IMMUNITY",
+    "chunkTexts": [
+     "IM",
+     "MUN",
+     "ITY"
+    ]
+   },
+   {
+    "answer": "ALLERGEN",
+    "chunkTexts": [
+     "ALL",
+     "ER",
+     "GEN"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 5.0,
+   "tempting_pairs": 2.4,
+   "shared_fragments": 5.0,
+   "anchor_balance": 7.1,
+   "shape": 11.7,
+   "word_appeal": 12.6,
+   "penalties": -11.6,
+   "structure": 32.3
+  },
+  "analysis": {
+   "n_tiles": 19,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 14,
+    "4": 3
+   },
+   "decoys": [
+    "IMAGE=IM+AGE",
+    "INTER=INT+ER",
+    "INTERIM=INT+ER+IM",
+    "MACRON=MAC+RON"
+   ],
+   "tempting_pairs": [
+    "ER+AGE",
+    "ER+ITY",
+    "GEN+ER",
+    "IM+ER",
+    "INT+ER",
+    "INT+IM"
+   ],
+   "anchors": [
+    "INT"
+   ],
+   "word_tiles": [
+    "ANTI"
+   ],
+   "misaligned": 7,
+   "dup_tiles": [
+    "GEN"
+   ],
+   "near_pairs": [
+    "INE/INT",
+    "MUN/MUS"
+   ],
+   "no_start_rival": [
+    "ANTIGEN",
+    "MACROPHAGE",
+    "HISTAMINE",
+    "THYMUS",
+    "ALLERGEN"
+   ],
+   "inflected": [],
+   "zipf": {
+    "ANTIGEN": 3.21,
+    "MACROPHAGE": 2.44,
+    "HISTAMINE": 2.64,
+    "INTERFERON": 2.76,
+    "THYMUS": 2.58,
+    "IMMUNITY": 3.91,
+    "ALLERGEN": 2.63
+   }
+  },
+  "theme_hint": "Immune System",
+  "category": "themed"
+ },
+ {
+  "id": "S14",
+  "entries": [
+   {
+    "answer": "GYPSUM",
+    "chunkTexts": [
+     "GYP",
+     "SUM"
+    ]
+   },
+   {
+    "answer": "CALCITE",
+    "chunkTexts": [
+     "CAL",
+     "CITE"
+    ]
+   },
+   {
+    "answer": "PYRITE",
+    "chunkTexts": [
+     "PYR",
+     "ITE"
+    ]
+   },
+   {
+    "answer": "MAGNETITE",
+    "chunkTexts": [
+     "MAG",
+     "NET",
+     "ITE"
+    ]
+   },
+   {
+    "answer": "CORUNDUM",
+    "chunkTexts": [
+     "COR",
+     "UN",
+     "DUM"
+    ]
+   },
+   {
+    "answer": "FLUORITE",
+    "chunkTexts": [
+     "FLU",
+     "ORI",
+     "TE"
+    ]
+   },
+   {
+    "answer": "APATITE",
+    "chunkTexts": [
+     "APA",
+     "TITE"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 2.7,
+   "tempting_pairs": 0.0,
+   "shared_fragments": 5.0,
+   "anchor_balance": 7.0,
+   "shape": 10.0,
+   "word_appeal": 14.0,
+   "penalties": -13.5,
+   "structure": 25.2
+  },
+  "analysis": {
+   "n_tiles": 17,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 13,
+    "4": 2
+   },
+   "decoys": [
+    "UNITE=UN+ITE",
+    "TENET=TE+NET",
+    "MAGNET=MAG+NET*",
+    "FLUTE=FLU+TE*"
+   ],
+   "tempting_pairs": [],
+   "anchors": [
+    "GYP"
+   ],
+   "word_tiles": [],
+   "misaligned": 5,
+   "dup_tiles": [
+    "ITE"
+   ],
+   "near_pairs": [
+    "CITE/TITE",
+    "DUM/SUM"
+   ],
+   "no_start_rival": [
+    "GYPSUM",
+    "CALCITE",
+    "PYRITE",
+    "MAGNETITE",
+    "CORUNDUM",
+    "FLUORITE",
+    "APATITE"
+   ],
+   "inflected": [],
+   "zipf": {
+    "GYPSUM": 2.93,
+    "CALCITE": 2.62,
+    "PYRITE": 2.56,
+    "MAGNETITE": 2.57,
+    "CORUNDUM": 1.9,
+    "FLUORITE": 2.33,
+    "APATITE": 2.2
+   }
+  },
+  "theme_hint": "Mohs and Minerals",
+  "category": "themed"
+ },
+ {
+  "id": "S15",
+  "entries": [
+   {
+    "answer": "HEISENBERG",
+    "chunkTexts": [
+     "HEI",
+     "SEN",
+     "BERG"
+    ]
+   },
+   {
+    "answer": "TUNNELING",
+    "chunkTexts": [
+     "TUN",
+     "NEL",
+     "ING"
+    ]
+   },
+   {
+    "answer": "EIGENSTATE",
+    "chunkTexts": [
+     "EIG",
+     "ENS",
+     "TATE"
+    ]
+   },
+   {
+    "answer": "FEYNMAN",
+    "chunkTexts": [
+     "FEYN",
+     "MAN"
+    ]
+   },
+   {
+    "answer": "SPINOR",
+    "chunkTexts": [
+     "SPI",
+     "NOR"
+    ]
+   },
+   {
+    "answer": "ENTANGLE",
+    "chunkTexts": [
+     "EN",
+     "TAN",
+     "GLE"
+    ]
+   },
+   {
+    "answer": "ORBITAL",
+    "chunkTexts": [
+     "OR",
+     "BIT",
+     "AL"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 5.6,
+   "tempting_pairs": 1.6,
+   "shared_fragments": 2.5,
+   "anchor_balance": 7.0,
+   "shape": 10.7,
+   "word_appeal": 13.2,
+   "penalties": -16.0,
+   "structure": 24.6
+  },
+  "analysis": {
+   "n_tiles": 19,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 13,
+    "4": 3
+   },
+   "decoys": [
+    "MANOR=MAN+OR",
+    "BITING=BIT+ING",
+    "ORBITING=OR+BIT+ING",
+    "ORAL=OR+AL*",
+    "TUNNEL=TUN+NEL*",
+    "ORBIT=OR+BIT*",
+    "TUNING=TUN+ING*",
+    "TANGLE=TAN+GLE*"
+   ],
+   "tempting_pairs": [
+    "AL+ING",
+    "EN+AL",
+    "EN+ING",
+    "OR+ING"
+   ],
+   "anchors": [
+    "FEYN"
+   ],
+   "word_tiles": [],
+   "misaligned": 5,
+   "dup_tiles": [],
+   "near_pairs": [
+    "MAN/TAN",
+    "TAN/TUN"
+   ],
+   "no_start_rival": [
+    "HEISENBERG",
+    "TUNNELING",
+    "EIGENSTATE",
+    "FEYNMAN",
+    "SPINOR",
+    "ORBITAL"
+   ],
+   "inflected": [],
+   "zipf": {
+    "HEISENBERG": 2.82,
+    "TUNNELING": 2.9,
+    "EIGENSTATE": 1.47,
+    "FEYNMAN": 2.68,
+    "SPINOR": 1.72,
+    "ENTANGLE": 2.2,
+    "ORBITAL": 3.59
+   }
+  },
+  "theme_hint": "Quantum Weirdness",
+  "category": "themed"
+ },
+ {
+  "id": "S16",
+  "entries": [
+   {
+    "answer": "MYCELIUM",
+    "chunkTexts": [
+     "MY",
+     "CEL",
+     "IUM"
+    ]
+   },
+   {
+    "answer": "HYPHAE",
+    "chunkTexts": [
+     "HYP",
+     "HAE"
+    ]
+   },
+   {
+    "answer": "PORCINI",
+    "chunkTexts": [
+     "PORC",
+     "INI"
+    ]
+   },
+   {
+    "answer": "SHIITAKE",
+    "chunkTexts": [
+     "SHI",
+     "ITA",
+     "KE"
+    ]
+   },
+   {
+    "answer": "CHITIN",
+    "chunkTexts": [
+     "CHI",
+     "TIN"
+    ]
+   },
+   {
+    "answer": "AMANITA",
+    "chunkTexts": [
+     "AMAN",
+     "ITA"
+    ]
+   },
+   {
+    "answer": "MYCOLOGY",
+    "chunkTexts": [
+     "MY",
+     "COL",
+     "OGY"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 0.0,
+   "tempting_pairs": 0.0,
+   "shared_fragments": 7.5,
+   "anchor_balance": 6.8,
+   "shape": 8.1,
+   "word_appeal": 14.0,
+   "penalties": -15.6,
+   "structure": 20.8
+  },
+  "analysis": {
+   "n_tiles": 17,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 12,
+    "4": 2
+   },
+   "decoys": [],
+   "tempting_pairs": [],
+   "anchors": [
+    "AMAN",
+    "HAE"
+   ],
+   "word_tiles": [],
+   "misaligned": 7,
+   "dup_tiles": [
+    "ITA",
+    "MY"
+   ],
+   "near_pairs": [
+    "CEL/COL",
+    "CHI/SHI"
+   ],
+   "no_start_rival": [
+    "MYCELIUM",
+    "HYPHAE",
+    "PORCINI",
+    "SHIITAKE",
+    "CHITIN",
+    "AMANITA",
+    "MYCOLOGY"
+   ],
+   "inflected": [],
+   "zipf": {
+    "MYCELIUM": 2.45,
+    "HYPHAE": 2.44,
+    "PORCINI": 2.0,
+    "SHIITAKE": 2.17,
+    "CHITIN": 2.24,
+    "AMANITA": 2.13,
+    "MYCOLOGY": 2.22
+   }
+  },
+  "theme_hint": "Fungus Among Us",
+  "category": "themed"
+ },
+ {
+  "id": "S17",
+  "entries": [
+   {
+    "answer": "CHATELET",
+    "chunkTexts": [
+     "CHA",
+     "TEL",
+     "ET"
+    ]
+   },
+   {
+    "answer": "CARSON",
+    "chunkTexts": [
+     "CAR",
+     "SON"
+    ]
+   },
+   {
+    "answer": "SOMERVILLE",
+    "chunkTexts": [
+     "SOM",
+     "ER",
+     "VIL",
+     "LE"
+    ]
+   },
+   {
+    "answer": "GOODALL",
+    "chunkTexts": [
+     "GOOD",
+     "ALL"
+    ]
+   },
+   {
+    "answer": "GERMAIN",
+    "chunkTexts": [
+     "GERM",
+     "AIN"
+    ]
+   },
+   {
+    "answer": "BURNELL",
+    "chunkTexts": [
+     "BURN",
+     "ELL"
+    ]
+   },
+   {
+    "answer": "LEAVITT",
+    "chunkTexts": [
+     "LEAV",
+     "ITT"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 3.3,
+   "tempting_pairs": 2.0,
+   "shared_fragments": 2.5,
+   "anchor_balance": 7.0,
+   "shape": 6.8,
+   "word_appeal": 14.0,
+   "penalties": -18.9,
+   "structure": 16.7
+  },
+  "analysis": {
+   "n_tiles": 17,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 10,
+    "4": 4
+   },
+   "decoys": [
+    "CARTEL=CAR+TEL",
+    "BURNER=BURN+ER"
+   ],
+   "tempting_pairs": [
+    "ALL+ER",
+    "ALL+ET",
+    "ELL+ER",
+    "ET+ER",
+    "ITT+ER"
+   ],
+   "anchors": [
+    "ITT"
+   ],
+   "word_tiles": [
+    "BURN",
+    "GOOD"
+   ],
+   "misaligned": 8,
+   "dup_tiles": [],
+   "near_pairs": [
+    "ALL/ELL",
+    "SOM/SON"
+   ],
+   "no_start_rival": [
+    "CHATELET",
+    "CARSON",
+    "SOMERVILLE",
+    "GOODALL",
+    "GERMAIN",
+    "BURNELL",
+    "LEAVITT"
+   ],
+   "inflected": [],
+   "zipf": {
+    "CHATELET": 1.71,
+    "CARSON": 3.91,
+    "SOMERVILLE": 3.0,
+    "GOODALL": 2.78,
+    "GERMAIN": 3.26,
+    "BURNELL": 2.22,
+    "LEAVITT": 2.65
+   }
+  },
+  "theme_hint": "Women in Science",
+  "category": "themed"
+ },
+ {
+  "id": "S18",
+  "entries": [
+   {
+    "answer": "HUBBLE",
+    "chunkTexts": [
+     "HUB",
+     "BLE"
+    ]
+   },
+   {
+    "answer": "MULTIVERSE",
+    "chunkTexts": [
+     "MUL",
+     "TIV",
+     "ERSE"
+    ]
+   },
+   {
+    "answer": "QUASAR",
+    "chunkTexts": [
+     "QUA",
+     "SAR"
+    ]
+   },
+   {
+    "answer": "LEMAITRE",
+    "chunkTexts": [
+     "LEM",
+     "AI",
+     "TRE"
+    ]
+   },
+   {
+    "answer": "HORIZON",
+    "chunkTexts": [
+     "HORI",
+     "ZON"
+    ]
+   },
+   {
+    "answer": "ANISOTROPY",
+    "chunkTexts": [
+     "ANI",
+     "SOT",
+     "ROPY"
+    ]
+   },
+   {
+    "answer": "GAMOW",
+    "chunkTexts": [
+     "GAM",
+     "OW"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 2.7,
+   "tempting_pairs": 0.0,
+   "shared_fragments": 0.0,
+   "anchor_balance": 4.2,
+   "shape": 9.1,
+   "word_appeal": 14.0,
+   "penalties": -11.8,
+   "structure": 18.2
+  },
+  "analysis": {
+   "n_tiles": 17,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 12,
+    "4": 3
+   },
+   "decoys": [
+    "GAMBLE=GAM+BLE",
+    "TREBLE=TRE+BLE"
+   ],
+   "tempting_pairs": [],
+   "anchors": [
+    "HORI",
+    "MUL",
+    "SAR"
+   ],
+   "word_tiles": [],
+   "misaligned": 6,
+   "dup_tiles": [],
+   "near_pairs": [],
+   "no_start_rival": [
+    "HUBBLE",
+    "MULTIVERSE",
+    "QUASAR",
+    "LEMAITRE",
+    "HORIZON",
+    "ANISOTROPY",
+    "GAMOW"
+   ],
+   "inflected": [],
+   "zipf": {
+    "HUBBLE": 3.12,
+    "MULTIVERSE": 2.85,
+    "QUASAR": 2.43,
+    "LEMAITRE": 2.04,
+    "HORIZON": 4.07,
+    "ANISOTROPY": 2.37,
+    "GAMOW": 1.69
+   }
+  },
+  "theme_hint": "Cosmology",
+  "category": "themed"
+ },
+ {
+  "id": "S19",
+  "entries": [
+   {
+    "answer": "LIPID",
+    "chunkTexts": [
+     "LIP",
+     "ID"
+    ]
+   },
+   {
+    "answer": "PEPTIDE",
+    "chunkTexts": [
+     "PEP",
+     "TIDE"
+    ]
+   },
+   {
+    "answer": "HEMOGLOBIN",
+    "chunkTexts": [
+     "HEMO",
+     "GLO",
+     "BIN"
+    ]
+   },
+   {
+    "answer": "INSULIN",
+    "chunkTexts": [
+     "INSU",
+     "LIN"
+    ]
+   },
+   {
+    "answer": "COLLAGEN",
+    "chunkTexts": [
+     "COL",
+     "LA",
+     "GEN"
+    ]
+   },
+   {
+    "answer": "KERATIN",
+    "chunkTexts": [
+     "KER",
+     "ATIN"
+    ]
+   },
+   {
+    "answer": "GLYCOGEN",
+    "chunkTexts": [
+     "GLY",
+     "CO",
+     "GEN"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 1.0,
+   "tempting_pairs": 0.4,
+   "shared_fragments": 6.2,
+   "anchor_balance": 6.2,
+   "shape": 6.8,
+   "word_appeal": 13.2,
+   "penalties": -14.9,
+   "structure": 18.9
+  },
+  "analysis": {
+   "n_tiles": 17,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 10,
+    "4": 4
+   },
+   "decoys": [
+    "LAID=LA+ID",
+    "COLA=CO+LA"
+   ],
+   "tempting_pairs": [
+    "INSU+LA"
+   ],
+   "anchors": [
+    "GLY",
+    "TIDE"
+   ],
+   "word_tiles": [
+    "TIDE"
+   ],
+   "misaligned": 3,
+   "dup_tiles": [
+    "GEN"
+   ],
+   "near_pairs": [
+    "BIN/LIN",
+    "GLO/GLY",
+    "LIN/LIP"
+   ],
+   "no_start_rival": [
+    "LIPID",
+    "PEPTIDE",
+    "HEMOGLOBIN",
+    "COLLAGEN",
+    "KERATIN",
+    "GLYCOGEN"
+   ],
+   "inflected": [],
+   "zipf": {
+    "LIPID": 3.29,
+    "PEPTIDE": 3.3,
+    "HEMOGLOBIN": 2.92,
+    "INSULIN": 3.81,
+    "COLLAGEN": 3.25,
+    "KERATIN": 2.58,
+    "GLYCOGEN": 2.78
+   }
+  },
+  "theme_hint": "Biochemistry",
+  "category": "themed"
+ },
+ {
+  "id": "S20",
+  "entries": [
+   {
+    "answer": "PHYLUM",
+    "chunkTexts": [
+     "PHY",
+     "LUM"
+    ]
+   },
+   {
+    "answer": "AMPHIBIAN",
+    "chunkTexts": [
+     "AMP",
+     "HIB",
+     "IAN"
+    ]
+   },
+   {
+    "answer": "LINNAEUS",
+    "chunkTexts": [
+     "LIN",
+     "NAE",
+     "US"
+    ]
+   },
+   {
+    "answer": "ARTHROPOD",
+    "chunkTexts": [
+     "AR",
+     "THRO",
+     "POD"
+    ]
+   },
+   {
+    "answer": "KINGDOM",
+    "chunkTexts": [
+     "KING",
+     "DOM"
+    ]
+   },
+   {
+    "answer": "ECHINODERM",
+    "chunkTexts": [
+     "ECH",
+     "INO",
+     "DERM"
+    ]
+   },
+   {
+    "answer": "CNIDARIAN",
+    "chunkTexts": [
+     "CNI",
+     "DAR",
+     "IAN"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 3.7,
+   "tempting_pairs": 1.2,
+   "shared_fragments": 2.5,
+   "anchor_balance": 6.6,
+   "shape": 11.7,
+   "word_appeal": 14.0,
+   "penalties": -11.5,
+   "structure": 28.2
+  },
+  "analysis": {
+   "n_tiles": 19,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 14,
+    "4": 3
+   },
+   "decoys": [
+    "LINKING=LIN+KING",
+    "LUMINOUS=LUM+INO+US",
+    "DOMINO=DOM+INO"
+   ],
+   "tempting_pairs": [
+    "AR+IAN",
+    "AR+KING",
+    "INO+US"
+   ],
+   "anchors": [
+    "CNI",
+    "DERM"
+   ],
+   "word_tiles": [],
+   "misaligned": 5,
+   "dup_tiles": [
+    "IAN"
+   ],
+   "near_pairs": [],
+   "no_start_rival": [
+    "PHYLUM",
+    "AMPHIBIAN",
+    "LINNAEUS",
+    "ARTHROPOD",
+    "KINGDOM",
+    "ECHINODERM",
+    "CNIDARIAN"
+   ],
+   "inflected": [],
+   "zipf": {
+    "PHYLUM": 2.36,
+    "AMPHIBIAN": 2.72,
+    "LINNAEUS": 2.68,
+    "ARTHROPOD": 2.33,
+    "KINGDOM": 4.62,
+    "ECHINODERM": 1.62,
+    "CNIDARIAN": 1.33
+   }
+  },
+  "theme_hint": "Taxonomy",
+  "category": "themed"
+ }
+]

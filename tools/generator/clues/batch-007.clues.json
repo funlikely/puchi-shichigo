@@ -1,0 +1,2999 @@
+{
+ "_meta": {
+  "batch": "batch-007",
+  "writer": "hand-written (Claude, no API)",
+  "judge": "self-rated by the writer"
+ },
+ "A01": {
+  "theme": "Taskmaster: Series 1-4",
+  "category": "themed",
+  "clues": {
+   "CONATY": {
+    "clue": "Roisin, a series 1 original",
+    "type": "trivia",
+    "rating": 3
+   },
+   "RICHARDSON": {
+    "clue": "Jon, series 2's tidy grump",
+    "type": "trivia",
+    "rating": 3
+   },
+   "WILKINSON": {
+    "clue": "Series 2's Joe, a razor brand",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "MURRAY": {
+    "clue": "Al, the Pub Landlord in series 3",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CHOWDHRY": {
+    "clue": "Paul, series 3 stand-up",
+    "type": "trivia",
+    "rating": 3
+   },
+   "ADEFOPE": {
+    "clue": "Lolly of series 4",
+    "type": "trivia",
+    "rating": 3
+   },
+   "DENNIS": {
+    "clue": "Hugh of series 4, Mock the Week",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "A03": {
+  "theme": "Taskmaster: Series 10-14",
+  "category": "themed",
+  "clues": {
+   "PARKINSON": {
+    "clue": "Katherine, The IT Crowd's Jen, series 10",
+    "type": "trivia",
+    "rating": 4
+   },
+   "COOPER": {
+    "clue": "Daisy May of series 10, This Country",
+    "type": "trivia",
+    "rating": 4
+   },
+   "RITCHIE": {
+    "clue": "Charlotte of series 11, haunted by Ghosts",
+    "type": "trivia",
+    "rating": 4
+   },
+   "MADDIX": {
+    "clue": "Jamali, series 11's horizontal chiller",
+    "type": "trivia",
+    "rating": 3
+   },
+   "RAMSEY": {
+    "clue": "Chris of series 13, Geordie charmer",
+    "type": "trivia",
+    "rating": 3
+   },
+   "MILLICAN": {
+    "clue": "Sarah of series 14, South Shields' finest",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CHAWAWA": {
+    "clue": "Munya, series 14's sketch satirist",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "A04": {
+  "theme": "Taskmaster: Series 15-19",
+  "category": "themed",
+  "clues": {
+   "GRAHAM": {
+    "clue": "Ivo of series 15, posh and anxious",
+    "type": "trivia",
+    "rating": 3
+   },
+   "BEAUMONT": {
+    "clue": "Lucy of series 16, Hull's dry wit",
+    "type": "trivia",
+    "rating": 3
+   },
+   "CLARY": {
+    "clue": "Julian, series 16's camp icon",
+    "type": "trivia",
+    "rating": 4
+   },
+   "PERKINS": {
+    "clue": "Sue, ex-Bake Off host in series 16",
+    "type": "trivia",
+    "rating": 4
+   },
+   "WOKOMA": {
+    "clue": "Susan of series 16, Chewing Gum star",
+    "type": "trivia",
+    "rating": 3
+   },
+   "MOHAMMED": {
+    "clue": "Nick of series 17, Ted Lasso's Nate",
+    "type": "trivia",
+    "rating": 4
+   },
+   "PEMBERTON": {
+    "clue": "Steve of series 17, League of Gentlemen",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "A05": {
+  "theme": "Taskmaster: More Champions",
+  "category": "themed",
+  "clues": {
+   "TARBUCK": {
+    "clue": "Liza, series 6 champion",
+    "type": "trivia",
+    "rating": 3
+   },
+   "SANDERS": {
+    "clue": "Lou, series 8's surreal winner",
+    "type": "trivia",
+    "rating": 3
+   },
+   "ROBINSON": {
+    "clue": "Morgana, series 12 champion",
+    "type": "trivia",
+    "rating": 3
+   },
+   "BAYNTON": {
+    "clue": "Mathew of Ghosts, a recent champ",
+    "type": "trivia",
+    "rating": 3
+   },
+   "MARTIN": {
+    "clue": "Mae, series 15 champion",
+    "type": "trivia",
+    "rating": 3
+   },
+   "KATHERINE": {
+    "clue": "Ms Ryan, series 2 champ, informally",
+    "type": "trivia",
+    "rating": 4
+   },
+   "MORGANA": {
+    "clue": "Le Fay's first name, and a champ's",
+    "type": "wordplay",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "A06": {
+  "theme": "Taskmaster: The House Rules",
+  "category": "themed",
+  "clues": {
+   "STUDIO": {
+    "clue": "Where tasks get judged, not done",
+    "type": "definition",
+    "rating": 3
+   },
+   "CHISWICK": {
+    "clue": "West London home of the task house",
+    "type": "trivia",
+    "rating": 4
+   },
+   "TROPHY": {
+    "clue": "Greg's golden head, for one",
+    "type": "trivia",
+    "rating": 3
+   },
+   "BONUS": {
+    "clue": "Extra point for flair",
+    "type": "definition",
+    "rating": 3
+   },
+   "DISQUALIFY": {
+    "clue": "Alex's verdict on rule-benders",
+    "type": "definition",
+    "rating": 4
+   },
+   "CARAVAN": {
+    "clue": "Mobile home parked for tasks",
+    "type": "definition",
+    "rating": 3
+   },
+   "JUDGEMENT": {
+    "clue": "Greg's arbitrary scoring call",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "A07": {
+  "theme": "Taskmaster: Around the World",
+  "category": "themed",
+  "clues": {
+   "JUNIOR": {
+    "clue": "Kids' spin-off: ___ Taskmaster",
+    "type": "trivia",
+    "rating": 4
+   },
+   "GLEESON": {
+    "clue": "Tom, the Australian Taskmaster",
+    "type": "trivia",
+    "rating": 4
+   },
+   "EDUCATION": {
+    "clue": "Taskmaster ___, the schools version",
+    "type": "trivia",
+    "rating": 3
+   },
+   "CHANNEL": {
+    "clue": "___ 4, its home from series 10",
+    "type": "trivia",
+    "rating": 4
+   },
+   "REGGIE": {
+    "clue": "Mr Watts, the US Taskmaster",
+    "type": "trivia",
+    "rating": 4
+   },
+   "BOARDGAME": {
+    "clue": "Tabletop tie-in for family tasking",
+    "type": "trivia",
+    "rating": 3
+   },
+   "NORWAY": {
+    "clue": "Home of Kongen befaler",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "A08": {
+  "theme": "Taskmaster: Greg and Alex",
+  "category": "themed",
+  "clues": {
+   "EDINBURGH": {
+    "clue": "Fringe city where the show began",
+    "type": "trivia",
+    "rating": 4
+   },
+   "MANDOWN": {
+    "clue": "Greg's sitcom as a hapless teacher",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CUCKOO": {
+    "clue": "Sitcom where Greg played Ken",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CHEESEBALL": {
+    "clue": "Greg's tour: Firing ___s at a Dog",
+    "type": "trivia",
+    "rating": 5
+   },
+   "CREATOR": {
+    "clue": "Alex Horne's real job title",
+    "type": "trivia",
+    "rating": 4
+   },
+   "DRAMA": {
+    "clue": "Subject Greg once taught",
+    "type": "trivia",
+    "rating": 4
+   },
+   "COMEDIAN": {
+    "clue": "Every contestant's day job",
+    "type": "definition",
+    "rating": 2
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "B01": {
+  "theme": "Star Trek: Starfleet Officers",
+  "category": "themed",
+  "clues": {
+   "PICARD": {
+    "clue": "Earl Grey sipper of the Enterprise-D",
+    "type": "trivia",
+    "rating": 3
+   },
+   "TORRES": {
+    "clue": "B'Elanna, half-Klingon engineer",
+    "type": "trivia",
+    "rating": 3
+   },
+   "ARCHER": {
+    "clue": "Captain whose beagle was Porthos",
+    "type": "trivia",
+    "rating": 4
+   },
+   "MONTGOMERY": {
+    "clue": "Scotty's given name",
+    "type": "trivia",
+    "rating": 4
+   },
+   "JANEWAY": {
+    "clue": "Voyager's coffee-fuelled captain",
+    "type": "trivia",
+    "rating": 3
+   },
+   "HIKARUSULU": {
+    "clue": "Fencing helmsman, in full",
+    "type": "trivia",
+    "rating": 4
+   },
+   "BASHIR": {
+    "clue": "DS9 doctor, secretly enhanced",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "B02": {
+  "theme": "Star Trek: Species",
+  "category": "themed",
+  "clues": {
+   "TELLARITE": {
+    "clue": "Snouted, argumentative Federation founders",
+    "type": "trivia",
+    "rating": 4
+   },
+   "BETAZOID": {
+    "clue": "Troi's telepathic people",
+    "type": "trivia",
+    "rating": 3
+   },
+   "ANDORIAN": {
+    "clue": "Blue antennae-bearers like Shran",
+    "type": "trivia",
+    "rating": 4
+   },
+   "VULCAN": {
+    "clue": "Spock's father's people",
+    "type": "trivia",
+    "rating": 3
+   },
+   "HIROGEN": {
+    "clue": "Delta Quadrant big-game hunters",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CHANGELING": {
+    "clue": "Odo's shape-shifting kind",
+    "type": "trivia",
+    "rating": 3
+   },
+   "ROMULAN": {
+    "clue": "Cloaked cousins of the logical ones",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "B03": {
+  "theme": "Star Trek: Ships",
+  "category": "themed",
+  "clues": {
+   "ENTERPRISE": {
+    "clue": "NCC-1701, no bloody A or B",
+    "type": "trivia",
+    "rating": 4
+   },
+   "DISCOVERY": {
+    "clue": "Burnham's spore-drive ship",
+    "type": "trivia",
+    "rating": 3
+   },
+   "RELIANT": {
+    "clue": "Ship Khan hijacked in Wrath",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CERRITOS": {
+    "clue": "Lower Decks' support vessel",
+    "type": "trivia",
+    "rating": 4
+   },
+   "TITAN": {
+    "clue": "Riker's command after the D",
+    "type": "trivia",
+    "rating": 4
+   },
+   "PROTOSTAR": {
+    "clue": "Prodigy kids' stolen starship",
+    "type": "trivia",
+    "rating": 4
+   },
+   "WARBIRD": {
+    "clue": "Romulan D'deridex, for one",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "B04": {
+  "theme": "Star Trek: Worlds",
+  "category": "themed",
+  "clues": {
+   "CARDASSIA": {
+    "clue": "Garak's homeworld, Prime",
+    "type": "trivia",
+    "rating": 3
+   },
+   "FERENGINAR": {
+    "clue": "Rainy capital of profit",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CETIALPHA": {
+    "clue": "Khan's exile system, minus a V",
+    "type": "trivia",
+    "rating": 4
+   },
+   "KRONOS": {
+    "clue": "Qo'noS, anglicized",
+    "type": "trivia",
+    "rating": 3
+   },
+   "TALOS": {
+    "clue": "Planet of illusionists, IV",
+    "type": "trivia",
+    "rating": 4
+   },
+   "GENESIS": {
+    "clue": "Device that made a planet in Khan",
+    "type": "trivia",
+    "rating": 4
+   },
+   "NIMBUS": {
+    "clue": "Planet of Galactic Peace, III",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "B05": {
+  "theme": "Star Trek: Tech Manual",
+  "category": "themed",
+  "clues": {
+   "TRICORDER": {
+    "clue": "Beeping handheld scanner",
+    "type": "definition",
+    "rating": 3
+   },
+   "CLOAKING": {
+    "clue": "___ device, the Romulan vanishing act",
+    "type": "trivia",
+    "rating": 3
+   },
+   "DEFLECTOR": {
+    "clue": "Dish that fixes every plot",
+    "type": "pun",
+    "rating": 4
+   },
+   "ISOLINEAR": {
+    "clue": "___ chips, the computer's memory",
+    "type": "trivia",
+    "rating": 4
+   },
+   "REPLICATOR": {
+    "clue": "Tea, Earl Grey, hot dispenser",
+    "type": "trivia",
+    "rating": 4
+   },
+   "NACELLE": {
+    "clue": "Warp pod on a pylon",
+    "type": "definition",
+    "rating": 3
+   },
+   "PHASER": {
+    "clue": "Set it to stun",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "B06": {
+  "theme": "Star Trek: Catchphrases",
+  "category": "themed",
+  "clues": {
+   "ENGAGE": {
+    "clue": "Picard's one-word go",
+    "type": "trivia",
+    "rating": 3
+   },
+   "MAKEITSO": {
+    "clue": "Picard's order to proceed",
+    "type": "trivia",
+    "rating": 3
+   },
+   "FUTILE": {
+    "clue": "Resistance is ___",
+    "type": "trivia",
+    "rating": 3
+   },
+   "ASSIMILATE": {
+    "clue": "What the Borg do to you",
+    "type": "trivia",
+    "rating": 3
+   },
+   "LOGICAL": {
+    "clue": "Spock's highest praise",
+    "type": "trivia",
+    "rating": 3
+   },
+   "DAMMITJIM": {
+    "clue": "Bones's opener, before 'I'm a doctor'",
+    "type": "trivia",
+    "rating": 5
+   },
+   "NUMBERONE": {
+    "clue": "Picard's nickname for Riker",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "B07": {
+  "theme": "Star Trek: Adversaries",
+  "category": "themed",
+  "clues": {
+   "MORIARTY": {
+    "clue": "Holodeck villain who woke up",
+    "type": "trivia",
+    "rating": 4
+   },
+   "MADRED": {
+    "clue": "Gul who insisted on five lights",
+    "type": "trivia",
+    "rating": 5
+   },
+   "SHINZON": {
+    "clue": "Picard's Reman-raised clone",
+    "type": "trivia",
+    "rating": 4
+   },
+   "LOCUTUS": {
+    "clue": "Picard, assimilated",
+    "type": "trivia",
+    "rating": 4
+   },
+   "GOWRON": {
+    "clue": "Wide-eyed Klingon chancellor",
+    "type": "trivia",
+    "rating": 4
+   },
+   "HARRYMUDD": {
+    "clue": "Con man with android wives",
+    "type": "trivia",
+    "rating": 4
+   },
+   "BORGQUEEN": {
+    "clue": "Hive mind's seductive center",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "C01": {
+  "theme": "They Might Be Giants: Albums",
+  "category": "themed",
+  "clues": {
+   "APOLLO": {
+    "clue": "___ 18, home of Fingertips",
+    "type": "trivia",
+    "rating": 3
+   },
+   "MINKCAR": {
+    "clue": "2001 album, a furry auto",
+    "type": "trivia",
+    "rating": 4
+   },
+   "SPINE": {
+    "clue": "The ___, 2004 backbone of an album",
+    "type": "trivia",
+    "rating": 4
+   },
+   "PHONEPOWER": {
+    "clue": "2018 album, dial up the energy",
+    "type": "trivia",
+    "rating": 4
+   },
+   "SHOWROOM": {
+    "clue": "Factory ___, 1996",
+    "type": "trivia",
+    "rating": 4
+   },
+   "JOINUS": {
+    "clue": "2011 album, an open invitation",
+    "type": "trivia",
+    "rating": 4
+   },
+   "ESCAPETEAM": {
+    "clue": "The ___, 2018's sci-fi concept",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "C02": {
+  "theme": "They Might Be Giants: Songbook II",
+  "category": "themed",
+  "clues": {
+   "ISTANBUL": {
+    "clue": "Not Constantinople",
+    "type": "trivia",
+    "rating": 4
+   },
+   "TWISTING": {
+    "clue": "Flood single with a dance in it",
+    "type": "trivia",
+    "rating": 3
+   },
+   "TOUPEE": {
+    "clue": "Purple hairpiece of song",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CYCLOPS": {
+    "clue": "___ Rock, a one-eyed tune",
+    "type": "trivia",
+    "rating": 4
+   },
+   "SHOEHORN": {
+    "clue": "___ With Teeth, a biting tool",
+    "type": "trivia",
+    "rating": 4
+   },
+   "PENCILRAIN": {
+    "clue": "Downpour of number twos, in song",
+    "type": "trivia",
+    "rating": 4
+   },
+   "HEARINGAID": {
+    "clue": "Song with ears on loan",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "C04": {
+  "theme": "They Might Be Giants: On Screen",
+  "category": "themed",
+  "clues": {
+   "MALCOLM": {
+    "clue": "Middle child; theme: Boss of Me",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CORALINE": {
+    "clue": "Button-eyed film they wrote songs for",
+    "type": "trivia",
+    "rating": 4
+   },
+   "GIGANTIC": {
+    "clue": "2002 band documentary",
+    "type": "trivia",
+    "rating": 4
+   },
+   "HIGGLYTOWN": {
+    "clue": "___ Heroes, a Disney theme job",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CLUBHOUSE": {
+    "clue": "Mickey Mouse ___",
+    "type": "trivia",
+    "rating": 3
+   },
+   "HOMESTAR": {
+    "clue": "___ Runner, a web-toon collaborator",
+    "type": "trivia",
+    "rating": 4
+   },
+   "DREVIL": {
+    "clue": "Austin Powers villain who got a song",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "C05": {
+  "theme": "They Might Be Giants: The Band",
+  "category": "themed",
+  "clues": {
+   "MUNDANES": {
+    "clue": "Linnell's earlier, unremarkable band",
+    "type": "pun",
+    "rating": 4
+   },
+   "MONOPUFF": {
+    "clue": "Flansburgh side project",
+    "type": "trivia",
+    "rating": 3
+   },
+   "STATESONGS": {
+    "clue": "Linnell solo album touring the map",
+    "type": "trivia",
+    "rating": 4
+   },
+   "BARNONE": {
+    "clue": "Early indie label, second to nobody",
+    "type": "pun",
+    "rating": 4
+   },
+   "BELLER": {
+    "clue": "Marty, behind the kit",
+    "type": "trivia",
+    "rating": 3
+   },
+   "GOLDWASSER": {
+    "clue": "Robin, Flansburgh's wife and collaborator",
+    "type": "trivia",
+    "rating": 3
+   },
+   "GUITAR": {
+    "clue": "Flansburgh's axe",
+    "type": "definition",
+    "rating": 2
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "C06": {
+  "theme": "They Might Be Giants: Lyric Sheet",
+  "category": "themed",
+  "clues": {
+   "CANARY": {
+    "clue": "Blue bird in the outlet, per Birdhouse",
+    "type": "trivia",
+    "rating": 4
+   },
+   "OUTLET": {
+    "clue": "Where the nightlight bird perches",
+    "type": "trivia",
+    "rating": 4
+   },
+   "AMSTERDAM": {
+    "clue": "Old New York was once New ___",
+    "type": "trivia",
+    "rating": 5
+   },
+   "UNIVERSE": {
+    "clue": "___ Man, Particle Man's rival",
+    "type": "trivia",
+    "rating": 4
+   },
+   "FRYINGPAN": {
+    "clue": "Person Man was hit by one",
+    "type": "trivia",
+    "rating": 5
+   },
+   "BEAUTIFUL": {
+    "clue": "Nobody gets what they want: ___",
+    "type": "trivia",
+    "rating": 4
+   },
+   "MAJESTIC": {
+    "clue": "Ana Ng's presence, glowing",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "C07": {
+  "theme": "They Might Be Giants: Songbook III",
+  "category": "themed",
+  "clues": {
+   "STATUE": {
+    "clue": "The ___ Got Me High",
+    "type": "trivia",
+    "rating": 4
+   },
+   "MINIMUM": {
+    "clue": "___ Wage, a two-word song",
+    "type": "trivia",
+    "rating": 4
+   },
+   "EXQUISITE": {
+    "clue": "___ Dead Guy",
+    "type": "trivia",
+    "rating": 4
+   },
+   "LETTERBOX": {
+    "clue": "Song named for a mail slot",
+    "type": "trivia",
+    "rating": 3
+   },
+   "SOMBRERO": {
+    "clue": "Hovering ___, a floating hat",
+    "type": "trivia",
+    "rating": 4
+   },
+   "DINNERBELL": {
+    "clue": "Song ringing for supper",
+    "type": "trivia",
+    "rating": 3
+   },
+   "OLDER": {
+    "clue": "You're ___ than you've ever been",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "D01": {
+  "theme": "Cosmere: The Crew",
+  "category": "themed",
+  "clues": {
+   "LUTHADEL": {
+    "clue": "Capital of the Final Empire",
+    "type": "trivia",
+    "rating": 3
+   },
+   "VALETTE": {
+    "clue": "Vin's noble disguise, ___ Renoux",
+    "type": "trivia",
+    "rating": 4
+   },
+   "OBLIGATOR": {
+    "clue": "Steel Ministry bureaucrat-priest",
+    "type": "trivia",
+    "rating": 4
+   },
+   "LORDRULER": {
+    "clue": "Rashek's imperial title",
+    "type": "trivia",
+    "rating": 3
+   },
+   "HAMMOND": {
+    "clue": "Ham, in full",
+    "type": "trivia",
+    "rating": 4
+   },
+   "ALENDI": {
+    "clue": "Hero of Ages who wasn't",
+    "type": "trivia",
+    "rating": 4
+   },
+   "KELSIER": {
+    "clue": "Survivor of Hathsin",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "D02": {
+  "theme": "Cosmere: Metals",
+  "category": "themed",
+  "clues": {
+   "PEWTER": {
+    "clue": "Burn it to be a Thug",
+    "type": "trivia",
+    "rating": 4
+   },
+   "COPPER": {
+    "clue": "Smoker's metal, hiding Allomancy",
+    "type": "trivia",
+    "rating": 4
+   },
+   "DURALUMIN": {
+    "clue": "Turns your next burn into one blast",
+    "type": "trivia",
+    "rating": 4
+   },
+   "ALUMINUM": {
+    "clue": "Wipes your reserves, blocks Pushes",
+    "type": "trivia",
+    "rating": 4
+   },
+   "NICROSIL": {
+    "clue": "Supercharges someone else's burn",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CHROMIUM": {
+    "clue": "Leecher's metal",
+    "type": "trivia",
+    "rating": 3
+   },
+   "CADMIUM": {
+    "clue": "Slows time in a bubble",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "D04": {
+  "theme": "Cosmere: Bridge Four and Friends",
+  "category": "themed",
+  "clues": {
+   "WINDRUNNER": {
+    "clue": "Kaladin's order of Radiants",
+    "type": "trivia",
+    "rating": 3
+   },
+   "ELHOKAR": {
+    "clue": "Gavilar's son, an unlucky king",
+    "type": "trivia",
+    "rating": 3
+   },
+   "RENARIN": {
+    "clue": "Dalinar's son, a secret Truthwatcher",
+    "type": "trivia",
+    "rating": 4
+   },
+   "SYLPHRENA": {
+    "clue": "Syl, in full",
+    "type": "trivia",
+    "rating": 4
+   },
+   "JASNAH": {
+    "clue": "Atheist princess and Elsecaller",
+    "type": "trivia",
+    "rating": 4
+   },
+   "KABSAL": {
+    "clue": "Ardent bearing poisoned bread",
+    "type": "trivia",
+    "rating": 4
+   },
+   "KHOLIN": {
+    "clue": "Dalinar's house",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "D07": {
+  "theme": "Cosmere: Nalthis and Sel",
+  "category": "themed",
+  "clues": {
+   "ARELON": {
+    "clue": "Kingdom with Elantris at its heart",
+    "type": "trivia",
+    "rating": 3
+   },
+   "HALLANDREN": {
+    "clue": "Colorful realm of the Returned",
+    "type": "trivia",
+    "rating": 4
+   },
+   "SARENE": {
+    "clue": "Princess widowed before her wedding",
+    "type": "trivia",
+    "rating": 4
+   },
+   "AWAKENER": {
+    "clue": "One who animates objects with Breath",
+    "type": "trivia",
+    "rating": 4
+   },
+   "SOULSTAMP": {
+    "clue": "Shai's forged seal of a self",
+    "type": "trivia",
+    "rating": 4
+   },
+   "VIVENNA": {
+    "clue": "Siri's elder sister",
+    "type": "trivia",
+    "rating": 3
+   },
+   "RAODEN": {
+    "clue": "Prince who fell into Elantris",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "E04": {
+  "theme": "The Good Place: Language, Please",
+  "category": "themed",
+  "clues": {
+   "FORKING": {
+    "clue": "Censored intensifier of choice",
+    "type": "trivia",
+    "rating": 4
+   },
+   "NOTAGIRL": {
+    "clue": "Janet's first correction",
+    "type": "trivia",
+    "rating": 5
+   },
+   "NOTAROBOT": {
+    "clue": "Janet's other correction",
+    "type": "trivia",
+    "rating": 5
+   },
+   "SLEAZY": {
+    "clue": "Take it ___, a sign-off",
+    "type": "trivia",
+    "rating": 4
+   },
+   "NERFECT": {
+    "clue": "Pobody's ___",
+    "type": "trivia",
+    "rating": 5
+   },
+   "BASIC": {
+    "clue": "'Ya ___!'",
+    "type": "trivia",
+    "rating": 4
+   },
+   "MOTHERFORK": {
+    "clue": "Top-shelf censored oath",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "E05": {
+  "theme": "The Good Place: Chidi's Syllabus",
+  "category": "themed",
+  "clues": {
+   "NIHILISM": {
+    "clue": "Nothing-matters creed of season 3",
+    "type": "trivia",
+    "rating": 3
+   },
+   "SOCRATES": {
+    "clue": "Gadfly who drank hemlock",
+    "type": "trivia",
+    "rating": 3
+   },
+   "SARTRE": {
+    "clue": "Hell is other people, he wrote",
+    "type": "trivia",
+    "rating": 4
+   },
+   "ETHICS": {
+    "clue": "Chidi's subject",
+    "type": "definition",
+    "rating": 2
+   },
+   "ARISTOTLE": {
+    "clue": "Virtue's champion, Plato's pupil",
+    "type": "trivia",
+    "rating": 3
+   },
+   "VIRTUE": {
+    "clue": "___ ethics, Aristotle's line",
+    "type": "trivia",
+    "rating": 3
+   },
+   "KANTIAN": {
+    "clue": "Like Chidi's categorical thinking",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "E06": {
+  "theme": "The Good Place: Episode Titles",
+  "category": "themed",
+  "clues": {
+   "GAMBIT": {
+    "clue": "Michael's ___, season 1 finale",
+    "type": "trivia",
+    "rating": 4
+   },
+   "BURRITO": {
+    "clue": "The ___, named for the Judge's idol",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CHILLAXING": {
+    "clue": "Episode title, relaxing but cooler",
+    "type": "trivia",
+    "rating": 4
+   },
+   "DONKEY": {
+    "clue": "The Ballad of ___ Doug",
+    "type": "trivia",
+    "rating": 4
+   },
+   "RESOLUTION": {
+    "clue": "Dance Dance ___",
+    "type": "trivia",
+    "rating": 4
+   },
+   "FLYING": {
+    "clue": "Episode 2, up in the air",
+    "type": "trivia",
+    "rating": 3
+   },
+   "WHENEVER": {
+    "clue": "___ You're Ready, the finale",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "E07": {
+  "theme": "The Good Place: Jason and Janet",
+  "category": "themed",
+  "clues": {
+   "FLORIDA": {
+    "clue": "Jason's Sunshine State",
+    "type": "trivia",
+    "rating": 3
+   },
+   "SILENCE": {
+    "clue": "Jianyu's vow, faked",
+    "type": "trivia",
+    "rating": 4
+   },
+   "BADJANET": {
+    "clue": "Rude counterpart from down below",
+    "type": "trivia",
+    "rating": 4
+   },
+   "DISCOJANET": {
+    "clue": "Glitched assistant, ready to boogie",
+    "type": "trivia",
+    "rating": 4
+   },
+   "NEUTRAL": {
+    "clue": "___ Janet, in Accounting",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CACTUS": {
+    "clue": "Janet's spiky wrong delivery",
+    "type": "trivia",
+    "rating": 4
+   },
+   "REBOOT": {
+    "clue": "What a killed Janet does",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "F03": {
+  "theme": "Project Hail Mary: Shipboard",
+  "category": "themed",
+  "clues": {
+   "AIRLOCK": {
+    "clue": "Door between ship and void",
+    "type": "definition",
+    "rating": 3
+   },
+   "COMATOSE": {
+    "clue": "Grace's state for the trip",
+    "type": "trivia",
+    "rating": 3
+   },
+   "ROBOTARM": {
+    "clue": "Bedside helper that fed him",
+    "type": "trivia",
+    "rating": 4
+   },
+   "SAMPLES": {
+    "clue": "Taumoeba in jars, e.g.",
+    "type": "definition",
+    "rating": 3
+   },
+   "LABORATORY": {
+    "clue": "Mid-deck room for experiments",
+    "type": "trivia",
+    "rating": 3
+   },
+   "DORMITORY": {
+    "clue": "Bunk deck where he woke",
+    "type": "trivia",
+    "rating": 4
+   },
+   "COCKPIT": {
+    "clue": "Control room, up top",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "F04": {
+  "theme": "Project Hail Mary: Lab Notes",
+  "category": "themed",
+  "clues": {
+   "RELATIVITY": {
+    "clue": "Why less time passed for Grace",
+    "type": "trivia",
+    "rating": 4
+   },
+   "LORENTZ": {
+    "clue": "___ factor, time dilation's math",
+    "type": "trivia",
+    "rating": 4
+   },
+   "EVOLUTION": {
+    "clue": "Breeding nitrogen-proof taumoeba",
+    "type": "trivia",
+    "rating": 4
+   },
+   "MICROBE": {
+    "clue": "Astrophage, at heart",
+    "type": "trivia",
+    "rating": 3
+   },
+   "BREEDER": {
+    "clue": "___ panels farming Astrophage",
+    "type": "trivia",
+    "rating": 4
+   },
+   "ADAPTATION": {
+    "clue": "How taumoeba got past xenonite",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CULTURE": {
+    "clue": "Petri dish crowd",
+    "type": "pun",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "F05": {
+  "theme": "Project Hail Mary: Grace's Story",
+  "category": "themed",
+  "clues": {
+   "BIOLOGIST": {
+    "clue": "Grace's old career",
+    "type": "trivia",
+    "rating": 3
+   },
+   "MOLECULAR": {
+    "clue": "Kind of biologist Grace was",
+    "type": "trivia",
+    "rating": 3
+   },
+   "COWARD": {
+    "clue": "What Grace learns he was",
+    "type": "trivia",
+    "rating": 5
+   },
+   "STUDENTS": {
+    "clue": "Kids Grace taught, then and after",
+    "type": "trivia",
+    "rating": 4
+   },
+   "MEMORY": {
+    "clue": "Returns in flashbacks",
+    "type": "trivia",
+    "rating": 3
+   },
+   "SACRIFICE": {
+    "clue": "Turning back for Rocky",
+    "type": "trivia",
+    "rating": 4
+   },
+   "WATERLESS": {
+    "clue": "Life, in his ridiculed thesis",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "F07": {
+  "theme": "Project Hail Mary: Star Chart",
+  "category": "themed",
+  "clues": {
+   "VENUS": {
+    "clue": "Where Astrophage breeds sunward",
+    "type": "trivia",
+    "rating": 4
+   },
+   "LUMINOSITY": {
+    "clue": "Sun's output, dropping",
+    "type": "definition",
+    "rating": 3
+   },
+   "DIMMING": {
+    "clue": "What the infected Sun is doing",
+    "type": "trivia",
+    "rating": 3
+   },
+   "CENTAURI": {
+    "clue": "Alpha ___, another infected neighbor",
+    "type": "trivia",
+    "rating": 4
+   },
+   "SPECTRUM": {
+    "clue": "Where the Petrova line shows",
+    "type": "trivia",
+    "rating": 3
+   },
+   "ICEAGE": {
+    "clue": "Earth's looming fate",
+    "type": "trivia",
+    "rating": 4
+   },
+   "INFECTED": {
+    "clue": "Like most nearby stars",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "F08": {
+  "theme": "Project Hail Mary: Mission Control",
+  "category": "themed",
+  "clues": {
+   "ONEWAY": {
+    "clue": "The crew's kind of ticket",
+    "type": "trivia",
+    "rating": 4
+   },
+   "VOLUNTEER": {
+    "clue": "What Grace wasn't, exactly",
+    "type": "trivia",
+    "rating": 5
+   },
+   "PAYLOAD": {
+    "clue": "Beetles, e.g.",
+    "type": "trivia",
+    "rating": 3
+   },
+   "AUTHORITY": {
+    "clue": "Stratt's unlimited power",
+    "type": "trivia",
+    "rating": 4
+   },
+   "TREATY": {
+    "clue": "Pact granting Stratt that power",
+    "type": "trivia",
+    "rating": 3
+   },
+   "CARRIER": {
+    "clue": "Aircraft ship hosting the lab",
+    "type": "trivia",
+    "rating": 4
+   },
+   "ASSEMBLY": {
+    "clue": "Putting the ship together in orbit",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "G01": {
+  "theme": "Long Haul",
+  "category": "mixed",
+  "clues": {
+   "SPECTACLE": {
+    "clue": "Big show, or one lens of glasses",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "PROPAGANDA": {
+    "clue": "Spin with a state budget",
+    "type": "pun",
+    "rating": 4
+   },
+   "CONSTABLE": {
+    "clue": "Bobby on the beat",
+    "type": "definition",
+    "rating": 3
+   },
+   "MAGISTRATE": {
+    "clue": "Bench warmer of the courts",
+    "type": "pun",
+    "rating": 4
+   },
+   "ARTILLERY": {
+    "clue": "Big guns, collectively",
+    "type": "definition",
+    "rating": 3
+   },
+   "MICROSCOPE": {
+    "clue": "Lens for very small dramas",
+    "type": "pun",
+    "rating": 3
+   },
+   "HYSTERICAL": {
+    "clue": "Laughing beyond control",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Long-word general round."
+  }
+ },
+ "G02": {
+  "theme": "Long Haul",
+  "category": "mixed",
+  "clues": {
+   "CARTRIDGE": {
+    "clue": "Ink refill, or a blown-on game",
+    "type": "evocative",
+    "rating": 4
+   },
+   "RIDICULOUS": {
+    "clue": "Absurd beyond repair",
+    "type": "definition",
+    "rating": 3
+   },
+   "MALICIOUS": {
+    "clue": "Spiteful by design",
+    "type": "definition",
+    "rating": 3
+   },
+   "LEGENDARY": {
+    "clue": "Fabled, or just very cool",
+    "type": "definition",
+    "rating": 3
+   },
+   "PARAGRAPH": {
+    "clue": "Indented chunk of prose",
+    "type": "definition",
+    "rating": 3
+   },
+   "COLUMNIST": {
+    "clue": "Pillar of the opinion page",
+    "type": "pun",
+    "rating": 4
+   },
+   "MARGARITA": {
+    "clue": "Salt-rimmed tequila sipper",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Long-word general round."
+  }
+ },
+ "G03": {
+  "theme": "Long Haul",
+  "category": "mixed",
+  "clues": {
+   "PROTOTYPE": {
+    "clue": "First draft in metal",
+    "type": "definition",
+    "rating": 3
+   },
+   "GLAMOROUS": {
+    "clue": "Red-carpet ready",
+    "type": "definition",
+    "rating": 3
+   },
+   "NEGOTIATE": {
+    "clue": "Haggle in a suit",
+    "type": "definition",
+    "rating": 3
+   },
+   "AUDITORIUM": {
+    "clue": "Hall built for hearing",
+    "type": "wordplay",
+    "rating": 3
+   },
+   "PROJECTOR": {
+    "clue": "It throws slides at the wall",
+    "type": "pun",
+    "rating": 4
+   },
+   "ECCENTRIC": {
+    "clue": "Off-center, like a quirky aunt",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "CARETAKER": {
+    "clue": "Keeper of the grounds",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Long-word general round."
+  }
+ },
+ "G04": {
+  "theme": "Long Haul",
+  "category": "mixed",
+  "clues": {
+   "MAGNITUDE": {
+    "clue": "Size of a quake, or starshine",
+    "type": "definition",
+    "rating": 3
+   },
+   "MEMORANDUM": {
+    "clue": "Office note, in full",
+    "type": "definition",
+    "rating": 3
+   },
+   "REFERENDUM": {
+    "clue": "Vote handed straight to the people",
+    "type": "definition",
+    "rating": 3
+   },
+   "MARVELOUS": {
+    "clue": "Wonderful, superhero-adjacent",
+    "type": "pun",
+    "rating": 3
+   },
+   "WELLINGTON": {
+    "clue": "Rubber boot, or beef in pastry",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "CONTINUUM": {
+    "clue": "Seamless spectrum, like space-time",
+    "type": "definition",
+    "rating": 3
+   },
+   "CONSULATE": {
+    "clue": "Embassy's little sibling",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Long-word general round."
+  }
+ },
+ "G05": {
+  "theme": "Long Haul",
+  "category": "mixed",
+  "clues": {
+   "SILHOUETTE": {
+    "clue": "Dark outline against the light",
+    "type": "definition",
+    "rating": 3
+   },
+   "ADVENTURE": {
+    "clue": "Quest with risk included",
+    "type": "definition",
+    "rating": 3
+   },
+   "FRANCHISE": {
+    "clue": "Chain license, or film series",
+    "type": "wordplay",
+    "rating": 3
+   },
+   "PROGNOSIS": {
+    "clue": "Doctor's forecast",
+    "type": "definition",
+    "rating": 3
+   },
+   "SIGNATURE": {
+    "clue": "Your name, on the dotted line",
+    "type": "definition",
+    "rating": 2
+   },
+   "COMMODORE": {
+    "clue": "Naval rank, or an 80s computer",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "SARCASTIC": {
+    "clue": "'Oh, great,' said this way",
+    "type": "evocative",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Long-word general round."
+  }
+ },
+ "G06": {
+  "theme": "Long Haul",
+  "category": "mixed",
+  "clues": {
+   "DELICIOUS": {
+    "clue": "Yummy, formally",
+    "type": "definition",
+    "rating": 2
+   },
+   "IMAGINARY": {
+    "clue": "Like i, or a childhood friend",
+    "type": "wordplay",
+    "rating": 5
+   },
+   "INVINCIBLE": {
+    "clue": "Unbeatable, like some summers",
+    "type": "evocative",
+    "rating": 3
+   },
+   "IRRATIONAL": {
+    "clue": "Like pi, or a phobia",
+    "type": "wordplay",
+    "rating": 5
+   },
+   "PENTHOUSE": {
+    "clue": "Top-floor luxury pad",
+    "type": "definition",
+    "rating": 3
+   },
+   "BOURGEOIS": {
+    "clue": "Middle class, per Marx",
+    "type": "definition",
+    "rating": 3
+   },
+   "SYNDICATE": {
+    "clue": "Crime ring, or news service",
+    "type": "wordplay",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Long-word general round."
+  }
+ },
+ "G07": {
+  "theme": "Long Haul",
+  "category": "mixed",
+  "clues": {
+   "MIRACULOUS": {
+    "clue": "Inexplicably wonderful",
+    "type": "definition",
+    "rating": 2
+   },
+   "GENEALOGY": {
+    "clue": "Branch office for family trees",
+    "type": "pun",
+    "rating": 4
+   },
+   "INFIRMARY": {
+    "clue": "School sick bay",
+    "type": "definition",
+    "rating": 3
+   },
+   "ENERGETIC": {
+    "clue": "Full of beans",
+    "type": "definition",
+    "rating": 3
+   },
+   "GEOGRAPHY": {
+    "clue": "Class with maps and capitals",
+    "type": "definition",
+    "rating": 3
+   },
+   "CIGARETTE": {
+    "clue": "Coffin nail, slangily",
+    "type": "definition",
+    "rating": 3
+   },
+   "PHARMACIST": {
+    "clue": "Counter-intelligence for pills",
+    "type": "pun",
+    "rating": 5
+   }
+  },
+  "critique": {
+   "notes": "Long-word general round."
+  }
+ },
+ "G08": {
+  "theme": "Long Haul",
+  "category": "mixed",
+  "clues": {
+   "MONSTROUS": {
+    "clue": "Enormously awful",
+    "type": "definition",
+    "rating": 3
+   },
+   "AMBIGUOUS": {
+    "clue": "Open to two readings",
+    "type": "definition",
+    "rating": 3
+   },
+   "CONTAGIOUS": {
+    "clue": "Catching, like a yawn",
+    "type": "evocative",
+    "rating": 4
+   },
+   "UBIQUITOUS": {
+    "clue": "Everywhere at once",
+    "type": "definition",
+    "rating": 3
+   },
+   "PARALYSIS": {
+    "clue": "Analysis ___, overthinking's cost",
+    "type": "trivia",
+    "rating": 4
+   },
+   "HILARIOUS": {
+    "clue": "Side-splitting",
+    "type": "definition",
+    "rating": 3
+   },
+   "CONTINENT": {
+    "clue": "One of seven big landmasses",
+    "type": "definition",
+    "rating": 2
+   }
+  },
+  "critique": {
+   "notes": "Long-word general round."
+  }
+ },
+ "G09": {
+  "theme": "Long Haul",
+  "category": "mixed",
+  "clues": {
+   "VERSATILE": {
+    "clue": "Good at many things",
+    "type": "definition",
+    "rating": 2
+   },
+   "PSYCHIATRY": {
+    "clue": "Medicine of the mind",
+    "type": "definition",
+    "rating": 3
+   },
+   "MILLENNIUM": {
+    "clue": "A thousand years, or a Falcon",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "PHYSICIAN": {
+    "clue": "'___, heal thyself'",
+    "type": "trivia",
+    "rating": 4
+   },
+   "HYDRAULIC": {
+    "clue": "Run on pressurized fluid",
+    "type": "definition",
+    "rating": 3
+   },
+   "ORPHANAGE": {
+    "clue": "Annie's hard-knock home",
+    "type": "trivia",
+    "rating": 4
+   },
+   "METROPOLIS": {
+    "clue": "Superman's city, or any big one",
+    "type": "wordplay",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Long-word general round."
+  }
+ },
+ "G10": {
+  "theme": "Long Haul",
+  "category": "mixed",
+  "clues": {
+   "MYTHOLOGY": {
+    "clue": "Shelf for Zeus and Thor",
+    "type": "evocative",
+    "rating": 3
+   },
+   "ASTROLOGY": {
+    "clue": "Belief system with a sign-up sheet",
+    "type": "pun",
+    "rating": 4
+   },
+   "PARANORMAL": {
+    "clue": "Beyond science, like ghosts",
+    "type": "definition",
+    "rating": 3
+   },
+   "INAUGURAL": {
+    "clue": "First, like a president's address",
+    "type": "definition",
+    "rating": 3
+   },
+   "INVISIBLE": {
+    "clue": "Like Wells's see-through man",
+    "type": "trivia",
+    "rating": 3
+   },
+   "FORBIDDEN": {
+    "clue": "Like Eden's fruit",
+    "type": "evocative",
+    "rating": 3
+   },
+   "CHOCOLATE": {
+    "clue": "Cocoa confection",
+    "type": "definition",
+    "rating": 2
+   }
+  },
+  "critique": {
+   "notes": "Long-word general round."
+  }
+ },
+ "G11": {
+  "theme": "Long Haul",
+  "category": "mixed",
+  "clues": {
+   "MINIATURE": {
+    "clue": "Tiny version, like a schnauzer",
+    "type": "definition",
+    "rating": 3
+   },
+   "PHENOMENON": {
+    "clue": "Marvel worth observing",
+    "type": "definition",
+    "rating": 2
+   },
+   "VOCABULARY": {
+    "clue": "Your word hoard",
+    "type": "definition",
+    "rating": 3
+   },
+   "ANTAGONIST": {
+    "clue": "Story's villain-in-chief",
+    "type": "definition",
+    "rating": 3
+   },
+   "PATHOLOGY": {
+    "clue": "Study of disease",
+    "type": "definition",
+    "rating": 2
+   },
+   "CINEMATIC": {
+    "clue": "Film-like in sweep",
+    "type": "definition",
+    "rating": 3
+   },
+   "SYMPOSIUM": {
+    "clue": "Plato's drinking-party dialogue",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Long-word general round."
+  }
+ },
+ "G12": {
+  "theme": "Long Haul",
+  "category": "mixed",
+  "clues": {
+   "ANTHOLOGY": {
+    "clue": "Collected works, bound together",
+    "type": "definition",
+    "rating": 3
+   },
+   "ACCESSORY": {
+    "clue": "Handbag, or crime helper",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "INGENIOUS": {
+    "clue": "Cleverly inventive",
+    "type": "definition",
+    "rating": 2
+   },
+   "VETERINARY": {
+    "clue": "Animal-doctoring adjective",
+    "type": "definition",
+    "rating": 3
+   },
+   "PLAINTIFF": {
+    "clue": "One who brings the suit",
+    "type": "pun",
+    "rating": 3
+   },
+   "CALCULATOR": {
+    "clue": "Math-class gadget",
+    "type": "definition",
+    "rating": 2
+   },
+   "TURQUOISE": {
+    "clue": "Blue-green gem",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Long-word general round."
+  }
+ },
+ "G13": {
+  "theme": "Long Haul",
+  "category": "mixed",
+  "clues": {
+   "APPRENTICE": {
+    "clue": "Sorcerer's helper",
+    "type": "trivia",
+    "rating": 4
+   },
+   "BIOGRAPHY": {
+    "clue": "Life story by someone else",
+    "type": "definition",
+    "rating": 3
+   },
+   "PEDESTRIAN": {
+    "clue": "Walker, or dull",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "PLANETARY": {
+    "clue": "Orbital in scale",
+    "type": "definition",
+    "rating": 3
+   },
+   "CHEMISTRY": {
+    "clue": "Spark between two people",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "MACHINERY": {
+    "clue": "Cogs and gears",
+    "type": "definition",
+    "rating": 2
+   },
+   "CONTESTANT": {
+    "clue": "Game-show hopeful",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Long-word general round."
+  }
+ },
+ "G14": {
+  "theme": "Long Haul",
+  "category": "mixed",
+  "clues": {
+   "ANONYMOUS": {
+    "clue": "Nameless, like a tipster",
+    "type": "definition",
+    "rating": 3
+   },
+   "TRIANGULAR": {
+    "clue": "Three-sided, like a sandwich",
+    "type": "evocative",
+    "rating": 3
+   },
+   "EMBARRASS": {
+    "clue": "Make blush",
+    "type": "definition",
+    "rating": 3
+   },
+   "RESERVOIR": {
+    "clue": "___ Dogs, or a water store",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "POISONOUS": {
+    "clue": "Toxic",
+    "type": "definition",
+    "rating": 2
+   },
+   "TURBULENT": {
+    "clue": "Bumpy, like a flight",
+    "type": "definition",
+    "rating": 3
+   },
+   "BOULEVARD": {
+    "clue": "___ of Broken Dreams",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Long-word general round."
+  }
+ },
+ "G15": {
+  "theme": "Long Haul",
+  "category": "mixed",
+  "clues": {
+   "SATIRICAL": {
+    "clue": "Mocking with a point",
+    "type": "definition",
+    "rating": 3
+   },
+   "PROSPEROUS": {
+    "clue": "Thriving financially",
+    "type": "definition",
+    "rating": 2
+   },
+   "TELEPHONE": {
+    "clue": "Party game of whispered errors",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "MISSIONARY": {
+    "clue": "Preacher sent abroad",
+    "type": "definition",
+    "rating": 3
+   },
+   "ANTIBIOTIC": {
+    "clue": "Penicillin, e.g.",
+    "type": "definition",
+    "rating": 3
+   },
+   "THEATRICAL": {
+    "clue": "Over-dramatic",
+    "type": "definition",
+    "rating": 3
+   },
+   "ULTRASOUND": {
+    "clue": "Baby's first picture",
+    "type": "evocative",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Long-word general round."
+  }
+ },
+ "G16": {
+  "theme": "Long Haul",
+  "category": "mixed",
+  "clues": {
+   "ASTRONOMY": {
+    "clue": "Science of the stars",
+    "type": "definition",
+    "rating": 2
+   },
+   "SANCTUARY": {
+    "clue": "Safe haven",
+    "type": "definition",
+    "rating": 2
+   },
+   "SKEPTICAL": {
+    "clue": "Doubting, like Thomas",
+    "type": "evocative",
+    "rating": 3
+   },
+   "DESPICABLE": {
+    "clue": "___ Me, with Minions",
+    "type": "trivia",
+    "rating": 4
+   },
+   "AUTOGRAPH": {
+    "clue": "Star's scribble for fans",
+    "type": "definition",
+    "rating": 3
+   },
+   "ARTIFICIAL": {
+    "clue": "Man-made",
+    "type": "definition",
+    "rating": 2
+   },
+   "REBELLION": {
+    "clue": "Uprising",
+    "type": "definition",
+    "rating": 2
+   }
+  },
+  "critique": {
+   "notes": "Long-word general round."
+  }
+ },
+ "G17": {
+  "theme": "Long Haul",
+  "category": "mixed",
+  "clues": {
+   "MECHANICAL": {
+    "clue": "Gear-driven, or rote",
+    "type": "wordplay",
+    "rating": 3
+   },
+   "GEOMETRIC": {
+    "clue": "Angular, like a pattern",
+    "type": "definition",
+    "rating": 3
+   },
+   "FICTIONAL": {
+    "clue": "Made up",
+    "type": "definition",
+    "rating": 2
+   },
+   "NOSTALGIA": {
+    "clue": "Longing for the good old days",
+    "type": "definition",
+    "rating": 3
+   },
+   "IMMACULATE": {
+    "clue": "Spotless",
+    "type": "definition",
+    "rating": 2
+   },
+   "COURAGEOUS": {
+    "clue": "Brave",
+    "type": "definition",
+    "rating": 2
+   },
+   "CELESTIAL": {
+    "clue": "Heavenly",
+    "type": "definition",
+    "rating": 2
+   }
+  },
+  "critique": {
+   "notes": "Long-word general round."
+  }
+ },
+ "G18": {
+  "theme": "Long Haul",
+  "category": "mixed",
+  "clues": {
+   "FORMIDABLE": {
+    "clue": "Dauntingly impressive",
+    "type": "definition",
+    "rating": 3
+   },
+   "PETROLEUM": {
+    "clue": "Crude oil",
+    "type": "definition",
+    "rating": 2
+   },
+   "SPECTATOR": {
+    "clue": "Watcher in the stands",
+    "type": "definition",
+    "rating": 3
+   },
+   "REPERTOIRE": {
+    "clue": "Pieces a performer knows",
+    "type": "definition",
+    "rating": 3
+   },
+   "COMPRESSOR": {
+    "clue": "Fridge's squeezing part",
+    "type": "definition",
+    "rating": 3
+   },
+   "PREMATURE": {
+    "clue": "Too early",
+    "type": "definition",
+    "rating": 2
+   },
+   "DESPERATE": {
+    "clue": "___ Housewives",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Long-word general round."
+  }
+ },
+ "G19": {
+  "theme": "Long Haul",
+  "category": "mixed",
+  "clues": {
+   "DOCTORATE": {
+    "clue": "PhD",
+    "type": "definition",
+    "rating": 2
+   },
+   "MYSTERIOUS": {
+    "clue": "Enigmatic",
+    "type": "definition",
+    "rating": 2
+   },
+   "SYNAGOGUE": {
+    "clue": "Jewish house of worship",
+    "type": "definition",
+    "rating": 2
+   },
+   "SOLICITOR": {
+    "clue": "British lawyer",
+    "type": "definition",
+    "rating": 3
+   },
+   "MICROPHONE": {
+    "clue": "Thing a rapper drops",
+    "type": "evocative",
+    "rating": 4
+   },
+   "SYNTHETIC": {
+    "clue": "Man-made, like nylon",
+    "type": "definition",
+    "rating": 3
+   },
+   "QUARANTINE": {
+    "clue": "Forty-day isolation, originally",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Long-word general round."
+  }
+ },
+ "G20": {
+  "theme": "Long Haul",
+  "category": "mixed",
+  "clues": {
+   "ARTHRITIS": {
+    "clue": "Joint pain",
+    "type": "pun",
+    "rating": 3
+   },
+   "MICROWAVE": {
+    "clue": "Popcorn zapper",
+    "type": "definition",
+    "rating": 3
+   },
+   "MESSENGER": {
+    "clue": "Don't shoot this person",
+    "type": "trivia",
+    "rating": 4
+   },
+   "PILGRIMAGE": {
+    "clue": "Journey to Mecca, e.g.",
+    "type": "definition",
+    "rating": 3
+   },
+   "PERIPHERAL": {
+    "clue": "On the edges, like vision",
+    "type": "definition",
+    "rating": 3
+   },
+   "HEREDITARY": {
+    "clue": "In the genes",
+    "type": "pun",
+    "rating": 3
+   },
+   "DENTISTRY": {
+    "clue": "Drilling for a living",
+    "type": "pun",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Long-word general round."
+  }
+ },
+ "A02": {
+  "theme": "Taskmaster: Series 5-9",
+  "category": "themed",
+  "clues": {
+   "AISLINGBEA": {
+    "clue": "Irish comic of series 5, in full",
+    "type": "trivia",
+    "rating": 3
+   },
+   "NISHKUMAR": {
+    "clue": "Series 5's Mash Report host, in full",
+    "type": "trivia",
+    "rating": 3
+   },
+   "STIRLING": {
+    "clue": "Iain of series 8, Love Island's voice",
+    "type": "trivia",
+    "rating": 4
+   },
+   "ACASTER": {
+    "clue": "James of series 7, a fan favourite",
+    "type": "trivia",
+    "rating": 3
+   },
+   "MATAFEO": {
+    "clue": "Rose of series 9, a Kiwi",
+    "type": "trivia",
+    "rating": 3
+   },
+   "WATSON": {
+    "clue": "Mark of series 5, or Sherlock's sidekick",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "LEVINE": {
+    "clue": "Alice of series 6, Radio 1 presenter",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "B08": {
+  "theme": "Star Trek: Cast and Crew",
+  "category": "themed",
+  "clues": {
+   "COLMMEANEY": {
+    "clue": "O'Brien's actor, in full",
+    "type": "trivia",
+    "rating": 4
+   },
+   "MONTALBAN": {
+    "clue": "Ricardo who played Khan",
+    "type": "trivia",
+    "rating": 4
+   },
+   "SHIMERMAN": {
+    "clue": "Armin under Quark's ears",
+    "type": "trivia",
+    "rating": 4
+   },
+   "DEFOREST": {
+    "clue": "Mr Kelley's first name",
+    "type": "trivia",
+    "rating": 4
+   },
+   "SHATNER": {
+    "clue": "Kirk's actor, spoken-word crooner",
+    "type": "trivia",
+    "rating": 3
+   },
+   "PICARDO": {
+    "clue": "Robert, Voyager's Doctor",
+    "type": "trivia",
+    "rating": 4
+   },
+   "VISITOR": {
+    "clue": "Nana, who played Kira",
+    "type": "wordplay",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "C03": {
+  "theme": "They Might Be Giants: Here Comes Science",
+  "category": "themed",
+  "clues": {
+   "INCANDESCE": {
+    "clue": "Glow, like the sun's gas in song",
+    "type": "trivia",
+    "rating": 4
+   },
+   "ELECTRIC": {
+    "clue": "___ Car, a Here Comes Science track",
+    "type": "trivia",
+    "rating": 3
+   },
+   "COMPUTER": {
+    "clue": "___ Assisted Design, a science song",
+    "type": "trivia",
+    "rating": 3
+   },
+   "SHOOTING": {
+    "clue": "What Is a ___ Star?",
+    "type": "trivia",
+    "rating": 4
+   },
+   "FURNACE": {
+    "clue": "The sun's a gigantic nuclear one",
+    "type": "trivia",
+    "rating": 4
+   },
+   "MIASMA": {
+    "clue": "The sun's a ___ of incandescent plasma",
+    "type": "trivia",
+    "rating": 5
+   },
+   "PLASMA": {
+    "clue": "Not gas after all, they sang back",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "C08": {
+  "theme": "They Might Be Giants: Letters and Numbers",
+  "category": "themed",
+  "clues": {
+   "SEVENDAYS": {
+    "clue": "___ of the Week, a lazy song",
+    "type": "trivia",
+    "rating": 4
+   },
+   "NINEBOWLS": {
+    "clue": "___ of Soup, a counting song",
+    "type": "trivia",
+    "rating": 4
+   },
+   "ALPHABET": {
+    "clue": "ABC, in full",
+    "type": "trivia",
+    "rating": 4
+   },
+   "NONAGON": {
+    "clue": "Nine-sided shape with its own song",
+    "type": "trivia",
+    "rating": 4
+   },
+   "NATIONS": {
+    "clue": "Alphabet of ___",
+    "type": "trivia",
+    "rating": 3
+   },
+   "TRIOPS": {
+    "clue": "Three-eyed critter of the 123s",
+    "type": "trivia",
+    "rating": 4
+   },
+   "ZEROES": {
+    "clue": "123s song about nothing much",
+    "type": "pun",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "D03": {
+  "theme": "Cosmere: Wax and Wayne",
+  "category": "themed",
+  "clues": {
+   "ALLOMANCER": {
+    "clue": "Metal-burner like Wax",
+    "type": "trivia",
+    "rating": 3
+   },
+   "VANISHERS": {
+    "clue": "Train-robbing gang in Alloy of Law",
+    "type": "trivia",
+    "rating": 4
+   },
+   "MOURNING": {
+    "clue": "The Bands of ___",
+    "type": "trivia",
+    "rating": 4
+   },
+   "IRONEYES": {
+    "clue": "Marsh's later, spiky alias",
+    "type": "trivia",
+    "rating": 4
+   },
+   "ELENDEL": {
+    "clue": "Basin city named for a king",
+    "type": "trivia",
+    "rating": 3
+   },
+   "RANETTE": {
+    "clue": "Gunsmith who'd gladly shoot Wayne",
+    "type": "trivia",
+    "rating": 4
+   },
+   "STERIS": {
+    "clue": "Wax's meticulous fianc\u00e9e",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "D05": {
+  "theme": "Cosmere: Roshar Lore",
+  "category": "themed",
+  "clues": {
+   "HONORSPREN": {
+    "clue": "Syl's kind",
+    "type": "trivia",
+    "rating": 3
+   },
+   "FABRIAL": {
+    "clue": "Gem-powered gadget",
+    "type": "trivia",
+    "rating": 3
+   },
+   "RADIANT": {
+    "clue": "Knight sworn to Ideals",
+    "type": "trivia",
+    "rating": 3
+   },
+   "SPHERES": {
+    "clue": "Glowing gem currency",
+    "type": "trivia",
+    "rating": 4
+   },
+   "LISTENER": {
+    "clue": "Parshendi's name for themselves",
+    "type": "trivia",
+    "rating": 4
+   },
+   "ALETHKAR": {
+    "clue": "Kholin kingdom",
+    "type": "trivia",
+    "rating": 3
+   },
+   "VORINISM": {
+    "clue": "Alethi faith of the Almighty",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "D06": {
+  "theme": "Cosmere: Shards and Realms",
+  "category": "themed",
+  "clues": {
+   "ADONALSIUM": {
+    "clue": "Original power, split sixteen ways",
+    "type": "trivia",
+    "rating": 4
+   },
+   "SHATTERING": {
+    "clue": "Event that made the Shards",
+    "type": "trivia",
+    "rating": 3
+   },
+   "ENDOWMENT": {
+    "clue": "Shard that gives Breath on Nalthis",
+    "type": "trivia",
+    "rating": 4
+   },
+   "INVENTION": {
+    "clue": "One of the sixteen, still unseen",
+    "type": "trivia",
+    "rating": 3
+   },
+   "COGNITIVE": {
+    "clue": "Realm where Shadesmar lies",
+    "type": "trivia",
+    "rating": 4
+   },
+   "SPIRITUAL": {
+    "clue": "Realm of the soul's true shape",
+    "type": "trivia",
+    "rating": 3
+   },
+   "AMBITION": {
+    "clue": "Splintered Shard Odium hunted",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "D08": {
+  "theme": "Cosmere: On the Shelf",
+  "category": "themed",
+  "clues": {
+   "EDGEDANCER": {
+    "clue": "Lift's novella, and her order",
+    "type": "trivia",
+    "rating": 4
+   },
+   "WHITESAND": {
+    "clue": "Graphic novel of Taldain's masters",
+    "type": "trivia",
+    "rating": 4
+   },
+   "SUNLITMAN": {
+    "clue": "Nomad's sunrise-dodging novel",
+    "type": "trivia",
+    "rating": 4
+   },
+   "RADIANCE": {
+    "clue": "Words of ___",
+    "type": "trivia",
+    "rating": 3
+   },
+   "SANDERSON": {
+    "clue": "Brandon, architect of it all",
+    "type": "trivia",
+    "rating": 3
+   },
+   "BRANDON": {
+    "clue": "The author, on a first-name basis",
+    "type": "trivia",
+    "rating": 2
+   },
+   "SHADOWS": {
+    "clue": "___ of Self",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "E01": {
+  "theme": "The Good Place: Staff and Neighbors",
+  "category": "themed",
+  "clues": {
+   "DONKEYDOUG": {
+    "clue": "Jason's dad, a fellow small-timer",
+    "type": "trivia",
+    "rating": 4
+   },
+   "KAMILAH": {
+    "clue": "Tahani's overachieving sister",
+    "type": "trivia",
+    "rating": 4
+   },
+   "HYPATIA": {
+    "clue": "Ancient sage in the real paradise",
+    "type": "trivia",
+    "rating": 4
+   },
+   "COMMITTEE": {
+    "clue": "The Good Place's paralyzed rulers",
+    "type": "trivia",
+    "rating": 4
+   },
+   "WHEATON": {
+    "clue": "John, gossip-blogging neighbor",
+    "type": "trivia",
+    "rating": 3
+   },
+   "NORWALK": {
+    "clue": "Brent, the entitled neighbor",
+    "type": "trivia",
+    "rating": 3
+   },
+   "MINDY": {
+    "clue": "St. Claire of the Medium Place",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "E02": {
+  "theme": "The Good Place: Cast and Characters",
+  "category": "themed",
+  "clues": {
+   "RETIREMENT": {
+    "clue": "Michael's dreaded fate: eternal shrieking",
+    "type": "trivia",
+    "rating": 5
+   },
+   "ADAMSCOTT": {
+    "clue": "Trevor's portrayer, Parks and Rec's Ben",
+    "type": "trivia",
+    "rating": 4
+   },
+   "JAMEELA": {
+    "clue": "Ms Jamil, our Tahani",
+    "type": "trivia",
+    "rating": 3
+   },
+   "CARDEN": {
+    "clue": "D'Arcy, Janet in every form",
+    "type": "trivia",
+    "rating": 4
+   },
+   "HARPER": {
+    "clue": "William Jackson ___, Chidi",
+    "type": "trivia",
+    "rating": 3
+   },
+   "TREVOR": {
+    "clue": "Obnoxious demon from the welcome committee",
+    "type": "trivia",
+    "rating": 4
+   },
+   "BOWTIE": {
+    "clue": "Michael's signature neckwear",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "E03": {
+  "theme": "The Good Place: Afterlife Admin",
+  "category": "themed",
+  "clues": {
+   "ACCOUNTANT": {
+    "clue": "Point-tallier in the back office",
+    "type": "trivia",
+    "rating": 4
+   },
+   "BADPLACE": {
+    "clue": "Where the torture happens, officially",
+    "type": "trivia",
+    "rating": 3
+   },
+   "TIMELINE": {
+    "clue": "Jeremy Bearimy, technically",
+    "type": "trivia",
+    "rating": 4
+   },
+   "ETERNITY": {
+    "clue": "How long paradise lasts, in theory",
+    "type": "trivia",
+    "rating": 3
+   },
+   "BEARIMY": {
+    "clue": "Jeremy ___, afterlife time",
+    "type": "trivia",
+    "rating": 5
+   },
+   "TROLLEY": {
+    "clue": "Problem Michael made literal",
+    "type": "trivia",
+    "rating": 4
+   },
+   "MEDIUM": {
+    "clue": "___ Place, Mindy's limbo",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "E08": {
+  "theme": "The Good Place: Back on Earth",
+  "category": "themed",
+  "clues": {
+   "UNIVERSITY": {
+    "clue": "Where Chidi lectured in Sydney",
+    "type": "trivia",
+    "rating": 3
+   },
+   "PARKINGLOT": {
+    "clue": "Scene of Eleanor's fatal cart pile-up",
+    "type": "trivia",
+    "rating": 4
+   },
+   "SALESWOMAN": {
+    "clue": "Eleanor's job, hawking fake meds",
+    "type": "trivia",
+    "rating": 4
+   },
+   "SENEGAL": {
+    "clue": "Where Chidi grew up",
+    "type": "trivia",
+    "rating": 3
+   },
+   "ARIZONA": {
+    "clue": "Eleanor's home state",
+    "type": "trivia",
+    "rating": 3
+   },
+   "CALGARY": {
+    "clue": "Doug Forcett's Canadian base",
+    "type": "trivia",
+    "rating": 4
+   },
+   "LONDON": {
+    "clue": "Tahani's posh stomping ground",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "F01": {
+  "theme": "Project Hail Mary: Earth Team",
+  "category": "themed",
+  "clues": {
+   "SPECIALIST": {
+    "clue": "Grace's crew role: science ___",
+    "type": "trivia",
+    "rating": 3
+   },
+   "TAIKONAUT": {
+    "clue": "What Commander Yao is",
+    "type": "trivia",
+    "rating": 4
+   },
+   "COSMONAUT": {
+    "clue": "What Ilyukhina is",
+    "type": "trivia",
+    "rating": 3
+   },
+   "DIMITRI": {
+    "clue": "Russian behind the spin drive",
+    "type": "trivia",
+    "rating": 3
+   },
+   "DUBOIS": {
+    "clue": "Original science lead, lost in a blast",
+    "type": "trivia",
+    "rating": 3
+   },
+   "LOKKEN": {
+    "clue": "Norwegian who designed the ship",
+    "type": "trivia",
+    "rating": 3
+   },
+   "REDELL": {
+    "clue": "Disgraced engineer of the Sahara farm",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "F02": {
+  "theme": "Project Hail Mary: Eridians",
+  "category": "themed",
+  "clues": {
+   "ECHOLOCATE": {
+    "clue": "How Rocky 'sees'",
+    "type": "trivia",
+    "rating": 4
+   },
+   "TRANSLATOR": {
+    "clue": "Grace's laptop, turned Eridian ___",
+    "type": "trivia",
+    "rating": 4
+   },
+   "PENTAGONAL": {
+    "clue": "Shape of Rocky's shell",
+    "type": "trivia",
+    "rating": 4
+   },
+   "XENONITE": {
+    "clue": "Eridian wonder-material",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CARAPACE": {
+    "clue": "Rocky's rocky shell",
+    "type": "pun",
+    "rating": 4
+   },
+   "MUSICAL": {
+    "clue": "Like Eridian speech",
+    "type": "trivia",
+    "rating": 4
+   },
+   "AMAZE": {
+    "clue": "Rocky's triple-stacked exclamation",
+    "type": "trivia",
+    "rating": 5
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "F06": {
+  "theme": "Project Hail Mary: Page to Screen",
+  "category": "themed",
+  "clues": {
+   "LORDMILLER": {
+    "clue": "Directing duo, as one",
+    "type": "trivia",
+    "rating": 4
+   },
+   "MATTDAMON": {
+    "clue": "Star of Weir's first film adaptation",
+    "type": "trivia",
+    "rating": 4
+   },
+   "MARTIAN": {
+    "clue": "The ___, Weir's breakout",
+    "type": "trivia",
+    "rating": 3
+   },
+   "ARTEMIS": {
+    "clue": "Weir's moon-city heist novel",
+    "type": "trivia",
+    "rating": 4
+   },
+   "HULLER": {
+    "clue": "Sandra, the film's Stratt",
+    "type": "trivia",
+    "rating": 4
+   },
+   "WATNEY": {
+    "clue": "Weir's potato-growing hero",
+    "type": "trivia",
+    "rating": 4
+   },
+   "PUPPET": {
+    "clue": "How Rocky came to the screen",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ }
+}

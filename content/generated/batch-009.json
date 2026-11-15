@@ -1,0 +1,2044 @@
+[
+  {
+    "id": "round271",
+    "title": "Round 271",
+    "theme": "Landmark Experiments",
+    "clueAnswers": [
+      {
+        "clue": "His oil drops weighed electric charge",
+        "answer": "MILLIKAN",
+        "chunkTexts": [
+          "MIL",
+          "LIK",
+          "AN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "Ring a bell? His dogs drooled",
+        "answer": "PAVLOV",
+        "chunkTexts": [
+          "PAV",
+          "LOV"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "With Morley, found no ether wind",
+        "answer": "MICHELSON",
+        "chunkTexts": [
+          "MIC",
+          "HEL",
+          "SON"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Weighed the Earth with a torsion bar",
+        "answer": "CAVENDISH",
+        "chunkTexts": [
+          "CAV",
+          "END",
+          "ISH"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "Swan-neck flasks killed spontaneous life",
+        "answer": "PASTEUR",
+        "chunkTexts": [
+          "PAS",
+          "TEUR"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "Shocking 1960s obedience study",
+        "answer": "MILGRAM",
+        "chunkTexts": [
+          "MIL",
+          "GRAM"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "His 1919 eclipse made Einstein a star",
+        "answer": "EDDINGTON",
+        "chunkTexts": [
+          "ED",
+          "DING",
+          "TON"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-009",
+    "category": "themed",
+    "candidateId": "S04",
+    "scores": {
+      "decoys": 5.6,
+      "tempting_pairs": 2.0,
+      "shared_fragments": 7.5,
+      "anchor_balance": 7.2,
+      "shape": 10.4,
+      "word_appeal": 14.0,
+      "penalties": -11.5,
+      "structure": 35.3,
+      "clue_rating": 30.0,
+      "clue_variety": 4.0,
+      "clue_puns": 9.0,
+      "clue_penalties": 0.0,
+      "clues": 43.0,
+      "structure_scaled": 22.1,
+      "total": 65.1
+    }
+  },
+  {
+    "id": "round272",
+    "title": "Round 272",
+    "theme": "Plant Anatomy",
+    "clueAnswers": [
+      {
+        "clue": "Flower's manly bit, anther and all",
+        "answer": "STAMEN",
+        "chunkTexts": [
+          "STA",
+          "MEN"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Growing tip where plant cells divide",
+        "answer": "MERISTEM",
+        "chunkTexts": [
+          "MER",
+          "IS",
+          "TEM"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Waxy leaf coat, or nail edge",
+        "answer": "CUTICLE",
+        "chunkTexts": [
+          "CUT",
+          "ICLE"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 5
+      },
+      {
+        "clue": "Flower's base, or a bin",
+        "answer": "RECEPTACLE",
+        "chunkTexts": [
+          "REC",
+          "EPT",
+          "ACLE"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Pea plant's curly grappling hook",
+        "answer": "TENDRIL",
+        "chunkTexts": [
+          "TEN",
+          "DRIL"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Outer cell layer, leaf or yours",
+        "answer": "EPIDERMIS",
+        "chunkTexts": [
+          "EPI",
+          "DER",
+          "MIS"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Water pipeline from roots to leaves",
+        "answer": "XYLEM",
+        "chunkTexts": [
+          "XY",
+          "LEM"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-009",
+    "category": "themed",
+    "candidateId": "S02",
+    "scores": {
+      "decoys": 1.7,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 8.8,
+      "anchor_balance": 6.9,
+      "shape": 9.1,
+      "word_appeal": 14.0,
+      "penalties": -11.5,
+      "structure": 29.4,
+      "clue_rating": 24.6,
+      "clue_variety": 8.0,
+      "clue_puns": 9.0,
+      "clue_penalties": 0.0,
+      "clues": 41.6,
+      "structure_scaled": 18.4,
+      "total": 60.0
+    }
+  },
+  {
+    "id": "round273",
+    "title": "Round 273",
+    "theme": "Organic Chemistry",
+    "clueAnswers": [
+      {
+        "clue": "Fruity-breath compound of fat-burning",
+        "answer": "KETONE",
+        "chunkTexts": [
+          "KET",
+          "ONE"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Same formula, different arrangement",
+        "answer": "ISOMER",
+        "chunkTexts": [
+          "ISO",
+          "MER"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Like benzene: stable, and often smelly",
+        "answer": "AROMATIC",
+        "chunkTexts": [
+          "ARO",
+          "MA",
+          "TIC"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Wood alcohol, moonshine's blinding risk",
+        "answer": "METHANOL",
+        "chunkTexts": [
+          "MET",
+          "HAN",
+          "OL"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "Nail polish remover",
+        "answer": "ACETONE",
+        "chunkTexts": [
+          "ACET",
+          "ONE"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Thalidomide's tragic mirror twin",
+        "answer": "ENANTIOMER",
+        "chunkTexts": [
+          "ENAN",
+          "TIO",
+          "MER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Three-carbon grill fuel",
+        "answer": "PROPANE",
+        "chunkTexts": [
+          "PROP",
+          "ANE"
+        ],
+        "clueType": "definition",
+        "clueRating": 5
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-009",
+    "category": "themed",
+    "candidateId": "S07",
+    "scores": {
+      "decoys": 1.9,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 10.0,
+      "anchor_balance": 7.2,
+      "shape": 9.1,
+      "word_appeal": 12.5,
+      "penalties": -12.1,
+      "structure": 28.6,
+      "clue_rating": 26.8,
+      "clue_variety": 8.0,
+      "clue_puns": 6.0,
+      "clue_penalties": 0.0,
+      "clues": 40.8,
+      "structure_scaled": 17.9,
+      "total": 58.7
+    }
+  },
+  {
+    "id": "round274",
+    "title": "Round 274",
+    "theme": "Measuring Instruments",
+    "clueAnswers": [
+      {
+        "clue": "Proof it's the humidity",
+        "answer": "HYGROMETER",
+        "chunkTexts": [
+          "HYG",
+          "ROM",
+          "ETER"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Navigator's arc, a sixth of a circle",
+        "answer": "SEXTANT",
+        "chunkTexts": [
+          "SEX",
+          "TANT"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Surveyor's angle-taker on a tripod",
+        "answer": "THEODOLITE",
+        "chunkTexts": [
+          "THEO",
+          "DOL",
+          "ITE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Medieval brass star calculator",
+        "answer": "ASTROLABE",
+        "chunkTexts": [
+          "AST",
+          "ROL",
+          "ABE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Spinner that won't be pushed around",
+        "answer": "GYROSCOPE",
+        "chunkTexts": [
+          "GY",
+          "ROS",
+          "COPE"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Screw gauge for very fine distinctions",
+        "answer": "MICROMETER",
+        "chunkTexts": [
+          "MIC",
+          "ROM",
+          "ETER"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Lung gauge for those who blow hard",
+        "answer": "SPIROMETER",
+        "chunkTexts": [
+          "SPIR",
+          "OME",
+          "TER"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-009",
+    "category": "themed",
+    "candidateId": "S05",
+    "scores": {
+      "decoys": 3.3,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 10.0,
+      "anchor_balance": 7.1,
+      "shape": 9.0,
+      "word_appeal": 14.0,
+      "penalties": -14.4,
+      "structure": 29.0,
+      "clue_rating": 20.4,
+      "clue_variety": 8.0,
+      "clue_puns": 12.0,
+      "clue_penalties": 0.0,
+      "clues": 40.4,
+      "structure_scaled": 18.1,
+      "total": 58.5
+    }
+  },
+  {
+    "id": "round275",
+    "title": "Round 275",
+    "theme": "Thermodynamics",
+    "clueAnswers": [
+      {
+        "clue": "No heat in or out, by definition",
+        "answer": "ADIABATIC",
+        "chunkTexts": [
+          "ADI",
+          "ABA",
+          "TIC"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Keeping its cool, steadily",
+        "answer": "ISOTHERMAL",
+        "chunkTexts": [
+          "ISO",
+          "THER",
+          "MAL"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Why hot soup churns in the pot",
+        "answer": "CONVECTION",
+        "chunkTexts": [
+          "CON",
+          "VEC",
+          "TION"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Why a metal spoon burns your hand",
+        "answer": "CONDUCTION",
+        "chunkTexts": [
+          "CON",
+          "DUCT",
+          "ION"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Under unchanging pressure",
+        "answer": "ISOBARIC",
+        "chunkTexts": [
+          "ISO",
+          "BA",
+          "RIC"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Giving off heat, like a hand warmer",
+        "answer": "EXOTHERMIC",
+        "chunkTexts": [
+          "EXO",
+          "THER",
+          "MIC"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Hidden heat that melts ice silently",
+        "answer": "LATENT",
+        "chunkTexts": [
+          "LAT",
+          "ENT"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-009",
+    "category": "themed",
+    "candidateId": "S11",
+    "scores": {
+      "decoys": 5.5,
+      "tempting_pairs": 1.2,
+      "shared_fragments": 10.0,
+      "anchor_balance": 7.3,
+      "shape": 12.0,
+      "word_appeal": 14.0,
+      "penalties": -7.3,
+      "structure": 42.7,
+      "clue_rating": 20.4,
+      "clue_variety": 8.0,
+      "clue_puns": 3.0,
+      "clue_penalties": 0.0,
+      "clues": 31.4,
+      "structure_scaled": 26.7,
+      "total": 58.1
+    }
+  },
+  {
+    "id": "round276",
+    "title": "Round 276",
+    "theme": "Immune System",
+    "clueAnswers": [
+      {
+        "clue": "Molecular ID badge that raises alarms",
+        "answer": "ANTIGEN",
+        "chunkTexts": [
+          "ANTI",
+          "GEN"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "'Big eater,' per the Greek",
+        "answer": "MACROPHAGE",
+        "chunkTexts": [
+          "MAC",
+          "ROPH",
+          "AGE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "Sneezy signal from mast cells",
+        "answer": "HISTAMINE",
+        "chunkTexts": [
+          "HIS",
+          "TAM",
+          "INE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "Antiviral signal named for meddling",
+        "answer": "INTERFERON",
+        "chunkTexts": [
+          "INT",
+          "ERFE",
+          "RON"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Gland where T cells finish school",
+        "answer": "THYMUS",
+        "chunkTexts": [
+          "THY",
+          "MUS"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "What a vaccine aims to give",
+        "answer": "IMMUNITY",
+        "chunkTexts": [
+          "IM",
+          "MUN",
+          "ITY"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Pollen, to a hay fever sufferer",
+        "answer": "ALLERGEN",
+        "chunkTexts": [
+          "ALL",
+          "ER",
+          "GEN"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-009",
+    "category": "themed",
+    "candidateId": "S13",
+    "scores": {
+      "decoys": 5.0,
+      "tempting_pairs": 2.4,
+      "shared_fragments": 5.0,
+      "anchor_balance": 7.1,
+      "shape": 11.7,
+      "word_appeal": 12.6,
+      "penalties": -11.6,
+      "structure": 32.3,
+      "clue_rating": 26.8,
+      "clue_variety": 8.0,
+      "clue_puns": 3.0,
+      "clue_penalties": 0.0,
+      "clues": 37.8,
+      "structure_scaled": 20.2,
+      "total": 58.0
+    }
+  },
+  {
+    "id": "round277",
+    "title": "Round 277",
+    "theme": "Microbiology",
+    "clueAnswers": [
+      {
+        "clue": "Rod-shaped bug, anthrax included",
+        "answer": "BACILLUS",
+        "chunkTexts": [
+          "BAC",
+          "ILL",
+          "US"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Bacterial DNA ring, freely swapped",
+        "answer": "PLASMID",
+        "chunkTexts": [
+          "PLAS",
+          "MID"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Microbe's whiplike outboard motor",
+        "answer": "FLAGELLUM",
+        "chunkTexts": [
+          "FLA",
+          "GEL",
+          "LUM"
+        ],
+        "clueType": "evocative",
+        "clueRating": 5
+      },
+      {
+        "clue": "Germ with a bad attitude",
+        "answer": "PATHOGEN",
+        "chunkTexts": [
+          "PAT",
+          "HO",
+          "GEN"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Corkscrew germ behind Lyme disease",
+        "answer": "SPIROCHETE",
+        "chunkTexts": [
+          "SPIR",
+          "OCH",
+          "ETE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "Fleming's moldy lucky break, 1928",
+        "answer": "PENICILLIN",
+        "chunkTexts": [
+          "PENI",
+          "CIL",
+          "LIN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "Cell with no nucleus to call home",
+        "answer": "PROKARYOTE",
+        "chunkTexts": [
+          "PRO",
+          "KAR",
+          "YOTE"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-009",
+    "category": "themed",
+    "candidateId": "S09",
+    "scores": {
+      "decoys": 1.2,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 1.2,
+      "anchor_balance": 7.4,
+      "shape": 11.0,
+      "word_appeal": 14.0,
+      "penalties": -12.7,
+      "structure": 22.5,
+      "clue_rating": 28.9,
+      "clue_variety": 8.0,
+      "clue_puns": 6.0,
+      "clue_penalties": 0.0,
+      "clues": 42.9,
+      "structure_scaled": 14.1,
+      "total": 57.0
+    }
+  },
+  {
+    "id": "round278",
+    "title": "Round 278",
+    "theme": "Particle Zoo",
+    "clueAnswers": [
+      {
+        "clue": "Quark-built; the H in LHC",
+        "answer": "HADRON",
+        "chunkTexts": [
+          "HAD",
+          "RON"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "Electron's clan; Greek for 'slight'",
+        "answer": "LEPTON",
+        "chunkTexts": [
+          "LEP",
+          "TON"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Half-spin particle named for Enrico",
+        "answer": "FERMION",
+        "chunkTexts": [
+          "FERM",
+          "ION"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Antielectron Anderson spotted in 1932",
+        "answer": "POSITRON",
+        "chunkTexts": [
+          "POS",
+          "IT",
+          "RON"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Hypothetical bit that keeps you grounded",
+        "answer": "GRAVITON",
+        "chunkTexts": [
+          "GRA",
+          "VIT",
+          "ON"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Hypothetical speedster, faster than light",
+        "answer": "TACHYON",
+        "chunkTexts": [
+          "TACH",
+          "YON"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Smasher in a 27 km ring",
+        "answer": "COLLIDER",
+        "chunkTexts": [
+          "COL",
+          "LI",
+          "DER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-009",
+    "category": "themed",
+    "candidateId": "S01",
+    "scores": {
+      "decoys": 7.0,
+      "tempting_pairs": 1.2,
+      "shared_fragments": 10.0,
+      "anchor_balance": 6.7,
+      "shape": 8.1,
+      "word_appeal": 14.0,
+      "penalties": -14.9,
+      "structure": 32.1,
+      "clue_rating": 24.6,
+      "clue_variety": 8.0,
+      "clue_puns": 3.0,
+      "clue_penalties": 0.0,
+      "clues": 35.6,
+      "structure_scaled": 20.1,
+      "total": 55.7
+    }
+  },
+  {
+    "id": "round279",
+    "title": "Round 279",
+    "theme": "Fossil Record",
+    "clueAnswers": [
+      {
+        "clue": "Three-lobed Paleozoic sea bug",
+        "answer": "TRILOBITE",
+        "chunkTexts": [
+          "TRI",
+          "LOB",
+          "ITE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Fossilized number two",
+        "answer": "COPROLITE",
+        "chunkTexts": [
+          "COP",
+          "ROL",
+          "ITE"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "Gizzard stone swallowed by sauropods",
+        "answer": "GASTROLITH",
+        "chunkTexts": [
+          "GAS",
+          "TROL",
+          "ITH"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Flying reptile, not technically a dinosaur",
+        "answer": "PTEROSAUR",
+        "chunkTexts": [
+          "PTE",
+          "ROS",
+          "AUR"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "Period of the animal 'explosion'",
+        "answer": "CAMBRIAN",
+        "chunkTexts": [
+          "CAM",
+          "BRI",
+          "AN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Period that opened the dinosaur show",
+        "answer": "TRIASSIC",
+        "chunkTexts": [
+          "TRI",
+          "AS",
+          "SIC"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Fossil resin, Jurassic Park's DNA vault",
+        "answer": "AMBER",
+        "chunkTexts": [
+          "AMB",
+          "ER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-009",
+    "category": "themed",
+    "candidateId": "S06",
+    "scores": {
+      "decoys": 2.0,
+      "tempting_pairs": 0.8,
+      "shared_fragments": 10.0,
+      "anchor_balance": 7.3,
+      "shape": 12.0,
+      "word_appeal": 13.2,
+      "penalties": -14.9,
+      "structure": 30.4,
+      "clue_rating": 28.9,
+      "clue_variety": 4.0,
+      "clue_puns": 3.0,
+      "clue_penalties": 0.0,
+      "clues": 35.9,
+      "structure_scaled": 19.0,
+      "total": 54.9
+    }
+  },
+  {
+    "id": "round280",
+    "title": "Round 280",
+    "theme": "Eponymous Units",
+    "clueAnswers": [
+      {
+        "clue": "Scale where water freezes at 32",
+        "answer": "FAHRENHEIT",
+        "chunkTexts": [
+          "FAH",
+          "REN",
+          "HEIT"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "X-ray pioneer, and an old dose unit",
+        "answer": "ROENTGEN",
+        "chunkTexts": [
+          "RO",
+          "ENT",
+          "GEN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "One decay per second, named for Henri",
+        "answer": "BECQUEREL",
+        "chunkTexts": [
+          "BEC",
+          "QUE",
+          "REL"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "Charge of 6.24 quintillion electrons",
+        "answer": "COULOMB",
+        "chunkTexts": [
+          "COUL",
+          "OMB"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Radiation dose unit with a Swedish name",
+        "answer": "SIEVERT",
+        "chunkTexts": [
+          "SIE",
+          "VERT"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Unit keeping current with a Frenchman",
+        "answer": "AMPERE",
+        "chunkTexts": [
+          "AMP",
+          "ERE"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Force unit; a small apple's weight",
+        "answer": "NEWTON",
+        "chunkTexts": [
+          "NEW",
+          "TON"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-009",
+    "category": "themed",
+    "candidateId": "S08",
+    "scores": {
+      "decoys": 0.0,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 2.5,
+      "anchor_balance": 6.4,
+      "shape": 10.0,
+      "word_appeal": 13.2,
+      "penalties": -10.3,
+      "structure": 21.8,
+      "clue_rating": 26.8,
+      "clue_variety": 8.0,
+      "clue_puns": 6.0,
+      "clue_penalties": 0.0,
+      "clues": 40.8,
+      "structure_scaled": 13.6,
+      "total": 54.4
+    }
+  },
+  {
+    "id": "round281",
+    "title": "Round 281",
+    "theme": "Neuroscience",
+    "clueAnswers": [
+      {
+        "clue": "About 86 billion live upstairs",
+        "answer": "NEURON",
+        "chunkTexts": [
+          "NEU",
+          "RON"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Gap where nerve cells pass notes",
+        "answer": "SYNAPSE",
+        "chunkTexts": [
+          "SYNA",
+          "PSE"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Branchy input; Greek for 'tree'",
+        "answer": "DENDRITE",
+        "chunkTexts": [
+          "DEN",
+          "DRI",
+          "TE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "Almond-shaped fear center",
+        "answer": "AMYGDALA",
+        "chunkTexts": [
+          "AMYG",
+          "DALA"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Mood chemical mostly made in the gut",
+        "answer": "SEROTONIN",
+        "chunkTexts": [
+          "SER",
+          "OTO",
+          "NIN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "'Inner room' relaying the senses",
+        "answer": "THALAMUS",
+        "chunkTexts": [
+          "THA",
+          "LA",
+          "MUS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Newest, wrinkliest layer upstairs",
+        "answer": "NEOCORTEX",
+        "chunkTexts": [
+          "NEO",
+          "COR",
+          "TEX"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-009",
+    "category": "themed",
+    "candidateId": "S03",
+    "scores": {
+      "decoys": 5.7,
+      "tempting_pairs": 0.8,
+      "shared_fragments": 1.2,
+      "anchor_balance": 3.9,
+      "shape": 10.4,
+      "word_appeal": 14.0,
+      "penalties": -11.5,
+      "structure": 24.6,
+      "clue_rating": 26.8,
+      "clue_variety": 8.0,
+      "clue_puns": 3.0,
+      "clue_penalties": 0.0,
+      "clues": 37.8,
+      "structure_scaled": 15.4,
+      "total": 53.2
+    }
+  },
+  {
+    "id": "round282",
+    "title": "Round 282",
+    "theme": "Quantum Weirdness",
+    "clueAnswers": [
+      {
+        "clue": "Uncertain fellow, or Walter White",
+        "answer": "HEISENBERG",
+        "chunkTexts": [
+          "HEI",
+          "SEN",
+          "BERG"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 5
+      },
+      {
+        "clue": "Passing through walls, quantum style",
+        "answer": "TUNNELING",
+        "chunkTexts": [
+          "TUN",
+          "NEL",
+          "ING"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Where a measurement leaves you",
+        "answer": "EIGENSTATE",
+        "chunkTexts": [
+          "EIG",
+          "ENS",
+          "TATE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Bongo-playing diagram drawer",
+        "answer": "FEYNMAN",
+        "chunkTexts": [
+          "FEYN",
+          "MAN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "Turns 720 degrees to get home",
+        "answer": "SPINOR",
+        "chunkTexts": [
+          "SPI",
+          "NOR"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "Link spookily at a distance",
+        "answer": "ENTANGLE",
+        "chunkTexts": [
+          "EN",
+          "TAN",
+          "GLE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Electron cloud, not really a path",
+        "answer": "ORBITAL",
+        "chunkTexts": [
+          "OR",
+          "BIT",
+          "AL"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-009",
+    "category": "themed",
+    "candidateId": "S15",
+    "scores": {
+      "decoys": 5.6,
+      "tempting_pairs": 1.6,
+      "shared_fragments": 2.5,
+      "anchor_balance": 7.0,
+      "shape": 10.7,
+      "word_appeal": 13.2,
+      "penalties": -16.0,
+      "structure": 24.6,
+      "clue_rating": 26.8,
+      "clue_variety": 8.0,
+      "clue_puns": 3.0,
+      "clue_penalties": 0.0,
+      "clues": 37.8,
+      "structure_scaled": 15.4,
+      "total": 53.2
+    }
+  },
+  {
+    "id": "round283",
+    "title": "Round 283",
+    "theme": "Mohs and Minerals",
+    "clueAnswers": [
+      {
+        "clue": "Mohs 2, hiding inside drywall",
+        "answer": "GYPSUM",
+        "chunkTexts": [
+          "GYP",
+          "SUM"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Mohs 3; fizzes in acid",
+        "answer": "CALCITE",
+        "chunkTexts": [
+          "CAL",
+          "CITE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Fool's gold",
+        "answer": "PYRITE",
+        "chunkTexts": [
+          "PYR",
+          "ITE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Lodestone's attractive mineral",
+        "answer": "MAGNETITE",
+        "chunkTexts": [
+          "MAG",
+          "NET",
+          "ITE"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Mohs 9: ruby and sapphire, really",
+        "answer": "CORUNDUM",
+        "chunkTexts": [
+          "COR",
+          "UN",
+          "DUM"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "Mohs 4; glows under UV",
+        "answer": "FLUORITE",
+        "chunkTexts": [
+          "FLU",
+          "ORI",
+          "TE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Hungry-sounding Mohs 5 mineral",
+        "answer": "APATITE",
+        "chunkTexts": [
+          "APA",
+          "TITE"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-009",
+    "category": "themed",
+    "candidateId": "S14",
+    "scores": {
+      "decoys": 2.7,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 5.0,
+      "anchor_balance": 7.0,
+      "shape": 10.0,
+      "word_appeal": 14.0,
+      "penalties": -13.5,
+      "structure": 25.2,
+      "clue_rating": 26.8,
+      "clue_variety": 4.0,
+      "clue_puns": 6.0,
+      "clue_penalties": 0.0,
+      "clues": 36.8,
+      "structure_scaled": 15.8,
+      "total": 52.6
+    }
+  },
+  {
+    "id": "round284",
+    "title": "Round 284",
+    "theme": "Natural Selection",
+    "clueAnswers": [
+      {
+        "clue": "When a lineage splits for good",
+        "answer": "SPECIATION",
+        "chunkTexts": [
+          "SPE",
+          "CIA",
+          "TION"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Finch islands named for tortoises",
+        "answer": "GALAPAGOS",
+        "chunkTexts": [
+          "GAL",
+          "APA",
+          "GOS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "Like your appendix, supposedly",
+        "answer": "VESTIGIAL",
+        "chunkTexts": [
+          "VES",
+          "TIG",
+          "IAL"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Evolution's family tree",
+        "answer": "PHYLOGENY",
+        "chunkTexts": [
+          "PHY",
+          "LOG",
+          "ENY"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "A common one links you and chimps",
+        "answer": "ANCESTOR",
+        "chunkTexts": [
+          "ANC",
+          "ES",
+          "TOR"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Giraffe-neck guy who got heredity wrong",
+        "answer": "LAMARCK",
+        "chunkTexts": [
+          "LAM",
+          "ARCK"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "His letter spurred Darwin to publish",
+        "answer": "WALLACE",
+        "chunkTexts": [
+          "WAL",
+          "LACE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-009",
+    "category": "themed",
+    "candidateId": "S10",
+    "scores": {
+      "decoys": 1.2,
+      "tempting_pairs": 0.8,
+      "shared_fragments": 3.8,
+      "anchor_balance": 6.8,
+      "shape": 12.0,
+      "word_appeal": 12.9,
+      "penalties": -10.0,
+      "structure": 27.5,
+      "clue_rating": 26.8,
+      "clue_variety": 8.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 34.8,
+      "structure_scaled": 17.2,
+      "total": 52.0
+    }
+  },
+  {
+    "id": "round285",
+    "title": "Round 285",
+    "theme": "Fungus Among Us",
+    "clueAnswers": [
+      {
+        "clue": "Underground web of the forest",
+        "answer": "MYCELIUM",
+        "chunkTexts": [
+          "MY",
+          "CEL",
+          "IUM"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Threads that weave a fungal mat",
+        "answer": "HYPHAE",
+        "chunkTexts": [
+          "HYP",
+          "HAE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Italian 'piglets,' a prized cep",
+        "answer": "PORCINI",
+        "chunkTexts": [
+          "PORC",
+          "INI"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "Mushroom grown on Japanese oak logs",
+        "answer": "SHIITAKE",
+        "chunkTexts": [
+          "SHI",
+          "ITA",
+          "KE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Fungal walls, crab shells",
+        "answer": "CHITIN",
+        "chunkTexts": [
+          "CHI",
+          "TIN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Death cap and fly agaric genus",
+        "answer": "AMANITA",
+        "chunkTexts": [
+          "AMAN",
+          "ITA"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Major for a fun guy",
+        "answer": "MYCOLOGY",
+        "chunkTexts": [
+          "MY",
+          "COL",
+          "OGY"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-009",
+    "category": "themed",
+    "candidateId": "S16",
+    "scores": {
+      "decoys": 0.0,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 7.5,
+      "anchor_balance": 6.8,
+      "shape": 8.1,
+      "word_appeal": 14.0,
+      "penalties": -15.6,
+      "structure": 20.8,
+      "clue_rating": 24.6,
+      "clue_variety": 8.0,
+      "clue_puns": 3.0,
+      "clue_penalties": 0.0,
+      "clues": 35.6,
+      "structure_scaled": 13.0,
+      "total": 48.6
+    }
+  },
+  {
+    "id": "round286",
+    "title": "Round 286",
+    "theme": "Oceanography",
+    "clueAnswers": [
+      {
+        "clue": "About 35 parts per thousand, at sea",
+        "answer": "SALINITY",
+        "chunkTexts": [
+          "SAL",
+          "IN",
+          "ITY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Sharp saltiness boundary underwater",
+        "answer": "HALOCLINE",
+        "chunkTexts": [
+          "HAL",
+          "OC",
+          "LINE"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Japanese for 'harbor wave'",
+        "answer": "TSUNAMI",
+        "chunkTexts": [
+          "TSUN",
+          "AMI"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "Effect falsely blamed for toilet swirls",
+        "answer": "CORIOLIS",
+        "chunkTexts": [
+          "COR",
+          "IO",
+          "LIS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "Plain dark, miles down",
+        "answer": "ABYSSAL",
+        "chunkTexts": [
+          "ABYS",
+          "SAL"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Trench hiding the Challenger Deep",
+        "answer": "MARIANA",
+        "chunkTexts": [
+          "MARI",
+          "ANA"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "Brackish spot where river meets tide",
+        "answer": "ESTUARY",
+        "chunkTexts": [
+          "EST",
+          "UARY"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-009",
+    "category": "themed",
+    "candidateId": "S12",
+    "scores": {
+      "decoys": 1.0,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 3.8,
+      "anchor_balance": 6.5,
+      "shape": 4.6,
+      "word_appeal": 13.0,
+      "penalties": -17.1,
+      "structure": 11.7,
+      "clue_rating": 28.9,
+      "clue_variety": 8.0,
+      "clue_puns": 3.0,
+      "clue_penalties": 0.0,
+      "clues": 39.9,
+      "structure_scaled": 7.3,
+      "total": 47.2
+    }
+  },
+  {
+    "id": "round287",
+    "title": "Round 287",
+    "theme": "Cosmology",
+    "clueAnswers": [
+      {
+        "clue": "His 1929 law: galaxies flee",
+        "answer": "HUBBLE",
+        "chunkTexts": [
+          "HUB",
+          "BLE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "A cosmos of cosmoses",
+        "answer": "MULTIVERSE",
+        "chunkTexts": [
+          "MUL",
+          "TIV",
+          "ERSE"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Blazing core fed by a black hole",
+        "answer": "QUASAR",
+        "chunkTexts": [
+          "QUA",
+          "SAR"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Priest who proposed the primeval atom",
+        "answer": "LEMAITRE",
+        "chunkTexts": [
+          "LEM",
+          "AI",
+          "TRE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "Event ___: point of no return",
+        "answer": "HORIZON",
+        "chunkTexts": [
+          "HORI",
+          "ZON"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Tiny unevenness in the CMB",
+        "answer": "ANISOTROPY",
+        "chunkTexts": [
+          "ANI",
+          "SOT",
+          "ROPY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Big Bang man of alpha-beta-gamma",
+        "answer": "GAMOW",
+        "chunkTexts": [
+          "GAM",
+          "OW"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-009",
+    "category": "themed",
+    "candidateId": "S18",
+    "scores": {
+      "decoys": 2.7,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 0.0,
+      "anchor_balance": 4.2,
+      "shape": 9.1,
+      "word_appeal": 14.0,
+      "penalties": -11.8,
+      "structure": 18.2,
+      "clue_rating": 24.6,
+      "clue_variety": 8.0,
+      "clue_puns": 3.0,
+      "clue_penalties": 0.0,
+      "clues": 35.6,
+      "structure_scaled": 11.4,
+      "total": 47.0
+    }
+  },
+  {
+    "id": "round288",
+    "title": "Round 288",
+    "theme": "Taxonomy",
+    "clueAnswers": [
+      {
+        "clue": "Chordata is one",
+        "answer": "PHYLUM",
+        "chunkTexts": [
+          "PHY",
+          "LUM"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Frog, newt or caecilian",
+        "answer": "AMPHIBIAN",
+        "chunkTexts": [
+          "AMP",
+          "HIB",
+          "IAN"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Swede who gave everything two names",
+        "answer": "LINNAEUS",
+        "chunkTexts": [
+          "LIN",
+          "NAE",
+          "US"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "Jointed-leg critter, like a crab",
+        "answer": "ARTHROPOD",
+        "chunkTexts": [
+          "AR",
+          "THRO",
+          "POD"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Animalia or Plantae, rank-wise",
+        "answer": "KINGDOM",
+        "chunkTexts": [
+          "KING",
+          "DOM"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Spiny-skinned starfish kin",
+        "answer": "ECHINODERM",
+        "chunkTexts": [
+          "ECH",
+          "INO",
+          "DERM"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Jellyfish, packing stinging cells",
+        "answer": "CNIDARIAN",
+        "chunkTexts": [
+          "CNI",
+          "DAR",
+          "IAN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-009",
+    "category": "themed",
+    "candidateId": "S20",
+    "scores": {
+      "decoys": 3.7,
+      "tempting_pairs": 1.2,
+      "shared_fragments": 2.5,
+      "anchor_balance": 6.6,
+      "shape": 11.7,
+      "word_appeal": 14.0,
+      "penalties": -11.5,
+      "structure": 28.2,
+      "clue_rating": 24.6,
+      "clue_variety": 4.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 28.6,
+      "structure_scaled": 17.6,
+      "total": 46.2
+    }
+  },
+  {
+    "id": "round289",
+    "title": "Round 289",
+    "theme": "Women in Science",
+    "clueAnswers": [
+      {
+        "clue": "Emilie du ___, Newton's translator",
+        "answer": "CHATELET",
+        "chunkTexts": [
+          "CHA",
+          "TEL",
+          "ET"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Rachel, whose Silent Spring rang alarms",
+        "answer": "CARSON",
+        "chunkTexts": [
+          "CAR",
+          "SON"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "Mary, polymath with an Oxford college",
+        "answer": "SOMERVILLE",
+        "chunkTexts": [
+          "SOM",
+          "ER",
+          "VIL",
+          "LE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Jane, chimp chronicler of Gombe",
+        "answer": "GOODALL",
+        "chunkTexts": [
+          "GOOD",
+          "ALL"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "Sophie, alias Monsieur LeBlanc",
+        "answer": "GERMAIN",
+        "chunkTexts": [
+          "GERM",
+          "AIN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "Jocelyn Bell ___, pulsar finder",
+        "answer": "BURNELL",
+        "chunkTexts": [
+          "BURN",
+          "ELL"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "Henrietta, who made stars yardsticks",
+        "answer": "LEAVITT",
+        "chunkTexts": [
+          "LEAV",
+          "ITT"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-009",
+    "category": "themed",
+    "candidateId": "S17",
+    "scores": {
+      "decoys": 3.3,
+      "tempting_pairs": 2.0,
+      "shared_fragments": 2.5,
+      "anchor_balance": 7.0,
+      "shape": 6.8,
+      "word_appeal": 14.0,
+      "penalties": -18.9,
+      "structure": 16.7,
+      "clue_rating": 30.0,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 30.0,
+      "structure_scaled": 10.4,
+      "total": 40.4
+    }
+  },
+  {
+    "id": "round290",
+    "title": "Round 290",
+    "theme": "Biochemistry",
+    "clueAnswers": [
+      {
+        "clue": "Fat, to a biochemist",
+        "answer": "LIPID",
+        "chunkTexts": [
+          "LIP",
+          "ID"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Short chain of amino acids",
+        "answer": "PEPTIDE",
+        "chunkTexts": [
+          "PEP",
+          "TIDE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Iron-bearing oxygen courier",
+        "answer": "HEMOGLOBIN",
+        "chunkTexts": [
+          "HEMO",
+          "GLO",
+          "BIN"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Banting and Best's 1921 hormone",
+        "answer": "INSULIN",
+        "chunkTexts": [
+          "INSU",
+          "LIN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Most abundant protein in your body",
+        "answer": "COLLAGEN",
+        "chunkTexts": [
+          "COL",
+          "LA",
+          "GEN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Stuff of hair, horns and hooves",
+        "answer": "KERATIN",
+        "chunkTexts": [
+          "KER",
+          "ATIN"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Liver's stash of sugar",
+        "answer": "GLYCOGEN",
+        "chunkTexts": [
+          "GLY",
+          "CO",
+          "GEN"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-009",
+    "category": "themed",
+    "candidateId": "S19",
+    "scores": {
+      "decoys": 1.0,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 6.2,
+      "anchor_balance": 6.2,
+      "shape": 6.8,
+      "word_appeal": 13.2,
+      "penalties": -14.9,
+      "structure": 18.9,
+      "clue_rating": 20.4,
+      "clue_variety": 4.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 24.4,
+      "structure_scaled": 11.8,
+      "total": 36.2
+    }
+  }
+]

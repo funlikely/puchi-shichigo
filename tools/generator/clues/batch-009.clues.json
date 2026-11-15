@@ -1,0 +1,887 @@
+{
+ "_meta": {
+  "batch": "batch-009",
+  "writer": "hand-written (Claude, no API); original science trivia clues",
+  "judge": "self-rated by the writer"
+ },
+ "S01": {
+  "theme": "Particle Zoo",
+  "category": "themed",
+  "clues": {
+   "HADRON": {
+    "clue": "Quark-built; the H in LHC",
+    "type": "trivia",
+    "rating": 5
+   },
+   "LEPTON": {
+    "clue": "Electron's clan; Greek for 'slight'",
+    "type": "trivia",
+    "rating": 4
+   },
+   "FERMION": {
+    "clue": "Half-spin particle named for Enrico",
+    "type": "trivia",
+    "rating": 4
+   },
+   "POSITRON": {
+    "clue": "Antielectron Anderson spotted in 1932",
+    "type": "trivia",
+    "rating": 4
+   },
+   "GRAVITON": {
+    "clue": "Hypothetical bit that keeps you grounded",
+    "type": "pun",
+    "rating": 4
+   },
+   "TACHYON": {
+    "clue": "Hypothetical speedster, faster than light",
+    "type": "definition",
+    "rating": 4
+   },
+   "COLLIDER": {
+    "clue": "Smasher in a 27 km ring",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Science trivia round."
+  }
+ },
+ "S02": {
+  "theme": "Plant Anatomy",
+  "category": "themed",
+  "clues": {
+   "STAMEN": {
+    "clue": "Flower's manly bit, anther and all",
+    "type": "pun",
+    "rating": 4
+   },
+   "MERISTEM": {
+    "clue": "Growing tip where plant cells divide",
+    "type": "definition",
+    "rating": 4
+   },
+   "CUTICLE": {
+    "clue": "Waxy leaf coat, or nail edge",
+    "type": "wordplay",
+    "rating": 5
+   },
+   "RECEPTACLE": {
+    "clue": "Flower's base, or a bin",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "TENDRIL": {
+    "clue": "Pea plant's curly grappling hook",
+    "type": "evocative",
+    "rating": 4
+   },
+   "EPIDERMIS": {
+    "clue": "Outer cell layer, leaf or yours",
+    "type": "definition",
+    "rating": 4
+   },
+   "XYLEM": {
+    "clue": "Water pipeline from roots to leaves",
+    "type": "definition",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Science trivia round."
+  }
+ },
+ "S03": {
+  "theme": "Neuroscience",
+  "category": "themed",
+  "clues": {
+   "NEURON": {
+    "clue": "About 86 billion live upstairs",
+    "type": "trivia",
+    "rating": 4
+   },
+   "SYNAPSE": {
+    "clue": "Gap where nerve cells pass notes",
+    "type": "pun",
+    "rating": 4
+   },
+   "DENDRITE": {
+    "clue": "Branchy input; Greek for 'tree'",
+    "type": "trivia",
+    "rating": 5
+   },
+   "AMYGDALA": {
+    "clue": "Almond-shaped fear center",
+    "type": "trivia",
+    "rating": 4
+   },
+   "SEROTONIN": {
+    "clue": "Mood chemical mostly made in the gut",
+    "type": "trivia",
+    "rating": 5
+   },
+   "THALAMUS": {
+    "clue": "'Inner room' relaying the senses",
+    "type": "trivia",
+    "rating": 4
+   },
+   "NEOCORTEX": {
+    "clue": "Newest, wrinkliest layer upstairs",
+    "type": "evocative",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Science trivia round."
+  }
+ },
+ "S04": {
+  "theme": "Landmark Experiments",
+  "category": "themed",
+  "clues": {
+   "MILLIKAN": {
+    "clue": "His oil drops weighed electric charge",
+    "type": "trivia",
+    "rating": 5
+   },
+   "PAVLOV": {
+    "clue": "Ring a bell? His dogs drooled",
+    "type": "pun",
+    "rating": 5
+   },
+   "MICHELSON": {
+    "clue": "With Morley, found no ether wind",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CAVENDISH": {
+    "clue": "Weighed the Earth with a torsion bar",
+    "type": "trivia",
+    "rating": 5
+   },
+   "PASTEUR": {
+    "clue": "Swan-neck flasks killed spontaneous life",
+    "type": "trivia",
+    "rating": 5
+   },
+   "MILGRAM": {
+    "clue": "Shocking 1960s obedience study",
+    "type": "pun",
+    "rating": 5
+   },
+   "EDDINGTON": {
+    "clue": "His 1919 eclipse made Einstein a star",
+    "type": "pun",
+    "rating": 5
+   }
+  },
+  "critique": {
+   "notes": "Science trivia round."
+  }
+ },
+ "S05": {
+  "theme": "Measuring Instruments",
+  "category": "themed",
+  "clues": {
+   "HYGROMETER": {
+    "clue": "Proof it's the humidity",
+    "type": "pun",
+    "rating": 4
+   },
+   "SEXTANT": {
+    "clue": "Navigator's arc, a sixth of a circle",
+    "type": "trivia",
+    "rating": 4
+   },
+   "THEODOLITE": {
+    "clue": "Surveyor's angle-taker on a tripod",
+    "type": "definition",
+    "rating": 3
+   },
+   "ASTROLABE": {
+    "clue": "Medieval brass star calculator",
+    "type": "trivia",
+    "rating": 4
+   },
+   "GYROSCOPE": {
+    "clue": "Spinner that won't be pushed around",
+    "type": "pun",
+    "rating": 4
+   },
+   "MICROMETER": {
+    "clue": "Screw gauge for very fine distinctions",
+    "type": "pun",
+    "rating": 4
+   },
+   "SPIROMETER": {
+    "clue": "Lung gauge for those who blow hard",
+    "type": "pun",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Science trivia round."
+  }
+ },
+ "S06": {
+  "theme": "Fossil Record",
+  "category": "themed",
+  "clues": {
+   "TRILOBITE": {
+    "clue": "Three-lobed Paleozoic sea bug",
+    "type": "trivia",
+    "rating": 4
+   },
+   "COPROLITE": {
+    "clue": "Fossilized number two",
+    "type": "pun",
+    "rating": 5
+   },
+   "GASTROLITH": {
+    "clue": "Gizzard stone swallowed by sauropods",
+    "type": "trivia",
+    "rating": 4
+   },
+   "PTEROSAUR": {
+    "clue": "Flying reptile, not technically a dinosaur",
+    "type": "trivia",
+    "rating": 5
+   },
+   "CAMBRIAN": {
+    "clue": "Period of the animal 'explosion'",
+    "type": "trivia",
+    "rating": 4
+   },
+   "TRIASSIC": {
+    "clue": "Period that opened the dinosaur show",
+    "type": "trivia",
+    "rating": 4
+   },
+   "AMBER": {
+    "clue": "Fossil resin, Jurassic Park's DNA vault",
+    "type": "trivia",
+    "rating": 5
+   }
+  },
+  "critique": {
+   "notes": "Science trivia round."
+  }
+ },
+ "S07": {
+  "theme": "Organic Chemistry",
+  "category": "themed",
+  "clues": {
+   "KETONE": {
+    "clue": "Fruity-breath compound of fat-burning",
+    "type": "pun",
+    "rating": 4
+   },
+   "ISOMER": {
+    "clue": "Same formula, different arrangement",
+    "type": "definition",
+    "rating": 4
+   },
+   "AROMATIC": {
+    "clue": "Like benzene: stable, and often smelly",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "METHANOL": {
+    "clue": "Wood alcohol, moonshine's blinding risk",
+    "type": "trivia",
+    "rating": 5
+   },
+   "ACETONE": {
+    "clue": "Nail polish remover",
+    "type": "definition",
+    "rating": 4
+   },
+   "ENANTIOMER": {
+    "clue": "Thalidomide's tragic mirror twin",
+    "type": "trivia",
+    "rating": 4
+   },
+   "PROPANE": {
+    "clue": "Three-carbon grill fuel",
+    "type": "definition",
+    "rating": 5
+   }
+  },
+  "critique": {
+   "notes": "Science trivia round."
+  }
+ },
+ "S08": {
+  "theme": "Eponymous Units",
+  "category": "themed",
+  "clues": {
+   "FAHRENHEIT": {
+    "clue": "Scale where water freezes at 32",
+    "type": "definition",
+    "rating": 4
+   },
+   "ROENTGEN": {
+    "clue": "X-ray pioneer, and an old dose unit",
+    "type": "trivia",
+    "rating": 4
+   },
+   "BECQUEREL": {
+    "clue": "One decay per second, named for Henri",
+    "type": "trivia",
+    "rating": 5
+   },
+   "COULOMB": {
+    "clue": "Charge of 6.24 quintillion electrons",
+    "type": "trivia",
+    "rating": 4
+   },
+   "SIEVERT": {
+    "clue": "Radiation dose unit with a Swedish name",
+    "type": "trivia",
+    "rating": 4
+   },
+   "AMPERE": {
+    "clue": "Unit keeping current with a Frenchman",
+    "type": "pun",
+    "rating": 4
+   },
+   "NEWTON": {
+    "clue": "Force unit; a small apple's weight",
+    "type": "pun",
+    "rating": 5
+   }
+  },
+  "critique": {
+   "notes": "Science trivia round."
+  }
+ },
+ "S09": {
+  "theme": "Microbiology",
+  "category": "themed",
+  "clues": {
+   "BACILLUS": {
+    "clue": "Rod-shaped bug, anthrax included",
+    "type": "trivia",
+    "rating": 4
+   },
+   "PLASMID": {
+    "clue": "Bacterial DNA ring, freely swapped",
+    "type": "definition",
+    "rating": 4
+   },
+   "FLAGELLUM": {
+    "clue": "Microbe's whiplike outboard motor",
+    "type": "evocative",
+    "rating": 5
+   },
+   "PATHOGEN": {
+    "clue": "Germ with a bad attitude",
+    "type": "pun",
+    "rating": 4
+   },
+   "SPIROCHETE": {
+    "clue": "Corkscrew germ behind Lyme disease",
+    "type": "trivia",
+    "rating": 5
+   },
+   "PENICILLIN": {
+    "clue": "Fleming's moldy lucky break, 1928",
+    "type": "trivia",
+    "rating": 5
+   },
+   "PROKARYOTE": {
+    "clue": "Cell with no nucleus to call home",
+    "type": "pun",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Science trivia round."
+  }
+ },
+ "S10": {
+  "theme": "Natural Selection",
+  "category": "themed",
+  "clues": {
+   "SPECIATION": {
+    "clue": "When a lineage splits for good",
+    "type": "definition",
+    "rating": 3
+   },
+   "GALAPAGOS": {
+    "clue": "Finch islands named for tortoises",
+    "type": "trivia",
+    "rating": 5
+   },
+   "VESTIGIAL": {
+    "clue": "Like your appendix, supposedly",
+    "type": "evocative",
+    "rating": 4
+   },
+   "PHYLOGENY": {
+    "clue": "Evolution's family tree",
+    "type": "definition",
+    "rating": 4
+   },
+   "ANCESTOR": {
+    "clue": "A common one links you and chimps",
+    "type": "trivia",
+    "rating": 4
+   },
+   "LAMARCK": {
+    "clue": "Giraffe-neck guy who got heredity wrong",
+    "type": "trivia",
+    "rating": 5
+   },
+   "WALLACE": {
+    "clue": "His letter spurred Darwin to publish",
+    "type": "trivia",
+    "rating": 5
+   }
+  },
+  "critique": {
+   "notes": "Science trivia round."
+  }
+ },
+ "S11": {
+  "theme": "Thermodynamics",
+  "category": "themed",
+  "clues": {
+   "ADIABATIC": {
+    "clue": "No heat in or out, by definition",
+    "type": "definition",
+    "rating": 3
+   },
+   "ISOTHERMAL": {
+    "clue": "Keeping its cool, steadily",
+    "type": "pun",
+    "rating": 4
+   },
+   "CONVECTION": {
+    "clue": "Why hot soup churns in the pot",
+    "type": "evocative",
+    "rating": 4
+   },
+   "CONDUCTION": {
+    "clue": "Why a metal spoon burns your hand",
+    "type": "evocative",
+    "rating": 4
+   },
+   "ISOBARIC": {
+    "clue": "Under unchanging pressure",
+    "type": "definition",
+    "rating": 3
+   },
+   "EXOTHERMIC": {
+    "clue": "Giving off heat, like a hand warmer",
+    "type": "definition",
+    "rating": 4
+   },
+   "LATENT": {
+    "clue": "Hidden heat that melts ice silently",
+    "type": "trivia",
+    "rating": 5
+   }
+  },
+  "critique": {
+   "notes": "Science trivia round."
+  }
+ },
+ "S12": {
+  "theme": "Oceanography",
+  "category": "themed",
+  "clues": {
+   "SALINITY": {
+    "clue": "About 35 parts per thousand, at sea",
+    "type": "trivia",
+    "rating": 4
+   },
+   "HALOCLINE": {
+    "clue": "Sharp saltiness boundary underwater",
+    "type": "definition",
+    "rating": 4
+   },
+   "TSUNAMI": {
+    "clue": "Japanese for 'harbor wave'",
+    "type": "trivia",
+    "rating": 5
+   },
+   "CORIOLIS": {
+    "clue": "Effect falsely blamed for toilet swirls",
+    "type": "trivia",
+    "rating": 5
+   },
+   "ABYSSAL": {
+    "clue": "Plain dark, miles down",
+    "type": "pun",
+    "rating": 4
+   },
+   "MARIANA": {
+    "clue": "Trench hiding the Challenger Deep",
+    "type": "trivia",
+    "rating": 5
+   },
+   "ESTUARY": {
+    "clue": "Brackish spot where river meets tide",
+    "type": "definition",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Science trivia round."
+  }
+ },
+ "S13": {
+  "theme": "Immune System",
+  "category": "themed",
+  "clues": {
+   "ANTIGEN": {
+    "clue": "Molecular ID badge that raises alarms",
+    "type": "evocative",
+    "rating": 4
+   },
+   "MACROPHAGE": {
+    "clue": "'Big eater,' per the Greek",
+    "type": "trivia",
+    "rating": 5
+   },
+   "HISTAMINE": {
+    "clue": "Sneezy signal from mast cells",
+    "type": "trivia",
+    "rating": 5
+   },
+   "INTERFERON": {
+    "clue": "Antiviral signal named for meddling",
+    "type": "trivia",
+    "rating": 4
+   },
+   "THYMUS": {
+    "clue": "Gland where T cells finish school",
+    "type": "pun",
+    "rating": 5
+   },
+   "IMMUNITY": {
+    "clue": "What a vaccine aims to give",
+    "type": "definition",
+    "rating": 3
+   },
+   "ALLERGEN": {
+    "clue": "Pollen, to a hay fever sufferer",
+    "type": "definition",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Science trivia round."
+  }
+ },
+ "S14": {
+  "theme": "Mohs and Minerals",
+  "category": "themed",
+  "clues": {
+   "GYPSUM": {
+    "clue": "Mohs 2, hiding inside drywall",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CALCITE": {
+    "clue": "Mohs 3; fizzes in acid",
+    "type": "trivia",
+    "rating": 4
+   },
+   "PYRITE": {
+    "clue": "Fool's gold",
+    "type": "trivia",
+    "rating": 4
+   },
+   "MAGNETITE": {
+    "clue": "Lodestone's attractive mineral",
+    "type": "pun",
+    "rating": 4
+   },
+   "CORUNDUM": {
+    "clue": "Mohs 9: ruby and sapphire, really",
+    "type": "trivia",
+    "rating": 5
+   },
+   "FLUORITE": {
+    "clue": "Mohs 4; glows under UV",
+    "type": "trivia",
+    "rating": 4
+   },
+   "APATITE": {
+    "clue": "Hungry-sounding Mohs 5 mineral",
+    "type": "pun",
+    "rating": 5
+   }
+  },
+  "critique": {
+   "notes": "Science trivia round."
+  }
+ },
+ "S15": {
+  "theme": "Quantum Weirdness",
+  "category": "themed",
+  "clues": {
+   "HEISENBERG": {
+    "clue": "Uncertain fellow, or Walter White",
+    "type": "wordplay",
+    "rating": 5
+   },
+   "TUNNELING": {
+    "clue": "Passing through walls, quantum style",
+    "type": "definition",
+    "rating": 4
+   },
+   "EIGENSTATE": {
+    "clue": "Where a measurement leaves you",
+    "type": "definition",
+    "rating": 3
+   },
+   "FEYNMAN": {
+    "clue": "Bongo-playing diagram drawer",
+    "type": "trivia",
+    "rating": 5
+   },
+   "SPINOR": {
+    "clue": "Turns 720 degrees to get home",
+    "type": "trivia",
+    "rating": 5
+   },
+   "ENTANGLE": {
+    "clue": "Link spookily at a distance",
+    "type": "trivia",
+    "rating": 4
+   },
+   "ORBITAL": {
+    "clue": "Electron cloud, not really a path",
+    "type": "definition",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Science trivia round."
+  }
+ },
+ "S16": {
+  "theme": "Fungus Among Us",
+  "category": "themed",
+  "clues": {
+   "MYCELIUM": {
+    "clue": "Underground web of the forest",
+    "type": "evocative",
+    "rating": 4
+   },
+   "HYPHAE": {
+    "clue": "Threads that weave a fungal mat",
+    "type": "definition",
+    "rating": 3
+   },
+   "PORCINI": {
+    "clue": "Italian 'piglets,' a prized cep",
+    "type": "trivia",
+    "rating": 5
+   },
+   "SHIITAKE": {
+    "clue": "Mushroom grown on Japanese oak logs",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CHITIN": {
+    "clue": "Fungal walls, crab shells",
+    "type": "trivia",
+    "rating": 4
+   },
+   "AMANITA": {
+    "clue": "Death cap and fly agaric genus",
+    "type": "trivia",
+    "rating": 4
+   },
+   "MYCOLOGY": {
+    "clue": "Major for a fun guy",
+    "type": "pun",
+    "rating": 5
+   }
+  },
+  "critique": {
+   "notes": "Science trivia round."
+  }
+ },
+ "S17": {
+  "theme": "Women in Science",
+  "category": "themed",
+  "clues": {
+   "CHATELET": {
+    "clue": "Emilie du ___, Newton's translator",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CARSON": {
+    "clue": "Rachel, whose Silent Spring rang alarms",
+    "type": "trivia",
+    "rating": 5
+   },
+   "SOMERVILLE": {
+    "clue": "Mary, polymath with an Oxford college",
+    "type": "trivia",
+    "rating": 4
+   },
+   "GOODALL": {
+    "clue": "Jane, chimp chronicler of Gombe",
+    "type": "trivia",
+    "rating": 5
+   },
+   "GERMAIN": {
+    "clue": "Sophie, alias Monsieur LeBlanc",
+    "type": "trivia",
+    "rating": 5
+   },
+   "BURNELL": {
+    "clue": "Jocelyn Bell ___, pulsar finder",
+    "type": "trivia",
+    "rating": 5
+   },
+   "LEAVITT": {
+    "clue": "Henrietta, who made stars yardsticks",
+    "type": "trivia",
+    "rating": 5
+   }
+  },
+  "critique": {
+   "notes": "Science trivia round."
+  }
+ },
+ "S18": {
+  "theme": "Cosmology",
+  "category": "themed",
+  "clues": {
+   "HUBBLE": {
+    "clue": "His 1929 law: galaxies flee",
+    "type": "trivia",
+    "rating": 4
+   },
+   "MULTIVERSE": {
+    "clue": "A cosmos of cosmoses",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "QUASAR": {
+    "clue": "Blazing core fed by a black hole",
+    "type": "definition",
+    "rating": 4
+   },
+   "LEMAITRE": {
+    "clue": "Priest who proposed the primeval atom",
+    "type": "trivia",
+    "rating": 5
+   },
+   "HORIZON": {
+    "clue": "Event ___: point of no return",
+    "type": "trivia",
+    "rating": 4
+   },
+   "ANISOTROPY": {
+    "clue": "Tiny unevenness in the CMB",
+    "type": "trivia",
+    "rating": 3
+   },
+   "GAMOW": {
+    "clue": "Big Bang man of alpha-beta-gamma",
+    "type": "trivia",
+    "rating": 5
+   }
+  },
+  "critique": {
+   "notes": "Science trivia round."
+  }
+ },
+ "S19": {
+  "theme": "Biochemistry",
+  "category": "themed",
+  "clues": {
+   "LIPID": {
+    "clue": "Fat, to a biochemist",
+    "type": "definition",
+    "rating": 4
+   },
+   "PEPTIDE": {
+    "clue": "Short chain of amino acids",
+    "type": "definition",
+    "rating": 3
+   },
+   "HEMOGLOBIN": {
+    "clue": "Iron-bearing oxygen courier",
+    "type": "definition",
+    "rating": 4
+   },
+   "INSULIN": {
+    "clue": "Banting and Best's 1921 hormone",
+    "type": "trivia",
+    "rating": 4
+   },
+   "COLLAGEN": {
+    "clue": "Most abundant protein in your body",
+    "type": "trivia",
+    "rating": 4
+   },
+   "KERATIN": {
+    "clue": "Stuff of hair, horns and hooves",
+    "type": "definition",
+    "rating": 4
+   },
+   "GLYCOGEN": {
+    "clue": "Liver's stash of sugar",
+    "type": "definition",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Science trivia round."
+  }
+ },
+ "S20": {
+  "theme": "Taxonomy",
+  "category": "themed",
+  "clues": {
+   "PHYLUM": {
+    "clue": "Chordata is one",
+    "type": "trivia",
+    "rating": 4
+   },
+   "AMPHIBIAN": {
+    "clue": "Frog, newt or caecilian",
+    "type": "definition",
+    "rating": 4
+   },
+   "LINNAEUS": {
+    "clue": "Swede who gave everything two names",
+    "type": "trivia",
+    "rating": 5
+   },
+   "ARTHROPOD": {
+    "clue": "Jointed-leg critter, like a crab",
+    "type": "definition",
+    "rating": 4
+   },
+   "KINGDOM": {
+    "clue": "Animalia or Plantae, rank-wise",
+    "type": "definition",
+    "rating": 4
+   },
+   "ECHINODERM": {
+    "clue": "Spiny-skinned starfish kin",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CNIDARIAN": {
+    "clue": "Jellyfish, packing stinging cells",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Science trivia round."
+  }
+ }
+}

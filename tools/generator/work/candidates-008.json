@@ -1,0 +1,3534 @@
+[
+ {
+  "id": "N01",
+  "entries": [
+   {
+    "answer": "PETRICHOR",
+    "chunkTexts": [
+     "PET",
+     "RIC",
+     "HOR"
+    ]
+   },
+   {
+    "answer": "BEHEMOTH",
+    "chunkTexts": [
+     "BE",
+     "HEM",
+     "OTH"
+    ]
+   },
+   {
+    "answer": "OPSIMATH",
+    "chunkTexts": [
+     "OP",
+     "SIM",
+     "ATH"
+    ]
+   },
+   {
+    "answer": "HULLABALOO",
+    "chunkTexts": [
+     "HUL",
+     "LAB",
+     "ALOO"
+    ]
+   },
+   {
+    "answer": "PANJANDRUM",
+    "chunkTexts": [
+     "PAN",
+     "JAN",
+     "DRUM"
+    ]
+   },
+   {
+    "answer": "SOBRIQUET",
+    "chunkTexts": [
+     "SO",
+     "BRI",
+     "QUET"
+    ]
+   },
+   {
+    "answer": "NEFARIOUS",
+    "chunkTexts": [
+     "NEF",
+     "ARI",
+     "OUS"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 1.2,
+   "tempting_pairs": 0.4,
+   "shared_fragments": 2.5,
+   "anchor_balance": 2.4,
+   "shape": 9.3,
+   "word_appeal": 14.0,
+   "penalties": -15.5,
+   "structure": 14.3
+  },
+  "analysis": {
+   "n_tiles": 21,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 15,
+    "4": 3
+   },
+   "decoys": [
+    "BRIBE=BRI+BE"
+   ],
+   "tempting_pairs": [
+    "BE+NEF"
+   ],
+   "anchors": [
+    "ALOO",
+    "HUL",
+    "JAN",
+    "NEF"
+   ],
+   "word_tiles": [
+    "DRUM"
+   ],
+   "misaligned": 5,
+   "dup_tiles": [],
+   "near_pairs": [
+    "ARI/BRI",
+    "ATH/OTH"
+   ],
+   "no_start_rival": [
+    "PETRICHOR",
+    "OPSIMATH",
+    "HULLABALOO",
+    "PANJANDRUM",
+    "SOBRIQUET",
+    "NEFARIOUS"
+   ],
+   "inflected": [],
+   "zipf": {
+    "PETRICHOR": 1.6,
+    "BEHEMOTH": 2.97,
+    "OPSIMATH": 0.0,
+    "HULLABALOO": 2.28,
+    "PANJANDRUM": 1.31,
+    "SOBRIQUET": 2.11,
+    "NEFARIOUS": 3.0
+   }
+  },
+  "theme_hint": "Word Nerd",
+  "category": "mixed"
+ },
+ {
+  "id": "N02",
+  "entries": [
+   {
+    "answer": "EGREGIOUS",
+    "chunkTexts": [
+     "EG",
+     "REG",
+     "IOUS"
+    ]
+   },
+   {
+    "answer": "CHOLERIC",
+    "chunkTexts": [
+     "CHO",
+     "LER",
+     "IC"
+    ]
+   },
+   {
+    "answer": "PHILOMATH",
+    "chunkTexts": [
+     "PHI",
+     "LOM",
+     "ATH"
+    ]
+   },
+   {
+    "answer": "PUGNACIOUS",
+    "chunkTexts": [
+     "PUG",
+     "NAC",
+     "IOUS"
+    ]
+   },
+   {
+    "answer": "POTENTATE",
+    "chunkTexts": [
+     "POT",
+     "ENT",
+     "ATE"
+    ]
+   },
+   {
+    "answer": "MANICULE",
+    "chunkTexts": [
+     "MANI",
+     "CULE"
+    ]
+   },
+   {
+    "answer": "SKEDADDLE",
+    "chunkTexts": [
+     "SKE",
+     "DAD",
+     "DLE"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 1.5,
+   "tempting_pairs": 0.8,
+   "shared_fragments": 3.8,
+   "anchor_balance": 6.8,
+   "shape": 10.0,
+   "word_appeal": 14.0,
+   "penalties": -12.7,
+   "structure": 24.1
+  },
+  "analysis": {
+   "n_tiles": 20,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 14,
+    "4": 4
+   },
+   "decoys": [
+    "REGENT=REG+ENT",
+    "POTENT=POT+ENT*"
+   ],
+   "tempting_pairs": [
+    "IC+ATE",
+    "IC+IOUS"
+   ],
+   "anchors": [
+    "PHI",
+    "PUG"
+   ],
+   "word_tiles": [],
+   "misaligned": 9,
+   "dup_tiles": [
+    "IOUS"
+   ],
+   "near_pairs": [
+    "ATE/ATH"
+   ],
+   "no_start_rival": [
+    "EGREGIOUS",
+    "CHOLERIC",
+    "PHILOMATH",
+    "PUGNACIOUS",
+    "POTENTATE",
+    "MANICULE",
+    "SKEDADDLE"
+   ],
+   "inflected": [],
+   "zipf": {
+    "EGREGIOUS": 3.1,
+    "CHOLERIC": 1.79,
+    "PHILOMATH": 1.37,
+    "PUGNACIOUS": 2.14,
+    "POTENTATE": 1.94,
+    "MANICULE": 0.0,
+    "SKEDADDLE": 1.73
+   }
+  },
+  "theme_hint": "Word Nerd",
+  "category": "mixed"
+ },
+ {
+  "id": "N03",
+  "entries": [
+   {
+    "answer": "IMBROGLIO",
+    "chunkTexts": [
+     "IMB",
+     "ROG",
+     "LIO"
+    ]
+   },
+   {
+    "answer": "GASTRONOME",
+    "chunkTexts": [
+     "GAS",
+     "TRO",
+     "NOME"
+    ]
+   },
+   {
+    "answer": "FOLDEROL",
+    "chunkTexts": [
+     "FOL",
+     "DER",
+     "OL"
+    ]
+   },
+   {
+    "answer": "APOPHENIA",
+    "chunkTexts": [
+     "APO",
+     "PHE",
+     "NIA"
+    ]
+   },
+   {
+    "answer": "PHILTRUM",
+    "chunkTexts": [
+     "PHIL",
+     "TRUM"
+    ]
+   },
+   {
+    "answer": "ELLIPSIS",
+    "chunkTexts": [
+     "EL",
+     "LIP",
+     "SIS"
+    ]
+   },
+   {
+    "answer": "DISSEMBLE",
+    "chunkTexts": [
+     "DIS",
+     "SEM",
+     "BLE"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 2.0,
+   "tempting_pairs": 0.4,
+   "shared_fragments": 2.5,
+   "anchor_balance": 7.4,
+   "shape": 11.0,
+   "word_appeal": 14.0,
+   "penalties": -11.1,
+   "structure": 26.3
+  },
+  "analysis": {
+   "n_tiles": 20,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 15,
+    "4": 3
+   },
+   "decoys": [
+    "ELDER=EL+DER",
+    "OLDER=OL+DER*",
+    "FOLDER=FOL+DER*"
+   ],
+   "tempting_pairs": [
+    "PHE+NOME"
+   ],
+   "anchors": [],
+   "word_tiles": [],
+   "misaligned": 7,
+   "dup_tiles": [],
+   "near_pairs": [
+    "DIS/SIS",
+    "LIO/LIP"
+   ],
+   "no_start_rival": [
+    "IMBROGLIO",
+    "GASTRONOME",
+    "FOLDEROL",
+    "APOPHENIA",
+    "PHILTRUM",
+    "DISSEMBLE"
+   ],
+   "inflected": [],
+   "zipf": {
+    "IMBROGLIO": 1.94,
+    "GASTRONOME": 1.27,
+    "FOLDEROL": 1.25,
+    "APOPHENIA": 1.21,
+    "PHILTRUM": 1.53,
+    "ELLIPSIS": 2.43,
+    "DISSEMBLE": 1.86
+   }
+  },
+  "theme_hint": "Word Nerd",
+  "category": "mixed"
+ },
+ {
+  "id": "N04",
+  "entries": [
+   {
+    "answer": "VIRIDIAN",
+    "chunkTexts": [
+     "VIR",
+     "ID",
+     "IAN"
+    ]
+   },
+   {
+    "answer": "BELLICOSE",
+    "chunkTexts": [
+     "BEL",
+     "LIC",
+     "OSE"
+    ]
+   },
+   {
+    "answer": "PANTALOON",
+    "chunkTexts": [
+     "PAN",
+     "TAL",
+     "OON"
+    ]
+   },
+   {
+    "answer": "MASTICATE",
+    "chunkTexts": [
+     "MAS",
+     "TIC",
+     "ATE"
+    ]
+   },
+   {
+    "answer": "TRUMPERY",
+    "chunkTexts": [
+     "TRUM",
+     "PERY"
+    ]
+   },
+   {
+    "answer": "TAUTOLOGY",
+    "chunkTexts": [
+     "TAU",
+     "TOL",
+     "OGY"
+    ]
+   },
+   {
+    "answer": "CHARLATAN",
+    "chunkTexts": [
+     "CHAR",
+     "LA",
+     "TAN"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 2.7,
+   "tempting_pairs": 1.2,
+   "shared_fragments": 10.0,
+   "anchor_balance": 7.3,
+   "shape": 10.0,
+   "word_appeal": 14.0,
+   "penalties": -11.5,
+   "structure": 33.7
+  },
+  "analysis": {
+   "n_tiles": 20,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 15,
+    "4": 3
+   },
+   "decoys": [
+    "LAID=LA+ID",
+    "LABEL=LA+BEL",
+    "TANTRUM=TAN+TRUM"
+   ],
+   "tempting_pairs": [
+    "ID+ATE",
+    "LA+BEL",
+    "LIC+ATE"
+   ],
+   "anchors": [
+    "TRUM"
+   ],
+   "word_tiles": [],
+   "misaligned": 5,
+   "dup_tiles": [],
+   "near_pairs": [
+    "IAN/PAN",
+    "IAN/TAN",
+    "LIC/TIC",
+    "PAN/TAN",
+    "TAL/TAN",
+    "TAL/TAU",
+    "TAL/TOL",
+    "TAN/TAU"
+   ],
+   "no_start_rival": [
+    "VIRIDIAN",
+    "BELLICOSE",
+    "PANTALOON",
+    "MASTICATE",
+    "TRUMPERY",
+    "TAUTOLOGY",
+    "CHARLATAN"
+   ],
+   "inflected": [],
+   "zipf": {
+    "VIRIDIAN": 2.04,
+    "BELLICOSE": 2.28,
+    "PANTALOON": 1.54,
+    "MASTICATE": 1.37,
+    "TRUMPERY": 1.36,
+    "TAUTOLOGY": 2.24,
+    "CHARLATAN": 2.63
+   }
+  },
+  "theme_hint": "Word Nerd",
+  "category": "mixed"
+ },
+ {
+  "id": "N05",
+  "entries": [
+   {
+    "answer": "JACKANAPES",
+    "chunkTexts": [
+     "JAC",
+     "KAN",
+     "APES"
+    ]
+   },
+   {
+    "answer": "LUGUBRIOUS",
+    "chunkTexts": [
+     "LUG",
+     "UBRI",
+     "OUS"
+    ]
+   },
+   {
+    "answer": "OSCULATE",
+    "chunkTexts": [
+     "OS",
+     "CUL",
+     "ATE"
+    ]
+   },
+   {
+    "answer": "SINGULTUS",
+    "chunkTexts": [
+     "SIN",
+     "GUL",
+     "TUS"
+    ]
+   },
+   {
+    "answer": "CONTUMELY",
+    "chunkTexts": [
+     "CON",
+     "TUM",
+     "ELY"
+    ]
+   },
+   {
+    "answer": "MARGINALIA",
+    "chunkTexts": [
+     "MAR",
+     "GIN",
+     "ALIA"
+    ]
+   },
+   {
+    "answer": "CORNUCOPIA",
+    "chunkTexts": [
+     "COR",
+     "NUC",
+     "OPIA"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 0.5,
+   "tempting_pairs": 0.4,
+   "shared_fragments": 6.2,
+   "anchor_balance": 7.1,
+   "shape": 10.0,
+   "word_appeal": 14.0,
+   "penalties": -10.9,
+   "structure": 27.3
+  },
+  "analysis": {
+   "n_tiles": 21,
+   "tile_len_hist": {
+    "2": 1,
+    "3": 16,
+    "4": 4
+   },
+   "decoys": [
+    "MARGIN=MAR+GIN*"
+   ],
+   "tempting_pairs": [
+    "OS+ELY"
+   ],
+   "anchors": [],
+   "word_tiles": [],
+   "misaligned": 8,
+   "dup_tiles": [],
+   "near_pairs": [
+    "CON/COR",
+    "CUL/GUL",
+    "GIN/SIN",
+    "OUS/TUS",
+    "TUM/TUS"
+   ],
+   "no_start_rival": [
+    "JACKANAPES",
+    "LUGUBRIOUS",
+    "OSCULATE",
+    "SINGULTUS",
+    "CONTUMELY",
+    "MARGINALIA",
+    "CORNUCOPIA"
+   ],
+   "inflected": [],
+   "zipf": {
+    "JACKANAPES": 1.32,
+    "LUGUBRIOUS": 2.02,
+    "OSCULATE": 0.0,
+    "SINGULTUS": 0.0,
+    "CONTUMELY": 1.25,
+    "MARGINALIA": 2.06,
+    "CORNUCOPIA": 2.56
+   }
+  },
+  "theme_hint": "Word Nerd",
+  "category": "mixed"
+ },
+ {
+  "id": "N06",
+  "entries": [
+   {
+    "answer": "PERNICIOUS",
+    "chunkTexts": [
+     "PER",
+     "NICI",
+     "OUS"
+    ]
+   },
+   {
+    "answer": "INSELBERG",
+    "chunkTexts": [
+     "IN",
+     "SEL",
+     "BERG"
+    ]
+   },
+   {
+    "answer": "CIRCUMFLEX",
+    "chunkTexts": [
+     "CIR",
+     "CUM",
+     "FLEX"
+    ]
+   },
+   {
+    "answer": "SOLIPSISM",
+    "chunkTexts": [
+     "SOL",
+     "IPS",
+     "ISM"
+    ]
+   },
+   {
+    "answer": "CASTIGATE",
+    "chunkTexts": [
+     "CAS",
+     "TIG",
+     "ATE"
+    ]
+   },
+   {
+    "answer": "SOMNOLENT",
+    "chunkTexts": [
+     "SOM",
+     "NOL",
+     "ENT"
+    ]
+   },
+   {
+    "answer": "CLERIHEW",
+    "chunkTexts": [
+     "CLE",
+     "RI",
+     "HEW"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 2.4,
+   "tempting_pairs": 2.0,
+   "shared_fragments": 3.8,
+   "anchor_balance": 7.1,
+   "shape": 10.0,
+   "word_appeal": 14.0,
+   "penalties": -10.8,
+   "structure": 28.4
+  },
+  "analysis": {
+   "n_tiles": 21,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 16,
+    "4": 3
+   },
+   "decoys": [
+    "CIRCLE=CIR+CLE",
+    "CUMIN=CUM+IN"
+   ],
+   "tempting_pairs": [
+    "IN+ATE",
+    "IN+ENT",
+    "IN+OUS",
+    "PER+ATE",
+    "RI+OUS"
+   ],
+   "anchors": [
+    "CIR"
+   ],
+   "word_tiles": [],
+   "misaligned": 6,
+   "dup_tiles": [],
+   "near_pairs": [
+    "NOL/SOL",
+    "SEL/SOL",
+    "SOL/SOM"
+   ],
+   "no_start_rival": [
+    "PERNICIOUS",
+    "INSELBERG",
+    "CIRCUMFLEX",
+    "SOLIPSISM",
+    "SOMNOLENT",
+    "CLERIHEW"
+   ],
+   "inflected": [],
+   "zipf": {
+    "PERNICIOUS": 2.87,
+    "INSELBERG": 0.0,
+    "CIRCUMFLEX": 2.22,
+    "SOLIPSISM": 2.11,
+    "CASTIGATE": 1.92,
+    "SOMNOLENT": 1.72,
+    "CLERIHEW": 0.0
+   }
+  },
+  "theme_hint": "Word Nerd",
+  "category": "mixed"
+ },
+ {
+  "id": "N07",
+  "entries": [
+   {
+    "answer": "SYCOPHANT",
+    "chunkTexts": [
+     "SYC",
+     "OPH",
+     "ANT"
+    ]
+   },
+   {
+    "answer": "PENTIMENTO",
+    "chunkTexts": [
+     "PEN",
+     "TIM",
+     "ENTO"
+    ]
+   },
+   {
+    "answer": "LAMBENT",
+    "chunkTexts": [
+     "LAM",
+     "BENT"
+    ]
+   },
+   {
+    "answer": "PANEGYRIC",
+    "chunkTexts": [
+     "PAN",
+     "EGY",
+     "RIC"
+    ]
+   },
+   {
+    "answer": "EPHEMERAL",
+    "chunkTexts": [
+     "EPH",
+     "EME",
+     "RAL"
+    ]
+   },
+   {
+    "answer": "FRACAS",
+    "chunkTexts": [
+     "FRA",
+     "CAS"
+    ]
+   },
+   {
+    "answer": "PILCROW",
+    "chunkTexts": [
+     "PIL",
+     "CROW"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 0.0,
+   "tempting_pairs": 0.0,
+   "shared_fragments": 2.5,
+   "anchor_balance": 6.9,
+   "shape": 11.0,
+   "word_appeal": 14.0,
+   "penalties": -8.8,
+   "structure": 25.6
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "3": 15,
+    "4": 3
+   },
+   "decoys": [],
+   "tempting_pairs": [],
+   "anchors": [
+    "EPH"
+   ],
+   "word_tiles": [],
+   "misaligned": 6,
+   "dup_tiles": [],
+   "near_pairs": [
+    "EPH/OPH",
+    "PAN/PEN"
+   ],
+   "no_start_rival": [
+    "SYCOPHANT",
+    "PENTIMENTO",
+    "LAMBENT",
+    "PANEGYRIC",
+    "EPHEMERAL",
+    "FRACAS",
+    "PILCROW"
+   ],
+   "inflected": [],
+   "zipf": {
+    "SYCOPHANT": 2.2,
+    "PENTIMENTO": 1.11,
+    "LAMBENT": 1.61,
+    "PANEGYRIC": 2.0,
+    "EPHEMERAL": 2.99,
+    "FRACAS": 2.38,
+    "PILCROW": 0.0
+   }
+  },
+  "theme_hint": "Word Nerd",
+  "category": "mixed"
+ },
+ {
+  "id": "N08",
+  "entries": [
+   {
+    "answer": "INCUNABULA",
+    "chunkTexts": [
+     "INCU",
+     "NAB",
+     "ULA"
+    ]
+   },
+   {
+    "answer": "BELVEDERE",
+    "chunkTexts": [
+     "BEL",
+     "VED",
+     "ERE"
+    ]
+   },
+   {
+    "answer": "FURBELOW",
+    "chunkTexts": [
+     "FUR",
+     "BE",
+     "LOW"
+    ]
+   },
+   {
+    "answer": "SHIBBOLETH",
+    "chunkTexts": [
+     "SHIB",
+     "BOL",
+     "ETH"
+    ]
+   },
+   {
+    "answer": "CATHARSIS",
+    "chunkTexts": [
+     "CAT",
+     "HAR",
+     "SIS"
+    ]
+   },
+   {
+    "answer": "CODSWALLOP",
+    "chunkTexts": [
+     "COD",
+     "SWAL",
+     "LOP"
+    ]
+   },
+   {
+    "answer": "SLOVENLY",
+    "chunkTexts": [
+     "SLO",
+     "VEN",
+     "LY"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 3.9,
+   "tempting_pairs": 0.8,
+   "shared_fragments": 3.8,
+   "anchor_balance": 7.3,
+   "shape": 10.0,
+   "word_appeal": 14.0,
+   "penalties": -12.4,
+   "structure": 27.3
+  },
+  "analysis": {
+   "n_tiles": 21,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 16,
+    "4": 3
+   },
+   "decoys": [
+    "BELLY=BEL+LY",
+    "SWALLOW=SWAL+LOW",
+    "LOWLY=LOW+LY",
+    "BELOW=BE+LOW*"
+   ],
+   "tempting_pairs": [
+    "ERE+LY",
+    "SWAL+LOW"
+   ],
+   "anchors": [
+    "SHIB"
+   ],
+   "word_tiles": [],
+   "misaligned": 8,
+   "dup_tiles": [],
+   "near_pairs": [
+    "BEL/BOL",
+    "LOP/LOW",
+    "VED/VEN"
+   ],
+   "no_start_rival": [
+    "INCUNABULA",
+    "BELVEDERE",
+    "FURBELOW",
+    "SHIBBOLETH",
+    "CATHARSIS",
+    "CODSWALLOP",
+    "SLOVENLY"
+   ],
+   "inflected": [],
+   "zipf": {
+    "INCUNABULA": 1.8,
+    "BELVEDERE": 2.79,
+    "FURBELOW": 0.0,
+    "SHIBBOLETH": 2.0,
+    "CATHARSIS": 2.67,
+    "CODSWALLOP": 1.55,
+    "SLOVENLY": 2.21
+   }
+  },
+  "theme_hint": "Word Nerd",
+  "category": "mixed"
+ },
+ {
+  "id": "N09",
+  "entries": [
+   {
+    "answer": "DRUMLIN",
+    "chunkTexts": [
+     "DRUM",
+     "LIN"
+    ]
+   },
+   {
+    "answer": "BRICOLAGE",
+    "chunkTexts": [
+     "BRI",
+     "COL",
+     "AGE"
+    ]
+   },
+   {
+    "answer": "PHILISTINE",
+    "chunkTexts": [
+     "PHI",
+     "LIS",
+     "TINE"
+    ]
+   },
+   {
+    "answer": "SOPORIFIC",
+    "chunkTexts": [
+     "SOP",
+     "ORI",
+     "FIC"
+    ]
+   },
+   {
+    "answer": "IRASCIBLE",
+    "chunkTexts": [
+     "IRA",
+     "SCI",
+     "BLE"
+    ]
+   },
+   {
+    "answer": "SCRIVENER",
+    "chunkTexts": [
+     "SCRI",
+     "VEN",
+     "ER"
+    ]
+   },
+   {
+    "answer": "BALLYHOO",
+    "chunkTexts": [
+     "BAL",
+     "LY",
+     "HOO"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 1.2,
+   "tempting_pairs": 1.2,
+   "shared_fragments": 2.5,
+   "anchor_balance": 7.5,
+   "shape": 12.0,
+   "word_appeal": 14.0,
+   "penalties": -13.6,
+   "structure": 24.7
+  },
+  "analysis": {
+   "n_tiles": 20,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 15,
+    "4": 3
+   },
+   "decoys": [
+    "LINER=LIN+ER"
+   ],
+   "tempting_pairs": [
+    "ER+AGE",
+    "ER+LY",
+    "VEN+LY"
+   ],
+   "anchors": [
+    "IRA"
+   ],
+   "word_tiles": [
+    "DRUM"
+   ],
+   "misaligned": 7,
+   "dup_tiles": [],
+   "near_pairs": [
+    "BRI/ORI",
+    "LIN/LIS"
+   ],
+   "no_start_rival": [
+    "DRUMLIN",
+    "BRICOLAGE",
+    "PHILISTINE",
+    "SOPORIFIC",
+    "IRASCIBLE",
+    "SCRIVENER",
+    "BALLYHOO"
+   ],
+   "inflected": [],
+   "zipf": {
+    "DRUMLIN": 1.75,
+    "BRICOLAGE": 1.82,
+    "PHILISTINE": 2.58,
+    "SOPORIFIC": 2.1,
+    "IRASCIBLE": 2.29,
+    "SCRIVENER": 2.42,
+    "BALLYHOO": 1.95
+   }
+  },
+  "theme_hint": "Word Nerd",
+  "category": "mixed"
+ },
+ {
+  "id": "N10",
+  "entries": [
+   {
+    "answer": "ITINERANT",
+    "chunkTexts": [
+     "ITI",
+     "NER",
+     "ANT"
+    ]
+   },
+   {
+    "answer": "DOLOROUS",
+    "chunkTexts": [
+     "DO",
+     "LOR",
+     "OUS"
+    ]
+   },
+   {
+    "answer": "VIRGULE",
+    "chunkTexts": [
+     "VIRG",
+     "ULE"
+    ]
+   },
+   {
+    "answer": "CHICANERY",
+    "chunkTexts": [
+     "CHI",
+     "CAN",
+     "ERY"
+    ]
+   },
+   {
+    "answer": "SASTRUGI",
+    "chunkTexts": [
+     "SAS",
+     "TRU",
+     "GI"
+    ]
+   },
+   {
+    "answer": "HARLEQUIN",
+    "chunkTexts": [
+     "HAR",
+     "LE",
+     "QUIN"
+    ]
+   },
+   {
+    "answer": "PALAVER",
+    "chunkTexts": [
+     "PALA",
+     "VER"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 3.8,
+   "tempting_pairs": 0.8,
+   "shared_fragments": 1.2,
+   "anchor_balance": 7.2,
+   "shape": 9.7,
+   "word_appeal": 14.0,
+   "penalties": -14.7,
+   "structure": 22.0
+  },
+  "analysis": {
+   "n_tiles": 19,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 13,
+    "4": 3
+   },
+   "decoys": [
+    "GIANT=GI+ANT",
+    "CHILE=CHI+LE",
+    "LEVER=LE+VER",
+    "DOLE=DO+LE"
+   ],
+   "tempting_pairs": [
+    "GI+OUS",
+    "LE+GI"
+   ],
+   "anchors": [
+    "ITI"
+   ],
+   "word_tiles": [],
+   "misaligned": 4,
+   "dup_tiles": [],
+   "near_pairs": [
+    "NER/VER"
+   ],
+   "no_start_rival": [
+    "ITINERANT",
+    "DOLOROUS",
+    "VIRGULE",
+    "CHICANERY",
+    "SASTRUGI",
+    "HARLEQUIN",
+    "PALAVER"
+   ],
+   "inflected": [],
+   "zipf": {
+    "ITINERANT": 2.82,
+    "DOLOROUS": 1.7,
+    "VIRGULE": 0.0,
+    "CHICANERY": 2.24,
+    "SASTRUGI": 0.0,
+    "HARLEQUIN": 2.86,
+    "PALAVER": 2.18
+   }
+  },
+  "theme_hint": "Word Nerd",
+  "category": "mixed"
+ },
+ {
+  "id": "N11",
+  "entries": [
+   {
+    "answer": "GALLIVANT",
+    "chunkTexts": [
+     "GAL",
+     "LIV",
+     "ANT"
+    ]
+   },
+   {
+    "answer": "CHATELAINE",
+    "chunkTexts": [
+     "CHA",
+     "TEL",
+     "AINE"
+    ]
+   },
+   {
+    "answer": "MALODOROUS",
+    "chunkTexts": [
+     "MAL",
+     "ODOR",
+     "OUS"
+    ]
+   },
+   {
+    "answer": "LOLLYGAG",
+    "chunkTexts": [
+     "LOL",
+     "LY",
+     "GAG"
+    ]
+   },
+   {
+    "answer": "MARQUETRY",
+    "chunkTexts": [
+     "MAR",
+     "QUE",
+     "TRY"
+    ]
+   },
+   {
+    "answer": "CANOODLE",
+    "chunkTexts": [
+     "CANO",
+     "ODLE"
+    ]
+   },
+   {
+    "answer": "PEDANTIC",
+    "chunkTexts": [
+     "PED",
+     "ANT",
+     "IC"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 0.0,
+   "tempting_pairs": 0.8,
+   "shared_fragments": 6.2,
+   "anchor_balance": 7.1,
+   "shape": 10.0,
+   "word_appeal": 14.0,
+   "penalties": -11.1,
+   "structure": 27.0
+  },
+  "analysis": {
+   "n_tiles": 20,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 14,
+    "4": 4
+   },
+   "decoys": [],
+   "tempting_pairs": [
+    "ANT+LY",
+    "OUS+LY"
+   ],
+   "anchors": [
+    "GAG",
+    "LOL"
+   ],
+   "word_tiles": [],
+   "misaligned": 7,
+   "dup_tiles": [
+    "ANT"
+   ],
+   "near_pairs": [
+    "GAG/GAL",
+    "GAL/MAL",
+    "MAL/MAR"
+   ],
+   "no_start_rival": [
+    "GALLIVANT",
+    "CHATELAINE",
+    "LOLLYGAG",
+    "MARQUETRY",
+    "CANOODLE",
+    "PEDANTIC"
+   ],
+   "inflected": [],
+   "zipf": {
+    "GALLIVANT": 1.38,
+    "CHATELAINE": 1.84,
+    "MALODOROUS": 1.83,
+    "LOLLYGAG": 1.21,
+    "MARQUETRY": 2.05,
+    "CANOODLE": 1.34,
+    "PEDANTIC": 2.66
+   }
+  },
+  "theme_hint": "Word Nerd",
+  "category": "mixed"
+ },
+ {
+  "id": "N12",
+  "entries": [
+   {
+    "answer": "KIBITZER",
+    "chunkTexts": [
+     "KI",
+     "BIT",
+     "ZER"
+    ]
+   },
+   {
+    "answer": "LIGATURE",
+    "chunkTexts": [
+     "LIGA",
+     "TURE"
+    ]
+   },
+   {
+    "answer": "BILLABONG",
+    "chunkTexts": [
+     "BIL",
+     "LAB",
+     "ONG"
+    ]
+   },
+   {
+    "answer": "DIATRIBE",
+    "chunkTexts": [
+     "DIA",
+     "TRI",
+     "BE"
+    ]
+   },
+   {
+    "answer": "ATARAXIA",
+    "chunkTexts": [
+     "AT",
+     "ARA",
+     "XIA"
+    ]
+   },
+   {
+    "answer": "ENCOMIUM",
+    "chunkTexts": [
+     "ENCO",
+     "MIUM"
+    ]
+   },
+   {
+    "answer": "FULGURITE",
+    "chunkTexts": [
+     "FUL",
+     "GUR",
+     "ITE"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 0.9,
+   "tempting_pairs": 0.0,
+   "shared_fragments": 2.5,
+   "anchor_balance": 7.5,
+   "shape": 7.6,
+   "word_appeal": 14.0,
+   "penalties": -14.9,
+   "structure": 17.6
+  },
+  "analysis": {
+   "n_tiles": 19,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 12,
+    "4": 4
+   },
+   "decoys": [
+    "BEAT=BE+AT",
+    "TRIBE=TRI+BE*"
+   ],
+   "tempting_pairs": [],
+   "anchors": [],
+   "word_tiles": [],
+   "misaligned": 8,
+   "dup_tiles": [],
+   "near_pairs": [
+    "BIL/BIT",
+    "DIA/XIA"
+   ],
+   "no_start_rival": [
+    "KIBITZER",
+    "LIGATURE",
+    "BILLABONG",
+    "DIATRIBE",
+    "ENCOMIUM",
+    "FULGURITE"
+   ],
+   "inflected": [],
+   "zipf": {
+    "KIBITZER": 1.03,
+    "LIGATURE": 2.78,
+    "BILLABONG": 2.33,
+    "DIATRIBE": 2.58,
+    "ATARAXIA": 1.59,
+    "ENCOMIUM": 1.82,
+    "FULGURITE": 1.03
+   }
+  },
+  "theme_hint": "Word Nerd",
+  "category": "mixed"
+ },
+ {
+  "id": "N13",
+  "entries": [
+   {
+    "answer": "OBLOQUY",
+    "chunkTexts": [
+     "OBLO",
+     "QUY"
+    ]
+   },
+   {
+    "answer": "DECOUPAGE",
+    "chunkTexts": [
+     "DEC",
+     "OUP",
+     "AGE"
+    ]
+   },
+   {
+    "answer": "DIAERESIS",
+    "chunkTexts": [
+     "DIA",
+     "ERE",
+     "SIS"
+    ]
+   },
+   {
+    "answer": "SUSURRUS",
+    "chunkTexts": [
+     "SUS",
+     "UR",
+     "RUS"
+    ]
+   },
+   {
+    "answer": "GLAUCOUS",
+    "chunkTexts": [
+     "GLA",
+     "UC",
+     "OUS"
+    ]
+   },
+   {
+    "answer": "UNCTUOUS",
+    "chunkTexts": [
+     "UNC",
+     "TU",
+     "OUS"
+    ]
+   },
+   {
+    "answer": "MOUNTEBANK",
+    "chunkTexts": [
+     "MOUN",
+     "TEB",
+     "ANK"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 0.0,
+   "tempting_pairs": 0.4,
+   "shared_fragments": 7.5,
+   "anchor_balance": 4.7,
+   "shape": 12.0,
+   "word_appeal": 14.0,
+   "penalties": -15.9,
+   "structure": 22.7
+  },
+  "analysis": {
+   "n_tiles": 20,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 15,
+    "4": 2
+   },
+   "decoys": [],
+   "tempting_pairs": [
+    "UR+AGE"
+   ],
+   "anchors": [
+    "MOUN",
+    "OBLO",
+    "QUY"
+   ],
+   "word_tiles": [],
+   "misaligned": 8,
+   "dup_tiles": [
+    "OUS"
+   ],
+   "near_pairs": [
+    "OUP/OUS",
+    "OUS/RUS",
+    "OUS/SUS",
+    "SIS/SUS"
+   ],
+   "no_start_rival": [
+    "OBLOQUY",
+    "DECOUPAGE",
+    "DIAERESIS",
+    "SUSURRUS",
+    "GLAUCOUS",
+    "UNCTUOUS",
+    "MOUNTEBANK"
+   ],
+   "inflected": [],
+   "zipf": {
+    "OBLOQUY": 1.3,
+    "DECOUPAGE": 1.97,
+    "DIAERESIS": 1.24,
+    "SUSURRUS": 0.0,
+    "GLAUCOUS": 2.12,
+    "UNCTUOUS": 2.03,
+    "MOUNTEBANK": 1.68
+   }
+  },
+  "theme_hint": "Word Nerd",
+  "category": "mixed"
+ },
+ {
+  "id": "N14",
+  "entries": [
+   {
+    "answer": "OSCITATION",
+    "chunkTexts": [
+     "OSCI",
+     "TAT",
+     "ION"
+    ]
+   },
+   {
+    "answer": "HIGGLEDY",
+    "chunkTexts": [
+     "HIG",
+     "GLE",
+     "DY"
+    ]
+   },
+   {
+    "answer": "MACGUFFIN",
+    "chunkTexts": [
+     "MAC",
+     "GUF",
+     "FIN"
+    ]
+   },
+   {
+    "answer": "INSIDIOUS",
+    "chunkTexts": [
+     "INS",
+     "IDI",
+     "OUS"
+    ]
+   },
+   {
+    "answer": "REFULGENT",
+    "chunkTexts": [
+     "REF",
+     "UL",
+     "GENT"
+    ]
+   },
+   {
+    "answer": "RIGMAROLE",
+    "chunkTexts": [
+     "RIG",
+     "MAR",
+     "OLE"
+    ]
+   },
+   {
+    "answer": "MORAINE",
+    "chunkTexts": [
+     "MORA",
+     "INE"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 2.7,
+   "tempting_pairs": 0.8,
+   "shared_fragments": 5.0,
+   "anchor_balance": 7.2,
+   "shape": 12.0,
+   "word_appeal": 14.0,
+   "penalties": -10.1,
+   "structure": 31.6
+  },
+  "analysis": {
+   "n_tiles": 20,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 15,
+    "4": 3
+   },
+   "decoys": [
+    "MARINE=MAR+INE",
+    "REFINE=REF+INE"
+   ],
+   "tempting_pairs": [
+    "INS+UL",
+    "UL+OUS"
+   ],
+   "anchors": [
+    "GUF"
+   ],
+   "word_tiles": [],
+   "misaligned": 7,
+   "dup_tiles": [],
+   "near_pairs": [
+    "GLE/OLE",
+    "HIG/RIG",
+    "INE/INS",
+    "MAC/MAR"
+   ],
+   "no_start_rival": [
+    "OSCITATION",
+    "HIGGLEDY",
+    "MACGUFFIN",
+    "RIGMAROLE",
+    "MORAINE"
+   ],
+   "inflected": [],
+   "zipf": {
+    "OSCITATION": 0.0,
+    "HIGGLEDY": 1.69,
+    "MACGUFFIN": 1.91,
+    "INSIDIOUS": 3.24,
+    "REFULGENT": 1.22,
+    "RIGMAROLE": 1.93,
+    "MORAINE": 2.69
+   }
+  },
+  "theme_hint": "Word Nerd",
+  "category": "mixed"
+ },
+ {
+  "id": "N15",
+  "entries": [
+   {
+    "answer": "EXACERBATE",
+    "chunkTexts": [
+     "EXAC",
+     "ERB",
+     "ATE"
+    ]
+   },
+   {
+    "answer": "AMANUENSIS",
+    "chunkTexts": [
+     "AMA",
+     "NUEN",
+     "SIS"
+    ]
+   },
+   {
+    "answer": "LANGUOROUS",
+    "chunkTexts": [
+     "LAN",
+     "GUO",
+     "ROUS"
+    ]
+   },
+   {
+    "answer": "CHIASMUS",
+    "chunkTexts": [
+     "CHI",
+     "AS",
+     "MUS"
+    ]
+   },
+   {
+    "answer": "DYSPEPTIC",
+    "chunkTexts": [
+     "DYS",
+     "PEP",
+     "TIC"
+    ]
+   },
+   {
+    "answer": "MALCONTENT",
+    "chunkTexts": [
+     "MAL",
+     "CONT",
+     "ENT"
+    ]
+   },
+   {
+    "answer": "OBSEQUIOUS",
+    "chunkTexts": [
+     "OBS",
+     "EQU",
+     "IOUS"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 2.5,
+   "tempting_pairs": 0.8,
+   "shared_fragments": 1.2,
+   "anchor_balance": 7.2,
+   "shape": 9.3,
+   "word_appeal": 14.0,
+   "penalties": -12.3,
+   "structure": 22.7
+  },
+  "analysis": {
+   "n_tiles": 21,
+   "tile_len_hist": {
+    "2": 1,
+    "3": 15,
+    "4": 5
+   },
+   "decoys": [
+    "CONTENTIOUS=CONT+ENT+IOUS",
+    "EQUATE=EQU+ATE",
+    "CONTENT=CONT+ENT*"
+   ],
+   "tempting_pairs": [
+    "AS+SIS",
+    "AS+TIC"
+   ],
+   "anchors": [
+    "NUEN"
+   ],
+   "word_tiles": [],
+   "misaligned": 6,
+   "dup_tiles": [],
+   "near_pairs": [
+    "IOUS/ROUS"
+   ],
+   "no_start_rival": [
+    "EXACERBATE",
+    "AMANUENSIS",
+    "LANGUOROUS",
+    "CHIASMUS",
+    "DYSPEPTIC",
+    "MALCONTENT",
+    "OBSEQUIOUS"
+   ],
+   "inflected": [],
+   "zipf": {
+    "EXACERBATE": 2.92,
+    "AMANUENSIS": 1.84,
+    "LANGUOROUS": 1.9,
+    "CHIASMUS": 1.44,
+    "DYSPEPTIC": 1.74,
+    "MALCONTENT": 2.05,
+    "OBSEQUIOUS": 2.14
+   }
+  },
+  "theme_hint": "Word Nerd",
+  "category": "mixed"
+ },
+ {
+  "id": "N16",
+  "entries": [
+   {
+    "answer": "INVECTIVE",
+    "chunkTexts": [
+     "IN",
+     "VEC",
+     "TIVE"
+    ]
+   },
+   {
+    "answer": "TOMFOOLERY",
+    "chunkTexts": [
+     "TOM",
+     "FOO",
+     "LERY"
+    ]
+   },
+   {
+    "answer": "IGNORAMUS",
+    "chunkTexts": [
+     "IGN",
+     "ORA",
+     "MUS"
+    ]
+   },
+   {
+    "answer": "SACCHARINE",
+    "chunkTexts": [
+     "SAC",
+     "CHAR",
+     "INE"
+    ]
+   },
+   {
+    "answer": "FILIBUSTER",
+    "chunkTexts": [
+     "FILI",
+     "BUS",
+     "TER"
+    ]
+   },
+   {
+    "answer": "VERDIGRIS",
+    "chunkTexts": [
+     "VER",
+     "DIG",
+     "RIS"
+    ]
+   },
+   {
+    "answer": "RAFFISH",
+    "chunkTexts": [
+     "RAFF",
+     "ISH"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 4.1,
+   "tempting_pairs": 0.4,
+   "shared_fragments": 3.8,
+   "anchor_balance": 7.2,
+   "shape": 10.0,
+   "word_appeal": 14.0,
+   "penalties": -11.3,
+   "structure": 28.2
+  },
+  "analysis": {
+   "n_tiles": 20,
+   "tile_len_hist": {
+    "2": 1,
+    "3": 14,
+    "4": 5
+   },
+   "decoys": [
+    "CHARTER=CHAR+TER",
+    "INTER=IN+TER",
+    "MUSTER=MUS+TER",
+    "BUSTER=BUS+TER*"
+   ],
+   "tempting_pairs": [
+    "IN+TER"
+   ],
+   "anchors": [
+    "IGN"
+   ],
+   "word_tiles": [],
+   "misaligned": 6,
+   "dup_tiles": [],
+   "near_pairs": [
+    "BUS/MUS",
+    "TER/VER",
+    "VEC/VER"
+   ],
+   "no_start_rival": [
+    "TOMFOOLERY",
+    "IGNORAMUS",
+    "SACCHARINE",
+    "FILIBUSTER",
+    "VERDIGRIS",
+    "RAFFISH"
+   ],
+   "inflected": [],
+   "zipf": {
+    "INVECTIVE": 2.41,
+    "TOMFOOLERY": 2.23,
+    "IGNORAMUS": 2.33,
+    "SACCHARINE": 2.48,
+    "FILIBUSTER": 2.89,
+    "VERDIGRIS": 1.97,
+    "RAFFISH": 1.55
+   }
+  },
+  "theme_hint": "Word Nerd",
+  "category": "mixed"
+ },
+ {
+  "id": "N17",
+  "entries": [
+   {
+    "answer": "DOGGEREL",
+    "chunkTexts": [
+     "DOG",
+     "GE",
+     "REL"
+    ]
+   },
+   {
+    "answer": "EMOLUMENT",
+    "chunkTexts": [
+     "EMO",
+     "LUM",
+     "ENT"
+    ]
+   },
+   {
+    "answer": "MEPHITIC",
+    "chunkTexts": [
+     "ME",
+     "PHI",
+     "TIC"
+    ]
+   },
+   {
+    "answer": "EVANESCENT",
+    "chunkTexts": [
+     "EVA",
+     "NES",
+     "CENT"
+    ]
+   },
+   {
+    "answer": "PALIMPSEST",
+    "chunkTexts": [
+     "PAL",
+     "IMPS",
+     "EST"
+    ]
+   },
+   {
+    "answer": "ENERVATE",
+    "chunkTexts": [
+     "ENER",
+     "VATE"
+    ]
+   },
+   {
+    "answer": "NEOLOGISM",
+    "chunkTexts": [
+     "NEO",
+     "LOG",
+     "ISM"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 2.8,
+   "tempting_pairs": 0.0,
+   "shared_fragments": 3.8,
+   "anchor_balance": 7.6,
+   "shape": 10.0,
+   "word_appeal": 14.0,
+   "penalties": -14.5,
+   "structure": 23.6
+  },
+  "analysis": {
+   "n_tiles": 20,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 14,
+    "4": 4
+   },
+   "decoys": [
+    "GENES=GE+NES",
+    "ENERGETIC=ENER+GE+TIC"
+   ],
+   "tempting_pairs": [],
+   "anchors": [],
+   "word_tiles": [
+    "CENT"
+   ],
+   "misaligned": 10,
+   "dup_tiles": [],
+   "near_pairs": [
+    "DOG/LOG",
+    "ENT/EST",
+    "NEO/NES"
+   ],
+   "no_start_rival": [
+    "DOGGEREL",
+    "EMOLUMENT",
+    "MEPHITIC",
+    "EVANESCENT",
+    "PALIMPSEST",
+    "ENERVATE",
+    "NEOLOGISM"
+   ],
+   "inflected": [],
+   "zipf": {
+    "DOGGEREL": 1.79,
+    "EMOLUMENT": 1.82,
+    "MEPHITIC": 1.22,
+    "EVANESCENT": 2.15,
+    "PALIMPSEST": 2.05,
+    "ENERVATE": 1.26,
+    "NEOLOGISM": 2.01
+   }
+  },
+  "theme_hint": "Word Nerd",
+  "category": "mixed"
+ },
+ {
+  "id": "N18",
+  "entries": [
+   {
+    "answer": "MONADNOCK",
+    "chunkTexts": [
+     "MON",
+     "AD",
+     "NOCK"
+    ]
+   },
+   {
+    "answer": "FASTIDIOUS",
+    "chunkTexts": [
+     "FAS",
+     "TID",
+     "IOUS"
+    ]
+   },
+   {
+    "answer": "PERQUISITE",
+    "chunkTexts": [
+     "PER",
+     "QUIS",
+     "ITE"
+    ]
+   },
+   {
+    "answer": "SINECURE",
+    "chunkTexts": [
+     "SIN",
+     "ECU",
+     "RE"
+    ]
+   },
+   {
+    "answer": "CERULEAN",
+    "chunkTexts": [
+     "CER",
+     "UL",
+     "EAN"
+    ]
+   },
+   {
+    "answer": "REPROBATE",
+    "chunkTexts": [
+     "REP",
+     "ROB",
+     "ATE"
+    ]
+   },
+   {
+    "answer": "SALMAGUNDI",
+    "chunkTexts": [
+     "SAL",
+     "MAG",
+     "UNDI"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 4.9,
+   "tempting_pairs": 2.0,
+   "shared_fragments": 2.5,
+   "anchor_balance": 7.5,
+   "shape": 8.3,
+   "word_appeal": 14.0,
+   "penalties": -12.5,
+   "structure": 26.8
+  },
+  "analysis": {
+   "n_tiles": 21,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 14,
+    "4": 4
+   },
+   "decoys": [
+    "READ=RE+AD",
+    "SALAD=SAL+AD",
+    "SALMON=SAL+MON",
+    "REQUISITE=RE+QUIS+ITE",
+    "RESIN=RE+SIN*",
+    "ULCER=UL+CER*"
+   ],
+   "tempting_pairs": [
+    "AD+UL",
+    "PER+ATE",
+    "RE+AD",
+    "SIN+CER",
+    "UL+ATE"
+   ],
+   "anchors": [
+    "UNDI"
+   ],
+   "word_tiles": [],
+   "misaligned": 10,
+   "dup_tiles": [],
+   "near_pairs": [
+    "ATE/ITE",
+    "CER/PER"
+   ],
+   "no_start_rival": [
+    "MONADNOCK",
+    "FASTIDIOUS",
+    "PERQUISITE",
+    "CERULEAN",
+    "SALMAGUNDI"
+   ],
+   "inflected": [],
+   "zipf": {
+    "MONADNOCK": 2.04,
+    "FASTIDIOUS": 2.64,
+    "PERQUISITE": 1.8,
+    "SINECURE": 1.88,
+    "CERULEAN": 2.3,
+    "REPROBATE": 2.2,
+    "SALMAGUNDI": 1.56
+   }
+  },
+  "theme_hint": "Word Nerd",
+  "category": "mixed"
+ },
+ {
+  "id": "N19",
+  "entries": [
+   {
+    "answer": "DOOHICKEY",
+    "chunkTexts": [
+     "DOO",
+     "HIC",
+     "KEY"
+    ]
+   },
+   {
+    "answer": "BINTURONG",
+    "chunkTexts": [
+     "BIN",
+     "TUR",
+     "ONG"
+    ]
+   },
+   {
+    "answer": "INEXORABLE",
+    "chunkTexts": [
+     "INEX",
+     "ORA",
+     "BLE"
+    ]
+   },
+   {
+    "answer": "KERFUFFLE",
+    "chunkTexts": [
+     "KER",
+     "FUF",
+     "FLE"
+    ]
+   },
+   {
+    "answer": "BLOVIATOR",
+    "chunkTexts": [
+     "BLO",
+     "VIA",
+     "TOR"
+    ]
+   },
+   {
+    "answer": "ESCRITOIRE",
+    "chunkTexts": [
+     "ES",
+     "CRIT",
+     "OIRE"
+    ]
+   },
+   {
+    "answer": "OBFUSCATE",
+    "chunkTexts": [
+     "OB",
+     "FUS",
+     "CATE"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 7.0,
+   "tempting_pairs": 0.0,
+   "shared_fragments": 6.2,
+   "anchor_balance": 7.1,
+   "shape": 8.3,
+   "word_appeal": 14.0,
+   "penalties": -10.5,
+   "structure": 32.1
+  },
+  "analysis": {
+   "n_tiles": 21,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 15,
+    "4": 4
+   },
+   "decoys": [
+    "TURKEY=TUR+KEY",
+    "VIABLE=VIA+BLE",
+    "TURBINES=TUR+BIN+ES",
+    "FUSES=FUS+ES",
+    "ORATOR=ORA+TOR",
+    "HICKEY=HIC+KEY*"
+   ],
+   "tempting_pairs": [],
+   "anchors": [
+    "FUF"
+   ],
+   "word_tiles": [],
+   "misaligned": 5,
+   "dup_tiles": [],
+   "near_pairs": [
+    "BLE/BLO",
+    "BLE/FLE",
+    "FUF/FUS",
+    "KER/KEY",
+    "TOR/TUR"
+   ],
+   "no_start_rival": [
+    "DOOHICKEY",
+    "BINTURONG",
+    "INEXORABLE",
+    "KERFUFFLE",
+    "BLOVIATOR",
+    "ESCRITOIRE"
+   ],
+   "inflected": [],
+   "zipf": {
+    "DOOHICKEY": 1.72,
+    "BINTURONG": 1.09,
+    "INEXORABLE": 2.57,
+    "KERFUFFLE": 2.3,
+    "BLOVIATOR": 0.0,
+    "ESCRITOIRE": 1.08,
+    "OBFUSCATE": 2.28
+   }
+  },
+  "theme_hint": "Word Nerd",
+  "category": "mixed"
+ },
+ {
+  "id": "N20",
+  "entries": [
+   {
+    "answer": "PHILIPPIC",
+    "chunkTexts": [
+     "PHI",
+     "LIP",
+     "PIC"
+    ]
+   },
+   {
+    "answer": "HOOPLA",
+    "chunkTexts": [
+     "HOO",
+     "PLA"
+    ]
+   },
+   {
+    "answer": "FISTICUFFS",
+    "chunkTexts": [
+     "FIS",
+     "TIC",
+     "UFFS"
+    ]
+   },
+   {
+    "answer": "MATUTINAL",
+    "chunkTexts": [
+     "MAT",
+     "UTI",
+     "NAL"
+    ]
+   },
+   {
+    "answer": "VERMILION",
+    "chunkTexts": [
+     "VER",
+     "MIL",
+     "ION"
+    ]
+   },
+   {
+    "answer": "LOQUACIOUS",
+    "chunkTexts": [
+     "LOQU",
+     "ACI",
+     "OUS"
+    ]
+   },
+   {
+    "answer": "COXCOMB",
+    "chunkTexts": [
+     "COX",
+     "COMB"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 0.0,
+   "tempting_pairs": 0.4,
+   "shared_fragments": 1.2,
+   "anchor_balance": 4.6,
+   "shape": 12.0,
+   "word_appeal": 14.0,
+   "penalties": -8.1,
+   "structure": 24.1
+  },
+  "analysis": {
+   "n_tiles": 19,
+   "tile_len_hist": {
+    "3": 16,
+    "4": 3
+   },
+   "decoys": [],
+   "tempting_pairs": [
+    "MAT+ION"
+   ],
+   "anchors": [
+    "COX",
+    "LOQU",
+    "PLA"
+   ],
+   "word_tiles": [],
+   "misaligned": 7,
+   "dup_tiles": [],
+   "near_pairs": [
+    "PIC/TIC"
+   ],
+   "no_start_rival": [
+    "PHILIPPIC",
+    "HOOPLA",
+    "FISTICUFFS",
+    "MATUTINAL",
+    "LOQUACIOUS",
+    "COXCOMB"
+   ],
+   "inflected": [],
+   "zipf": {
+    "PHILIPPIC": 1.35,
+    "HOOPLA": 2.56,
+    "FISTICUFFS": 2.3,
+    "MATUTINAL": 0.0,
+    "VERMILION": 2.75,
+    "LOQUACIOUS": 2.11,
+    "COXCOMB": 1.63
+   }
+  },
+  "theme_hint": "Word Nerd",
+  "category": "mixed"
+ },
+ {
+  "id": "N21",
+  "entries": [
+   {
+    "answer": "LEVIATHAN",
+    "chunkTexts": [
+     "LEV",
+     "IAT",
+     "HAN"
+    ]
+   },
+   {
+    "answer": "FARRAGO",
+    "chunkTexts": [
+     "FAR",
+     "RAGO"
+    ]
+   },
+   {
+    "answer": "INEFFABLE",
+    "chunkTexts": [
+     "IN",
+     "EFF",
+     "ABLE"
+    ]
+   },
+   {
+    "answer": "CASSOWARY",
+    "chunkTexts": [
+     "CAS",
+     "SOW",
+     "ARY"
+    ]
+   },
+   {
+    "answer": "LIBERTINE",
+    "chunkTexts": [
+     "LIB",
+     "ERT",
+     "INE"
+    ]
+   },
+   {
+    "answer": "PAREIDOLIA",
+    "chunkTexts": [
+     "PARE",
+     "IDO",
+     "LIA"
+    ]
+   },
+   {
+    "answer": "GLABELLA",
+    "chunkTexts": [
+     "GLA",
+     "BEL",
+     "LA"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 2.0,
+   "tempting_pairs": 0.8,
+   "shared_fragments": 1.2,
+   "anchor_balance": 5.0,
+   "shape": 12.0,
+   "word_appeal": 14.0,
+   "penalties": -12.6,
+   "structure": 22.5
+  },
+  "analysis": {
+   "n_tiles": 20,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 15,
+    "4": 3
+   },
+   "decoys": [
+    "INERT=IN+ERT",
+    "LIBIDO=LIB+IDO",
+    "LABEL=LA+BEL*"
+   ],
+   "tempting_pairs": [
+    "IN+ARY",
+    "LA+IN"
+   ],
+   "anchors": [
+    "LIB",
+    "RAGO",
+    "SOW"
+   ],
+   "word_tiles": [
+    "ABLE"
+   ],
+   "misaligned": 7,
+   "dup_tiles": [],
+   "near_pairs": [
+    "LIA/LIB"
+   ],
+   "no_start_rival": [
+    "LEVIATHAN",
+    "FARRAGO",
+    "INEFFABLE",
+    "LIBERTINE",
+    "PAREIDOLIA",
+    "GLABELLA"
+   ],
+   "inflected": [],
+   "zipf": {
+    "LEVIATHAN": 3.09,
+    "FARRAGO": 1.92,
+    "INEFFABLE": 2.41,
+    "CASSOWARY": 2.01,
+    "LIBERTINE": 2.51,
+    "PAREIDOLIA": 1.67,
+    "GLABELLA": 1.89
+   }
+  },
+  "theme_hint": "Word Nerd",
+  "category": "mixed"
+ },
+ {
+  "id": "N22",
+  "entries": [
+   {
+    "answer": "DISCOMFIT",
+    "chunkTexts": [
+     "DIS",
+     "COM",
+     "FIT"
+    ]
+   },
+   {
+    "answer": "HOATZIN",
+    "chunkTexts": [
+     "HOAT",
+     "ZIN"
+    ]
+   },
+   {
+    "answer": "APRICITY",
+    "chunkTexts": [
+     "AP",
+     "RIC",
+     "ITY"
+    ]
+   },
+   {
+    "answer": "ADUMBRATE",
+    "chunkTexts": [
+     "AD",
+     "UMB",
+     "RATE"
+    ]
+   },
+   {
+    "answer": "EPENTHESIS",
+    "chunkTexts": [
+     "EPEN",
+     "THE",
+     "SIS"
+    ]
+   },
+   {
+    "answer": "NOSTRUM",
+    "chunkTexts": [
+     "NOS",
+     "TRUM"
+    ]
+   },
+   {
+    "answer": "HETERONYM",
+    "chunkTexts": [
+     "HE",
+     "TER",
+     "ONYM"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 5.8,
+   "tempting_pairs": 1.6,
+   "shared_fragments": 1.2,
+   "anchor_balance": 4.7,
+   "shape": 8.6,
+   "word_appeal": 14.0,
+   "penalties": -13.8,
+   "structure": 22.1
+  },
+  "analysis": {
+   "n_tiles": 19,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 11,
+    "4": 5
+   },
+   "decoys": [
+    "HEAD=HE+AD",
+    "SISTER=SIS+TER",
+    "ADAPTER=AD+AP+TER",
+    "HEAP=HE+AP",
+    "FITTER=FIT+TER",
+    "THESIS=THE+SIS*"
+   ],
+   "tempting_pairs": [
+    "AD+AP",
+    "AD+HE",
+    "HE+AD",
+    "HE+SIS"
+   ],
+   "anchors": [
+    "EPEN",
+    "HOAT",
+    "ZIN"
+   ],
+   "word_tiles": [
+    "RATE"
+   ],
+   "misaligned": 6,
+   "dup_tiles": [],
+   "near_pairs": [
+    "DIS/SIS"
+   ],
+   "no_start_rival": [
+    "HOATZIN",
+    "APRICITY",
+    "EPENTHESIS",
+    "NOSTRUM"
+   ],
+   "inflected": [],
+   "zipf": {
+    "DISCOMFIT": 1.22,
+    "HOATZIN": 1.21,
+    "APRICITY": 0.0,
+    "ADUMBRATE": 1.07,
+    "EPENTHESIS": 1.29,
+    "NOSTRUM": 2.31,
+    "HETERONYM": 0.0
+   }
+  },
+  "theme_hint": "Word Nerd",
+  "category": "mixed"
+ },
+ {
+  "id": "N23",
+  "entries": [
+   {
+    "answer": "LIPOGRAM",
+    "chunkTexts": [
+     "LI",
+     "POG",
+     "RAM"
+    ]
+   },
+   {
+    "answer": "CACOPHONY",
+    "chunkTexts": [
+     "CAC",
+     "OPH",
+     "ONY"
+    ]
+   },
+   {
+    "answer": "CURMUDGEON",
+    "chunkTexts": [
+     "CUR",
+     "MUD",
+     "GEON"
+    ]
+   },
+   {
+    "answer": "RUMPUS",
+    "chunkTexts": [
+     "RUM",
+     "PUS"
+    ]
+   },
+   {
+    "answer": "BLANDISH",
+    "chunkTexts": [
+     "BLAN",
+     "DISH"
+    ]
+   },
+   {
+    "answer": "GOSSAMER",
+    "chunkTexts": [
+     "GOS",
+     "SAM",
+     "ER"
+    ]
+   },
+   {
+    "answer": "PENURIOUS",
+    "chunkTexts": [
+     "PEN",
+     "URI",
+     "OUS"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 0.0,
+   "tempting_pairs": 0.8,
+   "shared_fragments": 3.8,
+   "anchor_balance": 7.2,
+   "shape": 11.7,
+   "word_appeal": 14.0,
+   "penalties": -12.7,
+   "structure": 24.8
+  },
+  "analysis": {
+   "n_tiles": 19,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 14,
+    "4": 3
+   },
+   "decoys": [],
+   "tempting_pairs": [
+    "ER+OUS",
+    "LI+ER"
+   ],
+   "anchors": [],
+   "word_tiles": [
+    "DISH"
+   ],
+   "misaligned": 4,
+   "dup_tiles": [],
+   "near_pairs": [
+    "OUS/PUS",
+    "RAM/RUM",
+    "RAM/SAM"
+   ],
+   "no_start_rival": [
+    "LIPOGRAM",
+    "CACOPHONY",
+    "CURMUDGEON",
+    "RUMPUS",
+    "BLANDISH",
+    "GOSSAMER",
+    "PENURIOUS"
+   ],
+   "inflected": [],
+   "zipf": {
+    "LIPOGRAM": 0.0,
+    "CACOPHONY": 2.61,
+    "CURMUDGEON": 2.21,
+    "RUMPUS": 2.32,
+    "BLANDISH": 1.21,
+    "GOSSAMER": 2.44,
+    "PENURIOUS": 1.43
+   }
+  },
+  "theme_hint": "Word Nerd",
+  "category": "mixed"
+ },
+ {
+  "id": "N24",
+  "entries": [
+   {
+    "answer": "CLINOMANIA",
+    "chunkTexts": [
+     "CLI",
+     "NOMA",
+     "NIA"
+    ]
+   },
+   {
+    "answer": "OBJURGATE",
+    "chunkTexts": [
+     "OB",
+     "JUR",
+     "GATE"
+    ]
+   },
+   {
+    "answer": "FRIPPERY",
+    "chunkTexts": [
+     "FRIP",
+     "PERY"
+    ]
+   },
+   {
+    "answer": "MISCREANT",
+    "chunkTexts": [
+     "MIS",
+     "CRE",
+     "ANT"
+    ]
+   },
+   {
+    "answer": "RECONDITE",
+    "chunkTexts": [
+     "REC",
+     "OND",
+     "ITE"
+    ]
+   },
+   {
+    "answer": "ABSTRUSE",
+    "chunkTexts": [
+     "ABS",
+     "TRU",
+     "SE"
+    ]
+   },
+   {
+    "answer": "LOGOPHILE",
+    "chunkTexts": [
+     "LOG",
+     "OPH",
+     "ILE"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 1.0,
+   "tempting_pairs": 1.2,
+   "shared_fragments": 1.2,
+   "anchor_balance": 7.1,
+   "shape": 10.0,
+   "word_appeal": 14.0,
+   "penalties": -12.3,
+   "structure": 22.2
+  },
+  "analysis": {
+   "n_tiles": 20,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 14,
+    "4": 4
+   },
+   "decoys": [
+    "SEMIS=SE+MIS",
+    "RECITE=REC+ITE*"
+   ],
+   "tempting_pairs": [
+    "OB+ILE",
+    "OB+SE",
+    "SE+CRE"
+   ],
+   "anchors": [
+    "FRIP"
+   ],
+   "word_tiles": [
+    "GATE"
+   ],
+   "misaligned": 6,
+   "dup_tiles": [],
+   "near_pairs": [
+    "ILE/ITE"
+   ],
+   "no_start_rival": [
+    "CLINOMANIA",
+    "FRIPPERY",
+    "MISCREANT",
+    "RECONDITE",
+    "ABSTRUSE",
+    "LOGOPHILE"
+   ],
+   "inflected": [],
+   "zipf": {
+    "CLINOMANIA": 0.0,
+    "OBJURGATE": 0.0,
+    "FRIPPERY": 1.57,
+    "MISCREANT": 2.15,
+    "RECONDITE": 1.73,
+    "ABSTRUSE": 2.13,
+    "LOGOPHILE": 0.0
+   }
+  },
+  "theme_hint": "Word Nerd",
+  "category": "mixed"
+ },
+ {
+  "id": "N25",
+  "entries": [
+   {
+    "answer": "DIACRITIC",
+    "chunkTexts": [
+     "DIA",
+     "CRI",
+     "TIC"
+    ]
+   },
+   {
+    "answer": "VACILLATE",
+    "chunkTexts": [
+     "VAC",
+     "ILL",
+     "ATE"
+    ]
+   },
+   {
+    "answer": "ERUCTATION",
+    "chunkTexts": [
+     "ER",
+     "UCTA",
+     "TION"
+    ]
+   },
+   {
+    "answer": "SALUBRIOUS",
+    "chunkTexts": [
+     "SALU",
+     "BRI",
+     "OUS"
+    ]
+   },
+   {
+    "answer": "BAKSHEESH",
+    "chunkTexts": [
+     "BAK",
+     "SHE",
+     "ESH"
+    ]
+   },
+   {
+    "answer": "MUMPSIMUS",
+    "chunkTexts": [
+     "MUM",
+     "PSI",
+     "MUS"
+    ]
+   },
+   {
+    "answer": "DIAPHANOUS",
+    "chunkTexts": [
+     "DIA",
+     "PHAN",
+     "OUS"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 3.1,
+   "tempting_pairs": 1.2,
+   "shared_fragments": 7.5,
+   "anchor_balance": 7.4,
+   "shape": 9.0,
+   "word_appeal": 14.0,
+   "penalties": -9.9,
+   "structure": 32.3
+  },
+  "analysis": {
+   "n_tiles": 21,
+   "tile_len_hist": {
+    "2": 1,
+    "3": 16,
+    "4": 4
+   },
+   "decoys": [
+    "BAKER=BAK+ER",
+    "SHEER=SHE+ER",
+    "CRITIC=CRI+TIC*",
+    "VACATE=VAC+ATE*"
+   ],
+   "tempting_pairs": [
+    "ER+ATE",
+    "ER+OUS",
+    "ILL+ER"
+   ],
+   "anchors": [],
+   "word_tiles": [],
+   "misaligned": 8,
+   "dup_tiles": [
+    "DIA",
+    "OUS"
+   ],
+   "near_pairs": [
+    "BRI/CRI",
+    "MUS/OUS"
+   ],
+   "no_start_rival": [
+    "DIACRITIC",
+    "VACILLATE",
+    "ERUCTATION",
+    "SALUBRIOUS",
+    "MUMPSIMUS",
+    "DIAPHANOUS"
+   ],
+   "inflected": [],
+   "zipf": {
+    "DIACRITIC": 1.71,
+    "VACILLATE": 1.77,
+    "ERUCTATION": 0.0,
+    "SALUBRIOUS": 2.13,
+    "BAKSHEESH": 1.65,
+    "MUMPSIMUS": 0.0,
+    "DIAPHANOUS": 1.97
+   }
+  },
+  "theme_hint": "Word Nerd",
+  "category": "mixed"
+ },
+ {
+  "id": "N26",
+  "entries": [
+   {
+    "answer": "VITUPERATE",
+    "chunkTexts": [
+     "VIT",
+     "UPER",
+     "ATE"
+    ]
+   },
+   {
+    "answer": "SATRAPY",
+    "chunkTexts": [
+     "SAT",
+     "RAPY"
+    ]
+   },
+   {
+    "answer": "DENOUEMENT",
+    "chunkTexts": [
+     "DEN",
+     "OUE",
+     "MENT"
+    ]
+   },
+   {
+    "answer": "ESOTERIC",
+    "chunkTexts": [
+     "ESO",
+     "TER",
+     "IC"
+    ]
+   },
+   {
+    "answer": "PANGOLIN",
+    "chunkTexts": [
+     "PAN",
+     "GOL",
+     "IN"
+    ]
+   },
+   {
+    "answer": "SPOONERISM",
+    "chunkTexts": [
+     "SPO",
+     "ONER",
+     "ISM"
+    ]
+   },
+   {
+    "answer": "CORUSCATE",
+    "chunkTexts": [
+     "COR",
+     "US",
+     "CATE"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 5.7,
+   "tempting_pairs": 2.0,
+   "shared_fragments": 0.0,
+   "anchor_balance": 7.5,
+   "shape": 9.0,
+   "word_appeal": 14.0,
+   "penalties": -14.0,
+   "structure": 24.1
+  },
+  "analysis": {
+   "n_tiles": 20,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 12,
+    "4": 5
+   },
+   "decoys": [
+    "GOLDEN=GOL+DEN",
+    "PANIC=PAN+IC",
+    "INTER=IN+TER",
+    "CORONER=COR+ONER",
+    "SATIN=SAT+IN"
+   ],
+   "tempting_pairs": [
+    "IC+ATE",
+    "IN+ATE",
+    "IN+TER",
+    "IN+VIT",
+    "US+TER"
+   ],
+   "anchors": [
+    "OUE"
+   ],
+   "word_tiles": [],
+   "misaligned": 5,
+   "dup_tiles": [],
+   "near_pairs": [],
+   "no_start_rival": [
+    "VITUPERATE",
+    "SATRAPY",
+    "DENOUEMENT",
+    "ESOTERIC",
+    "SPOONERISM",
+    "CORUSCATE"
+   ],
+   "inflected": [],
+   "zipf": {
+    "VITUPERATE": 0.0,
+    "SATRAPY": 1.48,
+    "DENOUEMENT": 2.42,
+    "ESOTERIC": 3.17,
+    "PANGOLIN": 2.36,
+    "SPOONERISM": 1.33,
+    "CORUSCATE": 0.0
+   }
+  },
+  "theme_hint": "Word Nerd",
+  "category": "mixed"
+ },
+ {
+  "id": "N27",
+  "entries": [
+   {
+    "answer": "PERFIDIOUS",
+    "chunkTexts": [
+     "PER",
+     "FID",
+     "IOUS"
+    ]
+   },
+   {
+    "answer": "LOGORRHEA",
+    "chunkTexts": [
+     "LOG",
+     "ORR",
+     "HEA"
+    ]
+   },
+   {
+    "answer": "ANIMADVERT",
+    "chunkTexts": [
+     "ANI",
+     "MAD",
+     "VERT"
+    ]
+   },
+   {
+    "answer": "MONDEGREEN",
+    "chunkTexts": [
+     "MON",
+     "DEG",
+     "REEN"
+    ]
+   },
+   {
+    "answer": "INCHOATE",
+    "chunkTexts": [
+     "IN",
+     "CHO",
+     "ATE"
+    ]
+   },
+   {
+    "answer": "TRUCULENT",
+    "chunkTexts": [
+     "TRU",
+     "CUL",
+     "ENT"
+    ]
+   },
+   {
+    "answer": "PROPITIATE",
+    "chunkTexts": [
+     "PROP",
+     "ITI",
+     "ATE"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 3.4,
+   "tempting_pairs": 2.4,
+   "shared_fragments": 2.5,
+   "anchor_balance": 7.4,
+   "shape": 10.0,
+   "word_appeal": 14.0,
+   "penalties": -9.0,
+   "structure": 30.7
+  },
+  "analysis": {
+   "n_tiles": 21,
+   "tile_len_hist": {
+    "2": 1,
+    "3": 16,
+    "4": 4
+   },
+   "decoys": [
+    "INITIATE=IN+ITI+ATE",
+    "LOGIN=LOG+IN",
+    "PERVERT=PER+VERT"
+   ],
+   "tempting_pairs": [
+    "CUL+ATE",
+    "IN+ATE",
+    "IN+ENT",
+    "IN+ITI",
+    "IN+TRU",
+    "PER+ATE"
+   ],
+   "anchors": [
+    "ANI",
+    "HEA"
+   ],
+   "word_tiles": [],
+   "misaligned": 5,
+   "dup_tiles": [
+    "ATE"
+   ],
+   "near_pairs": [],
+   "no_start_rival": [
+    "PERFIDIOUS",
+    "LOGORRHEA",
+    "ANIMADVERT",
+    "MONDEGREEN",
+    "TRUCULENT",
+    "PROPITIATE"
+   ],
+   "inflected": [],
+   "zipf": {
+    "PERFIDIOUS": 2.09,
+    "LOGORRHEA": 1.14,
+    "ANIMADVERT": 0.0,
+    "MONDEGREEN": 1.16,
+    "INCHOATE": 2.06,
+    "TRUCULENT": 2.01,
+    "PROPITIATE": 1.53
+   }
+  },
+  "theme_hint": "Word Nerd",
+  "category": "mixed"
+ },
+ {
+  "id": "N28",
+  "entries": [
+   {
+    "answer": "CREDENZA",
+    "chunkTexts": [
+     "CRE",
+     "DEN",
+     "ZA"
+    ]
+   },
+   {
+    "answer": "NINCOMPOOP",
+    "chunkTexts": [
+     "NIN",
+     "COMP",
+     "OOP"
+    ]
+   },
+   {
+    "answer": "JUGGERNAUT",
+    "chunkTexts": [
+     "JUG",
+     "GER",
+     "NAUT"
+    ]
+   },
+   {
+    "answer": "FUSTIAN",
+    "chunkTexts": [
+     "FUS",
+     "TIAN"
+    ]
+   },
+   {
+    "answer": "EXCULPATE",
+    "chunkTexts": [
+     "EX",
+     "CULP",
+     "ATE"
+    ]
+   },
+   {
+    "answer": "HARANGUE",
+    "chunkTexts": [
+     "HAR",
+     "AN",
+     "GUE"
+    ]
+   },
+   {
+    "answer": "VESPERTINE",
+    "chunkTexts": [
+     "VES",
+     "PER",
+     "TINE"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 4.5,
+   "tempting_pairs": 1.6,
+   "shared_fragments": 1.2,
+   "anchor_balance": 7.3,
+   "shape": 9.0,
+   "word_appeal": 14.0,
+   "penalties": -11.7,
+   "structure": 26.0
+  },
+  "analysis": {
+   "n_tiles": 20,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 12,
+    "4": 5
+   },
+   "decoys": [
+    "CREATE=CRE+ATE",
+    "ANGER=AN+GER",
+    "HARDEN=HAR+DEN"
+   ],
+   "tempting_pairs": [
+    "AN+GER",
+    "EX+PER",
+    "HAR+VES",
+    "PER+ATE"
+   ],
+   "anchors": [],
+   "word_tiles": [],
+   "misaligned": 4,
+   "dup_tiles": [],
+   "near_pairs": [
+    "GER/PER"
+   ],
+   "no_start_rival": [
+    "NINCOMPOOP",
+    "JUGGERNAUT",
+    "FUSTIAN",
+    "VESPERTINE"
+   ],
+   "inflected": [],
+   "zipf": {
+    "CREDENZA": 1.91,
+    "NINCOMPOOP": 1.91,
+    "JUGGERNAUT": 2.99,
+    "FUSTIAN": 1.51,
+    "EXCULPATE": 1.65,
+    "HARANGUE": 2.07,
+    "VESPERTINE": 1.43
+   }
+  },
+  "theme_hint": "Word Nerd",
+  "category": "mixed"
+ },
+ {
+  "id": "N29",
+  "entries": [
+   {
+    "answer": "LUDDITE",
+    "chunkTexts": [
+     "LUD",
+     "DITE"
+    ]
+   },
+   {
+    "answer": "INSOUCIANT",
+    "chunkTexts": [
+     "INS",
+     "OUC",
+     "IANT"
+    ]
+   },
+   {
+    "answer": "INVEIGLE",
+    "chunkTexts": [
+     "IN",
+     "VEI",
+     "GLE"
+    ]
+   },
+   {
+    "answer": "DESULTORY",
+    "chunkTexts": [
+     "DES",
+     "ULT",
+     "ORY"
+    ]
+   },
+   {
+    "answer": "NOISOME",
+    "chunkTexts": [
+     "NOIS",
+     "OME"
+    ]
+   },
+   {
+    "answer": "GASCONADE",
+    "chunkTexts": [
+     "GAS",
+     "CON",
+     "ADE"
+    ]
+   },
+   {
+    "answer": "EFFULGENT",
+    "chunkTexts": [
+     "EFF",
+     "UL",
+     "GENT"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 3.3,
+   "tempting_pairs": 0.8,
+   "shared_fragments": 0.0,
+   "anchor_balance": 7.6,
+   "shape": 10.7,
+   "word_appeal": 14.0,
+   "penalties": -13.1,
+   "structure": 23.3
+  },
+  "analysis": {
+   "n_tiles": 19,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 13,
+    "4": 4
+   },
+   "decoys": [
+    "INSULT=INS+ULT",
+    "INSULIN=INS+UL+IN"
+   ],
+   "tempting_pairs": [
+    "INS+UL",
+    "INS+ULT"
+   ],
+   "anchors": [],
+   "word_tiles": [],
+   "misaligned": 7,
+   "dup_tiles": [],
+   "near_pairs": [],
+   "no_start_rival": [
+    "LUDDITE",
+    "INVEIGLE",
+    "DESULTORY",
+    "NOISOME",
+    "GASCONADE",
+    "EFFULGENT"
+   ],
+   "inflected": [],
+   "zipf": {
+    "LUDDITE": 2.24,
+    "INSOUCIANT": 1.63,
+    "INVEIGLE": 1.51,
+    "DESULTORY": 2.1,
+    "NOISOME": 1.68,
+    "GASCONADE": 1.64,
+    "EFFULGENT": 1.56
+   }
+  },
+  "theme_hint": "Word Nerd",
+  "category": "mixed"
+ },
+ {
+  "id": "N30",
+  "entries": [
+   {
+    "answer": "SPLENETIC",
+    "chunkTexts": [
+     "SPLE",
+     "NE",
+     "TIC"
+    ]
+   },
+   {
+    "answer": "LOTHARIO",
+    "chunkTexts": [
+     "LOT",
+     "HA",
+     "RIO"
+    ]
+   },
+   {
+    "answer": "AESTIVATE",
+    "chunkTexts": [
+     "AES",
+     "TIV",
+     "ATE"
+    ]
+   },
+   {
+    "answer": "CLERESTORY",
+    "chunkTexts": [
+     "CLE",
+     "RES",
+     "TORY"
+    ]
+   },
+   {
+    "answer": "PLEONASM",
+    "chunkTexts": [
+     "PLE",
+     "ON",
+     "ASM"
+    ]
+   },
+   {
+    "answer": "EQUIVOCATE",
+    "chunkTexts": [
+     "EQUI",
+     "VOC",
+     "ATE"
+    ]
+   },
+   {
+    "answer": "GIBBERISH",
+    "chunkTexts": [
+     "GIB",
+     "BER",
+     "ISH"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 3.7,
+   "tempting_pairs": 0.4,
+   "shared_fragments": 6.2,
+   "anchor_balance": 7.2,
+   "shape": 9.3,
+   "word_appeal": 14.0,
+   "penalties": -16.5,
+   "structure": 24.3
+  },
+  "analysis": {
+   "n_tiles": 21,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 15,
+    "4": 3
+   },
+   "decoys": [
+    "NEON=NE+ON",
+    "HAVOC=HA+VOC",
+    "RESONATE=RES+ON+ATE",
+    "EQUINE=EQUI+NE"
+   ],
+   "tempting_pairs": [
+    "ON+ATE"
+   ],
+   "anchors": [
+    "SPLE"
+   ],
+   "word_tiles": [],
+   "misaligned": 10,
+   "dup_tiles": [
+    "ATE"
+   ],
+   "near_pairs": [
+    "AES/RES",
+    "CLE/PLE",
+    "TIC/TIV"
+   ],
+   "no_start_rival": [
+    "SPLENETIC",
+    "LOTHARIO",
+    "AESTIVATE",
+    "CLERESTORY",
+    "PLEONASM",
+    "EQUIVOCATE",
+    "GIBBERISH"
+   ],
+   "inflected": [],
+   "zipf": {
+    "SPLENETIC": 1.42,
+    "LOTHARIO": 2.11,
+    "AESTIVATE": 0.0,
+    "CLERESTORY": 2.0,
+    "PLEONASM": 1.29,
+    "EQUIVOCATE": 1.72,
+    "GIBBERISH": 2.97
+   }
+  },
+  "theme_hint": "Word Nerd",
+  "category": "mixed"
+ }
+]

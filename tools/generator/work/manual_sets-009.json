@@ -1,0 +1,375 @@
+[
+ {
+  "id": "S01",
+  "category": "themed",
+  "theme": "Particle Zoo",
+  "allowProperNouns": false,
+  "words": [
+   "HADRON",
+   "LEPTON",
+   "FERMION",
+   "POSITRON",
+   "GRAVITON",
+   "TACHYON",
+   "GLUON",
+   "BOSON",
+   "MESON",
+   "COLLIDER"
+  ]
+ },
+ {
+  "id": "S02",
+  "category": "themed",
+  "theme": "Plant Anatomy",
+  "allowProperNouns": false,
+  "words": [
+   "STAMEN",
+   "XYLEM",
+   "PHLOEM",
+   "STOMATA",
+   "CAMBIUM",
+   "RHIZOME",
+   "TENDRIL",
+   "CUTICLE",
+   "MERISTEM",
+   "COTYLEDON",
+   "RECEPTACLE",
+   "PERIANTH",
+   "EPIDERMIS"
+  ]
+ },
+ {
+  "id": "S03",
+  "category": "themed",
+  "theme": "Neuroscience",
+  "allowProperNouns": false,
+  "words": [
+   "NEURON",
+   "SYNAPSE",
+   "DENDRITE",
+   "MYELIN",
+   "AMYGDALA",
+   "DOPAMINE",
+   "SEROTONIN",
+   "CORTEX",
+   "THALAMUS",
+   "NEOCORTEX"
+  ]
+ },
+ {
+  "id": "S04",
+  "category": "themed",
+  "theme": "Landmark Experiments",
+  "allowProperNouns": true,
+  "words": [
+   "MILLIKAN",
+   "RUTHERFORD",
+   "PAVLOV",
+   "MICHELSON",
+   "CAVENDISH",
+   "FOUCAULT",
+   "MENDEL",
+   "GALVANI",
+   "PASTEUR",
+   "MILGRAM",
+   "EDDINGTON"
+  ]
+ },
+ {
+  "id": "S05",
+  "category": "themed",
+  "theme": "Measuring Instruments",
+  "allowProperNouns": false,
+  "words": [
+   "HYGROMETER",
+   "SEXTANT",
+   "THEODOLITE",
+   "ASTROLABE",
+   "GYROSCOPE",
+   "MICROMETER",
+   "PIPETTE",
+   "BURETTE",
+   "SPIROMETER"
+  ]
+ },
+ {
+  "id": "S06",
+  "category": "themed",
+  "theme": "Fossil Record",
+  "allowProperNouns": true,
+  "words": [
+   "TRILOBITE",
+   "AMMONITE",
+   "COPROLITE",
+   "GASTROLITH",
+   "MEGALODON",
+   "MASTODON",
+   "PTEROSAUR",
+   "CAMBRIAN",
+   "JURASSIC",
+   "TRIASSIC",
+   "AMBER"
+  ]
+ },
+ {
+  "id": "S07",
+  "category": "themed",
+  "theme": "Organic Chemistry",
+  "allowProperNouns": false,
+  "words": [
+   "BENZENE",
+   "ALDEHYDE",
+   "POLYMER",
+   "KETONE",
+   "ISOMER",
+   "AROMATIC",
+   "METHANOL",
+   "ACETONE",
+   "ENANTIOMER",
+   "TOLUENE",
+   "PROPANE",
+   "CARBOXYL"
+  ]
+ },
+ {
+  "id": "S08",
+  "category": "themed",
+  "theme": "Eponymous Units",
+  "allowProperNouns": true,
+  "words": [
+   "FAHRENHEIT",
+   "CELSIUS",
+   "RANKINE",
+   "ANGSTROM",
+   "OERSTED",
+   "MAXWELL",
+   "ROENTGEN",
+   "BECQUEREL",
+   "COULOMB",
+   "SIEVERT",
+   "AMPERE",
+   "NEWTON"
+  ]
+ },
+ {
+  "id": "S09",
+  "category": "themed",
+  "theme": "Microbiology",
+  "allowProperNouns": false,
+  "words": [
+   "BACILLUS",
+   "PLASMID",
+   "FLAGELLUM",
+   "PATHOGEN",
+   "ARCHAEA",
+   "BIOFILM",
+   "SPIROCHETE",
+   "PENICILLIN",
+   "PROKARYOTE"
+  ]
+ },
+ {
+  "id": "S10",
+  "category": "themed",
+  "theme": "Natural Selection",
+  "allowProperNouns": true,
+  "words": [
+   "SPECIATION",
+   "GALAPAGOS",
+   "FITNESS",
+   "HOMOLOGY",
+   "VESTIGIAL",
+   "PHYLOGENY",
+   "ANCESTOR",
+   "LAMARCK",
+   "WALLACE"
+  ]
+ },
+ {
+  "id": "S11",
+  "category": "themed",
+  "theme": "Thermodynamics",
+  "allowProperNouns": true,
+  "words": [
+   "ENTHALPY",
+   "ADIABATIC",
+   "ISOTHERMAL",
+   "CARNOT",
+   "CONVECTION",
+   "CONDUCTION",
+   "ISOBARIC",
+   "EXOTHERMIC",
+   "LATENT"
+  ]
+ },
+ {
+  "id": "S12",
+  "category": "themed",
+  "theme": "Oceanography",
+  "allowProperNouns": true,
+  "words": [
+   "SALINITY",
+   "HALOCLINE",
+   "TSUNAMI",
+   "CORIOLIS",
+   "BATHYMETRY",
+   "ABYSSAL",
+   "MARIANA",
+   "ESTUARY",
+   "UPWELLING"
+  ]
+ },
+ {
+  "id": "S13",
+  "category": "themed",
+  "theme": "Immune System",
+  "allowProperNouns": false,
+  "words": [
+   "ANTIBODY",
+   "ANTIGEN",
+   "LYMPHOCYTE",
+   "VACCINE",
+   "MACROPHAGE",
+   "HISTAMINE",
+   "INTERFERON",
+   "THYMUS",
+   "IMMUNITY",
+   "ALLERGEN"
+  ]
+ },
+ {
+  "id": "S14",
+  "category": "themed",
+  "theme": "Mohs and Minerals",
+  "allowProperNouns": false,
+  "words": [
+   "QUARTZ",
+   "FELDSPAR",
+   "GYPSUM",
+   "CALCITE",
+   "PYRITE",
+   "MAGNETITE",
+   "HEMATITE",
+   "CORUNDUM",
+   "FLUORITE",
+   "TOPAZ",
+   "APATITE"
+  ]
+ },
+ {
+  "id": "S15",
+  "category": "themed",
+  "theme": "Quantum Weirdness",
+  "allowProperNouns": true,
+  "words": [
+   "HEISENBERG",
+   "TUNNELING",
+   "QUANTUM",
+   "PAULI",
+   "DIRAC",
+   "EIGENSTATE",
+   "QUBIT",
+   "FEYNMAN",
+   "SPINOR",
+   "ENTANGLE",
+   "ORBITAL"
+  ]
+ },
+ {
+  "id": "S16",
+  "category": "themed",
+  "theme": "Fungus Among Us",
+  "allowProperNouns": false,
+  "words": [
+   "MYCELIUM",
+   "HYPHAE",
+   "TRUFFLE",
+   "MOREL",
+   "LICHEN",
+   "YEAST",
+   "PORCINI",
+   "SHIITAKE",
+   "CHITIN",
+   "AMANITA",
+   "MYCOLOGY"
+  ]
+ },
+ {
+  "id": "S17",
+  "category": "themed",
+  "theme": "Women in Science",
+  "allowProperNouns": true,
+  "words": [
+   "SOMERVILLE",
+   "HERSCHEL",
+   "MEITNER",
+   "NOETHER",
+   "LEAVITT",
+   "GOODALL",
+   "BURNELL",
+   "MIRZAKHANI",
+   "CHATELET",
+   "GERMAIN",
+   "DOUDNA",
+   "ANNING",
+   "CARSON"
+  ]
+ },
+ {
+  "id": "S18",
+  "category": "themed",
+  "theme": "Cosmology",
+  "allowProperNouns": true,
+  "words": [
+   "HUBBLE",
+   "MULTIVERSE",
+   "WORMHOLE",
+   "QUASAR",
+   "LEMAITRE",
+   "HORIZON",
+   "ANISOTROPY",
+   "EXPANSION",
+   "PENZIAS",
+   "GAMOW"
+  ]
+ },
+ {
+  "id": "S19",
+  "category": "themed",
+  "theme": "Biochemistry",
+  "allowProperNouns": false,
+  "words": [
+   "GLUCOSE",
+   "LIPID",
+   "PEPTIDE",
+   "NUCLEOTIDE",
+   "HEMOGLOBIN",
+   "INSULIN",
+   "COLLAGEN",
+   "KERATIN",
+   "SUBSTRATE",
+   "GLYCOGEN"
+  ]
+ },
+ {
+  "id": "S20",
+  "category": "themed",
+  "theme": "Taxonomy",
+  "allowProperNouns": true,
+  "words": [
+   "KINGDOM",
+   "PHYLUM",
+   "LINNAEUS",
+   "CLADE",
+   "VERTEBRATE",
+   "ARTHROPOD",
+   "MOLLUSK",
+   "CHORDATE",
+   "TAXON",
+   "ECHINODERM",
+   "CNIDARIAN",
+   "AMPHIBIAN",
+   "PRIMATE"
+  ]
+ }
+]

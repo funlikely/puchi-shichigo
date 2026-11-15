@@ -211,6 +211,57 @@ def is_word_tile(tile: str) -> bool:
     return len(tile) == 4 and not tile.endswith("ING") and tile.lower() in dictionary() and zipf(tile) >= 4.0
 
 
+# --- Ugly clusters (batch 005+) ---------------------------------------------
+# A tile that starts mid-word with a consonant cluster no English word starts with
+# (MPET, DCAS, CKMA, NNER, YST) or ends mid-word with one no word ends with (EFR)
+# reads as a broken fragment. Legal clusters come from familiar dictionary words.
+_STRONG_V = set("AEIOU")
+
+
+def onset(tile: str) -> str:
+    """Leading consonant run (Y counts as a consonant unless it is the tile's only vowel)."""
+    i = 0
+    while i < len(tile) and tile[i] not in _STRONG_V:
+        i += 1
+    run = tile[:i]
+    if i == len(tile) and run.endswith("Y"):
+        run = run[:-1]
+    return run
+
+
+def coda(tile: str) -> str:
+    """Trailing consonant run (a final Y is a vowel)."""
+    i = len(tile)
+    while i > 0 and tile[i - 1] not in _STRONG_V and tile[i - 1] != "Y":
+        i -= 1
+    return tile[i:]
+
+
+@functools.lru_cache(maxsize=None)
+def _clusters():
+    ons, cods = {}, {}
+    for w in dictionary():
+        if len(w) < 3 or zipf(w) < 2.5:
+            continue
+        W = w.upper()
+        o, c = onset(W), coda(W)
+        ons[o] = ons.get(o, 0) + 1
+        cods[c] = cods.get(c, 0) + 1
+    keep = lambda d: frozenset(k for k, n in d.items() if n >= 3)
+    return keep(ons), keep(cods)
+
+
+def ugly_boundaries(tile: str, first: bool, last: bool) -> int:
+    """0-2: does a mid-word tile start or end with an impossible cluster?"""
+    ons, cods = _clusters()
+    n = 0
+    if not first and len(onset(tile)) >= 2 and onset(tile) not in ons:
+        n += 1
+    if not last and len(coda(tile)) >= 2 and coda(tile) not in cods:
+        n += 1
+    return n
+
+
 def inflection(word: str) -> str | None:
     """Return 'plural', 'ing', 'ed' if word looks like an inflected form."""
     d = dictionary()

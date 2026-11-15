@@ -47,6 +47,7 @@ ING_TILE_COST = 1.5      # a bare ING tile is discouraged ...
 LOW_PROD = {3: 6, 4: 3}   # fewer unrelated word families than this = unproductive tile
 LOW_PROD_COST = 2.0
 WORD_TILE_COST = 1.0     # 4-letter tile that is itself a common word (CITY)
+UGLY_COST = 3.0          # per mid-word tile edge with an impossible cluster (TRU·MPET, SAN·DCAS·TLE)
 ING4_BONUS = 0.5         # ... in favour of KING / TING / LING / RING
 SLACK = 0.5          # keep tilings within this much of the word's best cost
 VOWELS = set("AEIOUY")
@@ -94,6 +95,7 @@ def tiling_cost(tiles) -> float:
             c -= ING4_BONUS
         if lx.is_word_tile(t):
             c += WORD_TILE_COST
+        c += UGLY_COST * lx.ugly_boundaries(t, i == 0, i == len(tiles) - 1)
     return round(c, 3)
 
 
@@ -109,6 +111,10 @@ def good_tilings(word: str) -> tuple[tuple[str, ...], ...]:
         cands.append((tiling_cost(t), t))
     if not cands:
         return ()
+    import lexicon as lx                                # batch 005+: drop ugly splits when a clean one exists
+    clean = [(c, t) for c, t in cands
+             if not any(lx.ugly_boundaries(x, i == 0, i == len(t) - 1) for i, x in enumerate(t))]
+    cands = clean or cands
     cands.sort()
     best = cands[0][0]
     return tuple(t for c, t in cands if c <= best + SLACK)

@@ -1,0 +1,1321 @@
+[
+ {
+  "id": "A01",
+  "category": "themed",
+  "theme": "Taskmaster: Series 1-4",
+  "allowProperNouns": true,
+  "words": [
+   "SKINNER",
+   "CONATY",
+   "RICHARDSON",
+   "OSMAN",
+   "WILKINSON",
+   "MURRAY",
+   "GORMAN",
+   "PASCOE",
+   "CHOWDHRY",
+   "LYCETT",
+   "ADEFOPE",
+   "DENNIS"
+  ]
+ },
+ {
+  "id": "A02",
+  "category": "themed",
+  "theme": "Taskmaster: Series 5-9",
+  "allowProperNouns": true,
+  "words": [
+   "WATSON",
+   "PHILLIPS",
+   "KUMAR",
+   "LEVINE",
+   "CHAUDHRY",
+   "HOWARD",
+   "ACASTER",
+   "KNAPPETT",
+   "STIRLING",
+   "SINHA",
+   "BADDIEL",
+   "MATAFEO",
+   "AISLINGBEA",
+   "NISHKUMAR",
+   "MARKWATSON"
+  ]
+ },
+ {
+  "id": "A03",
+  "category": "themed",
+  "theme": "Taskmaster: Series 10-14",
+  "allowProperNouns": true,
+  "words": [
+   "PARKINSON",
+   "VEGAS",
+   "RIZWAN",
+   "COOPER",
+   "RITCHIE",
+   "MADDIX",
+   "WOZNIAK",
+   "CHRISTIE",
+   "RAMSEY",
+   "KEARNS",
+   "MILLICAN",
+   "CHAWAWA"
+  ]
+ },
+ {
+  "id": "A04",
+  "category": "themed",
+  "theme": "Taskmaster: Series 15-19",
+  "allowProperNouns": true,
+  "words": [
+   "BOYLE",
+   "GRAHAM",
+   "BEAUMONT",
+   "CLARY",
+   "PERKINS",
+   "WOKOMA",
+   "MCNALLY",
+   "MOHAMMED",
+   "WILLAN",
+   "PEMBERTON",
+   "MANTZOUKAS"
+  ]
+ },
+ {
+  "id": "A05",
+  "category": "themed",
+  "theme": "Taskmaster: More Champions",
+  "allowProperNouns": true,
+  "words": [
+   "BECKETT",
+   "TARBUCK",
+   "SANDERS",
+   "KENDALL",
+   "ROBINSON",
+   "DUKER",
+   "CAMPBELL",
+   "ZALTZMAN",
+   "BAYNTON",
+   "MARTIN",
+   "KATHERINE",
+   "MORGANA"
+  ]
+ },
+ {
+  "id": "A06",
+  "category": "themed",
+  "theme": "Taskmaster: The House Rules",
+  "allowProperNouns": true,
+  "words": [
+   "STUDIO",
+   "THRONE",
+   "CHISWICK",
+   "POINTS",
+   "TROPHY",
+   "BONUS",
+   "DISQUALIFY",
+   "CARAVAN",
+   "JUDGEMENT"
+  ]
+ },
+ {
+  "id": "A07",
+  "category": "themed",
+  "theme": "Taskmaster: Around the World",
+  "allowProperNouns": true,
+  "words": [
+   "ZEALAND",
+   "JUNIOR",
+   "PODCAST",
+   "GLEESON",
+   "EDUCATION",
+   "CHANNEL",
+   "REGGIE",
+   "BOARDGAME",
+   "DENMARK",
+   "NORWAY",
+   "CHAMPIONS"
+  ]
+ },
+ {
+  "id": "A08",
+  "category": "themed",
+  "theme": "Taskmaster: Greg and Alex",
+  "allowProperNouns": true,
+  "words": [
+   "FRINGE",
+   "EDINBURGH",
+   "MANDOWN",
+   "CUCKOO",
+   "SHROPSHIRE",
+   "CHEESEBALL",
+   "CREATOR",
+   "DRAMA",
+   "COMEDIAN",
+   "STANDUP"
+  ]
+ },
+ {
+  "id": "B01",
+  "category": "themed",
+  "theme": "Star Trek: Starfleet Officers",
+  "allowProperNouns": true,
+  "words": [
+   "PICARD",
+   "JANEWAY",
+   "ARCHER",
+   "SISKO",
+   "RIKER",
+   "LAFORGE",
+   "CHEKOV",
+   "UHURA",
+   "TUVOK",
+   "BASHIR",
+   "TORRES",
+   "BURNHAM",
+   "MONTGOMERY",
+   "HIKARUSULU",
+   "JADZIA"
+  ]
+ },
+ {
+  "id": "B02",
+  "category": "themed",
+  "theme": "Star Trek: Species",
+  "allowProperNouns": true,
+  "words": [
+   "KLINGON",
+   "VULCAN",
+   "ROMULAN",
+   "FERENGI",
+   "BAJORAN",
+   "BETAZOID",
+   "ANDORIAN",
+   "JEMHADAR",
+   "VORTA",
+   "TELLARITE",
+   "OCAMPA",
+   "HIROGEN",
+   "CHANGELING"
+  ]
+ },
+ {
+  "id": "B03",
+  "category": "themed",
+  "theme": "Star Trek: Ships",
+  "allowProperNouns": true,
+  "words": [
+   "ENTERPRISE",
+   "VOYAGER",
+   "DISCOVERY",
+   "EXCELSIOR",
+   "RELIANT",
+   "CERRITOS",
+   "TITAN",
+   "PROTOSTAR",
+   "WARBIRD"
+  ]
+ },
+ {
+  "id": "B04",
+  "category": "themed",
+  "theme": "Star Trek: Worlds",
+  "allowProperNouns": true,
+  "words": [
+   "ROMULUS",
+   "CARDASSIA",
+   "FERENGINAR",
+   "CETIALPHA",
+   "KRONOS",
+   "BAJOR",
+   "TALOS",
+   "GENESIS",
+   "NIMBUS",
+   "ANDORIA"
+  ]
+ },
+ {
+  "id": "B05",
+  "category": "themed",
+  "theme": "Star Trek: Tech Manual",
+  "allowProperNouns": true,
+  "words": [
+   "PHASER",
+   "TRICORDER",
+   "WARPCORE",
+   "REPLICATOR",
+   "SHUTTLE",
+   "TORPEDO",
+   "DEFLECTOR",
+   "NACELLE",
+   "CLOAKING",
+   "JEFFERIES",
+   "COMMBADGE",
+   "HYPOSPRAY",
+   "ISOLINEAR"
+  ]
+ },
+ {
+  "id": "B06",
+  "category": "themed",
+  "theme": "Star Trek: Catchphrases",
+  "allowProperNouns": true,
+  "words": [
+   "ENGAGE",
+   "MAKEITSO",
+   "EARLGREY",
+   "FUTILE",
+   "ASSIMILATE",
+   "KOBAYASHI",
+   "REDSHIRT",
+   "PROSPER",
+   "LOGICAL",
+   "DAMMITJIM",
+   "NUMBERONE",
+   "BEAMMEUP"
+  ]
+ },
+ {
+  "id": "B07",
+  "category": "themed",
+  "theme": "Star Trek: Adversaries",
+  "allowProperNouns": true,
+  "words": [
+   "LOCUTUS",
+   "DUKAT",
+   "WEYOUN",
+   "SHINZON",
+   "SYBOK",
+   "KRUGE",
+   "GOWRON",
+   "DAMAR",
+   "MORIARTY",
+   "TRELANE",
+   "HARRYMUDD",
+   "BORGQUEEN",
+   "MADRED"
+  ]
+ },
+ {
+  "id": "B08",
+  "category": "themed",
+  "theme": "Star Trek: Cast and Crew",
+  "allowProperNouns": true,
+  "words": [
+   "SHATNER",
+   "NIMOY",
+   "STEWART",
+   "FRAKES",
+   "MULGREW",
+   "BROOKS",
+   "SPINER",
+   "TAKEI",
+   "NICHOLS",
+   "DOOHAN",
+   "BAKULA",
+   "QUINTO",
+   "MEYER",
+   "ABRAMS",
+   "GOLDBERG",
+   "MONTALBAN",
+   "SHIMERMAN",
+   "PICARDO",
+   "MCFADDEN",
+   "SIRTIS",
+   "VISITOR",
+   "COLMMEANEY",
+   "DEFOREST"
+  ]
+ },
+ {
+  "id": "C01",
+  "category": "themed",
+  "theme": "They Might Be Giants: Albums",
+  "allowProperNouns": true,
+  "words": [
+   "FLOOD",
+   "APOLLO",
+   "MINKCAR",
+   "JOHNHENRY",
+   "SPINE",
+   "GLEAN",
+   "PHONEPOWER",
+   "ILIKEFUN",
+   "SHOWROOM",
+   "JOINUS",
+   "ESCAPETEAM"
+  ]
+ },
+ {
+  "id": "C02",
+  "category": "themed",
+  "theme": "They Might Be Giants: Songbook II",
+  "allowProperNouns": true,
+  "words": [
+   "ISTANBUL",
+   "TWISTING",
+   "TOUPEE",
+   "CRANE",
+   "CYCLOPS",
+   "SHOEHORN",
+   "PENCILRAIN",
+   "SNAILSHELL",
+   "HEARINGAID",
+   "ANANG"
+  ]
+ },
+ {
+  "id": "C03",
+  "category": "themed",
+  "theme": "They Might Be Giants: Here Comes Science",
+  "allowProperNouns": true,
+  "words": [
+   "MIASMA",
+   "PLASMA",
+   "ELEMENTS",
+   "ROYGBIV",
+   "LIQUID",
+   "ELECTRIC",
+   "SCIENCE",
+   "COMPUTER",
+   "GLAZER",
+   "NUCLEAR",
+   "FURNACE",
+   "INCANDESCE",
+   "SHOOTING"
+  ]
+ },
+ {
+  "id": "C04",
+  "category": "themed",
+  "theme": "They Might Be Giants: On Screen",
+  "allowProperNouns": true,
+  "words": [
+   "MALCOLM",
+   "GRAMMY",
+   "TINYTOONS",
+   "CORALINE",
+   "GIGANTIC",
+   "HIGGLYTOWN",
+   "CLUBHOUSE",
+   "HOMESTAR",
+   "DREVIL",
+   "ELEKTRA"
+  ]
+ },
+ {
+  "id": "C05",
+  "category": "themed",
+  "theme": "They Might Be Giants: The Band",
+  "allowProperNouns": true,
+  "words": [
+   "MUNDANES",
+   "MONOPUFF",
+   "STATESONGS",
+   "BROOKLYN",
+   "BARNONE",
+   "WEINKAUF",
+   "BELLER",
+   "GOLDWASSER",
+   "GUITAR"
+  ]
+ },
+ {
+  "id": "C06",
+  "category": "themed",
+  "theme": "They Might Be Giants: Lyric Sheet",
+  "allowProperNouns": true,
+  "words": [
+   "BONNET",
+   "CANARY",
+   "OUTLET",
+   "AMSTERDAM",
+   "UNIVERSE",
+   "FRYINGPAN",
+   "GARBAGE",
+   "BEAUTIFUL",
+   "MAJESTIC",
+   "UNFAIR"
+  ]
+ },
+ {
+  "id": "C07",
+  "category": "themed",
+  "theme": "They Might Be Giants: Songbook III",
+  "allowProperNouns": true,
+  "words": [
+   "STATUE",
+   "MINIMUM",
+   "SNOWBALL",
+   "EXQUISITE",
+   "COWTOWN",
+   "LETTERBOX",
+   "SOMBRERO",
+   "DINNERBELL",
+   "OLDER"
+  ]
+ },
+ {
+  "id": "C08",
+  "category": "themed",
+  "theme": "They Might Be Giants: Letters and Numbers",
+  "allowProperNouns": true,
+  "words": [
+   "NONAGON",
+   "TRIOPS",
+   "ZEROES",
+   "VOWEL",
+   "ALPHABET",
+   "PIRATE",
+   "HIGHFIVE",
+   "CONIFERS",
+   "PANDAS",
+   "NATIONS",
+   "SEVENDAYS",
+   "NINEBOWLS"
+  ]
+ },
+ {
+  "id": "D01",
+  "category": "themed",
+  "theme": "Cosmere: The Crew",
+  "allowProperNouns": true,
+  "words": [
+   "KELSIER",
+   "ELEND",
+   "SPOOK",
+   "DOCKSON",
+   "RASHEK",
+   "ALENDI",
+   "ORESEUR",
+   "VALETTE",
+   "HAMMOND",
+   "YEDEN",
+   "LORDRULER",
+   "OBLIGATOR",
+   "LUTHADEL",
+   "KREDIKSHAW"
+  ]
+ },
+ {
+  "id": "D02",
+  "category": "themed",
+  "theme": "Cosmere: Metals",
+  "allowProperNouns": true,
+  "words": [
+   "PEWTER",
+   "BRONZE",
+   "COPPER",
+   "ATIUM",
+   "MALATIUM",
+   "ELECTRUM",
+   "DURALUMIN",
+   "ALUMINUM",
+   "NICROSIL",
+   "CHROMIUM",
+   "CADMIUM",
+   "BENDALLOY"
+  ]
+ },
+ {
+  "id": "D03",
+  "category": "themed",
+  "theme": "Cosmere: Wax and Wayne",
+  "allowProperNouns": true,
+  "words": [
+   "WAXILLIUM",
+   "WAYNE",
+   "MARASI",
+   "STERIS",
+   "ELENDEL",
+   "ROUGHS",
+   "TELSIN",
+   "BILMING",
+   "ALLRIANNE",
+   "KANDRA",
+   "MOURNING",
+   "TWINBORN",
+   "RANETTE",
+   "LESSIE",
+   "IRONEYES",
+   "VANISHERS",
+   "ALLOMANCER"
+  ]
+ },
+ {
+  "id": "D04",
+  "category": "themed",
+  "theme": "Cosmere: Bridge Four and Friends",
+  "allowProperNouns": true,
+  "words": [
+   "LUNAMOR",
+   "MOASH",
+   "SIGZIL",
+   "RENARIN",
+   "NAVANI",
+   "JASNAH",
+   "ELHOKAR",
+   "LOPEN",
+   "SYLPHRENA",
+   "KABSAL",
+   "BRIDGEFOUR",
+   "WINDRUNNER",
+   "KHOLIN"
+  ]
+ },
+ {
+  "id": "D05",
+  "category": "themed",
+  "theme": "Cosmere: Roshar Lore",
+  "allowProperNouns": true,
+  "words": [
+   "RADIANT",
+   "PARSHENDI",
+   "LISTENER",
+   "FUSED",
+   "GEMHEART",
+   "SOULCAST",
+   "FABRIAL",
+   "URITHIRU",
+   "ALETHKAR",
+   "EVERSTORM",
+   "HONORSPREN",
+   "VORINISM",
+   "SAFEHAND",
+   "CHASMFIEND",
+   "OATHGATE",
+   "LIGHTEYES",
+   "DARKEYES"
+  ]
+ },
+ {
+  "id": "D06",
+  "category": "themed",
+  "theme": "Cosmere: Shards and Realms",
+  "allowProperNouns": true,
+  "words": [
+   "ODIUM",
+   "HONOR",
+   "ENDOWMENT",
+   "DEVOTION",
+   "DOMINION",
+   "AUTONOMY",
+   "AMBITION",
+   "INVENTION",
+   "WHIMSY",
+   "MERCY",
+   "VALOR",
+   "ADONALSIUM",
+   "SHATTERING",
+   "TANAVAST",
+   "COGNITIVE",
+   "SPIRITUAL",
+   "PHYSICAL"
+  ]
+ },
+ {
+  "id": "D07",
+  "category": "themed",
+  "theme": "Cosmere: Nalthis and Sel",
+  "allowProperNouns": true,
+  "words": [
+   "VIVENNA",
+   "SUSEBRON",
+   "VASHER",
+   "NIGHTBLOOD",
+   "AWAKENER",
+   "RAODEN",
+   "SARENE",
+   "HRATHEN",
+   "SOULSTAMP",
+   "NALTHIS",
+   "HALLANDREN",
+   "IDRIS",
+   "ARELON"
+  ]
+ },
+ {
+  "id": "D08",
+  "category": "themed",
+  "theme": "Cosmere: Far Shores",
+  "allowProperNouns": true,
+  "words": [
+   "LUMAR",
+   "KOMASHI",
+   "TALDAIN",
+   "THRENODY",
+   "CHARLIE",
+   "AETHER",
+   "EMERALD",
+   "CRIMSON",
+   "PATJI",
+   "SPORES",
+   "THAIDAKAR",
+   "IRIALI"
+  ]
+ },
+ {
+  "id": "E01",
+  "category": "themed",
+  "theme": "The Good Place: Neighbors and Demons",
+  "allowProperNouns": true,
+  "words": [
+   "VICKY",
+   "DEREK",
+   "WHEATON",
+   "NORWALK",
+   "FORCETT",
+   "JIANYU",
+   "KAMILAH",
+   "MINDY",
+   "PATTY",
+   "DONKEYDOUG"
+  ]
+ },
+ {
+  "id": "E02",
+  "category": "themed",
+  "theme": "The Good Place: Cast and Characters",
+  "allowProperNouns": true,
+  "words": [
+   "KRISTEN",
+   "JAMEELA",
+   "JACINTO",
+   "CARDEN",
+   "RUDOLPH",
+   "HARPER",
+   "JACKSON",
+   "MANNY",
+   "DARCY",
+   "ADAMSCOTT",
+   "TREVOR",
+   "BOWTIE",
+   "RETIREMENT"
+  ]
+ },
+ {
+  "id": "E03",
+  "category": "themed",
+  "theme": "The Good Place: Afterlife Admin",
+  "allowProperNouns": true,
+  "words": [
+   "BEARIMY",
+   "TROLLEY",
+   "FROYO",
+   "MEDIUM",
+   "ACCOUNTANT",
+   "JUDGE",
+   "POINTS",
+   "MAILROOM",
+   "BADPLACE",
+   "TORTURE",
+   "TIMELINE",
+   "ETERNITY"
+  ]
+ },
+ {
+  "id": "E04",
+  "category": "themed",
+  "theme": "The Good Place: Language, Please",
+  "allowProperNouns": true,
+  "words": [
+   "FORKING",
+   "BINGBONG",
+   "NOTAGIRL",
+   "NOTAROBOT",
+   "COCKROACH",
+   "SLEAZY",
+   "NERFECT",
+   "BASIC",
+   "MOTHERFORK"
+  ]
+ },
+ {
+  "id": "E05",
+  "category": "themed",
+  "theme": "The Good Place: Chidi's Syllabus",
+  "allowProperNouns": true,
+  "words": [
+   "ARISTOTLE",
+   "SARTRE",
+   "CAMUS",
+   "PLATO",
+   "SOCRATES",
+   "HOBBES",
+   "BENTHAM",
+   "DEONTOLOGY",
+   "VIRTUE",
+   "HYPATIA",
+   "KANTIAN",
+   "ETHICS",
+   "NIHILISM"
+  ]
+ },
+ {
+  "id": "E06",
+  "category": "themed",
+  "theme": "The Good Place: Episode Titles",
+  "allowProperNouns": true,
+  "words": [
+   "GAMBIT",
+   "BURRITO",
+   "SHRIEK",
+   "CHILLAXING",
+   "FUNERAL",
+   "DONKEY",
+   "RESOLUTION",
+   "FLYING",
+   "DOOMSDAY",
+   "WHENEVER"
+  ]
+ },
+ {
+  "id": "E07",
+  "category": "themed",
+  "theme": "The Good Place: Jason and Janet",
+  "allowProperNouns": true,
+  "words": [
+   "BORTLES",
+   "JAGUARS",
+   "FLORIDA",
+   "SILENCE",
+   "BADJANET",
+   "DISCOJANET",
+   "NEUTRAL",
+   "CACTUS",
+   "REBOOT"
+  ]
+ },
+ {
+  "id": "E08",
+  "category": "themed",
+  "theme": "The Good Place: Back on Earth",
+  "allowProperNouns": true,
+  "words": [
+   "SENEGAL",
+   "PHOENIX",
+   "SYDNEY",
+   "ARIZONA",
+   "CALGARY",
+   "LONDON",
+   "JACKSON",
+   "ENGLAND",
+   "NIGERIA",
+   "UNIVERSITY",
+   "PARKINGLOT",
+   "SALESWOMAN"
+  ]
+ },
+ {
+  "id": "F01",
+  "category": "themed",
+  "theme": "Project Hail Mary: Earth Team",
+  "allowProperNouns": true,
+  "words": [
+   "GRACE",
+   "DUBOIS",
+   "SHAPIRO",
+   "LOKKEN",
+   "DIMITRI",
+   "LECLERC",
+   "REDELL",
+   "KOMOROV",
+   "SPECIALIST",
+   "TAIKONAUT",
+   "COSMONAUT"
+  ]
+ },
+ {
+  "id": "F02",
+  "category": "themed",
+  "theme": "Project Hail Mary: Eridians",
+  "allowProperNouns": true,
+  "words": [
+   "ROCKY",
+   "XENONITE",
+   "BLIPA",
+   "AMAZE",
+   "FISTBUMP",
+   "SONAR",
+   "CARAPACE",
+   "ADRIAN",
+   "MUSICAL",
+   "WATCHING",
+   "ECHOLOCATE",
+   "TRANSLATOR",
+   "PENTAGONAL"
+  ]
+ },
+ {
+  "id": "F03",
+  "category": "themed",
+  "theme": "Project Hail Mary: Shipboard",
+  "allowProperNouns": true,
+  "words": [
+   "HAILMARY",
+   "SPINDRIVE",
+   "AIRLOCK",
+   "COMATOSE",
+   "ROBOTARM",
+   "SAMPLES",
+   "LABORATORY",
+   "DORMITORY",
+   "COCKPIT"
+  ]
+ },
+ {
+  "id": "F04",
+  "category": "themed",
+  "theme": "Project Hail Mary: Lab Notes",
+  "allowProperNouns": true,
+  "words": [
+   "RELATIVITY",
+   "LORENTZ",
+   "EVOLUTION",
+   "MICROBE",
+   "BREEDER",
+   "ADAPTATION",
+   "CULTURE"
+  ]
+ },
+ {
+  "id": "F05",
+  "category": "themed",
+  "theme": "Project Hail Mary: Grace's Story",
+  "allowProperNouns": true,
+  "words": [
+   "BIOLOGIST",
+   "MOLECULAR",
+   "COWARD",
+   "CLASSROOM",
+   "STUDENTS",
+   "MEMORY",
+   "SACRIFICE",
+   "WATERLESS"
+  ]
+ },
+ {
+  "id": "F06",
+  "category": "themed",
+  "theme": "Project Hail Mary: Page to Screen",
+  "allowProperNouns": true,
+  "words": [
+   "GOSLING",
+   "HULLER",
+   "GODDARD",
+   "MILLER",
+   "MARTIAN",
+   "ARTEMIS",
+   "WATNEY",
+   "ORTIZ",
+   "PUPPET",
+   "LORDMILLER",
+   "ANDYWEIR",
+   "MATTDAMON"
+  ]
+ },
+ {
+  "id": "F07",
+  "category": "themed",
+  "theme": "Project Hail Mary: Star Chart",
+  "allowProperNouns": true,
+  "words": [
+   "ERIDANI",
+   "VENUS",
+   "LUMINOSITY",
+   "LIGHTYEAR",
+   "DIMMING",
+   "CENTAURI",
+   "SPECTRUM",
+   "SUNLIGHT",
+   "ICEAGE",
+   "STELLAR",
+   "INFECTED",
+   "COOLING"
+  ]
+ },
+ {
+  "id": "F08",
+  "category": "themed",
+  "theme": "Project Hail Mary: Mission Control",
+  "allowProperNouns": true,
+  "words": [
+   "ONEWAY",
+   "VOLUNTEER",
+   "GENETIC",
+   "LAUNCH",
+   "PAYLOAD",
+   "AUTHORITY",
+   "TREATY",
+   "CARRIER",
+   "ASSEMBLY"
+  ]
+ },
+ {
+  "id": "G01",
+  "category": "mixed",
+  "theme": "Long Haul",
+  "allowProperNouns": false,
+  "words": [
+   "HIERARCHY",
+   "SPECTACLE",
+   "PROPAGANDA",
+   "LUDICROUS",
+   "CONSTABLE",
+   "MAGISTRATE",
+   "ARTILLERY",
+   "MICROSCOPE",
+   "HYSTERICAL",
+   "HYPOCRISY",
+   "BOTANICAL"
+  ]
+ },
+ {
+  "id": "G02",
+  "category": "mixed",
+  "theme": "Long Haul",
+  "allowProperNouns": false,
+  "words": [
+   "CARTRIDGE",
+   "RIDICULOUS",
+   "PNEUMONIA",
+   "OUTRAGEOUS",
+   "HYPOCRITE",
+   "MALICIOUS",
+   "LEGENDARY",
+   "PARAGRAPH",
+   "COLUMNIST",
+   "MARGARITA",
+   "CHRONICLE"
+  ]
+ },
+ {
+  "id": "G03",
+  "category": "mixed",
+  "theme": "Long Haul",
+  "allowProperNouns": false,
+  "words": [
+   "BRILLIANT",
+   "PROTOTYPE",
+   "GLAMOROUS",
+   "NEGOTIATE",
+   "MELANCHOLY",
+   "AUDITORIUM",
+   "INFECTIOUS",
+   "PROJECTOR",
+   "PATRIARCH",
+   "ECCENTRIC",
+   "CARETAKER"
+  ]
+ },
+ {
+  "id": "G04",
+  "category": "mixed",
+  "theme": "Long Haul",
+  "allowProperNouns": false,
+  "words": [
+   "MAGNITUDE",
+   "MEMORANDUM",
+   "NOTORIOUS",
+   "REFERENDUM",
+   "AMPLIFIER",
+   "MARVELOUS",
+   "ECONOMIST",
+   "WELLINGTON",
+   "CONTINUUM",
+   "CONSULATE",
+   "INTERCEPT"
+  ]
+ },
+ {
+  "id": "G05",
+  "category": "mixed",
+  "theme": "Long Haul",
+  "allowProperNouns": false,
+  "words": [
+   "DICTIONARY",
+   "SILHOUETTE",
+   "ADVENTURE",
+   "FRANCHISE",
+   "PROGNOSIS",
+   "SIGNATURE",
+   "COMMODORE",
+   "ADMIRALTY",
+   "DIPLOMACY",
+   "CHAMPAGNE",
+   "SARCASTIC"
+  ]
+ },
+ {
+  "id": "G06",
+  "category": "mixed",
+  "theme": "Long Haul",
+  "allowProperNouns": false,
+  "words": [
+   "ARITHMETIC",
+   "DELICIOUS",
+   "IMAGINARY",
+   "INVINCIBLE",
+   "WOLVERINE",
+   "IRRATIONAL",
+   "HISTORIAN",
+   "PENTHOUSE",
+   "BOURGEOIS",
+   "SYNDICATE",
+   "GUERRILLA"
+  ]
+ },
+ {
+  "id": "G07",
+  "category": "mixed",
+  "theme": "Long Haul",
+  "allowProperNouns": false,
+  "words": [
+   "ECOSYSTEM",
+   "MIRACULOUS",
+   "GENEALOGY",
+   "FUTURISTIC",
+   "INFIRMARY",
+   "ENERGETIC",
+   "RENDEZVOUS",
+   "TELEGRAPH",
+   "GEOGRAPHY",
+   "CIGARETTE",
+   "PHARMACIST"
+  ]
+ },
+ {
+  "id": "G08",
+  "category": "mixed",
+  "theme": "Long Haul",
+  "allowProperNouns": false,
+  "words": [
+   "MONSTROUS",
+   "AFFIDAVIT",
+   "AMBIGUOUS",
+   "CONTAGIOUS",
+   "UBIQUITOUS",
+   "PARALYSIS",
+   "HILARIOUS",
+   "BLASPHEMY",
+   "REGISTRAR",
+   "CONTINENT"
+  ]
+ },
+ {
+  "id": "G09",
+  "category": "mixed",
+  "theme": "Long Haul",
+  "allowProperNouns": false,
+  "words": [
+   "VERSATILE",
+   "PSYCHIATRY",
+   "MILLENNIUM",
+   "CAFETERIA",
+   "PHYSICIAN",
+   "HYDRAULIC",
+   "INTERRUPT",
+   "APPARATUS",
+   "ORPHANAGE",
+   "METROPOLIS"
+  ]
+ },
+ {
+  "id": "G10",
+  "category": "mixed",
+  "theme": "Long Haul",
+  "allowProperNouns": false,
+  "words": [
+   "MYTHOLOGY",
+   "DESTROYER",
+   "ASTROLOGY",
+   "PARANORMAL",
+   "BALLISTIC",
+   "PORCELAIN",
+   "INAUGURAL",
+   "INVISIBLE",
+   "FORBIDDEN",
+   "CHOCOLATE"
+  ]
+ },
+ {
+  "id": "G11",
+  "category": "mixed",
+  "theme": "Long Haul",
+  "allowProperNouns": false,
+  "words": [
+   "STEREOTYPE",
+   "MINIATURE",
+   "ADOLESCENT",
+   "PHENOMENON",
+   "VOCABULARY",
+   "ANTAGONIST",
+   "TRIUMPHANT",
+   "PATHOLOGY",
+   "CINEMATIC",
+   "SYMPOSIUM"
+  ]
+ },
+ {
+  "id": "G12",
+  "category": "mixed",
+  "theme": "Long Haul",
+  "allowProperNouns": false,
+  "words": [
+   "PHOTOGRAPH",
+   "ANTHOLOGY",
+   "ACCESSORY",
+   "INGENIOUS",
+   "VETERINARY",
+   "HEMISPHERE",
+   "OBNOXIOUS",
+   "PLAINTIFF",
+   "CALCULATOR",
+   "TURQUOISE"
+  ]
+ },
+ {
+  "id": "G13",
+  "category": "mixed",
+  "theme": "Long Haul",
+  "allowProperNouns": false,
+  "words": [
+   "APPRENTICE",
+   "BIOGRAPHY",
+   "PEDESTRIAN",
+   "PLANETARY",
+   "HALLELUJAH",
+   "SOPHOMORE",
+   "VIGILANTE",
+   "CHEMISTRY",
+   "MACHINERY",
+   "CONTESTANT"
+  ]
+ },
+ {
+  "id": "G14",
+  "category": "mixed",
+  "theme": "Long Haul",
+  "allowProperNouns": false,
+  "words": [
+   "ANONYMOUS",
+   "TRIANGULAR",
+   "ENTHUSIASM",
+   "EMBARRASS",
+   "RESERVOIR",
+   "VEGETABLE",
+   "POISONOUS",
+   "CATALOGUE",
+   "TURBULENT",
+   "BOULEVARD"
+  ]
+ },
+ {
+  "id": "G15",
+  "category": "mixed",
+  "theme": "Long Haul",
+  "allowProperNouns": false,
+  "words": [
+   "SATIRICAL",
+   "PROSPEROUS",
+   "TELEPHONE",
+   "RASPBERRY",
+   "TECHNICIAN",
+   "MISSIONARY",
+   "ANTIBIOTIC",
+   "THEATRICAL",
+   "ULTRASOUND",
+   "LIEUTENANT"
+  ]
+ },
+ {
+  "id": "G16",
+  "category": "mixed",
+  "theme": "Long Haul",
+  "allowProperNouns": false,
+  "words": [
+   "ASTRONOMY",
+   "SANCTUARY",
+   "SKEPTICAL",
+   "DESPICABLE",
+   "AUTOGRAPH",
+   "ARTIFICIAL",
+   "BENEVOLENT",
+   "REBELLION",
+   "PERENNIAL",
+   "ARCHBISHOP"
+  ]
+ },
+ {
+  "id": "G17",
+  "category": "mixed",
+  "theme": "Long Haul",
+  "allowProperNouns": false,
+  "words": [
+   "ADRENALINE",
+   "MECHANICAL",
+   "GEOMETRIC",
+   "FICTIONAL",
+   "VEGETARIAN",
+   "NOSTALGIA",
+   "PROSECUTOR",
+   "IMMACULATE",
+   "COURAGEOUS",
+   "CELESTIAL"
+  ]
+ },
+ {
+  "id": "G18",
+  "category": "mixed",
+  "theme": "Long Haul",
+  "allowProperNouns": false,
+  "words": [
+   "ETIQUETTE",
+   "FORMIDABLE",
+   "PETROLEUM",
+   "SPECTATOR",
+   "ANARCHIST",
+   "REPERTOIRE",
+   "COMPRESSOR",
+   "ILLUMINATE",
+   "PREMATURE",
+   "DESPERATE"
+  ]
+ },
+ {
+  "id": "G19",
+  "category": "mixed",
+  "theme": "Long Haul",
+  "allowProperNouns": false,
+  "words": [
+   "DOCTORATE",
+   "PHYSICIST",
+   "MYSTERIOUS",
+   "SYNAGOGUE",
+   "PORTFOLIO",
+   "SOLICITOR",
+   "MICROPHONE",
+   "DEMOCRACY",
+   "SYNTHETIC",
+   "QUARANTINE"
+  ]
+ },
+ {
+  "id": "G20",
+  "category": "mixed",
+  "theme": "Long Haul",
+  "allowProperNouns": false,
+  "words": [
+   "SOVEREIGN",
+   "ARTHRITIS",
+   "MICROWAVE",
+   "IDENTICAL",
+   "MESSENGER",
+   "PILGRIMAGE",
+   "PERIPHERAL",
+   "DENTISTRY",
+   "HEREDITARY",
+   "DAVENPORT"
+  ]
+ }
+]

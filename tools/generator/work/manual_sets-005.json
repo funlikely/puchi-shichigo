@@ -1,0 +1,597 @@
+[
+ {
+  "id": "T01",
+  "category": "themed",
+  "theme": "Insects",
+  "allowProperNouns": false,
+  "words": [
+   "MOSQUITO",
+   "LADYBUG",
+   "TERMITE",
+   "FIREFLY",
+   "BUMBLEBEE",
+   "COCKROACH",
+   "CENTIPEDE",
+   "LOCUST",
+   "EARWIG"
+  ]
+ },
+ {
+  "id": "T02",
+  "category": "themed",
+  "theme": "Musical Instruments",
+  "allowProperNouns": false,
+  "words": [
+   "TRUMPET",
+   "VIOLIN",
+   "UKULELE",
+   "CELLO",
+   "PICCOLO",
+   "BASSOON",
+   "BANJO",
+   "MANDOLIN",
+   "BAGPIPES",
+   "XYLOPHONE"
+  ]
+ },
+ {
+  "id": "T03",
+  "category": "themed",
+  "theme": "On the Farm",
+  "allowProperNouns": false,
+  "words": [
+   "HARVEST",
+   "ROOSTER",
+   "ORCHARD",
+   "HAYSTACK",
+   "CHICKEN",
+   "BARNYARD",
+   "TROUGH",
+   "FARMHOUSE",
+   "PIGLET",
+   "HENHOUSE",
+   "SCYTHE",
+   "PLOUGHMAN",
+   "COWBELL",
+   "FARMHAND",
+   "HARROW",
+   "WINDMILL"
+  ]
+ },
+ {
+  "id": "T04",
+  "category": "themed",
+  "theme": "Fairy Tales",
+  "allowProperNouns": false,
+  "words": [
+   "PRINCE",
+   "TOADSTOOL",
+   "ELFIN",
+   "SORCERESS",
+   "RAPUNZEL",
+   "CURSE",
+   "MAIDEN",
+   "TALISMAN",
+   "PRINCESS",
+   "GOBLIN",
+   "SLIPPER",
+   "KINGDOM",
+   "MERMAID",
+   "ENCHANTED",
+   "STEPMOTHER",
+   "BEANSTALK"
+  ]
+ },
+ {
+  "id": "T05",
+  "category": "themed",
+  "theme": "Board Games",
+  "allowProperNouns": false,
+  "words": [
+   "CHECKERS",
+   "DOMINO",
+   "SPINNER",
+   "TOKEN",
+   "GAMEBOARD",
+   "BISHOP",
+   "CASTLING",
+   "HOURGLASS",
+   "MAHJONG",
+   "MARBLES",
+   "PACHISI",
+   "GAMEPIECE"
+  ]
+ },
+ {
+  "id": "T06",
+  "category": "themed",
+  "theme": "Kitchen Drawer",
+  "allowProperNouns": false,
+  "words": [
+   "COLANDER",
+   "SKILLET",
+   "PEELER",
+   "GRATER",
+   "SAUCEPAN",
+   "THERMOS",
+   "CANOPENER",
+   "TEASPOON",
+   "NUTCRACKER",
+   "MEASURING"
+  ]
+ },
+ {
+  "id": "T07",
+  "category": "themed",
+  "theme": "Toolbox",
+  "allowProperNouns": false,
+  "words": [
+   "HACKSAW",
+   "CROWBAR",
+   "SANDPAPER",
+   "CHISEL",
+   "CALIPER",
+   "SOLDERING",
+   "HANDSAW",
+   "HAMMER",
+   "PLUMBLINE",
+   "VISEGRIP",
+   "NAILGUN",
+   "STAPLEGUN",
+   "SPANNER",
+   "JIGSAW"
+  ]
+ },
+ {
+  "id": "T08",
+  "category": "themed",
+  "theme": "Desserts",
+  "allowProperNouns": false,
+  "words": [
+   "TOFFEE",
+   "CARAMEL",
+   "PRALINES",
+   "MOLASSES",
+   "ICECREAM",
+   "SPONGECAKE",
+   "PAVLOVA",
+   "TURNOVER",
+   "CUSTARD",
+   "SORBET",
+   "MACARON",
+   "PARFAIT",
+   "COBBLER",
+   "PUDDING",
+   "CANNOLI",
+   "POPSICLE"
+  ]
+ },
+ {
+  "id": "T09",
+  "category": "themed",
+  "theme": "Fruit Bowl",
+  "allowProperNouns": false,
+  "words": [
+   "PINEAPPLE",
+   "APRICOT",
+   "MANGO",
+   "BANANA",
+   "PAPAYA",
+   "CHERRY",
+   "COCONUT",
+   "NECTARINE",
+   "LYCHEE",
+   "MELON",
+   "MANDARIN",
+   "PERSIMMON",
+   "CLEMENTINE",
+   "CANTALOUPE",
+   "RASPBERRY",
+   "GUAVA"
+  ]
+ },
+ {
+  "id": "T10",
+  "category": "themed",
+  "theme": "Vegetable Patch",
+  "allowProperNouns": false,
+  "words": [
+   "CUCUMBER",
+   "SPINACH",
+   "PUMPKIN",
+   "ZUCCHINI",
+   "LETTUCE",
+   "ASPARAGUS",
+   "BEETROOT",
+   "PARSNIP"
+  ]
+ },
+ {
+  "id": "T11",
+  "category": "themed",
+  "theme": "Wild West",
+  "allowProperNouns": false,
+  "words": [
+   "SALOON",
+   "SHERIFF",
+   "LASSO",
+   "STAGECOACH",
+   "RODEO",
+   "OUTLAW",
+   "STAMPEDE",
+   "HOLSTER",
+   "COYOTE",
+   "PROSPECTOR",
+   "GOLDRUSH",
+   "BOUNTY",
+   "WAGONTRAIN",
+   "DESPERADO",
+   "TUMBLEWEED",
+   "BRANDING"
+  ]
+ },
+ {
+  "id": "T12",
+  "category": "themed",
+  "theme": "Space Mission",
+  "allowProperNouns": false,
+  "words": [
+   "ROCKET",
+   "ORBIT",
+   "LAUNCHPAD",
+   "CAPSULE",
+   "COUNTDOWN",
+   "SPACESUIT",
+   "MODULE",
+   "GRAVITY"
+  ]
+ },
+ {
+  "id": "T13",
+  "category": "themed",
+  "theme": "Rainforest",
+  "allowProperNouns": false,
+  "words": [
+   "JAGUAR",
+   "TOUCAN",
+   "CANOPY",
+   "PIRANHA",
+   "TREEFROG",
+   "GORILLA",
+   "BROMELIAD",
+   "LIANA",
+   "TAPIR"
+  ]
+ },
+ {
+  "id": "T14",
+  "category": "themed",
+  "theme": "Arctic",
+  "allowProperNouns": false,
+  "words": [
+   "GLACIER",
+   "WALRUS",
+   "TUNDRA",
+   "BLIZZARD",
+   "ICEBERG",
+   "SNOWSHOE",
+   "PERMAFROST",
+   "CARIBOU",
+   "PTARMIGAN",
+   "POLARBEAR",
+   "SNOWMOBILE",
+   "ICEFLOE",
+   "AURORA",
+   "PARKA",
+   "HARPOON",
+   "SEALSKIN"
+  ]
+ },
+ {
+  "id": "T15",
+  "category": "themed",
+  "theme": "Clothing",
+  "allowProperNouns": false,
+  "words": [
+   "SWEATER",
+   "JACKET",
+   "TROUSERS",
+   "BLOUSE",
+   "CARDIGAN",
+   "OVERALLS",
+   "POLKADOT",
+   "COLLAR"
+  ]
+ },
+ {
+  "id": "T16",
+  "category": "themed",
+  "theme": "Weather Report",
+  "allowProperNouns": false,
+  "words": [
+   "RAINBOW",
+   "SLEET",
+   "HAILSTONE",
+   "MONSOONS",
+   "BREEZE",
+   "OVERCAST",
+   "SQUALL",
+   "DOWNPOUR",
+   "CUMULUS",
+   "MILLIBAR",
+   "DEWPOINT",
+   "HEATWAVE",
+   "MONSOONAL",
+   "TYPHOON"
+  ]
+ },
+ {
+  "id": "T17",
+  "category": "themed",
+  "theme": "Sports Equipment",
+  "allowProperNouns": false,
+  "words": [
+   "RACKET",
+   "HELMET",
+   "JAVELIN",
+   "DUMBBELL",
+   "SKATEBOARD",
+   "SURFBOARD",
+   "HURDLE",
+   "BARBELL"
+  ]
+ },
+ {
+  "id": "T18",
+  "category": "themed",
+  "theme": "Detective Kit",
+  "allowProperNouns": false,
+  "words": [
+   "MAGNIFIER",
+   "DISGUISE",
+   "SLEUTH",
+   "STAKEOUT",
+   "LINEUP",
+   "MAGNIFYING",
+   "GUMSHOE",
+   "PRIVATEEYE",
+   "NOTEPAD",
+   "TAILING",
+   "DOSSIER",
+   "LOCKPICK",
+   "CASEFILE",
+   "INQUEST"
+  ]
+ },
+ {
+  "id": "T19",
+  "category": "themed",
+  "theme": "Music Theory",
+  "allowProperNouns": false,
+  "words": [
+   "SOPRANO",
+   "TENOR",
+   "CONTRALTO",
+   "NOTATION",
+   "FORTISSIMO",
+   "PIANISSIMO",
+   "MAJORKEY",
+   "MELODY",
+   "TEMPO",
+   "OCTAVE",
+   "CADENCE",
+   "TREBLE",
+   "MEASURE",
+   "DISSONANCE",
+   "ARPEGGIO",
+   "FERMATA"
+  ]
+ },
+ {
+  "id": "T20",
+  "category": "themed",
+  "theme": "Seaside",
+  "allowProperNouns": false,
+  "words": [
+   "SANDCASTLE",
+   "SEASHELL",
+   "LIGHTHOUSE",
+   "PELICAN",
+   "SEAWEED",
+   "BOARDWALK",
+   "TIDEPOOL",
+   "SUNSCREEN",
+   "PROMENADE",
+   "CORALREEF",
+   "SANDBAR",
+   "BREAKWATER",
+   "ROCKPOOL",
+   "SEAGULL",
+   "PIERHEAD"
+  ]
+ },
+ {
+  "id": "T21",
+  "category": "themed",
+  "theme": "Office Supplies",
+  "allowProperNouns": false,
+  "words": [
+   "ENVELOPE",
+   "PAPERCLIP",
+   "NOTEBOOK",
+   "FOLDER",
+   "BINDER",
+   "SCISSORS",
+   "STICKYNOTE",
+   "CLIPBOARD",
+   "MARKER"
+  ]
+ },
+ {
+  "id": "T22",
+  "category": "themed",
+  "theme": "Hospital",
+  "allowProperNouns": false,
+  "words": [
+   "SURGEON",
+   "BANDAGE",
+   "SYRINGE",
+   "AMBULANCE",
+   "PHARMACY",
+   "ANESTHESIA",
+   "DIAGNOSIS",
+   "MEDICINE"
+  ]
+ },
+ {
+  "id": "T23",
+  "category": "themed",
+  "theme": "Haunted House",
+  "allowProperNouns": false,
+  "words": [
+   "SKELETON",
+   "COBWEB",
+   "CHANDELIER",
+   "CREAKING",
+   "CELLAR",
+   "TRAPDOOR",
+   "COFFIN",
+   "SEANCE",
+   "PHANTOM",
+   "APPARITION",
+   "CANDELABRA"
+  ]
+ },
+ {
+  "id": "T24",
+  "category": "themed",
+  "theme": "Mythical Creatures",
+  "allowProperNouns": false,
+  "words": [
+   "UNICORN",
+   "GRIFFIN",
+   "PHOENIX",
+   "WEREWOLF",
+   "KRAKEN",
+   "BANSHEE",
+   "LEPRECHAUN",
+   "BASILISK",
+   "GARGOYLE"
+  ]
+ },
+ {
+  "id": "T25",
+  "category": "themed",
+  "theme": "Reptiles",
+  "allowProperNouns": false,
+  "words": [
+   "LIZARD",
+   "IGUANA",
+   "PYTHON",
+   "CHAMELEON",
+   "ANACONDA",
+   "KOMODO",
+   "TERRAPIN",
+   "SALAMANDER",
+   "TUATARA"
+  ]
+ },
+ {
+  "id": "T26",
+  "category": "themed",
+  "theme": "Theater",
+  "allowProperNouns": false,
+  "words": [
+   "COSTUME",
+   "AUDIENCE",
+   "BALCONY",
+   "USHER",
+   "UNDERSTUDY",
+   "ENCORE",
+   "PROSCENIUM",
+   "PLAYBILL",
+   "SOLILOQUY",
+   "STAGEHAND",
+   "MONOLOGUE"
+  ]
+ },
+ {
+  "id": "T27",
+  "category": "themed",
+  "theme": "Coffee Shop",
+  "allowProperNouns": false,
+  "words": [
+   "CAPPUCCINO",
+   "BARISTA",
+   "MUFFIN",
+   "DECAF",
+   "AMERICANO",
+   "MACCHIATO",
+   "GRINDER",
+   "FRAPPE",
+   "BISCOTTI",
+   "PERCOLATOR"
+  ]
+ },
+ {
+  "id": "T28",
+  "category": "themed",
+  "theme": "Garden Shed",
+  "allowProperNouns": false,
+  "words": [
+   "TROWEL",
+   "SEEDLING",
+   "FERTILIZER",
+   "PRUNER",
+   "SECATEURS",
+   "FLOWERPOT",
+   "LAWNMOWER",
+   "BIRDFEEDER",
+   "GARDENER",
+   "TOPIARY",
+   "CLIPPERS"
+  ]
+ },
+ {
+  "id": "T29",
+  "category": "themed",
+  "theme": "Royal Court",
+  "allowProperNouns": false,
+  "words": [
+   "MONARCH",
+   "DUCHESS",
+   "PALACE",
+   "CORONATION",
+   "EMPRESS",
+   "REGENT",
+   "CHANCELLOR",
+   "COURTIER",
+   "AMBASSADOR",
+   "DYNASTY"
+  ]
+ },
+ {
+  "id": "T30",
+  "category": "themed",
+  "theme": "Volcano",
+  "allowProperNouns": false,
+  "words": [
+   "MAGMA",
+   "CRATER",
+   "ERUPTION",
+   "ASHFALL",
+   "CALDERA",
+   "PUMICE",
+   "TREMOR",
+   "PYROCLAST",
+   "SULFUR",
+   "FUMAROLE",
+   "LAVAFLOW",
+   "SEISMIC",
+   "MAGMATIC",
+   "TEPHRA",
+   "EPICENTER",
+   "STRATUM"
+  ]
+ }
+]

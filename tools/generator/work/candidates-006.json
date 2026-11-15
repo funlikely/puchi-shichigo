@@ -1,0 +1,1403 @@
+[
+ {
+  "id": "F01",
+  "entries": [
+   {
+    "answer": "HERRING",
+    "chunkTexts": [
+     "HER",
+     "RING"
+    ]
+   },
+   {
+    "answer": "WIDDICOMBE",
+    "chunkTexts": [
+     "WID",
+     "DIC",
+     "OMBE"
+    ]
+   },
+   {
+    "answer": "GODLIMAN",
+    "chunkTexts": [
+     "GOD",
+     "LIM",
+     "AN"
+    ]
+   },
+   {
+    "answer": "ROBINS",
+    "chunkTexts": [
+     "ROB",
+     "INS"
+    ]
+   },
+   {
+    "answer": "MORTIMER",
+    "chunkTexts": [
+     "MOR",
+     "TIM",
+     "ER"
+    ]
+   },
+   {
+    "answer": "GAMBLE",
+    "chunkTexts": [
+     "GAM",
+     "BLE"
+    ]
+   },
+   {
+    "answer": "FIELDING",
+    "chunkTexts": [
+     "FI",
+     "ELD",
+     "ING"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 12.9,
+   "tempting_pairs": 3.2,
+   "shared_fragments": 2.5,
+   "anchor_balance": 7.2,
+   "shape": 10.4,
+   "word_appeal": 14.0,
+   "penalties": -16.3,
+   "structure": 33.9
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 13,
+    "4": 2
+   },
+   "decoys": [
+    "GAMING=GAM+ING",
+    "TIMING=TIM+ING",
+    "FIRING=FI+RING",
+    "WIDER=WID+ER",
+    "ELDER=ELD+ER",
+    "RINGING=RING+ING",
+    "GAMER=GAM+ER",
+    "FIELDER=FI+ELD+ER",
+    "RINGER=RING+ER",
+    "FIELD=FI+ELD*",
+    "TIMER=TIM+ER*"
+   ],
+   "tempting_pairs": [
+    "AN+ING",
+    "ER+ING",
+    "ER+RING",
+    "FI+ER",
+    "ING+ER",
+    "INS+AN",
+    "INS+ER",
+    "RING+ING"
+   ],
+   "anchors": [
+    "OMBE"
+   ],
+   "word_tiles": [],
+   "misaligned": 6,
+   "dup_tiles": [],
+   "near_pairs": [
+    "ING/INS",
+    "LIM/TIM"
+   ],
+   "no_start_rival": [
+    "HERRING",
+    "WIDDICOMBE",
+    "GODLIMAN",
+    "ROBINS",
+    "MORTIMER",
+    "GAMBLE"
+   ],
+   "inflected": [],
+   "zipf": {
+    "HERRING": 3.48,
+    "WIDDICOMBE": 1.72,
+    "GODLIMAN": 1.05,
+    "ROBINS": 3.07,
+    "MORTIMER": 3.23,
+    "GAMBLE": 3.79,
+    "FIELDING": 3.49
+   }
+  },
+  "theme_hint": "Taskmaster: Champions",
+  "category": "themed"
+ },
+ {
+  "id": "F02",
+  "entries": [
+   {
+    "answer": "HORNE",
+    "chunkTexts": [
+     "HOR",
+     "NE"
+    ]
+   },
+   {
+    "answer": "SECTION",
+    "chunkTexts": [
+     "SEC",
+     "TION"
+    ]
+   },
+   {
+    "answer": "TIEBREAK",
+    "chunkTexts": [
+     "TIE",
+     "BRE",
+     "AK"
+    ]
+   },
+   {
+    "answer": "DAVIES",
+    "chunkTexts": [
+     "DAV",
+     "IES"
+    ]
+   },
+   {
+    "answer": "PRIZETASK",
+    "chunkTexts": [
+     "PRI",
+     "ZET",
+     "ASK"
+    ]
+   },
+   {
+    "answer": "GOLDENHEAD",
+    "chunkTexts": [
+     "GOL",
+     "DEN",
+     "HEAD"
+    ]
+   },
+   {
+    "answer": "GILBERT",
+    "chunkTexts": [
+     "GIL",
+     "BERT"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 2.5,
+   "tempting_pairs": 0.0,
+   "shared_fragments": 1.2,
+   "anchor_balance": 6.5,
+   "shape": 9.1,
+   "word_appeal": 14.0,
+   "penalties": -13.9,
+   "structure": 19.5
+  },
+  "analysis": {
+   "n_tiles": 17,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 12,
+    "4": 3
+   },
+   "decoys": [
+    "DENIES=DEN+IES",
+    "BREAK=BRE+AK*",
+    "GOLDEN=GOL+DEN*"
+   ],
+   "tempting_pairs": [],
+   "anchors": [
+    "BERT",
+    "GOL"
+   ],
+   "word_tiles": [
+    "HEAD"
+   ],
+   "misaligned": 8,
+   "dup_tiles": [],
+   "near_pairs": [
+    "GIL/GOL"
+   ],
+   "no_start_rival": [
+    "HORNE",
+    "SECTION",
+    "TIEBREAK",
+    "DAVIES",
+    "PRIZETASK",
+    "GOLDENHEAD",
+    "GILBERT"
+   ],
+   "inflected": [],
+   "zipf": {
+    "HORNE": 3.17,
+    "SECTION": 5.0,
+    "TIEBREAK": 2.35,
+    "DAVIES": 3.93,
+    "PRIZETASK": 0.0,
+    "GOLDENHEAD": 0.0,
+    "GILBERT": 3.9
+   }
+  },
+  "theme_hint": "Taskmaster: Behind the Tasks",
+  "category": "themed"
+ },
+ {
+  "id": "F03",
+  "entries": [
+   {
+    "answer": "BENJAMIN",
+    "chunkTexts": [
+     "BEN",
+     "JAM",
+     "IN"
+    ]
+   },
+   {
+    "answer": "TASHAYAR",
+    "chunkTexts": [
+     "TAS",
+     "HA",
+     "YAR"
+    ]
+   },
+   {
+    "answer": "LEONARD",
+    "chunkTexts": [
+     "LEON",
+     "ARD"
+    ]
+   },
+   {
+    "answer": "KATHRYN",
+    "chunkTexts": [
+     "KAT",
+     "HRYN"
+    ]
+   },
+   {
+    "answer": "JEANLUC",
+    "chunkTexts": [
+     "JEAN",
+     "LUC"
+    ]
+   },
+   {
+    "answer": "CHAKOTAY",
+    "chunkTexts": [
+     "CHA",
+     "KO",
+     "TAY"
+    ]
+   },
+   {
+    "answer": "CRUSHER",
+    "chunkTexts": [
+     "CRU",
+     "SHER"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 2.2,
+   "tempting_pairs": 0.0,
+   "shared_fragments": 1.2,
+   "anchor_balance": 0.0,
+   "shape": 4.8,
+   "word_appeal": 14.0,
+   "penalties": -14.3,
+   "structure": 7.9
+  },
+  "analysis": {
+   "n_tiles": 17,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 10,
+    "4": 4
+   },
+   "decoys": [
+    "CHAIN=CHA+IN",
+    "KOSHER=KO+SHER"
+   ],
+   "tempting_pairs": [],
+   "anchors": [
+    "HRYN",
+    "KAT",
+    "LEON",
+    "LUC",
+    "YAR"
+   ],
+   "word_tiles": [],
+   "misaligned": 6,
+   "dup_tiles": [],
+   "near_pairs": [
+    "TAS/TAY"
+   ],
+   "no_start_rival": [
+    "BENJAMIN",
+    "TASHAYAR",
+    "LEONARD",
+    "KATHRYN",
+    "JEANLUC",
+    "CRUSHER"
+   ],
+   "inflected": [],
+   "zipf": {
+    "BENJAMIN": 4.16,
+    "TASHAYAR": 0.0,
+    "LEONARD": 4.01,
+    "KATHRYN": 3.48,
+    "JEANLUC": 0.0,
+    "CHAKOTAY": 1.94,
+    "CRUSHER": 3.11
+   }
+  },
+  "theme_hint": "Star Trek: Crew Manifest",
+  "category": "themed"
+ },
+ {
+  "id": "F04",
+  "entries": [
+   {
+    "answer": "HORTA",
+    "chunkTexts": [
+     "HOR",
+     "TA"
+    ]
+   },
+   {
+    "answer": "TALAXIAN",
+    "chunkTexts": [
+     "TA",
+     "LAX",
+     "IAN"
+    ]
+   },
+   {
+    "answer": "TRIBBLE",
+    "chunkTexts": [
+     "TRIB",
+     "BLE"
+    ]
+   },
+   {
+    "answer": "HOLODECK",
+    "chunkTexts": [
+     "HOL",
+     "OD",
+     "ECK"
+    ]
+   },
+   {
+    "answer": "CARDASSIAN",
+    "chunkTexts": [
+     "CARD",
+     "ASS",
+     "IAN"
+    ]
+   },
+   {
+    "answer": "DILITHIUM",
+    "chunkTexts": [
+     "DIL",
+     "ITH",
+     "IUM"
+    ]
+   },
+   {
+    "answer": "DEFIANT",
+    "chunkTexts": [
+     "DEF",
+     "IANT"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 1.2,
+   "tempting_pairs": 0.4,
+   "shared_fragments": 6.2,
+   "anchor_balance": 7.8,
+   "shape": 9.3,
+   "word_appeal": 14.0,
+   "penalties": -15.1,
+   "structure": 23.8
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 12,
+    "4": 3
+   },
+   "decoys": [
+    "TABLE=TA+BLE"
+   ],
+   "tempting_pairs": [
+    "TA+BLE"
+   ],
+   "anchors": [],
+   "word_tiles": [
+    "CARD"
+   ],
+   "misaligned": 7,
+   "dup_tiles": [
+    "IAN",
+    "TA"
+   ],
+   "near_pairs": [
+    "HOL/HOR"
+   ],
+   "no_start_rival": [
+    "HORTA",
+    "TRIBBLE",
+    "HOLODECK",
+    "CARDASSIAN",
+    "DILITHIUM"
+   ],
+   "inflected": [],
+   "zipf": {
+    "HORTA": 2.47,
+    "TALAXIAN": 0.0,
+    "TRIBBLE": 2.08,
+    "HOLODECK": 2.35,
+    "CARDASSIAN": 2.16,
+    "DILITHIUM": 1.89,
+    "DEFIANT": 3.21
+   }
+  },
+  "theme_hint": "Star Trek: Final Frontier",
+  "category": "themed"
+ },
+ {
+  "id": "F05",
+  "entries": [
+   {
+    "answer": "BIRDHOUSE",
+    "chunkTexts": [
+     "BIRD",
+     "HOU",
+     "SE"
+    ]
+   },
+   {
+    "answer": "PARTICLE",
+    "chunkTexts": [
+     "PAR",
+     "TI",
+     "CLE"
+    ]
+   },
+   {
+    "answer": "FINGERTIPS",
+    "chunkTexts": [
+     "FING",
+     "ERT",
+     "IPS"
+    ]
+   },
+   {
+    "answer": "ENSOR",
+    "chunkTexts": [
+     "EN",
+     "SOR"
+    ]
+   },
+   {
+    "answer": "GILGAMESH",
+    "chunkTexts": [
+     "GIL",
+     "GAM",
+     "ESH"
+    ]
+   },
+   {
+    "answer": "HAMMURABI",
+    "chunkTexts": [
+     "HAM",
+     "MUR",
+     "ABI"
+    ]
+   },
+   {
+    "answer": "SARGON",
+    "chunkTexts": [
+     "SAR",
+     "GON"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 1.6,
+   "tempting_pairs": 2.0,
+   "shared_fragments": 3.8,
+   "anchor_balance": 6.8,
+   "shape": 11.7,
+   "word_appeal": 14.0,
+   "penalties": -14.5,
+   "structure": 25.4
+  },
+  "analysis": {
+   "n_tiles": 19,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 14,
+    "4": 2
+   },
+   "decoys": [
+    "SEEN=SE+EN",
+    "PARSE=PAR+SE",
+    "HOUSE=HOU+SE*"
+   ],
+   "tempting_pairs": [
+    "EN+SE",
+    "EN+TI",
+    "PAR+EN",
+    "SE+PAR",
+    "TI+SE"
+   ],
+   "anchors": [
+    "ABI",
+    "FING"
+   ],
+   "word_tiles": [
+    "BIRD"
+   ],
+   "misaligned": 5,
+   "dup_tiles": [],
+   "near_pairs": [
+    "GAM/HAM",
+    "PAR/SAR",
+    "SAR/SOR"
+   ],
+   "no_start_rival": [
+    "BIRDHOUSE",
+    "FINGERTIPS",
+    "GILGAMESH",
+    "HAMMURABI",
+    "SARGON"
+   ],
+   "inflected": [],
+   "zipf": {
+    "BIRDHOUSE": 2.32,
+    "PARTICLE": 3.9,
+    "FINGERTIPS": 3.27,
+    "ENSOR": 1.89,
+    "GILGAMESH": 2.68,
+    "HAMMURABI": 2.14,
+    "SARGON": 2.49
+   }
+  },
+  "theme_hint": "They Might Be Giants: Songbook",
+  "category": "themed"
+ },
+ {
+  "id": "F06",
+  "entries": [
+   {
+    "answer": "DIALASONG",
+    "chunkTexts": [
+     "DIA",
+     "LAS",
+     "ONG"
+    ]
+   },
+   {
+    "answer": "QUIXOTE",
+    "chunkTexts": [
+     "QUI",
+     "XO",
+     "TE"
+    ]
+   },
+   {
+    "answer": "NANOBOTS",
+    "chunkTexts": [
+     "NAN",
+     "OB",
+     "OTS"
+    ]
+   },
+   {
+    "answer": "HOTDOG",
+    "chunkTexts": [
+     "HOT",
+     "DOG"
+    ]
+   },
+   {
+    "answer": "MAMMAL",
+    "chunkTexts": [
+     "MAM",
+     "MAL"
+    ]
+   },
+   {
+    "answer": "LINNELL",
+    "chunkTexts": [
+     "LIN",
+     "NELL"
+    ]
+   },
+   {
+    "answer": "LINCOLN",
+    "chunkTexts": [
+     "LIN",
+     "COLN"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 0.3,
+   "tempting_pairs": 0.0,
+   "shared_fragments": 2.5,
+   "anchor_balance": 4.2,
+   "shape": 9.1,
+   "word_appeal": 14.0,
+   "penalties": -14.3,
+   "structure": 15.9
+  },
+  "analysis": {
+   "n_tiles": 17,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 12,
+    "4": 2
+   },
+   "decoys": [
+    "QUITE=QUI+TE*"
+   ],
+   "tempting_pairs": [],
+   "anchors": [
+    "COLN",
+    "MAM",
+    "NELL"
+   ],
+   "word_tiles": [],
+   "misaligned": 6,
+   "dup_tiles": [
+    "LIN"
+   ],
+   "near_pairs": [],
+   "no_start_rival": [
+    "DIALASONG",
+    "QUIXOTE",
+    "NANOBOTS",
+    "MAMMAL",
+    "LINNELL",
+    "LINCOLN"
+   ],
+   "inflected": [],
+   "zipf": {
+    "DIALASONG": 0.0,
+    "QUIXOTE": 2.93,
+    "NANOBOTS": 2.09,
+    "HOTDOG": 2.8,
+    "MAMMAL": 3.31,
+    "LINNELL": 1.89,
+    "LINCOLN": 4.31
+   }
+  },
+  "theme_hint": "They Might Be Giants: Band Lore",
+  "category": "themed"
+ },
+ {
+  "id": "F07",
+  "entries": [
+   {
+    "answer": "SAZED",
+    "chunkTexts": [
+     "SA",
+     "ZED"
+    ]
+   },
+   {
+    "answer": "SCADRIAL",
+    "chunkTexts": [
+     "SCA",
+     "DRI",
+     "AL"
+    ]
+   },
+   {
+    "answer": "LERASIUM",
+    "chunkTexts": [
+     "LERA",
+     "SIUM"
+    ]
+   },
+   {
+    "answer": "ALLOMANCY",
+    "chunkTexts": [
+     "AL",
+     "LOM",
+     "ANCY"
+    ]
+   },
+   {
+    "answer": "FERUCHEMY",
+    "chunkTexts": [
+     "FER",
+     "UCH",
+     "EMY"
+    ]
+   },
+   {
+    "answer": "TENSOON",
+    "chunkTexts": [
+     "TENS",
+     "OON"
+    ]
+   },
+   {
+    "answer": "INQUISITOR",
+    "chunkTexts": [
+     "INQU",
+     "ISI",
+     "TOR"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 1.9,
+   "tempting_pairs": 0.4,
+   "shared_fragments": 2.5,
+   "anchor_balance": 6.9,
+   "shape": 7.1,
+   "word_appeal": 14.0,
+   "penalties": -15.3,
+   "structure": 17.5
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 10,
+    "4": 5
+   },
+   "decoys": [
+    "SAFER=SA+FER",
+    "FERAL=FER+AL"
+   ],
+   "tempting_pairs": [
+    "TOR+AL"
+   ],
+   "anchors": [
+    "INQU",
+    "LERA"
+   ],
+   "word_tiles": [],
+   "misaligned": 6,
+   "dup_tiles": [
+    "AL"
+   ],
+   "near_pairs": [],
+   "no_start_rival": [
+    "SAZED",
+    "SCADRIAL",
+    "LERASIUM",
+    "ALLOMANCY",
+    "FERUCHEMY",
+    "TENSOON",
+    "INQUISITOR"
+   ],
+   "inflected": [],
+   "zipf": {
+    "SAZED": 0.0,
+    "SCADRIAL": 0.0,
+    "LERASIUM": 0.0,
+    "ALLOMANCY": 0.0,
+    "FERUCHEMY": 0.0,
+    "TENSOON": 0.0,
+    "INQUISITOR": 2.85
+   }
+  },
+  "theme_hint": "Cosmere: Mistborn",
+  "category": "themed"
+ },
+ {
+  "id": "F08",
+  "entries": [
+   {
+    "answer": "KALADIN",
+    "chunkTexts": [
+     "KA",
+     "LAD",
+     "IN"
+    ]
+   },
+   {
+    "answer": "SHALLAN",
+    "chunkTexts": [
+     "SHAL",
+     "LAN"
+    ]
+   },
+   {
+    "answer": "DALINAR",
+    "chunkTexts": [
+     "DALI",
+     "NAR"
+    ]
+   },
+   {
+    "answer": "ADOLIN",
+    "chunkTexts": [
+     "ADO",
+     "LIN"
+    ]
+   },
+   {
+    "answer": "WARBREAKER",
+    "chunkTexts": [
+     "WAR",
+     "BREA",
+     "KER"
+    ]
+   },
+   {
+    "answer": "ELANTRIS",
+    "chunkTexts": [
+     "EL",
+     "ANT",
+     "RIS"
+    ]
+   },
+   {
+    "answer": "SHADESMAR",
+    "chunkTexts": [
+     "SHA",
+     "DES",
+     "MAR"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 6.3,
+   "tempting_pairs": 0.0,
+   "shared_fragments": 6.2,
+   "anchor_balance": 4.7,
+   "shape": 9.3,
+   "word_appeal": 14.0,
+   "penalties": -15.6,
+   "structure": 25.0
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 12,
+    "4": 3
+   },
+   "decoys": [
+    "MARKER=MAR+KER",
+    "MARSHAL=MAR+SHAL",
+    "SHAKER=SHA+KER",
+    "MARLIN=MAR+LIN",
+    "SHADES=SHA+DES*",
+    "BREAKER=BREA+KER*"
+   ],
+   "tempting_pairs": [],
+   "anchors": [
+    "DALI",
+    "LAN",
+    "SHAL"
+   ],
+   "word_tiles": [],
+   "misaligned": 7,
+   "dup_tiles": [],
+   "near_pairs": [
+    "LAD/LAN",
+    "LAN/LIN",
+    "MAR/NAR",
+    "MAR/WAR",
+    "NAR/WAR"
+   ],
+   "no_start_rival": [
+    "KALADIN",
+    "SHALLAN",
+    "DALINAR",
+    "ADOLIN",
+    "WARBREAKER",
+    "ELANTRIS",
+    "SHADESMAR"
+   ],
+   "inflected": [],
+   "zipf": {
+    "KALADIN": 1.16,
+    "SHALLAN": 1.01,
+    "DALINAR": 1.01,
+    "ADOLIN": 0.0,
+    "WARBREAKER": 0.0,
+    "ELANTRIS": 1.18,
+    "SHADESMAR": 0.0
+   }
+  },
+  "theme_hint": "Cosmere: Roshar and Beyond",
+  "category": "themed"
+ },
+ {
+  "id": "F09",
+  "entries": [
+   {
+    "answer": "TEDDANSON",
+    "chunkTexts": [
+     "TED",
+     "DAN",
+     "SON"
+    ]
+   },
+   {
+    "answer": "MENDOZA",
+    "chunkTexts": [
+     "MEN",
+     "DO",
+     "ZA"
+    ]
+   },
+   {
+    "answer": "ANAGONYE",
+    "chunkTexts": [
+     "ANA",
+     "GON",
+     "YE"
+    ]
+   },
+   {
+    "answer": "ELEANOR",
+    "chunkTexts": [
+     "ELE",
+     "ANOR"
+    ]
+   },
+   {
+    "answer": "TAHANI",
+    "chunkTexts": [
+     "TAH",
+     "ANI"
+    ]
+   },
+   {
+    "answer": "SIMONE",
+    "chunkTexts": [
+     "SIM",
+     "ONE"
+    ]
+   },
+   {
+    "answer": "PILLBOI",
+    "chunkTexts": [
+     "PILL",
+     "BOI"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 0.0,
+   "tempting_pairs": 0.8,
+   "shared_fragments": 2.5,
+   "anchor_balance": 4.6,
+   "shape": 9.1,
+   "word_appeal": 14.0,
+   "penalties": -15.8,
+   "structure": 15.2
+  },
+  "analysis": {
+   "n_tiles": 17,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 12,
+    "4": 2
+   },
+   "decoys": [],
+   "tempting_pairs": [
+    "ELE+MEN",
+    "MEN+TED"
+   ],
+   "anchors": [
+    "ANI",
+    "BOI",
+    "TAH"
+   ],
+   "word_tiles": [
+    "PILL"
+   ],
+   "misaligned": 6,
+   "dup_tiles": [],
+   "near_pairs": [
+    "ANA/ANI",
+    "GON/SON"
+   ],
+   "no_start_rival": [
+    "TEDDANSON",
+    "MENDOZA",
+    "ANAGONYE",
+    "TAHANI",
+    "SIMONE",
+    "PILLBOI"
+   ],
+   "inflected": [],
+   "zipf": {
+    "TEDDANSON": 0.0,
+    "MENDOZA": 3.24,
+    "ANAGONYE": 0.0,
+    "ELEANOR": 3.81,
+    "TAHANI": 1.65,
+    "SIMONE": 3.63,
+    "PILLBOI": 0.0
+   }
+  },
+  "theme_hint": "The Good Place: Residents",
+  "category": "themed"
+ },
+ {
+  "id": "F10",
+  "entries": [
+   {
+    "answer": "AFTERLIFE",
+    "chunkTexts": [
+     "AFT",
+     "ERL",
+     "IFE"
+    ]
+   },
+   {
+    "answer": "NEIGHBORS",
+    "chunkTexts": [
+     "NE",
+     "IGH",
+     "BORS"
+    ]
+   },
+   {
+    "answer": "PHILOSOPHY",
+    "chunkTexts": [
+     "PHI",
+     "LOS",
+     "OPHY"
+    ]
+   },
+   {
+    "answer": "TIMEKNIFE",
+    "chunkTexts": [
+     "TIM",
+     "EK",
+     "NIFE"
+    ]
+   },
+   {
+    "answer": "SOULMATE",
+    "chunkTexts": [
+     "SO",
+     "ULM",
+     "ATE"
+    ]
+   },
+   {
+    "answer": "MOLOTOV",
+    "chunkTexts": [
+     "MOLO",
+     "TOV"
+    ]
+   },
+   {
+    "answer": "SCANLON",
+    "chunkTexts": [
+     "SCAN",
+     "LON"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 0.7,
+   "tempting_pairs": 0.4,
+   "shared_fragments": 1.2,
+   "anchor_balance": 0.0,
+   "shape": 8.6,
+   "word_appeal": 14.0,
+   "penalties": -16.1,
+   "structure": 8.8
+  },
+  "analysis": {
+   "n_tiles": 19,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 11,
+    "4": 5
+   },
+   "decoys": [
+    "SOLOS=SO+LOS"
+   ],
+   "tempting_pairs": [
+    "TIM+ATE"
+   ],
+   "anchors": [
+    "AFT",
+    "BORS",
+    "MOLO",
+    "OPHY",
+    "PHI",
+    "TOV"
+   ],
+   "word_tiles": [
+    "SCAN"
+   ],
+   "misaligned": 7,
+   "dup_tiles": [],
+   "near_pairs": [
+    "LON/LOS"
+   ],
+   "no_start_rival": [
+    "AFTERLIFE",
+    "NEIGHBORS",
+    "PHILOSOPHY",
+    "TIMEKNIFE",
+    "SOULMATE",
+    "MOLOTOV"
+   ],
+   "inflected": [],
+   "zipf": {
+    "AFTERLIFE": 3.36,
+    "NEIGHBORS": 4.24,
+    "PHILOSOPHY": 4.49,
+    "TIMEKNIFE": 0.0,
+    "SOULMATE": 2.92,
+    "MOLOTOV": 3.02,
+    "SCANLON": 2.7
+   }
+  },
+  "theme_hint": "The Good Place: Points and Ethics",
+  "category": "themed"
+ },
+ {
+  "id": "F11",
+  "entries": [
+   {
+    "answer": "ILYUKHINA",
+    "chunkTexts": [
+     "ILY",
+     "UK",
+     "HINA"
+    ]
+   },
+   {
+    "answer": "RADIATION",
+    "chunkTexts": [
+     "RAD",
+     "IAT",
+     "ION"
+    ]
+   },
+   {
+    "answer": "PRESSURE",
+    "chunkTexts": [
+     "PRES",
+     "SURE"
+    ]
+   },
+   {
+    "answer": "AMNESIA",
+    "chunkTexts": [
+     "AM",
+     "NE",
+     "SIA"
+    ]
+   },
+   {
+    "answer": "ERIDIAN",
+    "chunkTexts": [
+     "ERI",
+     "DIAN"
+    ]
+   },
+   {
+    "answer": "AMMONIA",
+    "chunkTexts": [
+     "AMMO",
+     "NIA"
+    ]
+   },
+   {
+    "answer": "RYLAND",
+    "chunkTexts": [
+     "RYL",
+     "AND"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 0.0,
+   "tempting_pairs": 0.0,
+   "shared_fragments": 1.2,
+   "anchor_balance": 2.0,
+   "shape": 5.6,
+   "word_appeal": 14.0,
+   "penalties": -16.8,
+   "structure": 6.1
+  },
+  "analysis": {
+   "n_tiles": 17,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 9,
+    "4": 5
+   },
+   "decoys": [],
+   "tempting_pairs": [],
+   "anchors": [
+    "AMMO",
+    "ERI",
+    "ILY",
+    "RYL"
+   ],
+   "word_tiles": [
+    "SURE"
+   ],
+   "misaligned": 6,
+   "dup_tiles": [],
+   "near_pairs": [
+    "NIA/SIA"
+   ],
+   "no_start_rival": [
+    "ILYUKHINA",
+    "RADIATION",
+    "PRESSURE",
+    "AMNESIA",
+    "ERIDIAN",
+    "AMMONIA",
+    "RYLAND"
+   ],
+   "inflected": [],
+   "zipf": {
+    "ILYUKHINA": 0.0,
+    "RADIATION": 4.27,
+    "PRESSURE": 5.01,
+    "AMNESIA": 3.34,
+    "ERIDIAN": 0.0,
+    "AMMONIA": 3.36,
+    "RYLAND": 2.46
+   }
+  },
+  "theme_hint": "Project Hail Mary: Crew",
+  "category": "themed"
+ },
+ {
+  "id": "F12",
+  "entries": [
+   {
+    "answer": "ASTROPHAGE",
+    "chunkTexts": [
+     "AST",
+     "ROPH",
+     "AGE"
+    ]
+   },
+   {
+    "answer": "TAUMOEBA",
+    "chunkTexts": [
+     "TAU",
+     "MO",
+     "EBA"
+    ]
+   },
+   {
+    "answer": "TAUCETI",
+    "chunkTexts": [
+     "TAU",
+     "CE",
+     "TI"
+    ]
+   },
+   {
+    "answer": "PETROVA",
+    "chunkTexts": [
+     "PET",
+     "ROVA"
+    ]
+   },
+   {
+    "answer": "BEETLES",
+    "chunkTexts": [
+     "BEET",
+     "LES"
+    ]
+   },
+   {
+    "answer": "SAHARA",
+    "chunkTexts": [
+     "SAH",
+     "ARA"
+    ]
+   },
+   {
+    "answer": "ANTARCTICA",
+    "chunkTexts": [
+     "ANT",
+     "ARC",
+     "TICA"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 2.6,
+   "tempting_pairs": 0.4,
+   "shared_fragments": 5.0,
+   "anchor_balance": 2.0,
+   "shape": 8.2,
+   "word_appeal": 14.0,
+   "penalties": -16.2,
+   "structure": 16.0
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 11,
+    "4": 4
+   },
+   "decoys": [
+    "TILES=TI+LES",
+    "MOLES=MO+LES",
+    "TIARA=TI+ARA"
+   ],
+   "tempting_pairs": [
+    "MO+TI"
+   ],
+   "anchors": [
+    "BEET",
+    "EBA",
+    "ROVA",
+    "SAH"
+   ],
+   "word_tiles": [],
+   "misaligned": 9,
+   "dup_tiles": [
+    "TAU"
+   ],
+   "near_pairs": [
+    "ANT/AST",
+    "ARA/ARC"
+   ],
+   "no_start_rival": [
+    "ASTROPHAGE",
+    "TAUMOEBA",
+    "TAUCETI",
+    "PETROVA",
+    "BEETLES",
+    "SAHARA",
+    "ANTARCTICA"
+   ],
+   "inflected": [],
+   "zipf": {
+    "ASTROPHAGE": 0.0,
+    "TAUMOEBA": 0.0,
+    "TAUCETI": 0.0,
+    "PETROVA": 2.19,
+    "BEETLES": 3.34,
+    "SAHARA": 3.4,
+    "ANTARCTICA": 3.53
+   }
+  },
+  "theme_hint": "Project Hail Mary: Science",
+  "category": "themed"
+ }
+]

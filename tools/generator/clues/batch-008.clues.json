@@ -1,0 +1,1327 @@
+{
+ "_meta": {
+  "batch": "batch-008",
+  "writer": "hand-written (Claude, no API); original clues",
+  "judge": "self-rated by the writer"
+ },
+ "N01": {
+  "theme": "Word Nerd",
+  "category": "mixed",
+  "clues": {
+   "PETRICHOR": {
+    "clue": "Earthy perfume after a rainstorm",
+    "type": "evocative",
+    "rating": 4
+   },
+   "BEHEMOTH": {
+    "clue": "Biblical beast; any hulking giant",
+    "type": "definition",
+    "rating": 3
+   },
+   "OPSIMATH": {
+    "clue": "Late bloomer in the classroom",
+    "type": "pun",
+    "rating": 4
+   },
+   "HULLABALOO": {
+    "clue": "Ruckus raised at full volume",
+    "type": "evocative",
+    "rating": 3
+   },
+   "PANJANDRUM": {
+    "clue": "Grand poobah with a big head",
+    "type": "pun",
+    "rating": 4
+   },
+   "SOBRIQUET": {
+    "clue": "A nickname, put fancily",
+    "type": "definition",
+    "rating": 4
+   },
+   "NEFARIOUS": {
+    "clue": "Wicked, like a mustache-twirler",
+    "type": "evocative",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Word Nerd round: long, unusual vocabulary."
+  }
+ },
+ "N02": {
+  "theme": "Word Nerd",
+  "category": "mixed",
+  "clues": {
+   "SKEDADDLE": {
+    "clue": "Scram, Civil War-style",
+    "type": "trivia",
+    "rating": 4
+   },
+   "EGREGIOUS": {
+    "clue": "Flagrantly bad; literally out of the herd",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CHOLERIC": {
+    "clue": "Hot-tempered, full of yellow bile",
+    "type": "trivia",
+    "rating": 4
+   },
+   "PHILOMATH": {
+    "clue": "One who simply loves to learn",
+    "type": "definition",
+    "rating": 3
+   },
+   "PUGNACIOUS": {
+    "clue": "Itching for a fight",
+    "type": "definition",
+    "rating": 3
+   },
+   "POTENTATE": {
+    "clue": "Monarch with a lot of clout",
+    "type": "definition",
+    "rating": 3
+   },
+   "MANICULE": {
+    "clue": "Pointing-hand symbol in margins",
+    "type": "definition",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Word Nerd round: long, unusual vocabulary."
+  }
+ },
+ "N03": {
+  "theme": "Word Nerd",
+  "category": "mixed",
+  "clues": {
+   "IMBROGLIO": {
+    "clue": "Embarrassing tangle of a situation",
+    "type": "definition",
+    "rating": 3
+   },
+   "GASTRONOME": {
+    "clue": "Foodie with a fancier title",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "FOLDEROL": {
+    "clue": "Nonsense; also a frilly trifle",
+    "type": "definition",
+    "rating": 3
+   },
+   "APOPHENIA": {
+    "clue": "Seeing patterns where none exist",
+    "type": "definition",
+    "rating": 4
+   },
+   "PHILTRUM": {
+    "clue": "Groove between your nose and lip",
+    "type": "definition",
+    "rating": 4
+   },
+   "ELLIPSIS": {
+    "clue": "Three dots for when words fail",
+    "type": "evocative",
+    "rating": 4
+   },
+   "DISSEMBLE": {
+    "clue": "Hide true feelings; put on a front",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Word Nerd round: long, unusual vocabulary."
+  }
+ },
+ "N04": {
+  "theme": "Word Nerd",
+  "category": "mixed",
+  "clues": {
+   "VIRIDIAN": {
+    "clue": "Blue-green paint pigment",
+    "type": "definition",
+    "rating": 3
+   },
+   "BELLICOSE": {
+    "clue": "Spoiling for a war",
+    "type": "definition",
+    "rating": 3
+   },
+   "PANTALOON": {
+    "clue": "Baggy-trousered old fool of commedia",
+    "type": "trivia",
+    "rating": 4
+   },
+   "MASTICATE": {
+    "clue": "Chew it over, literally",
+    "type": "pun",
+    "rating": 5
+   },
+   "TRUMPERY": {
+    "clue": "Showy but worthless stuff",
+    "type": "definition",
+    "rating": 3
+   },
+   "TAUTOLOGY": {
+    "clue": "Saying the same thing twice twice",
+    "type": "pun",
+    "rating": 5
+   },
+   "CHARLATAN": {
+    "clue": "Quack with a con to sell",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Word Nerd round: long, unusual vocabulary."
+  }
+ },
+ "N05": {
+  "theme": "Word Nerd",
+  "category": "mixed",
+  "clues": {
+   "JACKANAPES": {
+    "clue": "Cheeky upstart, once a pet monkey",
+    "type": "trivia",
+    "rating": 4
+   },
+   "LUGUBRIOUS": {
+    "clue": "Mournful to the point of comedy",
+    "type": "evocative",
+    "rating": 4
+   },
+   "OSCULATE": {
+    "clue": "Kiss, or touch curves, formally",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "SINGULTUS": {
+    "clue": "Hiccup, if you're a doctor",
+    "type": "definition",
+    "rating": 4
+   },
+   "CONTUMELY": {
+    "clue": "Insolent, scornful abuse",
+    "type": "definition",
+    "rating": 3
+   },
+   "MARGINALIA": {
+    "clue": "Notes scribbled on the edges",
+    "type": "definition",
+    "rating": 4
+   },
+   "CORNUCOPIA": {
+    "clue": "Horn that gives and gives",
+    "type": "evocative",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Word Nerd round: long, unusual vocabulary."
+  }
+ },
+ "N06": {
+  "theme": "Word Nerd",
+  "category": "mixed",
+  "clues": {
+   "PERNICIOUS": {
+    "clue": "Harmful in a sneaky, gradual way",
+    "type": "definition",
+    "rating": 3
+   },
+   "INSELBERG": {
+    "clue": "Lone hill rising from a plain",
+    "type": "definition",
+    "rating": 4
+   },
+   "CIRCUMFLEX": {
+    "clue": "Little hat over the e in fete",
+    "type": "evocative",
+    "rating": 5
+   },
+   "SOLIPSISM": {
+    "clue": "Philosophy that it's all about you",
+    "type": "pun",
+    "rating": 4
+   },
+   "CASTIGATE": {
+    "clue": "Dress down, severely",
+    "type": "definition",
+    "rating": 3
+   },
+   "SOMNOLENT": {
+    "clue": "Drowsy enough to drop off",
+    "type": "definition",
+    "rating": 3
+   },
+   "CLERIHEW": {
+    "clue": "Comic four-line biographical verse",
+    "type": "definition",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Word Nerd round: long, unusual vocabulary."
+  }
+ },
+ "N07": {
+  "theme": "Word Nerd",
+  "category": "mixed",
+  "clues": {
+   "SYCOPHANT": {
+    "clue": "Yes-man with a brown nose",
+    "type": "evocative",
+    "rating": 4
+   },
+   "PENTIMENTO": {
+    "clue": "Painter's change of mind, peeking through",
+    "type": "evocative",
+    "rating": 4
+   },
+   "LAMBENT": {
+    "clue": "Softly flickering, like candlelight",
+    "type": "definition",
+    "rating": 4
+   },
+   "PANEGYRIC": {
+    "clue": "Speech heaping on the praise",
+    "type": "definition",
+    "rating": 3
+   },
+   "EPHEMERAL": {
+    "clue": "Here today, gone tomorrow",
+    "type": "evocative",
+    "rating": 4
+   },
+   "FRACAS": {
+    "clue": "Noisy brawl",
+    "type": "definition",
+    "rating": 3
+   },
+   "PILCROW": {
+    "clue": "Backwards-P paragraph mark",
+    "type": "definition",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Word Nerd round: long, unusual vocabulary."
+  }
+ },
+ "N08": {
+  "theme": "Word Nerd",
+  "category": "mixed",
+  "clues": {
+   "INCUNABULA": {
+    "clue": "Books from print's cradle days",
+    "type": "trivia",
+    "rating": 4
+   },
+   "BELVEDERE": {
+    "clue": "Building with a beautiful view",
+    "type": "definition",
+    "rating": 4
+   },
+   "FURBELOW": {
+    "clue": "Showy frill on a dress",
+    "type": "definition",
+    "rating": 3
+   },
+   "SHIBBOLETH": {
+    "clue": "Password that betrays outsiders",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CATHARSIS": {
+    "clue": "Emotional purge, Greek-tragedy style",
+    "type": "definition",
+    "rating": 4
+   },
+   "CODSWALLOP": {
+    "clue": "Nonsense that sounds fishy",
+    "type": "pun",
+    "rating": 4
+   },
+   "SLOVENLY": {
+    "clue": "Messy and unkempt",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Word Nerd round: long, unusual vocabulary."
+  }
+ },
+ "N09": {
+  "theme": "Word Nerd",
+  "category": "mixed",
+  "clues": {
+   "DRUMLIN": {
+    "clue": "Egg-shaped hill left by a glacier",
+    "type": "definition",
+    "rating": 4
+   },
+   "BRICOLAGE": {
+    "clue": "Art from whatever's lying around",
+    "type": "definition",
+    "rating": 4
+   },
+   "PHILISTINE": {
+    "clue": "Uncultured type, art be damned",
+    "type": "evocative",
+    "rating": 3
+   },
+   "SOPORIFIC": {
+    "clue": "Snooze-inducing, like this clue",
+    "type": "pun",
+    "rating": 4
+   },
+   "IRASCIBLE": {
+    "clue": "Quick to fly off the handle",
+    "type": "definition",
+    "rating": 3
+   },
+   "SCRIVENER": {
+    "clue": "Bartleby's job: professional copyist",
+    "type": "trivia",
+    "rating": 4
+   },
+   "BALLYHOO": {
+    "clue": "Publicity hype at full blast",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Word Nerd round: long, unusual vocabulary."
+  }
+ },
+ "N10": {
+  "theme": "Word Nerd",
+  "category": "mixed",
+  "clues": {
+   "ITINERANT": {
+    "clue": "Always on the road",
+    "type": "definition",
+    "rating": 3
+   },
+   "DOLOROUS": {
+    "clue": "Steeped in sorrow",
+    "type": "definition",
+    "rating": 3
+   },
+   "VIRGULE": {
+    "clue": "Slash, by another name",
+    "type": "definition",
+    "rating": 4
+   },
+   "CHICANERY": {
+    "clue": "Trickery, legal or otherwise",
+    "type": "definition",
+    "rating": 3
+   },
+   "SASTRUGI": {
+    "clue": "Wind-carved ridges in snow",
+    "type": "definition",
+    "rating": 4
+   },
+   "HARLEQUIN": {
+    "clue": "Diamond-suited clown",
+    "type": "evocative",
+    "rating": 4
+   },
+   "PALAVER": {
+    "clue": "Prolonged fuss and idle chatter",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Word Nerd round: long, unusual vocabulary."
+  }
+ },
+ "N11": {
+  "theme": "Word Nerd",
+  "category": "mixed",
+  "clues": {
+   "GALLIVANT": {
+    "clue": "Gad about for fun",
+    "type": "definition",
+    "rating": 3
+   },
+   "CHATELAINE": {
+    "clue": "Mistress of the castle keys",
+    "type": "evocative",
+    "rating": 4
+   },
+   "MALODOROUS": {
+    "clue": "Nose-wrinklingly foul",
+    "type": "evocative",
+    "rating": 3
+   },
+   "LOLLYGAG": {
+    "clue": "Dawdle when you should be working",
+    "type": "definition",
+    "rating": 3
+   },
+   "MARQUETRY": {
+    "clue": "Wood-inlay art on furniture",
+    "type": "definition",
+    "rating": 4
+   },
+   "CANOODLE": {
+    "clue": "Cuddle and kiss, not cook pasta",
+    "type": "pun",
+    "rating": 4
+   },
+   "PEDANTIC": {
+    "clue": "Well, actually... fussy about details",
+    "type": "evocative",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Word Nerd round: long, unusual vocabulary."
+  }
+ },
+ "N12": {
+  "theme": "Word Nerd",
+  "category": "mixed",
+  "clues": {
+   "KIBITZER": {
+    "clue": "Unwanted adviser at the card table",
+    "type": "definition",
+    "rating": 4
+   },
+   "LIGATURE": {
+    "clue": "Tie, or letters joined as one",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "BILLABONG": {
+    "clue": "Swagman's camp spot, an Aussie pool",
+    "type": "trivia",
+    "rating": 4
+   },
+   "DIATRIBE": {
+    "clue": "Bitter, sustained verbal attack",
+    "type": "definition",
+    "rating": 3
+   },
+   "ATARAXIA": {
+    "clue": "Unflappable calm, Epicurus's goal",
+    "type": "trivia",
+    "rating": 4
+   },
+   "ENCOMIUM": {
+    "clue": "Formal tribute of high praise",
+    "type": "definition",
+    "rating": 3
+   },
+   "FULGURITE": {
+    "clue": "Glass tube made by lightning",
+    "type": "definition",
+    "rating": 5
+   }
+  },
+  "critique": {
+   "notes": "Word Nerd round: long, unusual vocabulary."
+  }
+ },
+ "N13": {
+  "theme": "Word Nerd",
+  "category": "mixed",
+  "clues": {
+   "OBLOQUY": {
+    "clue": "Public disgrace; strong abuse",
+    "type": "definition",
+    "rating": 3
+   },
+   "DECOUPAGE": {
+    "clue": "Craft of gluing cutouts and varnish",
+    "type": "definition",
+    "rating": 3
+   },
+   "DIAERESIS": {
+    "clue": "Two dots that split naive vowels",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "SUSURRUS": {
+    "clue": "Soft whisper of rustling leaves",
+    "type": "evocative",
+    "rating": 4
+   },
+   "GLAUCOUS": {
+    "clue": "Dusty blue-green, like a cabbage leaf",
+    "type": "definition",
+    "rating": 4
+   },
+   "UNCTUOUS": {
+    "clue": "Oily, in charm as well as texture",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "MOUNTEBANK": {
+    "clue": "Quack who climbed on a bench",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Word Nerd round: long, unusual vocabulary."
+  }
+ },
+ "N14": {
+  "theme": "Word Nerd",
+  "category": "mixed",
+  "clues": {
+   "OSCITATION": {
+    "clue": "Yawning, for the long-winded",
+    "type": "pun",
+    "rating": 4
+   },
+   "HIGGLEDY": {
+    "clue": "___-piggledy",
+    "type": "wordplay",
+    "rating": 3
+   },
+   "MACGUFFIN": {
+    "clue": "Plot device everyone's chasing",
+    "type": "definition",
+    "rating": 4
+   },
+   "INSIDIOUS": {
+    "clue": "Sneaky harm creeping in slowly",
+    "type": "definition",
+    "rating": 3
+   },
+   "REFULGENT": {
+    "clue": "Shining radiantly",
+    "type": "definition",
+    "rating": 3
+   },
+   "RIGMAROLE": {
+    "clue": "Long, tedious procedure",
+    "type": "definition",
+    "rating": 3
+   },
+   "MORAINE": {
+    "clue": "Glacier's leftover rubble",
+    "type": "definition",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Word Nerd round: long, unusual vocabulary."
+  }
+ },
+ "N15": {
+  "theme": "Word Nerd",
+  "category": "mixed",
+  "clues": {
+   "EXACERBATE": {
+    "clue": "Make bad worse",
+    "type": "definition",
+    "rating": 3
+   },
+   "AMANUENSIS": {
+    "clue": "Scribe taking dictation",
+    "type": "definition",
+    "rating": 4
+   },
+   "LANGUOROUS": {
+    "clue": "Pleasantly lazy and dreamy",
+    "type": "definition",
+    "rating": 3
+   },
+   "CHIASMUS": {
+    "clue": "ABBA figure: ask not what your country",
+    "type": "trivia",
+    "rating": 4
+   },
+   "DYSPEPTIC": {
+    "clue": "Grumpy, as if from indigestion",
+    "type": "definition",
+    "rating": 4
+   },
+   "MALCONTENT": {
+    "clue": "Perpetual complainer",
+    "type": "definition",
+    "rating": 3
+   },
+   "OBSEQUIOUS": {
+    "clue": "Bowing and scraping excessively",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Word Nerd round: long, unusual vocabulary."
+  }
+ },
+ "N16": {
+  "theme": "Word Nerd",
+  "category": "mixed",
+  "clues": {
+   "INVECTIVE": {
+    "clue": "Abusive language, hurled",
+    "type": "definition",
+    "rating": 3
+   },
+   "TOMFOOLERY": {
+    "clue": "Silly antics and horseplay",
+    "type": "definition",
+    "rating": 3
+   },
+   "IGNORAMUS": {
+    "clue": "Know-nothing, Latin for 'we don't know'",
+    "type": "trivia",
+    "rating": 5
+   },
+   "SACCHARINE": {
+    "clue": "Sickly sweet, syrupy",
+    "type": "definition",
+    "rating": 3
+   },
+   "FILIBUSTER": {
+    "clue": "Talking a bill to death",
+    "type": "evocative",
+    "rating": 4
+   },
+   "VERDIGRIS": {
+    "clue": "Green patina on the Statue of Liberty",
+    "type": "evocative",
+    "rating": 4
+   },
+   "RAFFISH": {
+    "clue": "Rakishly disreputable",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Word Nerd round: long, unusual vocabulary."
+  }
+ },
+ "N17": {
+  "theme": "Word Nerd",
+  "category": "mixed",
+  "clues": {
+   "DOGGEREL": {
+    "clue": "Clumsy comic verse",
+    "type": "definition",
+    "rating": 3
+   },
+   "EMOLUMENT": {
+    "clue": "Salary, for the fancy",
+    "type": "definition",
+    "rating": 3
+   },
+   "MEPHITIC": {
+    "clue": "Foul-smelling, like a skunk",
+    "type": "trivia",
+    "rating": 4
+   },
+   "EVANESCENT": {
+    "clue": "Quickly fading from sight",
+    "type": "definition",
+    "rating": 3
+   },
+   "PALIMPSEST": {
+    "clue": "Scraped manuscript, rewritten over",
+    "type": "definition",
+    "rating": 4
+   },
+   "ENERVATE": {
+    "clue": "Sap the strength from",
+    "type": "definition",
+    "rating": 3
+   },
+   "NEOLOGISM": {
+    "clue": "Freshly minted word, like 'rizz'",
+    "type": "evocative",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Word Nerd round: long, unusual vocabulary."
+  }
+ },
+ "N18": {
+  "theme": "Word Nerd",
+  "category": "mixed",
+  "clues": {
+   "MONADNOCK": {
+    "clue": "Lone peak that survived erosion",
+    "type": "definition",
+    "rating": 4
+   },
+   "FASTIDIOUS": {
+    "clue": "Fussy about every detail",
+    "type": "definition",
+    "rating": 3
+   },
+   "PERQUISITE": {
+    "clue": "Job perk, in full",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "SINECURE": {
+    "clue": "Cushy job with no real duties",
+    "type": "definition",
+    "rating": 4
+   },
+   "CERULEAN": {
+    "clue": "Deep sky blue",
+    "type": "definition",
+    "rating": 3
+   },
+   "REPROBATE": {
+    "clue": "Unprincipled scoundrel",
+    "type": "definition",
+    "rating": 3
+   },
+   "SALMAGUNDI": {
+    "clue": "Salad of everything, or a hodgepodge",
+    "type": "definition",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Word Nerd round: long, unusual vocabulary."
+  }
+ },
+ "N19": {
+  "theme": "Word Nerd",
+  "category": "mixed",
+  "clues": {
+   "DOOHICKEY": {
+    "clue": "Thingamajig whose name escapes you",
+    "type": "evocative",
+    "rating": 4
+   },
+   "BINTURONG": {
+    "clue": "Bearcat that smells like popcorn",
+    "type": "trivia",
+    "rating": 5
+   },
+   "INEXORABLE": {
+    "clue": "Relentless; can't be stopped",
+    "type": "definition",
+    "rating": 3
+   },
+   "KERFUFFLE": {
+    "clue": "Commotion over nothing much",
+    "type": "definition",
+    "rating": 4
+   },
+   "BLOVIATOR": {
+    "clue": "Windbag who never stops",
+    "type": "definition",
+    "rating": 3
+   },
+   "ESCRITOIRE": {
+    "clue": "Writing desk with flair",
+    "type": "definition",
+    "rating": 3
+   },
+   "OBFUSCATE": {
+    "clue": "Make unclear, deliberately",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Word Nerd round: long, unusual vocabulary."
+  }
+ },
+ "N20": {
+  "theme": "Word Nerd",
+  "category": "mixed",
+  "clues": {
+   "PHILIPPIC": {
+    "clue": "Bitter tirade, Demosthenes-style",
+    "type": "trivia",
+    "rating": 4
+   },
+   "HOOPLA": {
+    "clue": "Excited fuss and fanfare",
+    "type": "definition",
+    "rating": 3
+   },
+   "FISTICUFFS": {
+    "clue": "Old-timey punch-up",
+    "type": "definition",
+    "rating": 3
+   },
+   "MATUTINAL": {
+    "clue": "Of the morning, like dew",
+    "type": "definition",
+    "rating": 3
+   },
+   "VERMILION": {
+    "clue": "Brilliant red pigment",
+    "type": "definition",
+    "rating": 3
+   },
+   "LOQUACIOUS": {
+    "clue": "Never at a loss for words",
+    "type": "evocative",
+    "rating": 4
+   },
+   "COXCOMB": {
+    "clue": "Vain dandy; a jester's cap",
+    "type": "definition",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Word Nerd round: long, unusual vocabulary."
+  }
+ },
+ "N21": {
+  "theme": "Word Nerd",
+  "category": "mixed",
+  "clues": {
+   "LEVIATHAN": {
+    "clue": "Sea monster, or Hobbes's state",
+    "type": "trivia",
+    "rating": 4
+   },
+   "FARRAGO": {
+    "clue": "Confused hodgepodge",
+    "type": "definition",
+    "rating": 3
+   },
+   "INEFFABLE": {
+    "clue": "Too great for words",
+    "type": "definition",
+    "rating": 4
+   },
+   "CASSOWARY": {
+    "clue": "Dangerous flightless bird of Australia",
+    "type": "definition",
+    "rating": 4
+   },
+   "LIBERTINE": {
+    "clue": "Rake with loose morals",
+    "type": "definition",
+    "rating": 3
+   },
+   "PAREIDOLIA": {
+    "clue": "Seeing faces in electrical outlets",
+    "type": "evocative",
+    "rating": 5
+   },
+   "GLABELLA": {
+    "clue": "Smooth spot between the eyebrows",
+    "type": "definition",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Word Nerd round: long, unusual vocabulary."
+  }
+ },
+ "N22": {
+  "theme": "Word Nerd",
+  "category": "mixed",
+  "clues": {
+   "DISCOMFIT": {
+    "clue": "Make uneasy; throw off balance",
+    "type": "definition",
+    "rating": 3
+   },
+   "HOATZIN": {
+    "clue": "Stinkbird with clawed chicks",
+    "type": "trivia",
+    "rating": 4
+   },
+   "APRICITY": {
+    "clue": "Warmth of the winter sun",
+    "type": "evocative",
+    "rating": 5
+   },
+   "ADUMBRATE": {
+    "clue": "Outline faintly; foreshadow",
+    "type": "definition",
+    "rating": 3
+   },
+   "EPENTHESIS": {
+    "clue": "Extra sound, as in 'athalete'",
+    "type": "definition",
+    "rating": 4
+   },
+   "NOSTRUM": {
+    "clue": "Quack remedy",
+    "type": "definition",
+    "rating": 3
+   },
+   "HETERONYM": {
+    "clue": "Bass vs. bass, for one",
+    "type": "wordplay",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Word Nerd round: long, unusual vocabulary."
+  }
+ },
+ "N23": {
+  "theme": "Word Nerd",
+  "category": "mixed",
+  "clues": {
+   "LIPOGRAM": {
+    "clue": "Text that avoids a letter, say E",
+    "type": "definition",
+    "rating": 4
+   },
+   "CACOPHONY": {
+    "clue": "Harsh jumble of sounds",
+    "type": "definition",
+    "rating": 3
+   },
+   "CURMUDGEON": {
+    "clue": "Get-off-my-lawn type",
+    "type": "evocative",
+    "rating": 5
+   },
+   "RUMPUS": {
+    "clue": "Noisy disturbance",
+    "type": "definition",
+    "rating": 3
+   },
+   "BLANDISH": {
+    "clue": "Coax with flattery",
+    "type": "definition",
+    "rating": 3
+   },
+   "GOSSAMER": {
+    "clue": "Cobweb-fine and delicate",
+    "type": "definition",
+    "rating": 4
+   },
+   "PENURIOUS": {
+    "clue": "Extremely poor; also stingy",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Word Nerd round: long, unusual vocabulary."
+  }
+ },
+ "N24": {
+  "theme": "Word Nerd",
+  "category": "mixed",
+  "clues": {
+   "CLINOMANIA": {
+    "clue": "Obsessive urge to stay in bed",
+    "type": "definition",
+    "rating": 4
+   },
+   "OBJURGATE": {
+    "clue": "Scold sharply",
+    "type": "definition",
+    "rating": 3
+   },
+   "FRIPPERY": {
+    "clue": "Showy, frivolous finery",
+    "type": "definition",
+    "rating": 3
+   },
+   "MISCREANT": {
+    "clue": "Ne'er-do-well with a rap sheet",
+    "type": "evocative",
+    "rating": 3
+   },
+   "RECONDITE": {
+    "clue": "Obscure, known to few",
+    "type": "definition",
+    "rating": 3
+   },
+   "ABSTRUSE": {
+    "clue": "Hard to understand",
+    "type": "definition",
+    "rating": 3
+   },
+   "LOGOPHILE": {
+    "clue": "Word lover, like you",
+    "type": "evocative",
+    "rating": 5
+   }
+  },
+  "critique": {
+   "notes": "Word Nerd round: long, unusual vocabulary."
+  }
+ },
+ "N25": {
+  "theme": "Word Nerd",
+  "category": "mixed",
+  "clues": {
+   "DIACRITIC": {
+    "clue": "Accent mark, like a tilde",
+    "type": "definition",
+    "rating": 4
+   },
+   "VACILLATE": {
+    "clue": "Waffle between options",
+    "type": "pun",
+    "rating": 4
+   },
+   "ERUCTATION": {
+    "clue": "Belch, put politely",
+    "type": "definition",
+    "rating": 4
+   },
+   "SALUBRIOUS": {
+    "clue": "Wholesome and health-giving",
+    "type": "definition",
+    "rating": 3
+   },
+   "BAKSHEESH": {
+    "clue": "Tip or bribe, in the bazaar",
+    "type": "definition",
+    "rating": 4
+   },
+   "MUMPSIMUS": {
+    "clue": "Error clung to despite correction",
+    "type": "definition",
+    "rating": 4
+   },
+   "DIAPHANOUS": {
+    "clue": "Sheer enough to see through",
+    "type": "definition",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Word Nerd round: long, unusual vocabulary."
+  }
+ },
+ "N26": {
+  "theme": "Word Nerd",
+  "category": "mixed",
+  "clues": {
+   "VITUPERATE": {
+    "clue": "Berate abusively",
+    "type": "definition",
+    "rating": 3
+   },
+   "SATRAPY": {
+    "clue": "Persian governor's province",
+    "type": "definition",
+    "rating": 4
+   },
+   "CORUSCATE": {
+    "clue": "Sparkle, like wit at its best",
+    "type": "definition",
+    "rating": 4
+   },
+   "DENOUEMENT": {
+    "clue": "Plot's final untangling",
+    "type": "trivia",
+    "rating": 4
+   },
+   "ESOTERIC": {
+    "clue": "For the initiated only",
+    "type": "definition",
+    "rating": 3
+   },
+   "PANGOLIN": {
+    "clue": "Scaly anteater that rolls up",
+    "type": "definition",
+    "rating": 4
+   },
+   "SPOONERISM": {
+    "clue": "Tons of soil for sons of toil",
+    "type": "wordplay",
+    "rating": 5
+   }
+  },
+  "critique": {
+   "notes": "Word Nerd round: long, unusual vocabulary."
+  }
+ },
+ "N27": {
+  "theme": "Word Nerd",
+  "category": "mixed",
+  "clues": {
+   "PERFIDIOUS": {
+    "clue": "Treacherous, faithless",
+    "type": "definition",
+    "rating": 3
+   },
+   "LOGORRHEA": {
+    "clue": "Verbal diarrhea, clinically",
+    "type": "pun",
+    "rating": 4
+   },
+   "ANIMADVERT": {
+    "clue": "Remark critically upon",
+    "type": "definition",
+    "rating": 3
+   },
+   "MONDEGREEN": {
+    "clue": "'Kiss this guy' for 'kiss the sky'",
+    "type": "trivia",
+    "rating": 5
+   },
+   "INCHOATE": {
+    "clue": "Just begun, not yet formed",
+    "type": "definition",
+    "rating": 3
+   },
+   "TRUCULENT": {
+    "clue": "Aggressively defiant",
+    "type": "definition",
+    "rating": 3
+   },
+   "PROPITIATE": {
+    "clue": "Appease, as angry gods",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Word Nerd round: long, unusual vocabulary."
+  }
+ },
+ "N28": {
+  "theme": "Word Nerd",
+  "category": "mixed",
+  "clues": {
+   "CREDENZA": {
+    "clue": "Sideboard for dining room stuff",
+    "type": "definition",
+    "rating": 3
+   },
+   "NINCOMPOOP": {
+    "clue": "Fool with a silly-sounding name",
+    "type": "evocative",
+    "rating": 3
+   },
+   "JUGGERNAUT": {
+    "clue": "Unstoppable force",
+    "type": "definition",
+    "rating": 3
+   },
+   "FUSTIAN": {
+    "clue": "Pompous talk; also a twill cloth",
+    "type": "definition",
+    "rating": 4
+   },
+   "EXCULPATE": {
+    "clue": "Clear of blame",
+    "type": "definition",
+    "rating": 3
+   },
+   "HARANGUE": {
+    "clue": "Lengthy, ranting lecture",
+    "type": "definition",
+    "rating": 3
+   },
+   "VESPERTINE": {
+    "clue": "Evening-blooming or evening-active",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Word Nerd round: long, unusual vocabulary."
+  }
+ },
+ "N29": {
+  "theme": "Word Nerd",
+  "category": "mixed",
+  "clues": {
+   "LUDDITE": {
+    "clue": "Loom-wrecker turned tech skeptic",
+    "type": "trivia",
+    "rating": 4
+   },
+   "INSOUCIANT": {
+    "clue": "Breezily unconcerned",
+    "type": "definition",
+    "rating": 3
+   },
+   "INVEIGLE": {
+    "clue": "Wheedle your way in",
+    "type": "definition",
+    "rating": 3
+   },
+   "DESULTORY": {
+    "clue": "Aimless, half-hearted",
+    "type": "definition",
+    "rating": 3
+   },
+   "NOISOME": {
+    "clue": "Stinky, though it sounds merely loud",
+    "type": "pun",
+    "rating": 4
+   },
+   "GASCONADE": {
+    "clue": "Boastful talk, extravagant bragging",
+    "type": "definition",
+    "rating": 3
+   },
+   "EFFULGENT": {
+    "clue": "Radiantly brilliant",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Word Nerd round: long, unusual vocabulary."
+  }
+ },
+ "N30": {
+  "theme": "Word Nerd",
+  "category": "mixed",
+  "clues": {
+   "SPLENETIC": {
+    "clue": "Peevish and bad-tempered",
+    "type": "definition",
+    "rating": 3
+   },
+   "LOTHARIO": {
+    "clue": "Smooth-talking ladies' man",
+    "type": "definition",
+    "rating": 3
+   },
+   "AESTIVATE": {
+    "clue": "Snooze through summer",
+    "type": "pun",
+    "rating": 4
+   },
+   "CLERESTORY": {
+    "clue": "High row of church windows",
+    "type": "definition",
+    "rating": 4
+   },
+   "PLEONASM": {
+    "clue": "Redundancy, like 'free gift'",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "EQUIVOCATE": {
+    "clue": "Speak in weasel words",
+    "type": "definition",
+    "rating": 3
+   },
+   "GIBBERISH": {
+    "clue": "Unintelligible babble",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Word Nerd round: long, unusual vocabulary."
+  }
+ }
+}
