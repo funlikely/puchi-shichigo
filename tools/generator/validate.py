@@ -13,9 +13,10 @@ ERRORS (hard rules)
   tiles       each tile 2-4 letters (5+ is never allowed) and MUST CONTAIN A VOWEL (AEIOUY);
               17-22 tiles per round; at least half are 3 letters; at most 3 two-letter tiles;
               at most 30% four-letter tiles; no tile text more than twice
-  answers     5-10 letters, 2-4 tiles each, at most 3 two-tile answers, no duplicates,
+  answers     5-10 letters, 2-4 tiles each, 2-tile answers are fine (max 5), no duplicates,
               no two answers sharing a stem, no answer reused in another round
-  words       in the dictionary, common enough (wordfreq zipf), not blocklisted, not a plain
+  proper      at most 2 curated proper nouns per round unless the round sets allowProperNouns
+  words       in the dictionary (or on data/vetted_words.txt / data/proper_nouns.txt), common enough (wordfreq zipf), not blocklisted, not a plain
               plural; at most 1 -ING/-ED form and 2 abstract-suffix words per round
   uniqueness  every answer can be spelled from the round's tile pool in exactly one way, so
               the solution is unique and no tile can be stranded by an alternate spelling
@@ -56,7 +57,7 @@ def validate_round(r: dict, word_check=True):
     if errs:
         return errs, warns, None
     an = None
-    hard = scoring.hard_errors(entries, check_words=word_check)
+    hard = scoring.hard_errors(entries, check_words=word_check, max_proper=7 if r.get("allowProperNouns") else None)
     errs += hard
     try:
         an = scoring.analyze(entries)

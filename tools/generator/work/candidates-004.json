@@ -1,0 +1,8305 @@
+[
+ {
+  "id": "c001",
+  "entries": [
+   {
+    "answer": "CONCRETE",
+    "chunkTexts": [
+     "CON",
+     "CRE",
+     "TE"
+    ]
+   },
+   {
+    "answer": "MIRROR",
+    "chunkTexts": [
+     "MIR",
+     "ROR"
+    ]
+   },
+   {
+    "answer": "PASTURE",
+    "chunkTexts": [
+     "PAS",
+     "TURE"
+    ]
+   },
+   {
+    "answer": "MASTER",
+    "chunkTexts": [
+     "MAS",
+     "TER"
+    ]
+   },
+   {
+    "answer": "PROPORTION",
+    "chunkTexts": [
+     "PRO",
+     "POR",
+     "TION"
+    ]
+   },
+   {
+    "answer": "GENERATOR",
+    "chunkTexts": [
+     "GEN",
+     "ERA",
+     "TOR"
+    ]
+   },
+   {
+    "answer": "INVENTOR",
+    "chunkTexts": [
+     "IN",
+     "VEN",
+     "TOR"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 19.8,
+   "tempting_pairs": 4.0,
+   "shared_fragments": 10.0,
+   "anchor_balance": 7.0,
+   "shape": 11.0,
+   "word_appeal": 11.0,
+   "penalties": -7.3,
+   "structure": 55.5
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 14,
+    "4": 2
+   },
+   "decoys": [
+    "GENERATION=GEN+ERA+TION",
+    "PROTEIN=PRO+TE+IN",
+    "CONVENTION=CON+VEN+TION",
+    "PROVEN=PRO+VEN",
+    "TERROR=TER+ROR",
+    "VENTURE=VEN+TURE",
+    "GENERATE=GEN+ERA+TE",
+    "INTER=IN+TER",
+    "PASTOR=PAS+TOR",
+    "INVENTION=IN+VEN+TION",
+    "PORTER=POR+TER",
+    "PASTE=PAS+TE",
+    "PORTION=POR+TION*",
+    "GENERA=GEN+ERA*"
+   ],
+   "tempting_pairs": [
+    "CON+VEN",
+    "ERA+TE",
+    "ERA+TION",
+    "IN+CRE",
+    "IN+TE",
+    "IN+TER",
+    "MAS+TE",
+    "POR+TER",
+    "PRO+TE",
+    "VEN+TION"
+   ],
+   "anchors": [],
+   "word_tiles": [],
+   "misaligned": 1,
+   "dup_tiles": [
+    "TOR"
+   ],
+   "near_pairs": [
+    "GEN/VEN",
+    "MAS/PAS",
+    "POR/ROR",
+    "POR/TOR",
+    "ROR/TOR",
+    "TER/TOR"
+   ],
+   "no_start_rival": [
+    "MIRROR",
+    "GENERATOR"
+   ],
+   "inflected": [],
+   "zipf": {
+    "CONCRETE": 4.44,
+    "MIRROR": 4.47,
+    "PASTURE": 3.36,
+    "MASTER": 4.93,
+    "PROPORTION": 4.11,
+    "GENERATOR": 3.94,
+    "INVENTOR": 3.59
+   }
+  }
+ },
+ {
+  "id": "c002",
+  "entries": [
+   {
+    "answer": "NOVELIST",
+    "chunkTexts": [
+     "NO",
+     "VEL",
+     "IST"
+    ]
+   },
+   {
+    "answer": "INSIGHTFUL",
+    "chunkTexts": [
+     "INS",
+     "IGHT",
+     "FUL"
+    ]
+   },
+   {
+    "answer": "GENTLEMAN",
+    "chunkTexts": [
+     "GEN",
+     "TLE",
+     "MAN"
+    ]
+   },
+   {
+    "answer": "MARBLE",
+    "chunkTexts": [
+     "MAR",
+     "BLE"
+    ]
+   },
+   {
+    "answer": "TANGERINE",
+    "chunkTexts": [
+     "TAN",
+     "GER",
+     "INE"
+    ]
+   },
+   {
+    "answer": "VITAMIN",
+    "chunkTexts": [
+     "VITA",
+     "MIN"
+    ]
+   },
+   {
+    "answer": "DISRESPECT",
+    "chunkTexts": [
+     "DIS",
+     "RES",
+     "PECT"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 20.0,
+   "tempting_pairs": 2.0,
+   "shared_fragments": 7.5,
+   "anchor_balance": 7.5,
+   "shape": 12.0,
+   "word_appeal": 11.1,
+   "penalties": -5.4,
+   "structure": 54.8
+  },
+  "analysis": {
+   "n_tiles": 19,
+   "tile_len_hist": {
+    "2": 1,
+    "3": 15,
+    "4": 3
+   },
+   "decoys": [
+    "MARINE=MAR+INE",
+    "NOBLE=NO+BLE",
+    "RESIST=RES+IST",
+    "MARVEL=MAR+VEL",
+    "INEVITABLE=INE+VITA+BLE",
+    "INSIST=INS+IST",
+    "GENRES=GEN+RES",
+    "RESPECTFUL=RES+PECT+FUL",
+    "INSPECT=INS+PECT",
+    "DISMANTLE=DIS+MAN+TLE",
+    "NOBLEMAN=NO+BLE+MAN",
+    "MANGER=MAN+GER",
+    "RESINS=RES+INS",
+    "RESPECT=RES+PECT*",
+    "NOVEL=NO+VEL*",
+    "INSIGHT=INS+IGHT*",
+    "GENTLE=GEN+TLE*",
+    "MANTLE=MAN+TLE*"
+   ],
+   "tempting_pairs": [
+    "INS+IST",
+    "INS+PECT",
+    "INS+TAN",
+    "NO+MIN",
+    "RES+IST"
+   ],
+   "anchors": [],
+   "word_tiles": [],
+   "misaligned": 3,
+   "dup_tiles": [],
+   "near_pairs": [
+    "BLE/TLE",
+    "GEN/GER",
+    "INE/INS",
+    "MAN/MAR",
+    "MAN/MIN",
+    "MAN/TAN"
+   ],
+   "no_start_rival": [
+    "GENTLEMAN",
+    "TANGERINE",
+    "VITAMIN"
+   ],
+   "inflected": [],
+   "zipf": {
+    "NOVELIST": 3.61,
+    "INSIGHTFUL": 3.41,
+    "GENTLEMAN": 4.16,
+    "MARBLE": 3.96,
+    "TANGERINE": 2.94,
+    "VITAMIN": 4.01,
+    "DISRESPECT": 3.63
+   }
+  }
+ },
+ {
+  "id": "c003",
+  "entries": [
+   {
+    "answer": "INTELLECT",
+    "chunkTexts": [
+     "INT",
+     "ELL",
+     "ECT"
+    ]
+   },
+   {
+    "answer": "PERFUME",
+    "chunkTexts": [
+     "PERF",
+     "UME"
+    ]
+   },
+   {
+    "answer": "ASSISTANT",
+    "chunkTexts": [
+     "ASS",
+     "IST",
+     "ANT"
+    ]
+   },
+   {
+    "answer": "VESSEL",
+    "chunkTexts": [
+     "VES",
+     "SEL"
+    ]
+   },
+   {
+    "answer": "ELEPHANT",
+    "chunkTexts": [
+     "EL",
+     "EPH",
+     "ANT"
+    ]
+   },
+   {
+    "answer": "REPRESENT",
+    "chunkTexts": [
+     "REP",
+     "RES",
+     "ENT"
+    ]
+   },
+   {
+    "answer": "MYSTERY",
+    "chunkTexts": [
+     "MYS",
+     "TERY"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 19.8,
+   "tempting_pairs": 2.4,
+   "shared_fragments": 10.0,
+   "anchor_balance": 6.8,
+   "shape": 11.0,
+   "word_appeal": 11.3,
+   "penalties": -6.9,
+   "structure": 54.5
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "2": 1,
+    "3": 15,
+    "4": 2
+   },
+   "decoys": [
+    "PERFECT=PERF+ECT",
+    "ASSUME=ASS+UME",
+    "SELECT=SEL+ECT",
+    "INTENT=INT+ENT",
+    "RESIST=RES+IST",
+    "RESUME=RES+UME",
+    "INTEL=INT+EL",
+    "ELECT=EL+ECT",
+    "RESISTANT=RES+IST+ANT",
+    "ELVES=EL+VES",
+    "REPEL=REP+EL",
+    "ASSENT=ASS+ENT",
+    "REPELLENT=REP+ELL+ENT",
+    "RESELL=RES+ELL",
+    "ASSIST=ASS+IST*",
+    "SELVES=SEL+VES*",
+    "RESENT=RES+ENT*",
+    "REPENT=REP+ENT*"
+   ],
+   "tempting_pairs": [
+    "EL+ECT",
+    "EL+VES",
+    "IST+ENT",
+    "PERF+ECT",
+    "RES+IST",
+    "SEL+ECT"
+   ],
+   "anchors": [],
+   "word_tiles": [],
+   "misaligned": 8,
+   "dup_tiles": [
+    "ANT"
+   ],
+   "near_pairs": [
+    "ANT/ENT",
+    "ANT/INT",
+    "ECT/ENT",
+    "ENT/INT",
+    "INT/IST",
+    "RES/VES"
+   ],
+   "no_start_rival": [
+    "VESSEL",
+    "REPRESENT",
+    "MYSTERY"
+   ],
+   "inflected": [],
+   "zipf": {
+    "INTELLECT": 3.49,
+    "PERFUME": 3.75,
+    "ASSISTANT": 4.72,
+    "VESSEL": 4.27,
+    "ELEPHANT": 4.08,
+    "REPRESENT": 4.58,
+    "MYSTERY": 4.45
+   }
+  }
+ },
+ {
+  "id": "c004",
+  "entries": [
+   {
+    "answer": "DISPERSE",
+    "chunkTexts": [
+     "DIS",
+     "PER",
+     "SE"
+    ]
+   },
+   {
+    "answer": "TRACTOR",
+    "chunkTexts": [
+     "TRA",
+     "CTOR"
+    ]
+   },
+   {
+    "answer": "HORNET",
+    "chunkTexts": [
+     "HOR",
+     "NET"
+    ]
+   },
+   {
+    "answer": "CONSERVE",
+    "chunkTexts": [
+     "CON",
+     "SER",
+     "VE"
+    ]
+   },
+   {
+    "answer": "CONVERSION",
+    "chunkTexts": [
+     "CON",
+     "VER",
+     "SION"
+    ]
+   },
+   {
+    "answer": "SHOVEL",
+    "chunkTexts": [
+     "SHO",
+     "VEL"
+    ]
+   },
+   {
+    "answer": "ORCHESTRA",
+    "chunkTexts": [
+     "ORC",
+     "HES",
+     "TRA"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 19.1,
+   "tempting_pairs": 4.0,
+   "shared_fragments": 10.0,
+   "anchor_balance": 7.5,
+   "shape": 11.0,
+   "word_appeal": 9.7,
+   "penalties": -7.5,
+   "structure": 53.8
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 14,
+    "4": 2
+   },
+   "decoys": [
+    "TRAVEL=TRA+VEL",
+    "HORSE=HOR+SE",
+    "SECTOR=SE+CTOR",
+    "SERVER=SER+VER",
+    "VERSE=VER+SE",
+    "DISHES=DIS+HES",
+    "CONTRACTOR=CON+TRA+CTOR",
+    "VECTOR=VE+CTOR",
+    "SHOVE=SHO+VE",
+    "CONVERSE=CON+VER+SE",
+    "TRAVERSE=TRA+VER+SE",
+    "PERVERSE=PER+VER+SE",
+    "DISPERSION=DIS+PER+SION",
+    "SEVER=SE+VER",
+    "VERSION=VER+SION*",
+    "SERVE=SER+VE*"
+   ],
+   "tempting_pairs": [
+    "CON+SE",
+    "CON+TRA",
+    "CON+VE",
+    "HOR+SE",
+    "SE+VE",
+    "SE+VER",
+    "SHO+VE",
+    "TRA+VE",
+    "TRA+VEL",
+    "VER+SE"
+   ],
+   "anchors": [],
+   "word_tiles": [],
+   "misaligned": 5,
+   "dup_tiles": [
+    "CON",
+    "TRA"
+   ],
+   "near_pairs": [
+    "PER/SER",
+    "PER/VER",
+    "SER/VER",
+    "VEL/VER"
+   ],
+   "no_start_rival": [
+    "ORCHESTRA"
+   ],
+   "inflected": [],
+   "zipf": {
+    "DISPERSE": 3.3,
+    "TRACTOR": 3.78,
+    "HORNET": 3.15,
+    "CONSERVE": 3.37,
+    "CONVERSION": 4.24,
+    "SHOVEL": 3.5,
+    "ORCHESTRA": 4.01
+   }
+  }
+ },
+ {
+  "id": "c005",
+  "entries": [
+   {
+    "answer": "NONSENSE",
+    "chunkTexts": [
+     "NON",
+     "SEN",
+     "SE"
+    ]
+   },
+   {
+    "answer": "BALONEY",
+    "chunkTexts": [
+     "BAL",
+     "ONEY"
+    ]
+   },
+   {
+    "answer": "TINKER",
+    "chunkTexts": [
+     "TIN",
+     "KER"
+    ]
+   },
+   {
+    "answer": "PROJECTION",
+    "chunkTexts": [
+     "PRO",
+     "JECT",
+     "ION"
+    ]
+   },
+   {
+    "answer": "VERTICAL",
+    "chunkTexts": [
+     "VER",
+     "TIC",
+     "AL"
+    ]
+   },
+   {
+    "answer": "SUBMARINE",
+    "chunkTexts": [
+     "SUB",
+     "MAR",
+     "INE"
+    ]
+   },
+   {
+    "answer": "CONVENIENT",
+    "chunkTexts": [
+     "CON",
+     "VEN",
+     "IENT"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 18.1,
+   "tempting_pairs": 3.6,
+   "shared_fragments": 8.8,
+   "anchor_balance": 7.5,
+   "shape": 11.7,
+   "word_appeal": 11.0,
+   "penalties": -7.8,
+   "structure": 52.8
+  },
+  "analysis": {
+   "n_tiles": 19,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 14,
+    "4": 3
+   },
+   "decoys": [
+    "SEVERAL=SE+VER+AL",
+    "SEVEN=SE+VEN",
+    "SUBJECT=SUB+JECT",
+    "MARTIN=MAR+TIN",
+    "PROVEN=PRO+VEN",
+    "SEAL=SE+AL",
+    "VERSE=VER+SE",
+    "VERBAL=VER+BAL",
+    "MARKER=MAR+KER",
+    "PROSE=PRO+SE",
+    "CONVERSE=CON+VER+SE",
+    "SEVER=SE+VER",
+    "TICKER=TIC+KER",
+    "PROJECT=PRO+JECT*",
+    "SENSE=SEN+SE*",
+    "MARINE=MAR+INE*"
+   ],
+   "tempting_pairs": [
+    "CON+SE",
+    "CON+TIN",
+    "CON+VER",
+    "ION+AL",
+    "PRO+SE",
+    "SE+VEN",
+    "SE+VER",
+    "SUB+JECT",
+    "VER+SE"
+   ],
+   "anchors": [],
+   "word_tiles": [],
+   "misaligned": 6,
+   "dup_tiles": [],
+   "near_pairs": [
+    "CON/ION",
+    "CON/NON",
+    "ION/NON",
+    "KER/VER",
+    "SEN/VEN",
+    "TIC/TIN",
+    "VEN/VER"
+   ],
+   "no_start_rival": [
+    "NONSENSE",
+    "BALONEY",
+    "TINKER"
+   ],
+   "inflected": [],
+   "zipf": {
+    "NONSENSE": 4.21,
+    "BALONEY": 2.52,
+    "TINKER": 3.28,
+    "PROJECTION": 3.79,
+    "VERTICAL": 4.15,
+    "SUBMARINE": 3.81,
+    "CONVENIENT": 4.15
+   }
+  }
+ },
+ {
+  "id": "c006",
+  "entries": [
+   {
+    "answer": "PASSIONATE",
+    "chunkTexts": [
+     "PAS",
+     "SIO",
+     "NATE"
+    ]
+   },
+   {
+    "answer": "PADDLE",
+    "chunkTexts": [
+     "PAD",
+     "DLE"
+    ]
+   },
+   {
+    "answer": "COMMISSION",
+    "chunkTexts": [
+     "COM",
+     "MIS",
+     "SION"
+    ]
+   },
+   {
+    "answer": "CONDUCT",
+    "chunkTexts": [
+     "CON",
+     "DUCT"
+    ]
+   },
+   {
+    "answer": "CONVERSE",
+    "chunkTexts": [
+     "CON",
+     "VER",
+     "SE"
+    ]
+   },
+   {
+    "answer": "DIPLOMAT",
+    "chunkTexts": [
+     "DI",
+     "PLO",
+     "MAT"
+    ]
+   },
+   {
+    "answer": "ERASER",
+    "chunkTexts": [
+     "ERA",
+     "SER"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 19.6,
+   "tempting_pairs": 1.6,
+   "shared_fragments": 6.2,
+   "anchor_balance": 7.1,
+   "shape": 10.4,
+   "word_appeal": 10.6,
+   "penalties": -5.2,
+   "structure": 50.4
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 13,
+    "4": 3
+   },
+   "decoys": [
+    "VERSION=VER+SION",
+    "SENATE=SE+NATE",
+    "SERVER=SER+VER",
+    "PASSION=PAS+SION",
+    "CONVERSION=CON+VER+SION",
+    "DIVERSE=DI+VER+SE",
+    "COMPASSION=COM+PAS+SION",
+    "ERASE=ERA+SE",
+    "MISCONDUCT=MIS+CON+DUCT",
+    "DIVERSION=DI+VER+SION",
+    "DIVER=DI+VER",
+    "PASSER=PAS+SER",
+    "SEMIS=SE+MIS",
+    "MISSION=MIS+SION*",
+    "VERSE=VER+SE*",
+    "SEVER=SE+VER*"
+   ],
+   "tempting_pairs": [
+    "CON+SE",
+    "DI+VER",
+    "ERA+SE",
+    "VER+SION"
+   ],
+   "anchors": [],
+   "word_tiles": [],
+   "misaligned": 4,
+   "dup_tiles": [
+    "CON"
+   ],
+   "near_pairs": [
+    "COM/CON",
+    "PAD/PAS",
+    "SER/VER"
+   ],
+   "no_start_rival": [
+    "PADDLE"
+   ],
+   "inflected": [],
+   "zipf": {
+    "PASSIONATE": 4.09,
+    "PADDLE": 3.49,
+    "COMMISSION": 4.91,
+    "CONDUCT": 4.52,
+    "CONVERSE": 3.48,
+    "DIPLOMAT": 3.69,
+    "ERASER": 2.94
+   }
+  }
+ },
+ {
+  "id": "c007",
+  "entries": [
+   {
+    "answer": "REHEARSAL",
+    "chunkTexts": [
+     "REH",
+     "EAR",
+     "SAL"
+    ]
+   },
+   {
+    "answer": "SATIRE",
+    "chunkTexts": [
+     "SAT",
+     "IRE"
+    ]
+   },
+   {
+    "answer": "RESIGN",
+    "chunkTexts": [
+     "RES",
+     "IGN"
+    ]
+   },
+   {
+    "answer": "DEPENDENT",
+    "chunkTexts": [
+     "DEP",
+     "END",
+     "ENT"
+    ]
+   },
+   {
+    "answer": "EXPOSITION",
+    "chunkTexts": [
+     "EXP",
+     "OSIT",
+     "ION"
+    ]
+   },
+   {
+    "answer": "DESSERT",
+    "chunkTexts": [
+     "DES",
+     "SERT"
+    ]
+   },
+   {
+    "answer": "SATELLITE",
+    "chunkTexts": [
+     "SAT",
+     "ELL",
+     "ITE"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 14.5,
+   "tempting_pairs": 2.8,
+   "shared_fragments": 10.0,
+   "anchor_balance": 7.3,
+   "shape": 11.0,
+   "word_appeal": 11.0,
+   "penalties": -6.3,
+   "structure": 50.3
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "3": 16,
+    "4": 2
+   },
+   "decoys": [
+    "DESIGN=DES+IGN",
+    "ENTIRE=ENT+IRE",
+    "DESIRE=DES+IRE",
+    "DEPOSIT=DEP+OSIT",
+    "EXPIRE=EXP+IRE",
+    "DEPOSITION=DEP+OSIT+ION",
+    "RESENT=RES+ENT",
+    "IGNITE=IGN+ITE",
+    "RESELL=RES+ELL",
+    "EXPEND=EXP+END",
+    "DEPEND=DEP+END*"
+   ],
+   "tempting_pairs": [
+    "DEP+OSIT",
+    "DEP+RES",
+    "DES+IGN",
+    "ENT+ION",
+    "ENT+IRE",
+    "EXP+RES",
+    "RES+ENT"
+   ],
+   "anchors": [],
+   "word_tiles": [],
+   "misaligned": 11,
+   "dup_tiles": [
+    "SAT"
+   ],
+   "near_pairs": [
+    "DEP/DES",
+    "DES/RES",
+    "IGN/ION",
+    "IRE/ITE",
+    "REH/RES",
+    "SAL/SAT"
+   ],
+   "no_start_rival": [
+    "REHEARSAL",
+    "SATIRE",
+    "SATELLITE"
+   ],
+   "inflected": [],
+   "zipf": {
+    "REHEARSAL": 3.68,
+    "SATIRE": 3.65,
+    "RESIGN": 3.97,
+    "DEPENDENT": 4.28,
+    "EXPOSITION": 3.59,
+    "DESSERT": 3.83,
+    "SATELLITE": 4.33
+   }
+  }
+ },
+ {
+  "id": "c008",
+  "entries": [
+   {
+    "answer": "UNDEFEATED",
+    "chunkTexts": [
+     "UNDE",
+     "FEA",
+     "TED"
+    ]
+   },
+   {
+    "answer": "PROTESTANT",
+    "chunkTexts": [
+     "PRO",
+     "TES",
+     "TANT"
+    ]
+   },
+   {
+    "answer": "RUSTLE",
+    "chunkTexts": [
+     "RUS",
+     "TLE"
+    ]
+   },
+   {
+    "answer": "CRADLE",
+    "chunkTexts": [
+     "CRA",
+     "DLE"
+    ]
+   },
+   {
+    "answer": "STAMPEDE",
+    "chunkTexts": [
+     "STA",
+     "MPE",
+     "DE"
+    ]
+   },
+   {
+    "answer": "BUSTER",
+    "chunkTexts": [
+     "BUS",
+     "TER"
+    ]
+   },
+   {
+    "answer": "ASPARAGUS",
+    "chunkTexts": [
+     "ASP",
+     "ARA",
+     "GUS"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 17.4,
+   "tempting_pairs": 1.6,
+   "shared_fragments": 10.0,
+   "anchor_balance": 7.7,
+   "shape": 11.0,
+   "word_appeal": 11.3,
+   "penalties": -10.3,
+   "structure": 48.6
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "2": 1,
+    "3": 15,
+    "4": 2
+   },
+   "decoys": [
+    "STATES=STA+TES",
+    "STATED=STA+TED",
+    "TESTED=TES+TED",
+    "DEFEATED=DE+FEA+TED",
+    "BUSTED=BUS+TED",
+    "PROTESTED=PRO+TES+TED",
+    "CRATER=CRA+TER",
+    "DETER=DE+TER",
+    "CRATES=CRA+TES",
+    "TESTER=TES+TER",
+    "PROTESTER=PRO+TES+TER",
+    "BUSTLE=BUS+TLE",
+    "RUSTED=RUS+TED"
+   ],
+   "tempting_pairs": [
+    "DE+FEA",
+    "DE+TER",
+    "STA+TED",
+    "TES+TED"
+   ],
+   "anchors": [],
+   "word_tiles": [],
+   "misaligned": 6,
+   "dup_tiles": [],
+   "near_pairs": [
+    "ARA/CRA",
+    "BUS/GUS",
+    "BUS/RUS",
+    "DLE/TLE",
+    "GUS/RUS",
+    "TED/TER",
+    "TED/TES",
+    "TER/TES"
+   ],
+   "no_start_rival": [
+    "UNDEFEATED",
+    "PROTESTANT",
+    "RUSTLE",
+    "CRADLE",
+    "STAMPEDE",
+    "BUSTER",
+    "ASPARAGUS"
+   ],
+   "inflected": [],
+   "zipf": {
+    "UNDEFEATED": 3.62,
+    "PROTESTANT": 3.81,
+    "RUSTLE": 2.72,
+    "CRADLE": 3.5,
+    "STAMPEDE": 3.13,
+    "BUSTER": 3.47,
+    "ASPARAGUS": 3.25
+   }
+  }
+ },
+ {
+  "id": "c009",
+  "entries": [
+   {
+    "answer": "PERSONNEL",
+    "chunkTexts": [
+     "PER",
+     "SON",
+     "NEL"
+    ]
+   },
+   {
+    "answer": "MAGAZINE",
+    "chunkTexts": [
+     "MAG",
+     "AZI",
+     "NE"
+    ]
+   },
+   {
+    "answer": "CASKET",
+    "chunkTexts": [
+     "CAS",
+     "KET"
+    ]
+   },
+   {
+    "answer": "CONSISTENT",
+    "chunkTexts": [
+     "CON",
+     "SIST",
+     "ENT"
+    ]
+   },
+   {
+    "answer": "CONTINUUM",
+    "chunkTexts": [
+     "CON",
+     "TIN",
+     "UUM"
+    ]
+   },
+   {
+    "answer": "WHISPER",
+    "chunkTexts": [
+     "WHIS",
+     "PER"
+    ]
+   },
+   {
+    "answer": "NETTLE",
+    "chunkTexts": [
+     "NET",
+     "TLE"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 14.7,
+   "tempting_pairs": 1.2,
+   "shared_fragments": 8.8,
+   "anchor_balance": 6.7,
+   "shape": 11.0,
+   "word_appeal": 11.2,
+   "penalties": -5.1,
+   "structure": 48.4
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "2": 1,
+    "3": 15,
+    "4": 2
+   },
+   "decoys": [
+    "CASTLE=CAS+TLE",
+    "CONTINENT=CON+TIN+ENT",
+    "PERSISTENT=PER+SIST+ENT",
+    "WHISTLE=WHIS+TLE",
+    "MAGNET=MAG+NET",
+    "KETTLE=KET+TLE",
+    "PERSIST=PER+SIST",
+    "PERTINENT=PER+TIN+ENT",
+    "SONNET=SON+NET",
+    "PERSON=PER+SON*",
+    "CONSIST=CON+SIST*"
+   ],
+   "tempting_pairs": [
+    "CON+NE",
+    "MAG+NET",
+    "PER+SIST"
+   ],
+   "anchors": [],
+   "word_tiles": [],
+   "misaligned": 2,
+   "dup_tiles": [
+    "CON",
+    "PER"
+   ],
+   "near_pairs": [
+    "CON/SON",
+    "KET/NET",
+    "NEL/NET"
+   ],
+   "no_start_rival": [
+    "CASKET",
+    "WHISPER",
+    "NETTLE"
+   ],
+   "inflected": [],
+   "zipf": {
+    "PERSONNEL": 4.56,
+    "MAGAZINE": 4.74,
+    "CASKET": 3.26,
+    "CONSISTENT": 4.48,
+    "CONTINUUM": 3.42,
+    "WHISPER": 3.74,
+    "NETTLE": 2.71
+   }
+  }
+ },
+ {
+  "id": "c010",
+  "entries": [
+   {
+    "answer": "MISFORTUNE",
+    "chunkTexts": [
+     "MIS",
+     "FOR",
+     "TUNE"
+    ]
+   },
+   {
+    "answer": "FARMER",
+    "chunkTexts": [
+     "FAR",
+     "MER"
+    ]
+   },
+   {
+    "answer": "PREMIUM",
+    "chunkTexts": [
+     "PRE",
+     "MI",
+     "UM"
+    ]
+   },
+   {
+    "answer": "PERCUSSION",
+    "chunkTexts": [
+     "PER",
+     "CUS",
+     "SION"
+    ]
+   },
+   {
+    "answer": "PERFECT",
+    "chunkTexts": [
+     "PER",
+     "FECT"
+    ]
+   },
+   {
+    "answer": "PONDER",
+    "chunkTexts": [
+     "PON",
+     "DER"
+    ]
+   },
+   {
+    "answer": "PROCEDURE",
+    "chunkTexts": [
+     "PRO",
+     "CED",
+     "URE"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 13.7,
+   "tempting_pairs": 3.2,
+   "shared_fragments": 10.0,
+   "anchor_balance": 7.3,
+   "shape": 10.4,
+   "word_appeal": 10.2,
+   "penalties": -7.1,
+   "structure": 47.7
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 13,
+    "4": 3
+   },
+   "decoys": [
+    "FORMER=FOR+MER",
+    "MISSION=MIS+SION",
+    "FORCED=FOR+CED",
+    "PROPER=PRO+PER",
+    "PERMISSION=PER+MIS+SION",
+    "FORUM=FOR+UM",
+    "PERFORMER=PER+FOR+MER",
+    "PREFECTURE=PRE+FECT+URE",
+    "PREFECT=PRE+FECT",
+    "FORTUNE=FOR+TUNE*"
+   ],
+   "tempting_pairs": [
+    "FOR+CED",
+    "MIS+SION",
+    "PER+FOR",
+    "PER+MI",
+    "PRE+CED",
+    "PRO+MI",
+    "PRO+MIS",
+    "PRO+PER"
+   ],
+   "anchors": [],
+   "word_tiles": [
+    "TUNE"
+   ],
+   "misaligned": 2,
+   "dup_tiles": [
+    "PER"
+   ],
+   "near_pairs": [
+    "DER/MER",
+    "DER/PER",
+    "FAR/FOR",
+    "MER/PER",
+    "PRE/PRO",
+    "PRE/URE"
+   ],
+   "no_start_rival": [
+    "FARMER",
+    "PONDER"
+   ],
+   "inflected": [],
+   "zipf": {
+    "MISFORTUNE": 3.38,
+    "FARMER": 4.15,
+    "PREMIUM": 4.33,
+    "PERCUSSION": 3.37,
+    "PERFECT": 5.2,
+    "PONDER": 3.35,
+    "PROCEDURE": 4.44
+   }
+  }
+ },
+ {
+  "id": "c011",
+  "entries": [
+   {
+    "answer": "BARRISTER",
+    "chunkTexts": [
+     "BAR",
+     "RIS",
+     "TER"
+    ]
+   },
+   {
+    "answer": "INGREDIENT",
+    "chunkTexts": [
+     "ING",
+     "RED",
+     "IENT"
+    ]
+   },
+   {
+    "answer": "RECREATION",
+    "chunkTexts": [
+     "REC",
+     "REA",
+     "TION"
+    ]
+   },
+   {
+    "answer": "CHEEKY",
+    "chunkTexts": [
+     "CHEE",
+     "KY"
+    ]
+   },
+   {
+    "answer": "BALLAD",
+    "chunkTexts": [
+     "BAL",
+     "LAD"
+    ]
+   },
+   {
+    "answer": "WANDER",
+    "chunkTexts": [
+     "WAN",
+     "DER"
+    ]
+   },
+   {
+    "answer": "CALENDAR",
+    "chunkTexts": [
+     "CAL",
+     "EN",
+     "DAR"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 20.0,
+   "tempting_pairs": 2.8,
+   "shared_fragments": 8.8,
+   "anchor_balance": 7.2,
+   "shape": 10.4,
+   "word_appeal": 10.4,
+   "penalties": -12.5,
+   "structure": 47.2
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 13,
+    "4": 3
+   },
+   "decoys": [
+    "ENTER=EN+TER",
+    "RISING=RIS+ING",
+    "ENTERING=EN+TER+ING",
+    "READER=REA+DER",
+    "LADDER=LAD+DER",
+    "RISKY=RIS+KY",
+    "RISEN=RIS+EN",
+    "WANDERING=WAN+DER+ING",
+    "LADEN=LAD+EN",
+    "BARRED=BAR+RED",
+    "DARING=DAR+ING",
+    "CHEERED=CHEE+RED",
+    "REARED=REA+RED",
+    "WANING=WAN+ING",
+    "BARING=BAR+ING",
+    "BARTER=BAR+TER*"
+   ],
+   "tempting_pairs": [
+    "DER+ING",
+    "EN+DER",
+    "EN+ING",
+    "EN+TER",
+    "EN+TION",
+    "RIS+ING",
+    "TER+ING"
+   ],
+   "anchors": [],
+   "word_tiles": [],
+   "misaligned": 5,
+   "dup_tiles": [],
+   "near_pairs": [
+    "BAL/BAR",
+    "BAL/CAL",
+    "BAR/DAR",
+    "DAR/DER",
+    "DER/TER",
+    "REA/RED",
+    "REC/RED"
+   ],
+   "no_start_rival": [
+    "BARRISTER",
+    "INGREDIENT",
+    "CHEEKY",
+    "BALLAD",
+    "WANDER",
+    "CALENDAR"
+   ],
+   "inflected": [],
+   "zipf": {
+    "BARRISTER": 3.37,
+    "INGREDIENT": 3.74,
+    "RECREATION": 4.04,
+    "CHEEKY": 3.51,
+    "BALLAD": 3.42,
+    "WANDER": 3.67,
+    "CALENDAR": 4.3
+   }
+  }
+ },
+ {
+  "id": "c012",
+  "entries": [
+   {
+    "answer": "PARTICULAR",
+    "chunkTexts": [
+     "PAR",
+     "TIC",
+     "ULAR"
+    ]
+   },
+   {
+    "answer": "ENVELOPE",
+    "chunkTexts": [
+     "EN",
+     "VEL",
+     "OPE"
+    ]
+   },
+   {
+    "answer": "CHARTER",
+    "chunkTexts": [
+     "CHAR",
+     "TER"
+    ]
+   },
+   {
+    "answer": "KETTLE",
+    "chunkTexts": [
+     "KET",
+     "TLE"
+    ]
+   },
+   {
+    "answer": "CHARADE",
+    "chunkTexts": [
+     "CHAR",
+     "ADE"
+    ]
+   },
+   {
+    "answer": "ORIENTAL",
+    "chunkTexts": [
+     "ORI",
+     "ENT",
+     "AL"
+    ]
+   },
+   {
+    "answer": "CRITERION",
+    "chunkTexts": [
+     "CRI",
+     "TER",
+     "ION"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 12.6,
+   "tempting_pairs": 4.8,
+   "shared_fragments": 6.2,
+   "anchor_balance": 7.2,
+   "shape": 10.4,
+   "word_appeal": 10.9,
+   "penalties": -5.2,
+   "structure": 47.0
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 13,
+    "4": 3
+   },
+   "decoys": [
+    "CRITICAL=CRI+TIC+AL",
+    "ENTER=EN+TER",
+    "TICKET=TIC+KET",
+    "PARENT=PAR+ENT",
+    "PARADE=PAR+ADE",
+    "ALTER=AL+TER",
+    "CRITIC=CRI+TIC",
+    "PARENTAL=PAR+ENT+AL",
+    "ORIENT=ORI+ENT*"
+   ],
+   "tempting_pairs": [
+    "AL+TER",
+    "CRI+TIC",
+    "EN+AL",
+    "EN+TER",
+    "ENT+ION",
+    "ION+AL",
+    "ORI+EN",
+    "PAR+AL",
+    "PAR+EN",
+    "PAR+ENT",
+    "TER+AL",
+    "TIC+AL"
+   ],
+   "anchors": [],
+   "word_tiles": [],
+   "misaligned": 4,
+   "dup_tiles": [
+    "CHAR",
+    "TER"
+   ],
+   "near_pairs": [
+    "CRI/ORI"
+   ],
+   "no_start_rival": [
+    "KETTLE"
+   ],
+   "inflected": [],
+   "zipf": {
+    "PARTICULAR": 5.0,
+    "ENVELOPE": 3.86,
+    "CHARTER": 4.23,
+    "KETTLE": 3.54,
+    "CHARADE": 2.9,
+    "ORIENTAL": 3.73,
+    "CRITERION": 3.46
+   }
+  }
+ },
+ {
+  "id": "c013",
+  "entries": [
+   {
+    "answer": "INFECTION",
+    "chunkTexts": [
+     "INF",
+     "ECT",
+     "ION"
+    ]
+   },
+   {
+    "answer": "COLLATERAL",
+    "chunkTexts": [
+     "COL",
+     "LAT",
+     "ERAL"
+    ]
+   },
+   {
+    "answer": "DETECTOR",
+    "chunkTexts": [
+     "DET",
+     "ECT",
+     "OR"
+    ]
+   },
+   {
+    "answer": "WALLET",
+    "chunkTexts": [
+     "WAL",
+     "LET"
+    ]
+   },
+   {
+    "answer": "MINERAL",
+    "chunkTexts": [
+     "MIN",
+     "ERAL"
+    ]
+   },
+   {
+    "answer": "HAZELNUT",
+    "chunkTexts": [
+     "HAZ",
+     "EL",
+     "NUT"
+    ]
+   },
+   {
+    "answer": "MORSEL",
+    "chunkTexts": [
+     "MOR",
+     "SEL"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 18.2,
+   "tempting_pairs": 2.4,
+   "shared_fragments": 7.5,
+   "anchor_balance": 7.3,
+   "shape": 11.0,
+   "word_appeal": 11.0,
+   "penalties": -10.8,
+   "structure": 46.5
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 14,
+    "4": 2
+   },
+   "decoys": [
+    "ELECTION=EL+ECT+ION",
+    "COLOR=COL+OR",
+    "MINOR=MIN+OR",
+    "SELECTION=SEL+ECT+ION",
+    "SELECT=SEL+ECT",
+    "INFLATION=INF+LAT+ION",
+    "DETECTION=DET+ECT+ION",
+    "ELECT=EL+ECT",
+    "WALNUT=WAL+NUT",
+    "SELECTOR=SEL+ECT+OR",
+    "MINION=MIN+ION",
+    "ELECTOR=EL+ECT+OR",
+    "DETECT=DET+ECT*",
+    "LATERAL=LAT+ERAL*",
+    "HAZEL=HAZ+EL*",
+    "INFECT=INF+ECT*"
+   ],
+   "tempting_pairs": [
+    "COL+OR",
+    "EL+ECT",
+    "INF+OR",
+    "LAT+ION",
+    "LAT+OR",
+    "SEL+ECT"
+   ],
+   "anchors": [],
+   "word_tiles": [],
+   "misaligned": 6,
+   "dup_tiles": [
+    "ECT",
+    "ERAL"
+   ],
+   "near_pairs": [
+    "DET/LET",
+    "LAT/LET"
+   ],
+   "no_start_rival": [
+    "DETECTOR",
+    "WALLET",
+    "HAZELNUT",
+    "MORSEL"
+   ],
+   "inflected": [],
+   "zipf": {
+    "INFECTION": 4.33,
+    "COLLATERAL": 3.66,
+    "DETECTOR": 3.71,
+    "WALLET": 4.15,
+    "MINERAL": 4.03,
+    "HAZELNUT": 2.78,
+    "MORSEL": 2.59
+   }
+  }
+ },
+ {
+  "id": "c014",
+  "entries": [
+   {
+    "answer": "PLIERS",
+    "chunkTexts": [
+     "PLI",
+     "ERS"
+    ]
+   },
+   {
+    "answer": "COMPANION",
+    "chunkTexts": [
+     "COM",
+     "PAN",
+     "ION"
+    ]
+   },
+   {
+    "answer": "PHEASANT",
+    "chunkTexts": [
+     "PHE",
+     "AS",
+     "ANT"
+    ]
+   },
+   {
+    "answer": "CONCURRENT",
+    "chunkTexts": [
+     "CON",
+     "CURR",
+     "ENT"
+    ]
+   },
+   {
+    "answer": "PREVENTIVE",
+    "chunkTexts": [
+     "PRE",
+     "VENT",
+     "IVE"
+    ]
+   },
+   {
+    "answer": "CARPET",
+    "chunkTexts": [
+     "CAR",
+     "PET"
+    ]
+   },
+   {
+    "answer": "PEACH",
+    "chunkTexts": [
+     "PE",
+     "ACH"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 17.3,
+   "tempting_pairs": 4.4,
+   "shared_fragments": 5.0,
+   "anchor_balance": 7.4,
+   "shape": 11.0,
+   "word_appeal": 10.6,
+   "penalties": -9.2,
+   "structure": 46.5
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 14,
+    "4": 2
+   },
+   "decoys": [
+    "CONVENTION=CON+VENT+ION",
+    "PREVENTION=PRE+VENT+ION",
+    "PEERS=PE+ERS",
+    "ENTERS=ENT+ERS",
+    "COMPETENT=COM+PET+ENT",
+    "PETERS=PET+ERS",
+    "PREACH=PRE+ACH",
+    "PEAS=PE+AS",
+    "PEASANT=PE+AS+ANT",
+    "CONVENT=CON+VENT",
+    "COMPLIANT=COM+PLI+ANT",
+    "PREACHERS=PRE+ACH+ERS",
+    "CURRENT=CURR+ENT*",
+    "PREVENT=PRE+VENT*"
+   ],
+   "tempting_pairs": [
+    "AS+ION",
+    "AS+IVE",
+    "COM+PE",
+    "COM+PET",
+    "COM+PLI",
+    "COM+PRE",
+    "ENT+ION",
+    "ENT+IVE",
+    "ERS+ION",
+    "PRE+ACH",
+    "VENT+ION"
+   ],
+   "anchors": [],
+   "word_tiles": [],
+   "misaligned": 4,
+   "dup_tiles": [],
+   "near_pairs": [
+    "ANT/ENT",
+    "COM/CON",
+    "CON/ION",
+    "PHE/PRE"
+   ],
+   "no_start_rival": [
+    "PLIERS",
+    "PHEASANT",
+    "PEACH"
+   ],
+   "inflected": [],
+   "zipf": {
+    "PLIERS": 2.9,
+    "COMPANION": 4.13,
+    "PHEASANT": 3.03,
+    "CONCURRENT": 3.49,
+    "PREVENTIVE": 3.5,
+    "CARPET": 4.18,
+    "PEACH": 3.77
+   }
+  }
+ },
+ {
+  "id": "c015",
+  "entries": [
+   {
+    "answer": "MUSCLE",
+    "chunkTexts": [
+     "MUS",
+     "CLE"
+    ]
+   },
+   {
+    "answer": "STEEPLE",
+    "chunkTexts": [
+     "STEE",
+     "PLE"
+    ]
+   },
+   {
+    "answer": "CONVINCE",
+    "chunkTexts": [
+     "CON",
+     "VIN",
+     "CE"
+    ]
+   },
+   {
+    "answer": "PLAUSIBLE",
+    "chunkTexts": [
+     "PLA",
+     "USI",
+     "BLE"
+    ]
+   },
+   {
+    "answer": "PERFECTION",
+    "chunkTexts": [
+     "PER",
+     "FECT",
+     "ION"
+    ]
+   },
+   {
+    "answer": "STARTER",
+    "chunkTexts": [
+     "STA",
+     "RTER"
+    ]
+   },
+   {
+    "answer": "PENTAGON",
+    "chunkTexts": [
+     "PEN",
+     "TA",
+     "GON"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 10.7,
+   "tempting_pairs": 3.2,
+   "shared_fragments": 10.0,
+   "anchor_balance": 7.4,
+   "shape": 10.4,
+   "word_appeal": 11.0,
+   "penalties": -6.5,
+   "structure": 46.2
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 13,
+    "4": 3
+   },
+   "decoys": [
+    "PLACE=PLA+CE",
+    "TABLE=TA+BLE",
+    "STABLE=STA+BLE",
+    "CONSTABLE=CON+STA+BLE",
+    "STAPLE=STA+PLE",
+    "PENCE=PEN+CE",
+    "TAPER=TA+PER",
+    "STEEPER=STEE+PER",
+    "PERFECT=PER+FECT*"
+   ],
+   "tempting_pairs": [
+    "CON+STA",
+    "CON+TA",
+    "MUS+TA",
+    "PER+CE",
+    "PLA+CE",
+    "STA+BLE",
+    "TA+BLE",
+    "TA+CLE"
+   ],
+   "anchors": [],
+   "word_tiles": [],
+   "misaligned": 5,
+   "dup_tiles": [],
+   "near_pairs": [
+    "BLE/CLE",
+    "BLE/PLE",
+    "CLE/PLE",
+    "CON/GON",
+    "CON/ION",
+    "GON/ION",
+    "PEN/PER",
+    "PLA/PLE"
+   ],
+   "no_start_rival": [
+    "STEEPLE",
+    "PENTAGON"
+   ],
+   "inflected": [],
+   "zipf": {
+    "MUSCLE": 4.44,
+    "STEEPLE": 2.74,
+    "CONVINCE": 4.26,
+    "PLAUSIBLE": 3.64,
+    "PERFECTION": 3.99,
+    "STARTER": 4.02,
+    "PENTAGON": 3.7
+   }
+  }
+ },
+ {
+  "id": "c016",
+  "entries": [
+   {
+    "answer": "PANICKED",
+    "chunkTexts": [
+     "PAN",
+     "ICK",
+     "ED"
+    ]
+   },
+   {
+    "answer": "CONSENT",
+    "chunkTexts": [
+     "CONS",
+     "ENT"
+    ]
+   },
+   {
+    "answer": "PARAMOUNT",
+    "chunkTexts": [
+     "PAR",
+     "AMO",
+     "UNT"
+    ]
+   },
+   {
+    "answer": "STUDENT",
+    "chunkTexts": [
+     "STU",
+     "DENT"
+    ]
+   },
+   {
+    "answer": "SPECIALIST",
+    "chunkTexts": [
+     "SPE",
+     "CIAL",
+     "IST"
+    ]
+   },
+   {
+    "answer": "AMBUSH",
+    "chunkTexts": [
+     "AMB",
+     "USH"
+    ]
+   },
+   {
+    "answer": "AMBULANCE",
+    "chunkTexts": [
+     "AMB",
+     "ULA",
+     "NCE"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 14.2,
+   "tempting_pairs": 3.6,
+   "shared_fragments": 6.2,
+   "anchor_balance": 7.2,
+   "shape": 11.0,
+   "word_appeal": 11.1,
+   "penalties": -7.6,
+   "structure": 45.8
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "2": 1,
+    "3": 14,
+    "4": 3
+   },
+   "decoys": [
+    "SPEED=SPE+ED",
+    "PARENT=PAR+ENT",
+    "CONSISTENT=CONS+IST+ENT",
+    "CONSIST=CONS+IST",
+    "CONSISTED=CONS+IST+ED",
+    "DENTIST=DENT+IST",
+    "AMOUNTED=AMO+UNT+ED",
+    "AMBUSHED=AMB+USH+ED",
+    "CONSENTED=CONS+ENT+ED",
+    "SPECIAL=SPE+CIAL*",
+    "AMOUNT=AMO+UNT*"
+   ],
+   "tempting_pairs": [
+    "CONS+IST",
+    "ENT+ED",
+    "IST+ED",
+    "IST+ENT",
+    "PAR+ED",
+    "PAR+ENT",
+    "SPE+ED",
+    "UNT+ED",
+    "USH+ED"
+   ],
+   "anchors": [],
+   "word_tiles": [],
+   "misaligned": 7,
+   "dup_tiles": [
+    "AMB"
+   ],
+   "near_pairs": [
+    "AMB/AMO",
+    "ENT/UNT",
+    "PAN/PAR"
+   ],
+   "no_start_rival": [
+    "PANICKED",
+    "STUDENT",
+    "AMBUSH",
+    "AMBULANCE"
+   ],
+   "inflected": [],
+   "zipf": {
+    "PANICKED": 3.4,
+    "CONSENT": 4.36,
+    "PARAMOUNT": 3.73,
+    "STUDENT": 5.02,
+    "SPECIALIST": 4.28,
+    "AMBUSH": 3.55,
+    "AMBULANCE": 4.06
+   }
+  }
+ },
+ {
+  "id": "c017",
+  "entries": [
+   {
+    "answer": "POSTERIOR",
+    "chunkTexts": [
+     "POS",
+     "TER",
+     "IOR"
+    ]
+   },
+   {
+    "answer": "STARLET",
+    "chunkTexts": [
+     "STAR",
+     "LET"
+    ]
+   },
+   {
+    "answer": "SONNET",
+    "chunkTexts": [
+     "SON",
+     "NET"
+    ]
+   },
+   {
+    "answer": "DISRUPTION",
+    "chunkTexts": [
+     "DIS",
+     "RUPT",
+     "ION"
+    ]
+   },
+   {
+    "answer": "BACKSTAGE",
+    "chunkTexts": [
+     "BACK",
+     "STA",
+     "GE"
+    ]
+   },
+   {
+    "answer": "INFORMAL",
+    "chunkTexts": [
+     "IN",
+     "FOR",
+     "MAL"
+    ]
+   },
+   {
+    "answer": "BUTTON",
+    "chunkTexts": [
+     "BUT",
+     "TON"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 18.1,
+   "tempting_pairs": 2.4,
+   "shared_fragments": 7.5,
+   "anchor_balance": 7.5,
+   "shape": 10.4,
+   "word_appeal": 10.6,
+   "penalties": -10.9,
+   "structure": 45.5
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 13,
+    "4": 3
+   },
+   "decoys": [
+    "INTERNET=IN+TER+NET",
+    "LETTER=LET+TER",
+    "INTERIOR=IN+TER+IOR",
+    "BUTTER=BUT+TER",
+    "INTER=IN+TER",
+    "STARTER=STAR+TER",
+    "FORGE=FOR+GE",
+    "STAIN=STA+IN",
+    "INTERRUPT=IN+TER+RUPT",
+    "INLET=IN+LET",
+    "DISMAL=DIS+MAL",
+    "MALLET=MAL+LET",
+    "STAGE=STA+GE*",
+    "FORMAL=FOR+MAL*",
+    "POSTER=POS+TER*",
+    "DISRUPT=DIS+RUPT*"
+   ],
+   "tempting_pairs": [
+    "DIS+POS",
+    "FOR+GE",
+    "IN+GE",
+    "IN+STA",
+    "IN+TER",
+    "STA+IN"
+   ],
+   "anchors": [],
+   "word_tiles": [
+    "BACK",
+    "STAR"
+   ],
+   "misaligned": 3,
+   "dup_tiles": [],
+   "near_pairs": [
+    "FOR/IOR",
+    "ION/IOR",
+    "ION/SON",
+    "ION/TON",
+    "LET/NET",
+    "SON/TON"
+   ],
+   "no_start_rival": [
+    "POSTERIOR",
+    "STARLET",
+    "SONNET",
+    "BACKSTAGE"
+   ],
+   "inflected": [],
+   "zipf": {
+    "POSTERIOR": 3.43,
+    "STARLET": 2.67,
+    "SONNET": 2.96,
+    "DISRUPTION": 3.71,
+    "BACKSTAGE": 3.6,
+    "INFORMAL": 3.87,
+    "BUTTON": 4.56
+   }
+  }
+ },
+ {
+  "id": "c018",
+  "entries": [
+   {
+    "answer": "SCARLET",
+    "chunkTexts": [
+     "SCAR",
+     "LET"
+    ]
+   },
+   {
+    "answer": "TERMINATE",
+    "chunkTexts": [
+     "TER",
+     "MIN",
+     "ATE"
+    ]
+   },
+   {
+    "answer": "IMPERIAL",
+    "chunkTexts": [
+     "IMP",
+     "ERI",
+     "AL"
+    ]
+   },
+   {
+    "answer": "BACHELOR",
+    "chunkTexts": [
+     "BAC",
+     "HEL",
+     "OR"
+    ]
+   },
+   {
+    "answer": "HANGAR",
+    "chunkTexts": [
+     "HAN",
+     "GAR"
+    ]
+   },
+   {
+    "answer": "TURTLE",
+    "chunkTexts": [
+     "TUR",
+     "TLE"
+    ]
+   },
+   {
+    "answer": "MANAGEMENT",
+    "chunkTexts": [
+     "MAN",
+     "AGE",
+     "MENT"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 18.2,
+   "tempting_pairs": 4.4,
+   "shared_fragments": 5.0,
+   "anchor_balance": 7.5,
+   "shape": 11.0,
+   "word_appeal": 10.7,
+   "penalties": -11.5,
+   "structure": 45.3
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 14,
+    "4": 2
+   },
+   "decoys": [
+    "LETTER=LET+TER",
+    "MENTAL=MENT+AL",
+    "MINOR=MIN+OR",
+    "TERMINAL=TER+MIN+AL",
+    "ORAL=OR+AL",
+    "GARAGE=GAR+AGE",
+    "ALTER=AL+TER",
+    "MENTOR=MENT+OR",
+    "MANOR=MAN+OR",
+    "MANTLE=MAN+TLE",
+    "GARMENT=GAR+MENT",
+    "IMPORTER=IMP+OR+TER",
+    "GARTER=GAR+TER",
+    "MANAGE=MAN+AGE*"
+   ],
+   "tempting_pairs": [
+    "AL+LET",
+    "AL+TER",
+    "ERI+OR",
+    "IMP+OR",
+    "MENT+AL",
+    "MIN+AL",
+    "OR+AL",
+    "OR+ATE",
+    "OR+TER",
+    "TER+AL",
+    "TUR+AL"
+   ],
+   "anchors": [],
+   "word_tiles": [],
+   "misaligned": 5,
+   "dup_tiles": [],
+   "near_pairs": [
+    "AGE/ATE",
+    "HAN/MAN",
+    "MAN/MIN",
+    "TER/TUR"
+   ],
+   "no_start_rival": [
+    "SCARLET",
+    "TERMINATE",
+    "HANGAR",
+    "TURTLE",
+    "MANAGEMENT"
+   ],
+   "inflected": [],
+   "zipf": {
+    "SCARLET": 3.64,
+    "TERMINATE": 3.65,
+    "IMPERIAL": 4.21,
+    "BACHELOR": 3.97,
+    "HANGAR": 3.29,
+    "TURTLE": 3.91,
+    "MANAGEMENT": 5.13
+   }
+  }
+ },
+ {
+  "id": "c019",
+  "entries": [
+   {
+    "answer": "COMMANDER",
+    "chunkTexts": [
+     "COM",
+     "MAN",
+     "DER"
+    ]
+   },
+   {
+    "answer": "TERRITORY",
+    "chunkTexts": [
+     "TER",
+     "RIT",
+     "ORY"
+    ]
+   },
+   {
+    "answer": "WHISTLE",
+    "chunkTexts": [
+     "WHIS",
+     "TLE"
+    ]
+   },
+   {
+    "answer": "TRIANGLE",
+    "chunkTexts": [
+     "TRI",
+     "AN",
+     "GLE"
+    ]
+   },
+   {
+    "answer": "PERPETUAL",
+    "chunkTexts": [
+     "PER",
+     "PET",
+     "UAL"
+    ]
+   },
+   {
+    "answer": "TANTRUM",
+    "chunkTexts": [
+     "TAN",
+     "TRUM"
+    ]
+   },
+   {
+    "answer": "RANSOM",
+    "chunkTexts": [
+     "RAN",
+     "SOM"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 9.7,
+   "tempting_pairs": 1.2,
+   "shared_fragments": 10.0,
+   "anchor_balance": 7.2,
+   "shape": 11.0,
+   "word_appeal": 11.6,
+   "penalties": -6.1,
+   "structure": 44.6
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "2": 1,
+    "3": 15,
+    "4": 2
+   },
+   "decoys": [
+    "MANUAL=MAN+UAL",
+    "RITUAL=RIT+UAL",
+    "WHISPER=WHIS+PER",
+    "MANTLE=MAN+TLE",
+    "TRUMPET=TRUM+PET",
+    "TANGLE=TAN+GLE",
+    "ANGLE=AN+GLE*"
+   ],
+   "tempting_pairs": [
+    "AN+DER",
+    "COM+PET",
+    "WHIS+PER"
+   ],
+   "anchors": [],
+   "word_tiles": [],
+   "misaligned": 2,
+   "dup_tiles": [],
+   "near_pairs": [
+    "COM/SOM",
+    "DER/PER",
+    "DER/TER",
+    "GLE/TLE",
+    "MAN/RAN",
+    "MAN/TAN",
+    "PER/TER",
+    "RAN/TAN"
+   ],
+   "no_start_rival": [
+    "TERRITORY",
+    "TRIANGLE",
+    "PERPETUAL",
+    "RANSOM"
+   ],
+   "inflected": [],
+   "zipf": {
+    "COMMANDER": 4.51,
+    "TERRITORY": 4.6,
+    "WHISTLE": 3.88,
+    "TRIANGLE": 3.93,
+    "PERPETUAL": 3.61,
+    "TANTRUM": 3.13,
+    "RANSOM": 3.68
+   }
+  }
+ },
+ {
+  "id": "c020",
+  "entries": [
+   {
+    "answer": "GUITARIST",
+    "chunkTexts": [
+     "GUI",
+     "TAR",
+     "IST"
+    ]
+   },
+   {
+    "answer": "RIPPLE",
+    "chunkTexts": [
+     "RIP",
+     "PLE"
+    ]
+   },
+   {
+    "answer": "DRIVEWAY",
+    "chunkTexts": [
+     "DRI",
+     "VE",
+     "WAY"
+    ]
+   },
+   {
+    "answer": "RESENTMENT",
+    "chunkTexts": [
+     "RES",
+     "ENT",
+     "MENT"
+    ]
+   },
+   {
+    "answer": "MOTORWAY",
+    "chunkTexts": [
+     "MO",
+     "TOR",
+     "WAY"
+    ]
+   },
+   {
+    "answer": "CASTLE",
+    "chunkTexts": [
+     "CAS",
+     "TLE"
+    ]
+   },
+   {
+    "answer": "CONSOLE",
+    "chunkTexts": [
+     "CONS",
+     "OLE"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 16.2,
+   "tempting_pairs": 2.0,
+   "shared_fragments": 7.5,
+   "anchor_balance": 7.4,
+   "shape": 11.0,
+   "word_appeal": 10.7,
+   "penalties": -10.2,
+   "structure": 44.5
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 14,
+    "4": 2
+   },
+   "decoys": [
+    "MOVE=MO+VE",
+    "MOMENT=MO+MENT",
+    "MOVEMENT=MO+VE+MENT",
+    "CONSISTENT=CONS+IST+ENT",
+    "CONSENT=CONS+ENT",
+    "RESIST=RES+IST",
+    "CONSIST=CONS+IST",
+    "MOIST=MO+IST",
+    "TORMENT=TOR+MENT",
+    "CASTOR=CAS+TOR",
+    "MOTORIST=MO+TOR+IST",
+    "DRIVE=DRI+VE*",
+    "MOTOR=MO+TOR*",
+    "GUITAR=GUI+TAR*",
+    "RESENT=RES+ENT*"
+   ],
+   "tempting_pairs": [
+    "CONS+IST",
+    "IST+ENT",
+    "PLE+MENT",
+    "RES+IST",
+    "RES+TOR"
+   ],
+   "anchors": [],
+   "word_tiles": [],
+   "misaligned": 4,
+   "dup_tiles": [
+    "WAY"
+   ],
+   "near_pairs": [
+    "OLE/PLE",
+    "OLE/TLE",
+    "PLE/TLE",
+    "TAR/TOR"
+   ],
+   "no_start_rival": [
+    "GUITARIST",
+    "RIPPLE",
+    "DRIVEWAY",
+    "CASTLE"
+   ],
+   "inflected": [],
+   "zipf": {
+    "GUITARIST": 3.63,
+    "RIPPLE": 3.41,
+    "DRIVEWAY": 3.65,
+    "RESENTMENT": 3.61,
+    "MOTORWAY": 3.46,
+    "CASTLE": 4.45,
+    "CONSOLE": 4.08
+   }
+  }
+ },
+ {
+  "id": "c021",
+  "entries": [
+   {
+    "answer": "JUMBLE",
+    "chunkTexts": [
+     "JUM",
+     "BLE"
+    ]
+   },
+   {
+    "answer": "DISTORTION",
+    "chunkTexts": [
+     "DIS",
+     "TOR",
+     "TION"
+    ]
+   },
+   {
+    "answer": "BLUEBERRY",
+    "chunkTexts": [
+     "BLU",
+     "EBE",
+     "RRY"
+    ]
+   },
+   {
+    "answer": "BLUNDER",
+    "chunkTexts": [
+     "BLU",
+     "NDER"
+    ]
+   },
+   {
+    "answer": "REGULARLY",
+    "chunkTexts": [
+     "REG",
+     "ULA",
+     "RLY"
+    ]
+   },
+   {
+    "answer": "STATISTIC",
+    "chunkTexts": [
+     "STA",
+     "TIS",
+     "TIC"
+    ]
+   },
+   {
+    "answer": "ESPRESSO",
+    "chunkTexts": [
+     "ESP",
+     "RES",
+     "SO"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 12.5,
+   "tempting_pairs": 2.0,
+   "shared_fragments": 7.5,
+   "anchor_balance": 7.3,
+   "shape": 12.0,
+   "word_appeal": 10.6,
+   "penalties": -8.3,
+   "structure": 43.6
+  },
+  "analysis": {
+   "n_tiles": 19,
+   "tile_len_hist": {
+    "2": 1,
+    "3": 16,
+    "4": 2
+   },
+   "decoys": [
+    "SORRY=SO+RRY",
+    "STATION=STA+TION",
+    "STABLE=STA+BLE",
+    "REGULATION=REG+ULA+TION",
+    "REGULATOR=REG+ULA+TOR",
+    "BLENDER=BLE+NDER",
+    "TORSO=TOR+SO",
+    "STARES=STA+RES",
+    "STARRY=STA+RRY",
+    "STATIC=STA+TIC*",
+    "BLURRY=BLU+RRY*",
+    "SORES=SO+RES*"
+   ],
+   "tempting_pairs": [
+    "RES+TOR",
+    "STA+BLE",
+    "STA+TION",
+    "ULA+TION",
+    "ULA+TOR"
+   ],
+   "anchors": [],
+   "word_tiles": [],
+   "misaligned": 6,
+   "dup_tiles": [
+    "BLU"
+   ],
+   "near_pairs": [
+    "BLE/BLU",
+    "DIS/TIS",
+    "REG/RES",
+    "RLY/RRY"
+   ],
+   "no_start_rival": [
+    "JUMBLE",
+    "BLUEBERRY",
+    "BLUNDER",
+    "REGULARLY",
+    "ESPRESSO"
+   ],
+   "inflected": [],
+   "zipf": {
+    "JUMBLE": 2.81,
+    "DISTORTION": 3.55,
+    "BLUEBERRY": 3.3,
+    "BLUNDER": 3.13,
+    "REGULARLY": 4.52,
+    "STATISTIC": 3.45,
+    "ESPRESSO": 3.39
+   }
+  }
+ },
+ {
+  "id": "c022",
+  "entries": [
+   {
+    "answer": "VIOLET",
+    "chunkTexts": [
+     "VIO",
+     "LET"
+    ]
+   },
+   {
+    "answer": "PROPELLER",
+    "chunkTexts": [
+     "PRO",
+     "PEL",
+     "LER"
+    ]
+   },
+   {
+    "answer": "UMBRELLA",
+    "chunkTexts": [
+     "UMB",
+     "REL",
+     "LA"
+    ]
+   },
+   {
+    "answer": "BARGAIN",
+    "chunkTexts": [
+     "BAR",
+     "GAIN"
+    ]
+   },
+   {
+    "answer": "CASCADE",
+    "chunkTexts": [
+     "CAS",
+     "CADE"
+    ]
+   },
+   {
+    "answer": "PRESENTER",
+    "chunkTexts": [
+     "PRE",
+     "SEN",
+     "TER"
+    ]
+   },
+   {
+    "answer": "SENTENCE",
+    "chunkTexts": [
+     "SEN",
+     "TE",
+     "NCE"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 14.5,
+   "tempting_pairs": 2.4,
+   "shared_fragments": 7.5,
+   "anchor_balance": 7.1,
+   "shape": 11.0,
+   "word_appeal": 10.4,
+   "penalties": -10.1,
+   "structure": 42.7
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 14,
+    "4": 2
+   },
+   "decoys": [
+    "LATER=LA+TER",
+    "LATE=LA+TE",
+    "LETTER=LET+TER",
+    "BARREL=BAR+REL",
+    "LANCE=LA+NCE",
+    "VIOLATE=VIO+LA+TE",
+    "CASTE=CAS+TE",
+    "VIOLA=VIO+LA",
+    "CADENCE=CADE+NCE",
+    "CASTER=CAS+TER",
+    "PELLET=PEL+LET",
+    "BARTER=BAR+TER",
+    "PROPEL=PRO+PEL*"
+   ],
+   "tempting_pairs": [
+    "LA+NCE",
+    "LA+TE",
+    "LET+TE",
+    "PRE+TE",
+    "PRO+TE",
+    "VIO+LA"
+   ],
+   "anchors": [
+    "UMB"
+   ],
+   "word_tiles": [
+    "GAIN"
+   ],
+   "misaligned": 2,
+   "dup_tiles": [
+    "SEN"
+   ],
+   "near_pairs": [
+    "LER/LET",
+    "LER/TER",
+    "PEL/REL",
+    "PRE/PRO"
+   ],
+   "no_start_rival": [
+    "UMBRELLA",
+    "CASCADE",
+    "SENTENCE"
+   ],
+   "inflected": [],
+   "zipf": {
+    "VIOLET": 3.84,
+    "PROPELLER": 3.33,
+    "UMBRELLA": 3.89,
+    "BARGAIN": 3.95,
+    "CASCADE": 3.47,
+    "PRESENTER": 3.77,
+    "SENTENCE": 4.58
+   }
+  }
+ },
+ {
+  "id": "c023",
+  "entries": [
+   {
+    "answer": "FLANNEL",
+    "chunkTexts": [
+     "FLA",
+     "NNEL"
+    ]
+   },
+   {
+    "answer": "TUNNEL",
+    "chunkTexts": [
+     "TUN",
+     "NEL"
+    ]
+   },
+   {
+    "answer": "REGULATION",
+    "chunkTexts": [
+     "REG",
+     "ULA",
+     "TION"
+    ]
+   },
+   {
+    "answer": "SIMULATOR",
+    "chunkTexts": [
+     "SIM",
+     "ULA",
+     "TOR"
+    ]
+   },
+   {
+    "answer": "LIFEGUARD",
+    "chunkTexts": [
+     "LIF",
+     "EGU",
+     "ARD"
+    ]
+   },
+   {
+    "answer": "FERRET",
+    "chunkTexts": [
+     "FER",
+     "RET"
+    ]
+   },
+   {
+    "answer": "SIMILARLY",
+    "chunkTexts": [
+     "SIM",
+     "ILA",
+     "RLY"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 8.3,
+   "tempting_pairs": 0.4,
+   "shared_fragments": 10.0,
+   "anchor_balance": 7.1,
+   "shape": 11.0,
+   "word_appeal": 11.0,
+   "penalties": -5.2,
+   "structure": 42.6
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "3": 16,
+    "4": 2
+   },
+   "decoys": [
+    "REGULARLY=REG+ULA+RLY",
+    "REGRET=REG+RET",
+    "REGARD=REG+ARD",
+    "SIMULATION=SIM+ULA+TION",
+    "REGULATOR=REG+ULA+TOR"
+   ],
+   "tempting_pairs": [
+    "REG+ARD"
+   ],
+   "anchors": [],
+   "word_tiles": [],
+   "misaligned": 4,
+   "dup_tiles": [
+    "SIM",
+    "ULA"
+   ],
+   "near_pairs": [
+    "FLA/ILA",
+    "FLA/ULA",
+    "ILA/ULA",
+    "REG/RET"
+   ],
+   "no_start_rival": [
+    "FLANNEL",
+    "TUNNEL",
+    "LIFEGUARD",
+    "FERRET"
+   ],
+   "inflected": [],
+   "zipf": {
+    "FLANNEL": 3.18,
+    "TUNNEL": 4.24,
+    "REGULATION": 4.38,
+    "SIMULATOR": 3.61,
+    "LIFEGUARD": 3.07,
+    "FERRET": 3.01,
+    "SIMILARLY": 4.3
+   }
+  }
+ },
+ {
+  "id": "c024",
+  "entries": [
+   {
+    "answer": "SHADOW",
+    "chunkTexts": [
+     "SHA",
+     "DOW"
+    ]
+   },
+   {
+    "answer": "RESIDUAL",
+    "chunkTexts": [
+     "RES",
+     "ID",
+     "UAL"
+    ]
+   },
+   {
+    "answer": "INTEGRITY",
+    "chunkTexts": [
+     "INT",
+     "EGR",
+     "ITY"
+    ]
+   },
+   {
+    "answer": "SCRAMBLE",
+    "chunkTexts": [
+     "SCRA",
+     "MBLE"
+    ]
+   },
+   {
+    "answer": "VALENTINE",
+    "chunkTexts": [
+     "VAL",
+     "ENT",
+     "INE"
+    ]
+   },
+   {
+    "answer": "FESTIVAL",
+    "chunkTexts": [
+     "FE",
+     "STI",
+     "VAL"
+    ]
+   },
+   {
+    "answer": "GRUMBLE",
+    "chunkTexts": [
+     "GRU",
+     "MBLE"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 12.2,
+   "tempting_pairs": 2.0,
+   "shared_fragments": 8.8,
+   "anchor_balance": 7.3,
+   "shape": 10.4,
+   "word_appeal": 10.8,
+   "penalties": -9.7,
+   "structure": 41.8
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 13,
+    "4": 3
+   },
+   "decoys": [
+    "IDENTITY=ID+ENT+ITY",
+    "SHARES=SHA+RES",
+    "RESIDENT=RES+ID+ENT",
+    "VALID=VAL+ID",
+    "INTENT=INT+ENT",
+    "ENTITY=ENT+ITY",
+    "VALIDITY=VAL+ID+ITY",
+    "RESENT=RES+ENT"
+   ],
+   "tempting_pairs": [
+    "ID+ENT",
+    "ID+ITY",
+    "RES+ENT",
+    "UAL+ITY",
+    "VAL+ID"
+   ],
+   "anchors": [],
+   "word_tiles": [],
+   "misaligned": 9,
+   "dup_tiles": [
+    "MBLE",
+    "VAL"
+   ],
+   "near_pairs": [
+    "ENT/INT",
+    "INE/INT",
+    "UAL/VAL"
+   ],
+   "no_start_rival": [
+    "SHADOW",
+    "SCRAMBLE",
+    "FESTIVAL",
+    "GRUMBLE"
+   ],
+   "inflected": [],
+   "zipf": {
+    "SHADOW": 4.44,
+    "RESIDUAL": 3.52,
+    "INTEGRITY": 4.22,
+    "SCRAMBLE": 3.39,
+    "VALENTINE": 3.77,
+    "FESTIVAL": 4.72,
+    "GRUMBLE": 2.8
+   }
+  }
+ },
+ {
+  "id": "c025",
+  "entries": [
+   {
+    "answer": "OCTAGON",
+    "chunkTexts": [
+     "OCTA",
+     "GON"
+    ]
+   },
+   {
+    "answer": "BIOMEDICAL",
+    "chunkTexts": [
+     "BIO",
+     "MED",
+     "ICAL"
+    ]
+   },
+   {
+    "answer": "INTESTINAL",
+    "chunkTexts": [
+     "INT",
+     "EST",
+     "INAL"
+    ]
+   },
+   {
+    "answer": "BIOLOGIST",
+    "chunkTexts": [
+     "BIO",
+     "LOG",
+     "IST"
+    ]
+   },
+   {
+    "answer": "PAPRIKA",
+    "chunkTexts": [
+     "PA",
+     "PRI",
+     "KA"
+    ]
+   },
+   {
+    "answer": "MEDDLE",
+    "chunkTexts": [
+     "MED",
+     "DLE"
+    ]
+   },
+   {
+    "answer": "PICNIC",
+    "chunkTexts": [
+     "PIC",
+     "NIC"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 12.5,
+   "tempting_pairs": 0.8,
+   "shared_fragments": 8.8,
+   "anchor_balance": 7.4,
+   "shape": 10.4,
+   "word_appeal": 10.0,
+   "penalties": -8.5,
+   "structure": 41.4
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 13,
+    "4": 3
+   },
+   "decoys": [
+    "PAINT=PA+INT",
+    "PRIEST=PRI+EST",
+    "BIOLOGICAL=BIO+LOG+ICAL",
+    "PANIC=PA+NIC",
+    "LOGICAL=LOG+ICAL",
+    "NICEST=NIC+EST",
+    "LOGISTICAL=LOG+IST+ICAL",
+    "PRIMED=PRI+MED",
+    "BIONIC=BIO+NIC",
+    "MEDICAL=MED+ICAL*"
+   ],
+   "tempting_pairs": [
+    "LOG+ICAL",
+    "PA+INT"
+   ],
+   "anchors": [],
+   "word_tiles": [],
+   "misaligned": 5,
+   "dup_tiles": [
+    "BIO",
+    "MED"
+   ],
+   "near_pairs": [
+    "EST/IST",
+    "ICAL/INAL",
+    "INT/IST"
+   ],
+   "no_start_rival": [
+    "OCTAGON",
+    "INTESTINAL",
+    "BIOLOGIST",
+    "PICNIC"
+   ],
+   "inflected": [],
+   "zipf": {
+    "OCTAGON": 2.91,
+    "BIOMEDICAL": 3.47,
+    "INTESTINAL": 3.32,
+    "BIOLOGIST": 3.35,
+    "PAPRIKA": 2.96,
+    "MEDDLE": 2.85,
+    "PICNIC": 3.8
+   }
+  }
+ },
+ {
+  "id": "c026",
+  "entries": [
+   {
+    "answer": "ILLITERATE",
+    "chunkTexts": [
+     "ILLI",
+     "TER",
+     "ATE"
+    ]
+   },
+   {
+    "answer": "BROKERAGE",
+    "chunkTexts": [
+     "BRO",
+     "KER",
+     "AGE"
+    ]
+   },
+   {
+    "answer": "BROCCOLI",
+    "chunkTexts": [
+     "BRO",
+     "CCO",
+     "LI"
+    ]
+   },
+   {
+    "answer": "GENTLE",
+    "chunkTexts": [
+     "GEN",
+     "TLE"
+    ]
+   },
+   {
+    "answer": "BATTERY",
+    "chunkTexts": [
+     "BAT",
+     "TERY"
+    ]
+   },
+   {
+    "answer": "SHERBET",
+    "chunkTexts": [
+     "SHER",
+     "BET"
+    ]
+   },
+   {
+    "answer": "GENEROUS",
+    "chunkTexts": [
+     "GEN",
+     "ERO",
+     "US"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 8.7,
+   "tempting_pairs": 1.6,
+   "shared_fragments": 10.0,
+   "anchor_balance": 7.0,
+   "shape": 10.4,
+   "word_appeal": 10.5,
+   "penalties": -7.2,
+   "structure": 41.0
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 13,
+    "4": 3
+   },
+   "decoys": [
+    "BETTER=BET+TER",
+    "BATTLE=BAT+TLE",
+    "USAGE=US+AGE",
+    "BATTER=BAT+TER",
+    "LITER=LI+TER",
+    "LITERATE=LI+TER+ATE",
+    "BROKER=BRO+KER*",
+    "GENUS=GEN+US*"
+   ],
+   "tempting_pairs": [
+    "BAT+TER",
+    "LI+TER",
+    "US+TER",
+    "US+TLE"
+   ],
+   "anchors": [],
+   "word_tiles": [],
+   "misaligned": 4,
+   "dup_tiles": [
+    "BRO",
+    "GEN"
+   ],
+   "near_pairs": [
+    "AGE/ATE",
+    "BAT/BET",
+    "BRO/ERO",
+    "KER/TER"
+   ],
+   "no_start_rival": [
+    "ILLITERATE",
+    "BROKERAGE",
+    "SHERBET"
+   ],
+   "inflected": [],
+   "zipf": {
+    "ILLITERATE": 3.37,
+    "BROKERAGE": 3.37,
+    "BROCCOLI": 3.5,
+    "GENTLE": 4.17,
+    "BATTERY": 4.52,
+    "SHERBET": 2.5,
+    "GENEROUS": 4.2
+   }
+  }
+ },
+ {
+  "id": "c027",
+  "entries": [
+   {
+    "answer": "TAILOR",
+    "chunkTexts": [
+     "TAI",
+     "LOR"
+    ]
+   },
+   {
+    "answer": "COMPETITOR",
+    "chunkTexts": [
+     "COMP",
+     "ETI",
+     "TOR"
+    ]
+   },
+   {
+    "answer": "NUMERICAL",
+    "chunkTexts": [
+     "NUM",
+     "ERI",
+     "CAL"
+    ]
+   },
+   {
+    "answer": "TUMBLE",
+    "chunkTexts": [
+     "TUM",
+     "BLE"
+    ]
+   },
+   {
+    "answer": "ESCAPADE",
+    "chunkTexts": [
+     "ES",
+     "CAP",
+     "ADE"
+    ]
+   },
+   {
+    "answer": "EXPEDITION",
+    "chunkTexts": [
+     "EXP",
+     "EDI",
+     "TION"
+    ]
+   },
+   {
+    "answer": "LIMOUSINE",
+    "chunkTexts": [
+     "LIM",
+     "OUS",
+     "INE"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 9.0,
+   "tempting_pairs": 1.6,
+   "shared_fragments": 7.5,
+   "anchor_balance": 7.3,
+   "shape": 12.0,
+   "word_appeal": 11.0,
+   "penalties": -8.3,
+   "structure": 40.1
+  },
+  "analysis": {
+   "n_tiles": 19,
+   "tile_len_hist": {
+    "2": 1,
+    "3": 16,
+    "4": 2
+   },
+   "decoys": [
+    "COMPETITION=COMP+ETI+TION",
+    "EDITOR=EDI+TOR",
+    "CAPTION=CAP+TION",
+    "EXPLORES=EXP+LOR+ES",
+    "EDIBLE=EDI+BLE",
+    "EDITION=EDI+TION*",
+    "CAPES=CAP+ES*"
+   ],
+   "tempting_pairs": [
+    "EDI+BLE",
+    "ES+CAL",
+    "ES+TION",
+    "EXP+LOR"
+   ],
+   "anchors": [],
+   "word_tiles": [],
+   "misaligned": 6,
+   "dup_tiles": [],
+   "near_pairs": [
+    "CAL/CAP",
+    "EDI/ERI",
+    "EDI/ETI",
+    "ERI/ETI",
+    "LOR/TOR",
+    "NUM/TUM"
+   ],
+   "no_start_rival": [
+    "TAILOR",
+    "COMPETITOR",
+    "NUMERICAL",
+    "TUMBLE",
+    "LIMOUSINE"
+   ],
+   "inflected": [],
+   "zipf": {
+    "TAILOR": 3.61,
+    "COMPETITOR": 3.81,
+    "NUMERICAL": 3.65,
+    "TUMBLE": 3.41,
+    "ESCAPADE": 2.52,
+    "EXPEDITION": 3.99,
+    "LIMOUSINE": 3.2
+   }
+  }
+ },
+ {
+  "id": "c028",
+  "entries": [
+   {
+    "answer": "CARROT",
+    "chunkTexts": [
+     "CAR",
+     "ROT"
+    ]
+   },
+   {
+    "answer": "CARDIGAN",
+    "chunkTexts": [
+     "CAR",
+     "DI",
+     "GAN"
+    ]
+   },
+   {
+    "answer": "MUSSEL",
+    "chunkTexts": [
+     "MUS",
+     "SEL"
+    ]
+   },
+   {
+    "answer": "CONTAGIOUS",
+    "chunkTexts": [
+     "CON",
+     "TAG",
+     "IOUS"
+    ]
+   },
+   {
+    "answer": "PULMONARY",
+    "chunkTexts": [
+     "PUL",
+     "MON",
+     "ARY"
+    ]
+   },
+   {
+    "answer": "BONNET",
+    "chunkTexts": [
+     "BON",
+     "NET"
+    ]
+   },
+   {
+    "answer": "COMPULSORY",
+    "chunkTexts": [
+     "COM",
+     "PUL",
+     "SORY"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 6.2,
+   "tempting_pairs": 0.0,
+   "shared_fragments": 10.0,
+   "anchor_balance": 7.5,
+   "shape": 11.0,
+   "word_appeal": 11.3,
+   "penalties": -6.4,
+   "structure": 39.6
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "2": 1,
+    "3": 15,
+    "4": 2
+   },
+   "decoys": [
+    "COMMON=COM+MON",
+    "CARBON=CAR+BON",
+    "DIARY=DI+ARY",
+    "ROTARY=ROT+ARY"
+   ],
+   "tempting_pairs": [],
+   "anchors": [],
+   "word_tiles": [],
+   "misaligned": 3,
+   "dup_tiles": [
+    "CAR",
+    "PUL"
+   ],
+   "near_pairs": [
+    "BON/CON",
+    "BON/MON",
+    "COM/CON",
+    "CON/MON"
+   ],
+   "no_start_rival": [
+    "MUSSEL",
+    "CONTAGIOUS",
+    "PULMONARY",
+    "BONNET"
+   ],
+   "inflected": [],
+   "zipf": {
+    "CARROT": 3.62,
+    "CARDIGAN": 3.21,
+    "MUSSEL": 2.74,
+    "CONTAGIOUS": 3.58,
+    "PULMONARY": 3.5,
+    "BONNET": 3.35,
+    "COMPULSORY": 3.7
+   }
+  }
+ },
+ {
+  "id": "c029",
+  "entries": [
+   {
+    "answer": "ENCORE",
+    "chunkTexts": [
+     "ENC",
+     "ORE"
+    ]
+   },
+   {
+    "answer": "DRIZZLE",
+    "chunkTexts": [
+     "DRI",
+     "ZZLE"
+    ]
+   },
+   {
+    "answer": "CHAMPAGNE",
+    "chunkTexts": [
+     "CHA",
+     "MPA",
+     "GNE"
+    ]
+   },
+   {
+    "answer": "DEFENDANT",
+    "chunkTexts": [
+     "DEF",
+     "END",
+     "ANT"
+    ]
+   },
+   {
+    "answer": "SOUVENIR",
+    "chunkTexts": [
+     "SOU",
+     "VEN",
+     "IR"
+    ]
+   },
+   {
+    "answer": "INFECTIOUS",
+    "chunkTexts": [
+     "INF",
+     "ECT",
+     "IOUS"
+    ]
+   },
+   {
+    "answer": "INFERENCE",
+    "chunkTexts": [
+     "INF",
+     "ERE",
+     "NCE"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 9.6,
+   "tempting_pairs": 0.4,
+   "shared_fragments": 5.0,
+   "anchor_balance": 7.4,
+   "shape": 12.0,
+   "word_appeal": 12.4,
+   "penalties": -7.8,
+   "structure": 39.0
+  },
+  "analysis": {
+   "n_tiles": 19,
+   "tile_len_hist": {
+    "2": 1,
+    "3": 16,
+    "4": 2
+   },
+   "decoys": [
+    "CHANCE=CHA+NCE",
+    "CHAIR=CHA+IR",
+    "DRIVEN=DRI+VEN",
+    "INFANT=INF+ANT",
+    "DEFECT=DEF+ECT",
+    "DEFERENCE=DEF+ERE+NCE",
+    "DEFEND=DEF+END*",
+    "INFECT=INF+ECT*"
+   ],
+   "tempting_pairs": [
+    "CHA+IR"
+   ],
+   "anchors": [],
+   "word_tiles": [],
+   "misaligned": 11,
+   "dup_tiles": [
+    "INF"
+   ],
+   "near_pairs": [
+    "ENC/END",
+    "ERE/ORE"
+   ],
+   "no_start_rival": [
+    "ENCORE",
+    "DRIZZLE",
+    "SOUVENIR"
+   ],
+   "inflected": [],
+   "zipf": {
+    "ENCORE": 3.39,
+    "DRIZZLE": 3.15,
+    "CHAMPAGNE": 3.9,
+    "DEFENDANT": 3.98,
+    "SOUVENIR": 3.36,
+    "INFECTIOUS": 3.81,
+    "INFERENCE": 3.25
+   }
+  }
+ },
+ {
+  "id": "c030",
+  "entries": [
+   {
+    "answer": "COLLECTOR",
+    "chunkTexts": [
+     "COL",
+     "LEC",
+     "TOR"
+    ]
+   },
+   {
+    "answer": "CANNON",
+    "chunkTexts": [
+     "CAN",
+     "NON"
+    ]
+   },
+   {
+    "answer": "INSPECTION",
+    "chunkTexts": [
+     "INS",
+     "PECT",
+     "ION"
+    ]
+   },
+   {
+    "answer": "ADMIRAL",
+    "chunkTexts": [
+     "ADMI",
+     "RAL"
+    ]
+   },
+   {
+    "answer": "CONSENSUS",
+    "chunkTexts": [
+     "CON",
+     "SEN",
+     "SUS"
+    ]
+   },
+   {
+    "answer": "CORDUROY",
+    "chunkTexts": [
+     "COR",
+     "DU",
+     "ROY"
+    ]
+   },
+   {
+    "answer": "BISON",
+    "chunkTexts": [
+     "BIS",
+     "ON"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 7.7,
+   "tempting_pairs": 1.2,
+   "shared_fragments": 10.0,
+   "anchor_balance": 7.1,
+   "shape": 11.0,
+   "word_appeal": 11.0,
+   "penalties": -9.2,
+   "structure": 38.7
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 14,
+    "4": 2
+   },
+   "decoys": [
+    "SUSPECT=SUS+PECT",
+    "CANON=CAN+ON",
+    "ONION=ON+ION",
+    "COLON=COL+ON",
+    "CANTOR=CAN+TOR",
+    "CORRAL=COR+RAL",
+    "INSPECT=INS+PECT*"
+   ],
+   "tempting_pairs": [
+    "COL+ON",
+    "CON+DU",
+    "COR+ON"
+   ],
+   "anchors": [],
+   "word_tiles": [],
+   "misaligned": 4,
+   "dup_tiles": [],
+   "near_pairs": [
+    "CAN/CON",
+    "COL/CON",
+    "COL/COR",
+    "CON/COR",
+    "CON/ION",
+    "CON/NON",
+    "COR/TOR",
+    "ION/NON"
+   ],
+   "no_start_rival": [
+    "INSPECTION",
+    "ADMIRAL",
+    "BISON"
+   ],
+   "inflected": [],
+   "zipf": {
+    "COLLECTOR": 3.91,
+    "CANNON": 4.02,
+    "INSPECTION": 4.14,
+    "ADMIRAL": 4.0,
+    "CONSENSUS": 4.1,
+    "CORDUROY": 2.58,
+    "BISON": 3.26
+   }
+  }
+ },
+ {
+  "id": "c031",
+  "entries": [
+   {
+    "answer": "BURGLAR",
+    "chunkTexts": [
+     "BURG",
+     "LAR"
+    ]
+   },
+   {
+    "answer": "MOBILITY",
+    "chunkTexts": [
+     "MO",
+     "BIL",
+     "ITY"
+    ]
+   },
+   {
+    "answer": "BILATERAL",
+    "chunkTexts": [
+     "BIL",
+     "ATE",
+     "RAL"
+    ]
+   },
+   {
+    "answer": "STADIUM",
+    "chunkTexts": [
+     "STA",
+     "DIUM"
+    ]
+   },
+   {
+    "answer": "LADDER",
+    "chunkTexts": [
+     "LAD",
+     "DER"
+    ]
+   },
+   {
+    "answer": "CONSPIRACY",
+    "chunkTexts": [
+     "CON",
+     "SPI",
+     "RACY"
+    ]
+   },
+   {
+    "answer": "WARDROBE",
+    "chunkTexts": [
+     "WAR",
+     "DRO",
+     "BE"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 10.2,
+   "tempting_pairs": 2.4,
+   "shared_fragments": 5.0,
+   "anchor_balance": 7.2,
+   "shape": 10.4,
+   "word_appeal": 11.0,
+   "penalties": -8.8,
+   "structure": 37.4
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 13,
+    "4": 3
+   },
+   "decoys": [
+    "MORAL=MO+RAL",
+    "STABILITY=STA+BIL+ITY",
+    "MODERATE=MO+DER+ATE",
+    "SPIDER=SPI+DER",
+    "MORALITY=MO+RAL+ITY",
+    "SPIRAL=SPI+RAL",
+    "MOLAR=MO+LAR"
+   ],
+   "tempting_pairs": [
+    "CON+STA",
+    "LAR+ITY",
+    "MO+DER",
+    "MO+RAL",
+    "RAL+ITY",
+    "STA+BIL"
+   ],
+   "anchors": [],
+   "word_tiles": [],
+   "misaligned": 6,
+   "dup_tiles": [
+    "BIL"
+   ],
+   "near_pairs": [
+    "LAD/LAR",
+    "LAR/WAR"
+   ],
+   "no_start_rival": [
+    "BURGLAR",
+    "BILATERAL",
+    "LADDER",
+    "WARDROBE"
+   ],
+   "inflected": [],
+   "zipf": {
+    "BURGLAR": 3.34,
+    "MOBILITY": 4.05,
+    "BILATERAL": 3.72,
+    "STADIUM": 4.63,
+    "LADDER": 4.03,
+    "CONSPIRACY": 4.26,
+    "WARDROBE": 3.8
+   }
+  }
+ },
+ {
+  "id": "c032",
+  "entries": [
+   {
+    "answer": "TIMBER",
+    "chunkTexts": [
+     "TIM",
+     "BER"
+    ]
+   },
+   {
+    "answer": "POLICEMAN",
+    "chunkTexts": [
+     "POL",
+     "ICE",
+     "MAN"
+    ]
+   },
+   {
+    "answer": "BANTER",
+    "chunkTexts": [
+     "BAN",
+     "TER"
+    ]
+   },
+   {
+    "answer": "TRAILER",
+    "chunkTexts": [
+     "TRA",
+     "ILER"
+    ]
+   },
+   {
+    "answer": "ANTLER",
+    "chunkTexts": [
+     "ANT",
+     "LER"
+    ]
+   },
+   {
+    "answer": "GOVERNANCE",
+    "chunkTexts": [
+     "GO",
+     "VE",
+     "RNA",
+     "NCE"
+    ]
+   },
+   {
+    "answer": "QUARANTINE",
+    "chunkTexts": [
+     "QUAR",
+     "ANT",
+     "INE"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 7.7,
+   "tempting_pairs": 0.8,
+   "shared_fragments": 10.0,
+   "anchor_balance": 7.3,
+   "shape": 11.0,
+   "word_appeal": 11.0,
+   "penalties": -12.1,
+   "structure": 35.7
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 14,
+    "4": 2
+   },
+   "decoys": [
+    "QUARTER=QUAR+TER",
+    "TRAVELER=TRA+VE+LER",
+    "MANGO=MAN+GO",
+    "MANTRA=MAN+TRA",
+    "TRANCE=TRA+NCE",
+    "POLICE=POL+ICE*"
+   ],
+   "tempting_pairs": [
+    "TRA+INE",
+    "TRA+VE"
+   ],
+   "anchors": [],
+   "word_tiles": [],
+   "misaligned": 7,
+   "dup_tiles": [
+    "ANT"
+   ],
+   "near_pairs": [
+    "BAN/MAN",
+    "BER/LER",
+    "BER/TER",
+    "ICE/INE",
+    "ICE/NCE",
+    "LER/TER"
+   ],
+   "no_start_rival": [
+    "TIMBER",
+    "POLICEMAN",
+    "BANTER",
+    "ANTLER",
+    "GOVERNANCE"
+   ],
+   "inflected": [],
+   "zipf": {
+    "TIMBER": 4.01,
+    "POLICEMAN": 3.74,
+    "BANTER": 3.48,
+    "TRAILER": 4.32,
+    "ANTLER": 2.61,
+    "GOVERNANCE": 4.09,
+    "QUARANTINE": 3.64
+   }
+  }
+ },
+ {
+  "id": "S01",
+  "entries": [
+   {
+    "answer": "ACCELERATE",
+    "chunkTexts": [
+     "ACCE",
+     "LER",
+     "ATE"
+    ]
+   },
+   {
+    "answer": "TRAJECTORY",
+    "chunkTexts": [
+     "TRA",
+     "JECT",
+     "ORY"
+    ]
+   },
+   {
+    "answer": "BUOYANCY",
+    "chunkTexts": [
+     "BU",
+     "OYA",
+     "NCY"
+    ]
+   },
+   {
+    "answer": "PROJECTILE",
+    "chunkTexts": [
+     "PRO",
+     "JECT",
+     "ILE"
+    ]
+   },
+   {
+    "answer": "OSCILLATE",
+    "chunkTexts": [
+     "OSC",
+     "ILL",
+     "ATE"
+    ]
+   },
+   {
+    "answer": "ELASTIC",
+    "chunkTexts": [
+     "ELA",
+     "STIC"
+    ]
+   },
+   {
+    "answer": "VISCOSITY",
+    "chunkTexts": [
+     "VIS",
+     "COS",
+     "ITY"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 1.5,
+   "tempting_pairs": 0.0,
+   "shared_fragments": 6.2,
+   "anchor_balance": 7.1,
+   "shape": 12.0,
+   "word_appeal": 14.0,
+   "penalties": -10.9,
+   "structure": 30.0
+  },
+  "analysis": {
+   "n_tiles": 20,
+   "tile_len_hist": {
+    "2": 1,
+    "3": 15,
+    "4": 4
+   },
+   "decoys": [
+    "ELASTICITY=ELA+STIC+ITY",
+    "PROJECT=PRO+JECT*"
+   ],
+   "tempting_pairs": [],
+   "anchors": [
+    "OSC"
+   ],
+   "word_tiles": [],
+   "misaligned": 8,
+   "dup_tiles": [
+    "ATE",
+    "JECT"
+   ],
+   "near_pairs": [
+    "ILE/ILL"
+   ],
+   "no_start_rival": [
+    "ACCELERATE",
+    "TRAJECTORY",
+    "BUOYANCY",
+    "PROJECTILE",
+    "OSCILLATE",
+    "ELASTIC",
+    "VISCOSITY"
+   ],
+   "inflected": [],
+   "zipf": {
+    "ACCELERATE": 3.66,
+    "TRAJECTORY": 3.61,
+    "BUOYANCY": 2.95,
+    "PROJECTILE": 3.26,
+    "OSCILLATE": 2.42,
+    "ELASTIC": 3.59,
+    "VISCOSITY": 3.13
+   }
+  },
+  "theme_hint": "Mechanics",
+  "category": "STEM"
+ },
+ {
+  "id": "S02",
+  "entries": [
+   {
+    "answer": "RESISTOR",
+    "chunkTexts": [
+     "RES",
+     "IS",
+     "TOR"
+    ]
+   },
+   {
+    "answer": "VOLTAGE",
+    "chunkTexts": [
+     "VOL",
+     "TAGE"
+    ]
+   },
+   {
+    "answer": "INDUCTION",
+    "chunkTexts": [
+     "IND",
+     "UCT",
+     "ION"
+    ]
+   },
+   {
+    "answer": "INSULATOR",
+    "chunkTexts": [
+     "INS",
+     "ULA",
+     "TOR"
+    ]
+   },
+   {
+    "answer": "CIRCUIT",
+    "chunkTexts": [
+     "CIRC",
+     "UIT"
+    ]
+   },
+   {
+    "answer": "ELECTRODE",
+    "chunkTexts": [
+     "EL",
+     "ECT",
+     "RODE"
+    ]
+   },
+   {
+    "answer": "FREQUENCY",
+    "chunkTexts": [
+     "FRE",
+     "QUE",
+     "NCY"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 6.3,
+   "tempting_pairs": 1.6,
+   "shared_fragments": 6.2,
+   "anchor_balance": 6.8,
+   "shape": 10.7,
+   "word_appeal": 14.0,
+   "penalties": -8.7,
+   "structure": 37.0
+  },
+  "analysis": {
+   "n_tiles": 19,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 14,
+    "4": 3
+   },
+   "decoys": [
+    "ELECTION=EL+ECT+ION",
+    "INSECT=INS+ECT",
+    "TORQUE=TOR+QUE",
+    "RESINS=RES+INS",
+    "ELECT=EL+ECT*"
+   ],
+   "tempting_pairs": [
+    "ECT+ION",
+    "INS+IS",
+    "IS+ION",
+    "RES+TOR"
+   ],
+   "anchors": [
+    "CIRC",
+    "RODE"
+   ],
+   "word_tiles": [],
+   "misaligned": 9,
+   "dup_tiles": [
+    "TOR"
+   ],
+   "near_pairs": [
+    "ECT/UCT",
+    "IND/INS",
+    "UCT/UIT"
+   ],
+   "no_start_rival": [
+    "VOLTAGE",
+    "INDUCTION",
+    "ELECTRODE"
+   ],
+   "inflected": [],
+   "zipf": {
+    "RESISTOR": 3.01,
+    "VOLTAGE": 4.02,
+    "INDUCTION": 3.71,
+    "INSULATOR": 2.74,
+    "CIRCUIT": 4.47,
+    "ELECTRODE": 3.38,
+    "FREQUENCY": 4.36
+   }
+  },
+  "theme_hint": "Electricity",
+  "category": "STEM"
+ },
+ {
+  "id": "S03",
+  "entries": [
+   {
+    "answer": "APERTURE",
+    "chunkTexts": [
+     "AP",
+     "ERT",
+     "URE"
+    ]
+   },
+   {
+    "answer": "CONCAVE",
+    "chunkTexts": [
+     "CONC",
+     "AVE"
+    ]
+   },
+   {
+    "answer": "REFRACTION",
+    "chunkTexts": [
+     "REF",
+     "RACT",
+     "ION"
+    ]
+   },
+   {
+    "answer": "FILAMENT",
+    "chunkTexts": [
+     "FIL",
+     "AM",
+     "ENT"
+    ]
+   },
+   {
+    "answer": "REFLECTION",
+    "chunkTexts": [
+     "REF",
+     "LECT",
+     "ION"
+    ]
+   },
+   {
+    "answer": "LUMINOUS",
+    "chunkTexts": [
+     "LUM",
+     "INO",
+     "US"
+    ]
+   },
+   {
+    "answer": "MAGNIFY",
+    "chunkTexts": [
+     "MAG",
+     "NIFY"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 5.0,
+   "tempting_pairs": 1.6,
+   "shared_fragments": 6.2,
+   "anchor_balance": 7.4,
+   "shape": 8.6,
+   "word_appeal": 14.0,
+   "penalties": -14.5,
+   "structure": 28.4
+  },
+  "analysis": {
+   "n_tiles": 19,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 12,
+    "4": 4
+   },
+   "decoys": [
+    "CONCERT=CONC+ERT",
+    "LECTURE=LECT+URE",
+    "AMINO=AM+INO",
+    "REFLECT=REF+LECT*"
+   ],
+   "tempting_pairs": [
+    "AM+US",
+    "ENT+ION",
+    "REF+US",
+    "US+ION"
+   ],
+   "anchors": [],
+   "word_tiles": [],
+   "misaligned": 10,
+   "dup_tiles": [
+    "ION",
+    "REF"
+   ],
+   "near_pairs": [
+    "ENT/ERT"
+   ],
+   "no_start_rival": [
+    "APERTURE",
+    "CONCAVE",
+    "FILAMENT",
+    "LUMINOUS",
+    "MAGNIFY"
+   ],
+   "inflected": [],
+   "zipf": {
+    "APERTURE": 3.47,
+    "CONCAVE": 3.02,
+    "REFRACTION": 2.77,
+    "FILAMENT": 3.09,
+    "REFLECTION": 4.17,
+    "LUMINOUS": 3.24,
+    "MAGNIFY": 2.77
+   }
+  },
+  "theme_hint": "Optics",
+  "category": "STEM"
+ },
+ {
+  "id": "S04",
+  "entries": [
+   {
+    "answer": "HYDROGEN",
+    "chunkTexts": [
+     "HY",
+     "DRO",
+     "GEN"
+    ]
+   },
+   {
+    "answer": "NITROGEN",
+    "chunkTexts": [
+     "NI",
+     "TRO",
+     "GEN"
+    ]
+   },
+   {
+    "answer": "TITANIUM",
+    "chunkTexts": [
+     "TIT",
+     "ANI",
+     "UM"
+    ]
+   },
+   {
+    "answer": "POTASSIUM",
+    "chunkTexts": [
+     "POT",
+     "ASS",
+     "IUM"
+    ]
+   },
+   {
+    "answer": "MAGNESIUM",
+    "chunkTexts": [
+     "MAG",
+     "NES",
+     "IUM"
+    ]
+   },
+   {
+    "answer": "PLATINUM",
+    "chunkTexts": [
+     "PLAT",
+     "INUM"
+    ]
+   },
+   {
+    "answer": "CHLORINE",
+    "chunkTexts": [
+     "CHLO",
+     "RINE"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 1.7,
+   "tempting_pairs": 0.8,
+   "shared_fragments": 6.2,
+   "anchor_balance": 6.6,
+   "shape": 7.6,
+   "word_appeal": 14.0,
+   "penalties": -12.7,
+   "structure": 24.2
+  },
+  "analysis": {
+   "n_tiles": 19,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 12,
+    "4": 4
+   },
+   "decoys": [
+    "DRONES=DRO+NES"
+   ],
+   "tempting_pairs": [
+    "ASS+UM",
+    "NI+UM"
+   ],
+   "anchors": [
+    "CHLO",
+    "INUM"
+   ],
+   "word_tiles": [],
+   "misaligned": 4,
+   "dup_tiles": [
+    "GEN",
+    "IUM"
+   ],
+   "near_pairs": [
+    "DRO/TRO"
+   ],
+   "no_start_rival": [
+    "NITROGEN",
+    "TITANIUM",
+    "POTASSIUM",
+    "PLATINUM",
+    "CHLORINE"
+   ],
+   "inflected": [],
+   "zipf": {
+    "HYDROGEN": 3.98,
+    "NITROGEN": 3.76,
+    "TITANIUM": 3.55,
+    "POTASSIUM": 3.58,
+    "MAGNESIUM": 3.49,
+    "PLATINUM": 4.02,
+    "CHLORINE": 3.43
+   }
+  },
+  "theme_hint": "Periodic Table",
+  "category": "STEM"
+ },
+ {
+  "id": "S05",
+  "entries": [
+   {
+    "answer": "BEAKER",
+    "chunkTexts": [
+     "BEA",
+     "KER"
+    ]
+   },
+   {
+    "answer": "CENTRIFUGE",
+    "chunkTexts": [
+     "CEN",
+     "TRI",
+     "FUGE"
+    ]
+   },
+   {
+    "answer": "CRUCIBLE",
+    "chunkTexts": [
+     "CRU",
+     "CIB",
+     "LE"
+    ]
+   },
+   {
+    "answer": "DISTILLATE",
+    "chunkTexts": [
+     "DIS",
+     "TIL",
+     "LATE"
+    ]
+   },
+   {
+    "answer": "REAGENT",
+    "chunkTexts": [
+     "REA",
+     "GENT"
+    ]
+   },
+   {
+    "answer": "FILTRATE",
+    "chunkTexts": [
+     "FIL",
+     "TRA",
+     "TE"
+    ]
+   },
+   {
+    "answer": "INDICATOR",
+    "chunkTexts": [
+     "IND",
+     "ICA",
+     "TOR"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 3.3,
+   "tempting_pairs": 2.8,
+   "shared_fragments": 3.8,
+   "anchor_balance": 7.4,
+   "shape": 11.7,
+   "word_appeal": 14.0,
+   "penalties": -10.3,
+   "structure": 32.7
+  },
+  "analysis": {
+   "n_tiles": 19,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 14,
+    "4": 3
+   },
+   "decoys": [
+    "INDICATE=IND+ICA+TE",
+    "GENTLE=GENT+LE"
+   ],
+   "tempting_pairs": [
+    "CEN+TE",
+    "FIL+LE",
+    "GENT+LE",
+    "ICA+TE",
+    "IND+LE",
+    "LE+TE",
+    "TE+LE"
+   ],
+   "anchors": [],
+   "word_tiles": [
+    "LATE"
+   ],
+   "misaligned": 6,
+   "dup_tiles": [],
+   "near_pairs": [
+    "BEA/REA",
+    "FIL/TIL",
+    "TRA/TRI"
+   ],
+   "no_start_rival": [
+    "BEAKER",
+    "CRUCIBLE",
+    "REAGENT",
+    "INDICATOR"
+   ],
+   "inflected": [],
+   "zipf": {
+    "BEAKER": 2.8,
+    "CENTRIFUGE": 2.81,
+    "CRUCIBLE": 3.23,
+    "DISTILLATE": 2.36,
+    "REAGENT": 2.88,
+    "FILTRATE": 1.88,
+    "INDICATOR": 3.92
+   }
+  },
+  "theme_hint": "Chemistry Lab",
+  "category": "STEM"
+ },
+ {
+  "id": "S06",
+  "entries": [
+   {
+    "answer": "CHROMOSOME",
+    "chunkTexts": [
+     "CHRO",
+     "MOS",
+     "OME"
+    ]
+   },
+   {
+    "answer": "MUTATION",
+    "chunkTexts": [
+     "MUT",
+     "AT",
+     "ION"
+    ]
+   },
+   {
+    "answer": "DOMINANT",
+    "chunkTexts": [
+     "DO",
+     "MIN",
+     "ANT"
+    ]
+   },
+   {
+    "answer": "RECESSIVE",
+    "chunkTexts": [
+     "REC",
+     "ESS",
+     "IVE"
+    ]
+   },
+   {
+    "answer": "HEREDITY",
+    "chunkTexts": [
+     "HER",
+     "ED",
+     "ITY"
+    ]
+   },
+   {
+    "answer": "GENOTYPE",
+    "chunkTexts": [
+     "GENO",
+     "TYPE"
+    ]
+   },
+   {
+    "answer": "PHENOTYPE",
+    "chunkTexts": [
+     "PHE",
+     "NOT",
+     "YPE"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 13.7,
+   "tempting_pairs": 3.2,
+   "shared_fragments": 0.0,
+   "anchor_balance": 7.2,
+   "shape": 10.0,
+   "word_appeal": 14.0,
+   "penalties": -17.7,
+   "structure": 30.4
+  },
+  "analysis": {
+   "n_tiles": 20,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 14,
+    "4": 3
+   },
+   "decoys": [
+    "NOTED=NOT+ED",
+    "NOTION=NOT+ION",
+    "RECESSION=REC+ESS+ION",
+    "DOMINION=DO+MIN+ION",
+    "MUTANT=MUT+ANT",
+    "NOTATION=NOT+AT+ION",
+    "MUTED=MUT+ED",
+    "MINED=MIN+ED",
+    "MUTATED=MUT+AT+ED",
+    "MINION=MIN+ION",
+    "RECESSED=REC+ESS+ED",
+    "RECESS=REC+ESS*"
+   ],
+   "tempting_pairs": [
+    "ANT+ED",
+    "AT+ED",
+    "AT+HER",
+    "AT+IVE",
+    "ESS+ED",
+    "ESS+ION",
+    "ION+ED",
+    "MIN+ED"
+   ],
+   "anchors": [
+    "PHE"
+   ],
+   "word_tiles": [
+    "TYPE"
+   ],
+   "misaligned": 9,
+   "dup_tiles": [],
+   "near_pairs": [],
+   "no_start_rival": [
+    "CHROMOSOME",
+    "MUTATION",
+    "DOMINANT",
+    "RECESSIVE",
+    "HEREDITY",
+    "GENOTYPE",
+    "PHENOTYPE"
+   ],
+   "inflected": [],
+   "zipf": {
+    "CHROMOSOME": 3.48,
+    "MUTATION": 3.64,
+    "DOMINANT": 4.23,
+    "RECESSIVE": 2.91,
+    "HEREDITY": 2.57,
+    "GENOTYPE": 2.87,
+    "PHENOTYPE": 3.05
+   }
+  },
+  "theme_hint": "Genetics",
+  "category": "STEM"
+ },
+ {
+  "id": "S07",
+  "entries": [
+   {
+    "answer": "CEREBELLUM",
+    "chunkTexts": [
+     "CER",
+     "EBEL",
+     "LUM"
+    ]
+   },
+   {
+    "answer": "VERTEBRA",
+    "chunkTexts": [
+     "VER",
+     "TE",
+     "BRA"
+    ]
+   },
+   {
+    "answer": "CARTILAGE",
+    "chunkTexts": [
+     "CAR",
+     "TIL",
+     "AGE"
+    ]
+   },
+   {
+    "answer": "PANCREAS",
+    "chunkTexts": [
+     "PAN",
+     "CRE",
+     "AS"
+    ]
+   },
+   {
+    "answer": "CAPILLARY",
+    "chunkTexts": [
+     "CAP",
+     "ILL",
+     "ARY"
+    ]
+   },
+   {
+    "answer": "CLAVICLE",
+    "chunkTexts": [
+     "CLA",
+     "VI",
+     "CLE"
+    ]
+   },
+   {
+    "answer": "TRACHEA",
+    "chunkTexts": [
+     "TRA",
+     "CHEA"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 5.7,
+   "tempting_pairs": 2.0,
+   "shared_fragments": 6.2,
+   "anchor_balance": 7.5,
+   "shape": 12.0,
+   "word_appeal": 14.0,
+   "penalties": -15.0,
+   "structure": 32.5
+  },
+  "analysis": {
+   "n_tiles": 20,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 15,
+    "4": 2
+   },
+   "decoys": [
+    "CLEVER=CLE+VER",
+    "VICAR=VI+CAR",
+    "CARVER=CAR+VER",
+    "TRACER=TRA+CER",
+    "TEAS=TE+AS",
+    "VIBRATE=VI+BRA+TE"
+   ],
+   "tempting_pairs": [
+    "AS+TE",
+    "TE+AS",
+    "TRA+TE",
+    "VER+AGE",
+    "VI+BRA"
+   ],
+   "anchors": [
+    "CHEA"
+   ],
+   "word_tiles": [],
+   "misaligned": 5,
+   "dup_tiles": [],
+   "near_pairs": [
+    "BRA/TRA",
+    "CAP/CAR",
+    "CAR/CER",
+    "CER/VER",
+    "CLE/CRE"
+   ],
+   "no_start_rival": [
+    "CEREBELLUM",
+    "VERTEBRA",
+    "CARTILAGE",
+    "PANCREAS",
+    "CAPILLARY",
+    "CLAVICLE",
+    "TRACHEA"
+   ],
+   "inflected": [],
+   "zipf": {
+    "CEREBELLUM": 2.67,
+    "VERTEBRA": 2.77,
+    "CARTILAGE": 3.26,
+    "PANCREAS": 3.14,
+    "CAPILLARY": 2.88,
+    "CLAVICLE": 2.51,
+    "TRACHEA": 2.68
+   }
+  },
+  "theme_hint": "Human Anatomy",
+  "category": "STEM"
+ },
+ {
+  "id": "S08",
+  "entries": [
+   {
+    "answer": "PREDATOR",
+    "chunkTexts": [
+     "PRE",
+     "DA",
+     "TOR"
+    ]
+   },
+   {
+    "answer": "HABITAT",
+    "chunkTexts": [
+     "HABI",
+     "TAT"
+    ]
+   },
+   {
+    "answer": "PARASITE",
+    "chunkTexts": [
+     "PAR",
+     "ASI",
+     "TE"
+    ]
+   },
+   {
+    "answer": "HERBIVORE",
+    "chunkTexts": [
+     "HER",
+     "BIV",
+     "ORE"
+    ]
+   },
+   {
+    "answer": "CARNIVORE",
+    "chunkTexts": [
+     "CAR",
+     "NIV",
+     "ORE"
+    ]
+   },
+   {
+    "answer": "MIGRATION",
+    "chunkTexts": [
+     "MIG",
+     "RAT",
+     "ION"
+    ]
+   },
+   {
+    "answer": "DECOMPOSER",
+    "chunkTexts": [
+     "DECO",
+     "MPO",
+     "SER"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 6.3,
+   "tempting_pairs": 2.8,
+   "shared_fragments": 8.8,
+   "anchor_balance": 6.8,
+   "shape": 12.0,
+   "word_appeal": 14.0,
+   "penalties": -12.4,
+   "structure": 38.2
+  },
+  "analysis": {
+   "n_tiles": 20,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 16,
+    "4": 2
+   },
+   "decoys": [
+    "RATHER=RAT+HER",
+    "DATE=DA+TE",
+    "DECORATION=DECO+RAT+ION",
+    "TEMPO=TE+MPO",
+    "HABITATION=HABI+TAT+ION",
+    "RATION=RAT+ION*"
+   ],
+   "tempting_pairs": [
+    "DA+TE",
+    "DECO+RAT",
+    "PRE+PAR",
+    "PRE+SER",
+    "PRE+TE",
+    "TAT+ION",
+    "TE+MPO"
+   ],
+   "anchors": [
+    "BIV",
+    "HABI"
+   ],
+   "word_tiles": [],
+   "misaligned": 8,
+   "dup_tiles": [
+    "ORE"
+   ],
+   "near_pairs": [
+    "BIV/NIV",
+    "CAR/PAR",
+    "HER/SER",
+    "ORE/PRE",
+    "RAT/TAT"
+   ],
+   "no_start_rival": [
+    "HABITAT",
+    "PARASITE",
+    "HERBIVORE",
+    "CARNIVORE",
+    "MIGRATION"
+   ],
+   "inflected": [],
+   "zipf": {
+    "PREDATOR": 3.71,
+    "HABITAT": 3.98,
+    "PARASITE": 3.51,
+    "HERBIVORE": 2.39,
+    "CARNIVORE": 2.68,
+    "MIGRATION": 4.14,
+    "DECOMPOSER": 1.32
+   }
+  },
+  "theme_hint": "Ecology",
+  "category": "STEM"
+ },
+ {
+  "id": "S09",
+  "entries": [
+   {
+    "answer": "HYPOTENUSE",
+    "chunkTexts": [
+     "HYP",
+     "OTEN",
+     "USE"
+    ]
+   },
+   {
+    "answer": "POLYGON",
+    "chunkTexts": [
+     "POLY",
+     "GON"
+    ]
+   },
+   {
+    "answer": "PERIMETER",
+    "chunkTexts": [
+     "PER",
+     "IME",
+     "TER"
+    ]
+   },
+   {
+    "answer": "CYLINDER",
+    "chunkTexts": [
+     "CY",
+     "LIN",
+     "DER"
+    ]
+   },
+   {
+    "answer": "CONGRUENT",
+    "chunkTexts": [
+     "CON",
+     "GRU",
+     "ENT"
+    ]
+   },
+   {
+    "answer": "PARABOLA",
+    "chunkTexts": [
+     "PAR",
+     "ABO",
+     "LA"
+    ]
+   },
+   {
+    "answer": "ELLIPSE",
+    "chunkTexts": [
+     "ELLI",
+     "PSE"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 3.8,
+   "tempting_pairs": 0.8,
+   "shared_fragments": 6.2,
+   "anchor_balance": 7.2,
+   "shape": 11.7,
+   "word_appeal": 14.0,
+   "penalties": -10.8,
+   "structure": 33.0
+  },
+  "analysis": {
+   "n_tiles": 19,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 14,
+    "4": 3
+   },
+   "decoys": [
+    "LATER=LA+TER",
+    "PARENT=PAR+ENT",
+    "LAPSE=LA+PSE",
+    "LACY=LA+CY"
+   ],
+   "tempting_pairs": [
+    "LA+PSE",
+    "PAR+ENT"
+   ],
+   "anchors": [
+    "ELLI"
+   ],
+   "word_tiles": [],
+   "misaligned": 6,
+   "dup_tiles": [],
+   "near_pairs": [
+    "CON/GON",
+    "DER/PER",
+    "DER/TER",
+    "PAR/PER",
+    "PSE/USE"
+   ],
+   "no_start_rival": [
+    "HYPOTENUSE",
+    "POLYGON",
+    "PERIMETER",
+    "CYLINDER",
+    "CONGRUENT",
+    "ELLIPSE"
+   ],
+   "inflected": [],
+   "zipf": {
+    "HYPOTENUSE": 2.16,
+    "POLYGON": 3.04,
+    "PERIMETER": 3.68,
+    "CYLINDER": 3.99,
+    "CONGRUENT": 2.69,
+    "PARABOLA": 2.39,
+    "ELLIPSE": 2.68
+   }
+  },
+  "theme_hint": "Geometry",
+  "category": "STEM"
+ },
+ {
+  "id": "S10",
+  "entries": [
+   {
+    "answer": "POLYNOMIAL",
+    "chunkTexts": [
+     "POLY",
+     "NOM",
+     "IAL"
+    ]
+   },
+   {
+    "answer": "QUADRATIC",
+    "chunkTexts": [
+     "QUA",
+     "DRA",
+     "TIC"
+    ]
+   },
+   {
+    "answer": "INEQUALITY",
+    "chunkTexts": [
+     "INE",
+     "QUA",
+     "LITY"
+    ]
+   },
+   {
+    "answer": "FACTORIAL",
+    "chunkTexts": [
+     "FAC",
+     "TOR",
+     "IAL"
+    ]
+   },
+   {
+    "answer": "BINOMIAL",
+    "chunkTexts": [
+     "BIN",
+     "OMI",
+     "AL"
+    ]
+   },
+   {
+    "answer": "EQUATION",
+    "chunkTexts": [
+     "EQUA",
+     "TION"
+    ]
+   },
+   {
+    "answer": "NUMERATOR",
+    "chunkTexts": [
+     "NUM",
+     "ERA",
+     "TOR"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 6.8,
+   "tempting_pairs": 1.6,
+   "shared_fragments": 7.5,
+   "anchor_balance": 7.4,
+   "shape": 11.0,
+   "word_appeal": 14.0,
+   "penalties": -10.6,
+   "structure": 37.7
+  },
+  "analysis": {
+   "n_tiles": 20,
+   "tile_len_hist": {
+    "2": 1,
+    "3": 15,
+    "4": 4
+   },
+   "decoys": [
+    "EQUALITY=EQUA+LITY",
+    "FACTION=FAC+TION",
+    "EQUATOR=EQUA+TOR",
+    "EQUATORIAL=EQUA+TOR+IAL",
+    "QUALITY=QUA+LITY*",
+    "FACTOR=FAC+TOR*",
+    "FACIAL=FAC+IAL*"
+   ],
+   "tempting_pairs": [
+    "ERA+TION",
+    "TIC+AL",
+    "TION+AL",
+    "TOR+AL"
+   ],
+   "anchors": [],
+   "word_tiles": [],
+   "misaligned": 7,
+   "dup_tiles": [
+    "IAL",
+    "QUA",
+    "TOR"
+   ],
+   "near_pairs": [
+    "DRA/ERA",
+    "NOM/NUM"
+   ],
+   "no_start_rival": [
+    "POLYNOMIAL",
+    "QUADRATIC",
+    "INEQUALITY",
+    "FACTORIAL",
+    "BINOMIAL",
+    "EQUATION",
+    "NUMERATOR"
+   ],
+   "inflected": [],
+   "zipf": {
+    "POLYNOMIAL": 3.11,
+    "QUADRATIC": 2.98,
+    "INEQUALITY": 3.92,
+    "FACTORIAL": 2.52,
+    "BINOMIAL": 2.7,
+    "EQUATION": 4.02,
+    "NUMERATOR": 2.29
+   }
+  },
+  "theme_hint": "Algebra",
+  "category": "STEM"
+ },
+ {
+  "id": "S11",
+  "entries": [
+   {
+    "answer": "THEOREM",
+    "chunkTexts": [
+     "THE",
+     "OREM"
+    ]
+   },
+   {
+    "answer": "COROLLARY",
+    "chunkTexts": [
+     "COR",
+     "OLL",
+     "ARY"
+    ]
+   },
+   {
+    "answer": "CONJECTURE",
+    "chunkTexts": [
+     "CON",
+     "JEC",
+     "TURE"
+    ]
+   },
+   {
+    "answer": "HYPOTHESIS",
+    "chunkTexts": [
+     "HYP",
+     "OTHE",
+     "SIS"
+    ]
+   },
+   {
+    "answer": "DEDUCTION",
+    "chunkTexts": [
+     "DED",
+     "UCT",
+     "ION"
+    ]
+   },
+   {
+    "answer": "SYLLOGISM",
+    "chunkTexts": [
+     "SYL",
+     "LOG",
+     "ISM"
+    ]
+   },
+   {
+    "answer": "POSTULATE",
+    "chunkTexts": [
+     "POS",
+     "TUL",
+     "ATE"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 3.6,
+   "tempting_pairs": 1.2,
+   "shared_fragments": 2.5,
+   "anchor_balance": 7.2,
+   "shape": 11.0,
+   "word_appeal": 14.0,
+   "penalties": -8.1,
+   "structure": 31.4
+  },
+  "analysis": {
+   "n_tiles": 20,
+   "tile_len_hist": {
+    "3": 17,
+    "4": 3
+   },
+   "decoys": [
+    "THESIS=THE+SIS",
+    "POSTURE=POS+TURE",
+    "DEDUCT=DED+UCT*"
+   ],
+   "tempting_pairs": [
+    "CON+SIS",
+    "ION+ARY",
+    "THE+SIS"
+   ],
+   "anchors": [
+    "OREM"
+   ],
+   "word_tiles": [],
+   "misaligned": 7,
+   "dup_tiles": [],
+   "near_pairs": [
+    "CON/COR",
+    "CON/ION"
+   ],
+   "no_start_rival": [
+    "THEOREM",
+    "COROLLARY",
+    "HYPOTHESIS",
+    "DEDUCTION",
+    "SYLLOGISM",
+    "POSTULATE"
+   ],
+   "inflected": [],
+   "zipf": {
+    "THEOREM": 3.71,
+    "COROLLARY": 2.74,
+    "CONJECTURE": 3.35,
+    "HYPOTHESIS": 3.87,
+    "DEDUCTION": 3.46,
+    "SYLLOGISM": 2.12,
+    "POSTULATE": 2.6
+   }
+  },
+  "theme_hint": "Logic and Proof",
+  "category": "STEM"
+ },
+ {
+  "id": "S12",
+  "entries": [
+   {
+    "answer": "RANDOMIZE",
+    "chunkTexts": [
+     "RAN",
+     "DOM",
+     "IZE"
+    ]
+   },
+   {
+    "answer": "CONFIDENCE",
+    "chunkTexts": [
+     "CONF",
+     "IDE",
+     "NCE"
+    ]
+   },
+   {
+    "answer": "SKEWNESS",
+    "chunkTexts": [
+     "SKEW",
+     "NESS"
+    ]
+   },
+   {
+    "answer": "ESTIMATE",
+    "chunkTexts": [
+     "ES",
+     "TIM",
+     "ATE"
+    ]
+   },
+   {
+    "answer": "NORMALIZE",
+    "chunkTexts": [
+     "NOR",
+     "MAL",
+     "IZE"
+    ]
+   },
+   {
+    "answer": "COVARIANCE",
+    "chunkTexts": [
+     "COV",
+     "ARIA",
+     "NCE"
+    ]
+   },
+   {
+    "answer": "ANOMALY",
+    "chunkTexts": [
+     "ANO",
+     "MA",
+     "LY"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 11.4,
+   "tempting_pairs": 1.2,
+   "shared_fragments": 6.2,
+   "anchor_balance": 7.0,
+   "shape": 10.0,
+   "word_appeal": 14.0,
+   "penalties": -11.6,
+   "structure": 38.3
+  },
+  "analysis": {
+   "n_tiles": 20,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 13,
+    "4": 4
+   },
+   "decoys": [
+    "NORMALLY=NOR+MAL+LY",
+    "MALES=MAL+ES",
+    "RANDOMLY=RAN+DOM+LY",
+    "MANOR=MA+NOR",
+    "MALARIA=MAL+ARIA",
+    "MAIZE=MA+IZE",
+    "DOMES=DOM+ES",
+    "RANDOMNESS=RAN+DOM+NESS",
+    "TIMES=TIM+ES*",
+    "NORMAL=NOR+MAL*",
+    "RANDOM=RAN+DOM*",
+    "CONFIDE=CONF+IDE*"
+   ],
+   "tempting_pairs": [
+    "ATE+LY",
+    "CONF+ES",
+    "NOR+MA"
+   ],
+   "anchors": [
+    "CONF",
+    "SKEW"
+   ],
+   "word_tiles": [],
+   "misaligned": 7,
+   "dup_tiles": [
+    "IZE",
+    "NCE"
+   ],
+   "near_pairs": [
+    "IDE/IZE"
+   ],
+   "no_start_rival": [
+    "RANDOMIZE",
+    "SKEWNESS",
+    "ESTIMATE",
+    "COVARIANCE",
+    "ANOMALY"
+   ],
+   "inflected": [],
+   "zipf": {
+    "RANDOMIZE": 1.9,
+    "CONFIDENCE": 4.65,
+    "SKEWNESS": 1.84,
+    "ESTIMATE": 4.29,
+    "NORMALIZE": 3.0,
+    "COVARIANCE": 2.56,
+    "ANOMALY": 3.47
+   }
+  },
+  "theme_hint": "Data Science",
+  "category": "STEM"
+ },
+ {
+  "id": "S13",
+  "entries": [
+   {
+    "answer": "PROTOCOL",
+    "chunkTexts": [
+     "PRO",
+     "TOC",
+     "OL"
+    ]
+   },
+   {
+    "answer": "FIREWALL",
+    "chunkTexts": [
+     "FIR",
+     "EW",
+     "ALL"
+    ]
+   },
+   {
+    "answer": "ROUTER",
+    "chunkTexts": [
+     "ROU",
+     "TER"
+    ]
+   },
+   {
+    "answer": "BROWSER",
+    "chunkTexts": [
+     "BROW",
+     "SER"
+    ]
+   },
+   {
+    "answer": "ETHERNET",
+    "chunkTexts": [
+     "ETH",
+     "ER",
+     "NET"
+    ]
+   },
+   {
+    "answer": "HYPERLINK",
+    "chunkTexts": [
+     "HYP",
+     "ERL",
+     "INK"
+    ]
+   },
+   {
+    "answer": "LATENCY",
+    "chunkTexts": [
+     "LAT",
+     "ENCY"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 4.2,
+   "tempting_pairs": 0.8,
+   "shared_fragments": 1.2,
+   "anchor_balance": 7.3,
+   "shape": 10.4,
+   "word_appeal": 14.0,
+   "penalties": -14.9,
+   "structure": 23.1
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 13,
+    "4": 2
+   },
+   "decoys": [
+    "LATER=LAT+ER",
+    "LATTER=LAT+TER",
+    "HYPER=HYP+ER",
+    "ETHER=ETH+ER*"
+   ],
+   "tempting_pairs": [
+    "ALL+ER",
+    "EW+ER"
+   ],
+   "anchors": [],
+   "word_tiles": [],
+   "misaligned": 8,
+   "dup_tiles": [],
+   "near_pairs": [
+    "SER/TER"
+   ],
+   "no_start_rival": [
+    "PROTOCOL",
+    "FIREWALL",
+    "ROUTER",
+    "BROWSER",
+    "ETHERNET",
+    "LATENCY"
+   ],
+   "inflected": [],
+   "zipf": {
+    "PROTOCOL": 4.15,
+    "FIREWALL": 3.24,
+    "ROUTER": 3.5,
+    "BROWSER": 3.89,
+    "ETHERNET": 3.28,
+    "HYPERLINK": 2.42,
+    "LATENCY": 3.31
+   }
+  },
+  "theme_hint": "Computer Networks",
+  "category": "STEM"
+ },
+ {
+  "id": "S14",
+  "entries": [
+   {
+    "answer": "SYNTAX",
+    "chunkTexts": [
+     "SYN",
+     "TAX"
+    ]
+   },
+   {
+    "answer": "DEBUGGER",
+    "chunkTexts": [
+     "DEB",
+     "UG",
+     "GER"
+    ]
+   },
+   {
+    "answer": "OPERATOR",
+    "chunkTexts": [
+     "OP",
+     "ERA",
+     "TOR"
+    ]
+   },
+   {
+    "answer": "INTEGER",
+    "chunkTexts": [
+     "INTE",
+     "GER"
+    ]
+   },
+   {
+    "answer": "COMPILER",
+    "chunkTexts": [
+     "COM",
+     "PIL",
+     "ER"
+    ]
+   },
+   {
+    "answer": "ARGUMENT",
+    "chunkTexts": [
+     "ARGU",
+     "MENT"
+    ]
+   },
+   {
+    "answer": "RUNTIME",
+    "chunkTexts": [
+     "RUN",
+     "TIME"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 4.0,
+   "tempting_pairs": 0.8,
+   "shared_fragments": 2.5,
+   "anchor_balance": 7.0,
+   "shape": 5.8,
+   "word_appeal": 14.0,
+   "penalties": -13.3,
+   "structure": 20.8
+  },
+  "analysis": {
+   "n_tiles": 17,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 10,
+    "4": 4
+   },
+   "decoys": [
+    "COMMENT=COM+MENT",
+    "TORMENT=TOR+MENT",
+    "DEBTOR=DEB+TOR",
+    "OPERA=OP+ERA*"
+   ],
+   "tempting_pairs": [
+    "COM+MENT",
+    "OP+ER"
+   ],
+   "anchors": [
+    "TAX"
+   ],
+   "word_tiles": [
+    "TIME"
+   ],
+   "misaligned": 1,
+   "dup_tiles": [
+    "GER"
+   ],
+   "near_pairs": [],
+   "no_start_rival": [
+    "SYNTAX",
+    "DEBUGGER",
+    "INTEGER",
+    "ARGUMENT",
+    "RUNTIME"
+   ],
+   "inflected": [],
+   "zipf": {
+    "SYNTAX": 3.53,
+    "DEBUGGER": 2.47,
+    "OPERATOR": 4.32,
+    "INTEGER": 3.39,
+    "COMPILER": 3.37,
+    "ARGUMENT": 4.64,
+    "RUNTIME": 3.08
+   }
+  },
+  "theme_hint": "Programming",
+  "category": "STEM"
+ },
+ {
+  "id": "S15",
+  "entries": [
+   {
+    "answer": "IGNEOUS",
+    "chunkTexts": [
+     "IGN",
+     "EOUS"
+    ]
+   },
+   {
+    "answer": "TECTONIC",
+    "chunkTexts": [
+     "TEC",
+     "TON",
+     "IC"
+    ]
+   },
+   {
+    "answer": "EARTHQUAKE",
+    "chunkTexts": [
+     "EAR",
+     "THQU",
+     "AKE"
+    ]
+   },
+   {
+    "answer": "STALACTITE",
+    "chunkTexts": [
+     "STA",
+     "LACT",
+     "ITE"
+    ]
+   },
+   {
+    "answer": "GEYSER",
+    "chunkTexts": [
+     "GEY",
+     "SER"
+    ]
+   },
+   {
+    "answer": "GRANITE",
+    "chunkTexts": [
+     "GRAN",
+     "ITE"
+    ]
+   },
+   {
+    "answer": "OBSIDIAN",
+    "chunkTexts": [
+     "OB",
+     "SID",
+     "IAN"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 2.2,
+   "tempting_pairs": 0.8,
+   "shared_fragments": 3.8,
+   "anchor_balance": 6.6,
+   "shape": 9.3,
+   "word_appeal": 14.0,
+   "penalties": -12.5,
+   "structure": 24.2
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 12,
+    "4": 4
+   },
+   "decoys": [
+    "IGNITE=IGN+ITE",
+    "LACTIC=LACT+IC",
+    "TONIC=TON+IC*"
+   ],
+   "tempting_pairs": [
+    "IC+IAN",
+    "OB+SER"
+   ],
+   "anchors": [
+    "GEY",
+    "THQU"
+   ],
+   "word_tiles": [],
+   "misaligned": 5,
+   "dup_tiles": [
+    "ITE"
+   ],
+   "near_pairs": [
+    "IAN/IGN"
+   ],
+   "no_start_rival": [
+    "IGNEOUS",
+    "TECTONIC",
+    "EARTHQUAKE",
+    "STALACTITE",
+    "GEYSER",
+    "GRANITE"
+   ],
+   "inflected": [],
+   "zipf": {
+    "IGNEOUS": 2.81,
+    "TECTONIC": 3.13,
+    "EARTHQUAKE": 4.15,
+    "STALACTITE": 1.81,
+    "GEYSER": 2.8,
+    "GRANITE": 3.86,
+    "OBSIDIAN": 2.95
+   }
+  },
+  "theme_hint": "Geology",
+  "category": "STEM"
+ },
+ {
+  "id": "S16",
+  "entries": [
+   {
+    "answer": "VAPORIZE",
+    "chunkTexts": [
+     "VA",
+     "POR",
+     "IZE"
+    ]
+   },
+   {
+    "answer": "EVAPORATE",
+    "chunkTexts": [
+     "EVA",
+     "POR",
+     "ATE"
+    ]
+   },
+   {
+    "answer": "METHANE",
+    "chunkTexts": [
+     "METH",
+     "ANE"
+    ]
+   },
+   {
+    "answer": "CARBONATE",
+    "chunkTexts": [
+     "CAR",
+     "BON",
+     "ATE"
+    ]
+   },
+   {
+    "answer": "ATMOSPHERE",
+    "chunkTexts": [
+     "ATM",
+     "OSPH",
+     "ERE"
+    ]
+   },
+   {
+    "answer": "GREENHOUSE",
+    "chunkTexts": [
+     "GRE",
+     "ENH",
+     "OUSE"
+    ]
+   },
+   {
+    "answer": "CONDENSE",
+    "chunkTexts": [
+     "CON",
+     "DEN",
+     "SE"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 2.9,
+   "tempting_pairs": 0.0,
+   "shared_fragments": 10.0,
+   "anchor_balance": 6.8,
+   "shape": 12.0,
+   "word_appeal": 14.0,
+   "penalties": -11.1,
+   "structure": 34.6
+  },
+  "analysis": {
+   "n_tiles": 20,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 15,
+    "4": 3
+   },
+   "decoys": [
+    "SEIZE=SE+IZE",
+    "VASE=VA+SE",
+    "CARBON=CAR+BON*",
+    "DENSE=DEN+SE*",
+    "VAPOR=VA+POR*"
+   ],
+   "tempting_pairs": [],
+   "anchors": [
+    "ATM",
+    "OSPH"
+   ],
+   "word_tiles": [],
+   "misaligned": 7,
+   "dup_tiles": [
+    "ATE",
+    "POR"
+   ],
+   "near_pairs": [
+    "ANE/ATE",
+    "ATE/ATM",
+    "BON/CON",
+    "ERE/GRE"
+   ],
+   "no_start_rival": [
+    "VAPORIZE",
+    "EVAPORATE",
+    "METHANE",
+    "CARBONATE",
+    "ATMOSPHERE",
+    "CONDENSE"
+   ],
+   "inflected": [],
+   "zipf": {
+    "VAPORIZE": 2.47,
+    "EVAPORATE": 3.01,
+    "METHANE": 3.54,
+    "CARBONATE": 3.22,
+    "ATMOSPHERE": 4.46,
+    "GREENHOUSE": 3.78,
+    "CONDENSE": 2.71
+   }
+  },
+  "theme_hint": "Atmosphere",
+  "category": "STEM"
+ },
+ {
+  "id": "T01",
+  "entries": [
+   {
+    "answer": "MONTANA",
+    "chunkTexts": [
+     "MONT",
+     "ANA"
+    ]
+   },
+   {
+    "answer": "KENTUCKY",
+    "chunkTexts": [
+     "KEN",
+     "TU",
+     "CKY"
+    ]
+   },
+   {
+    "answer": "COLORADO",
+    "chunkTexts": [
+     "COL",
+     "OR",
+     "ADO"
+    ]
+   },
+   {
+    "answer": "MICHIGAN",
+    "chunkTexts": [
+     "MIC",
+     "HI",
+     "GAN"
+    ]
+   },
+   {
+    "answer": "VERMONT",
+    "chunkTexts": [
+     "VER",
+     "MONT"
+    ]
+   },
+   {
+    "answer": "DELAWARE",
+    "chunkTexts": [
+     "DELA",
+     "WARE"
+    ]
+   },
+   {
+    "answer": "TENNESSEE",
+    "chunkTexts": [
+     "TEN",
+     "NES",
+     "SEE"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 3.4,
+   "tempting_pairs": 0.4,
+   "shared_fragments": 3.8,
+   "anchor_balance": 7.2,
+   "shape": 7.2,
+   "word_appeal": 14.0,
+   "penalties": -14.7,
+   "structure": 21.3
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 11,
+    "4": 4
+   },
+   "decoys": [
+    "ORGAN=OR+GAN",
+    "TUNES=TU+NES",
+    "TENOR=TEN+OR",
+    "COLOR=COL+OR*"
+   ],
+   "tempting_pairs": [
+    "OR+GAN"
+   ],
+   "anchors": [
+    "MONT"
+   ],
+   "word_tiles": [],
+   "misaligned": 4,
+   "dup_tiles": [
+    "MONT"
+   ],
+   "near_pairs": [
+    "KEN/TEN"
+   ],
+   "no_start_rival": [
+    "MONTANA",
+    "KENTUCKY",
+    "COLORADO",
+    "MICHIGAN",
+    "VERMONT",
+    "DELAWARE",
+    "TENNESSEE"
+   ],
+   "inflected": [],
+   "zipf": {
+    "MONTANA": 4.05,
+    "KENTUCKY": 4.3,
+    "COLORADO": 4.46,
+    "MICHIGAN": 4.54,
+    "VERMONT": 3.84,
+    "DELAWARE": 3.9,
+    "TENNESSEE": 4.21
+   }
+  },
+  "theme_hint": "US States",
+  "category": "themed"
+ },
+ {
+  "id": "T02",
+  "entries": [
+   {
+    "answer": "ARGENTINA",
+    "chunkTexts": [
+     "ARG",
+     "ENT",
+     "INA"
+    ]
+   },
+   {
+    "answer": "INDONESIA",
+    "chunkTexts": [
+     "IND",
+     "ONE",
+     "SIA"
+    ]
+   },
+   {
+    "answer": "MOROCCO",
+    "chunkTexts": [
+     "MORO",
+     "CCO"
+    ]
+   },
+   {
+    "answer": "THAILAND",
+    "chunkTexts": [
+     "THA",
+     "IL",
+     "AND"
+    ]
+   },
+   {
+    "answer": "ICELAND",
+    "chunkTexts": [
+     "ICE",
+     "LAND"
+    ]
+   },
+   {
+    "answer": "MADAGASCAR",
+    "chunkTexts": [
+     "MADA",
+     "GAS",
+     "CAR"
+    ]
+   },
+   {
+    "answer": "AUSTRALIA",
+    "chunkTexts": [
+     "AUS",
+     "TRA",
+     "LIA"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 2.2,
+   "tempting_pairs": 0.4,
+   "shared_fragments": 5.0,
+   "anchor_balance": 7.2,
+   "shape": 12.0,
+   "word_appeal": 14.0,
+   "penalties": -12.1,
+   "structure": 28.7
+  },
+  "analysis": {
+   "n_tiles": 19,
+   "tile_len_hist": {
+    "2": 1,
+    "3": 15,
+    "4": 3
+   },
+   "decoys": [
+    "TRAIL=TRA+IL",
+    "ENTICE=ENT+ICE"
+   ],
+   "tempting_pairs": [
+    "TRA+IL"
+   ],
+   "anchors": [],
+   "word_tiles": [
+    "LAND"
+   ],
+   "misaligned": 7,
+   "dup_tiles": [],
+   "near_pairs": [
+    "AND/IND",
+    "INA/IND",
+    "LIA/SIA",
+    "THA/TRA"
+   ],
+   "no_start_rival": [
+    "ARGENTINA",
+    "INDONESIA",
+    "MOROCCO",
+    "THAILAND",
+    "ICELAND",
+    "MADAGASCAR",
+    "AUSTRALIA"
+   ],
+   "inflected": [],
+   "zipf": {
+    "ARGENTINA": 4.22,
+    "INDONESIA": 4.25,
+    "MOROCCO": 3.8,
+    "THAILAND": 4.22,
+    "ICELAND": 3.79,
+    "MADAGASCAR": 3.39,
+    "AUSTRALIA": 5.06
+   }
+  },
+  "theme_hint": "Countries",
+  "category": "themed"
+ },
+ {
+  "id": "T03",
+  "entries": [
+   {
+    "answer": "EINSTEIN",
+    "chunkTexts": [
+     "EIN",
+     "STE",
+     "IN"
+    ]
+   },
+   {
+    "answer": "COPERNICUS",
+    "chunkTexts": [
+     "COP",
+     "ERNI",
+     "CUS"
+    ]
+   },
+   {
+    "answer": "ARCHIMEDES",
+    "chunkTexts": [
+     "ARC",
+     "HIME",
+     "DES"
+    ]
+   },
+   {
+    "answer": "HAWKING",
+    "chunkTexts": [
+     "HAW",
+     "KING"
+    ]
+   },
+   {
+    "answer": "DARWIN",
+    "chunkTexts": [
+     "DAR",
+     "WIN"
+    ]
+   },
+   {
+    "answer": "EDISON",
+    "chunkTexts": [
+     "EDI",
+     "SON"
+    ]
+   },
+   {
+    "answer": "LOVELACE",
+    "chunkTexts": [
+     "LOV",
+     "ELA",
+     "CE"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 1.5,
+   "tempting_pairs": 1.2,
+   "shared_fragments": 1.2,
+   "anchor_balance": 6.8,
+   "shape": 10.4,
+   "word_appeal": 14.0,
+   "penalties": -12.1,
+   "structure": 23.1
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 13,
+    "4": 3
+   },
+   "decoys": [
+    "CEDAR=CE+DAR",
+    "STEIN=STE+IN*"
+   ],
+   "tempting_pairs": [
+    "DES+CE",
+    "IN+CE",
+    "IN+KING"
+   ],
+   "anchors": [
+    "EIN",
+    "WIN"
+   ],
+   "word_tiles": [],
+   "misaligned": 7,
+   "dup_tiles": [],
+   "near_pairs": [
+    "EIN/WIN"
+   ],
+   "no_start_rival": [
+    "EINSTEIN",
+    "COPERNICUS",
+    "ARCHIMEDES",
+    "HAWKING",
+    "DARWIN",
+    "EDISON",
+    "LOVELACE"
+   ],
+   "inflected": [],
+   "zipf": {
+    "EINSTEIN": 3.74,
+    "COPERNICUS": 2.72,
+    "ARCHIMEDES": 2.69,
+    "HAWKING": 3.24,
+    "DARWIN": 3.76,
+    "EDISON": 3.57,
+    "LOVELACE": 2.72
+   }
+  },
+  "theme_hint": "Great Scientists",
+  "category": "themed"
+ },
+ {
+  "id": "T04",
+  "entries": [
+   {
+    "answer": "HAMLET",
+    "chunkTexts": [
+     "HAM",
+     "LET"
+    ]
+   },
+   {
+    "answer": "MACBETH",
+    "chunkTexts": [
+     "MAC",
+     "BETH"
+    ]
+   },
+   {
+    "answer": "OTHELLO",
+    "chunkTexts": [
+     "OTHE",
+     "LLO"
+    ]
+   },
+   {
+    "answer": "CORDELIA",
+    "chunkTexts": [
+     "COR",
+     "DE",
+     "LIA"
+    ]
+   },
+   {
+    "answer": "BENVOLIO",
+    "chunkTexts": [
+     "BEN",
+     "VO",
+     "LIO"
+    ]
+   },
+   {
+    "answer": "MERCUTIO",
+    "chunkTexts": [
+     "MER",
+     "CU",
+     "TIO"
+    ]
+   },
+   {
+    "answer": "OPHELIA",
+    "chunkTexts": [
+     "OPHE",
+     "LIA"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 2.0,
+   "tempting_pairs": 1.2,
+   "shared_fragments": 7.5,
+   "anchor_balance": 6.7,
+   "shape": 6.9,
+   "word_appeal": 14.0,
+   "penalties": -13.4,
+   "structure": 25.0
+  },
+  "analysis": {
+   "n_tiles": 17,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 11,
+    "4": 3
+   },
+   "decoys": [
+    "HAMMER=HAM+MER",
+    "DECOR=DE+COR*"
+   ],
+   "tempting_pairs": [
+    "DE+LET",
+    "DE+VO",
+    "HAM+MER"
+   ],
+   "anchors": [
+    "BETH",
+    "OPHE"
+   ],
+   "word_tiles": [],
+   "misaligned": 3,
+   "dup_tiles": [
+    "LIA"
+   ],
+   "near_pairs": [
+    "LIA/LIO",
+    "LIO/LLO",
+    "LIO/TIO",
+    "OPHE/OTHE"
+   ],
+   "no_start_rival": [
+    "MACBETH",
+    "OTHELLO",
+    "CORDELIA",
+    "BENVOLIO",
+    "MERCUTIO",
+    "OPHELIA"
+   ],
+   "inflected": [],
+   "zipf": {
+    "HAMLET": 3.65,
+    "MACBETH": 3.32,
+    "OTHELLO": 2.99,
+    "CORDELIA": 2.91,
+    "BENVOLIO": 1.76,
+    "MERCUTIO": 2.11,
+    "OPHELIA": 2.88
+   }
+  },
+  "theme_hint": "Shakespeare",
+  "category": "themed"
+ },
+ {
+  "id": "T05",
+  "entries": [
+   {
+    "answer": "GLADIATOR",
+    "chunkTexts": [
+     "GLA",
+     "DIA",
+     "TOR"
+    ]
+   },
+   {
+    "answer": "COLOSSEUM",
+    "chunkTexts": [
+     "COL",
+     "OSS",
+     "EUM"
+    ]
+   },
+   {
+    "answer": "AQUEDUCT",
+    "chunkTexts": [
+     "AQUE",
+     "DUCT"
+    ]
+   },
+   {
+    "answer": "SENATOR",
+    "chunkTexts": [
+     "SEN",
+     "ATOR"
+    ]
+   },
+   {
+    "answer": "CENTURION",
+    "chunkTexts": [
+     "CEN",
+     "TUR",
+     "ION"
+    ]
+   },
+   {
+    "answer": "EMPEROR",
+    "chunkTexts": [
+     "EM",
+     "PER",
+     "OR"
+    ]
+   },
+   {
+    "answer": "LEGIONARY",
+    "chunkTexts": [
+     "LEG",
+     "ION",
+     "ARY"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 3.7,
+   "tempting_pairs": 1.2,
+   "shared_fragments": 5.0,
+   "anchor_balance": 7.5,
+   "shape": 10.7,
+   "word_appeal": 14.0,
+   "penalties": -10.8,
+   "structure": 31.3
+  },
+  "analysis": {
+   "n_tiles": 19,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 14,
+    "4": 3
+   },
+   "decoys": [
+    "COLOR=COL+OR",
+    "DIAPER=DIA+PER",
+    "ORATOR=OR+ATOR",
+    "LEGION=LEG+ION*"
+   ],
+   "tempting_pairs": [
+    "COL+OR",
+    "DUCT+ION",
+    "PER+CEN"
+   ],
+   "anchors": [],
+   "word_tiles": [],
+   "misaligned": 6,
+   "dup_tiles": [
+    "ION"
+   ],
+   "near_pairs": [
+    "CEN/SEN",
+    "TOR/TUR"
+   ],
+   "no_start_rival": [
+    "GLADIATOR",
+    "AQUEDUCT",
+    "SENATOR",
+    "CENTURION",
+    "EMPEROR",
+    "LEGIONARY"
+   ],
+   "inflected": [],
+   "zipf": {
+    "GLADIATOR": 3.19,
+    "COLOSSEUM": 2.84,
+    "AQUEDUCT": 2.93,
+    "SENATOR": 4.58,
+    "CENTURION": 3.05,
+    "EMPEROR": 4.25,
+    "LEGIONARY": 2.04
+   }
+  },
+  "theme_hint": "Ancient Rome",
+  "category": "themed"
+ },
+ {
+  "id": "T06",
+  "entries": [
+   {
+    "answer": "PORTCULLIS",
+    "chunkTexts": [
+     "PORT",
+     "CUL",
+     "LIS"
+    ]
+   },
+   {
+    "answer": "DUNGEON",
+    "chunkTexts": [
+     "DUN",
+     "GEON"
+    ]
+   },
+   {
+    "answer": "BATTLEMENT",
+    "chunkTexts": [
+     "BAT",
+     "TLE",
+     "MENT"
+    ]
+   },
+   {
+    "answer": "TOURNAMENT",
+    "chunkTexts": [
+     "TOU",
+     "RNA",
+     "MENT"
+    ]
+   },
+   {
+    "answer": "CHIVALRY",
+    "chunkTexts": [
+     "CHI",
+     "VA",
+     "LRY"
+    ]
+   },
+   {
+    "answer": "GAUNTLET",
+    "chunkTexts": [
+     "GA",
+     "UNT",
+     "LET"
+    ]
+   },
+   {
+    "answer": "HERALDRY",
+    "chunkTexts": [
+     "HER",
+     "AL",
+     "DRY"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 4.7,
+   "tempting_pairs": 0.8,
+   "shared_fragments": 3.8,
+   "anchor_balance": 7.1,
+   "shape": 9.0,
+   "word_appeal": 14.0,
+   "penalties": -15.1,
+   "structure": 24.3
+  },
+  "analysis": {
+   "n_tiles": 20,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 13,
+    "4": 4
+   },
+   "decoys": [
+    "MENTAL=MENT+AL",
+    "PORTAL=PORT+AL",
+    "VALET=VA+LET",
+    "BATTLE=BAT+TLE*",
+    "GAUNT=GA+UNT*"
+   ],
+   "tempting_pairs": [
+    "AL+LET",
+    "MENT+AL"
+   ],
+   "anchors": [],
+   "word_tiles": [
+    "PORT"
+   ],
+   "misaligned": 7,
+   "dup_tiles": [
+    "MENT"
+   ],
+   "near_pairs": [
+    "DRY/LRY"
+   ],
+   "no_start_rival": [
+    "PORTCULLIS",
+    "DUNGEON",
+    "BATTLEMENT",
+    "TOURNAMENT",
+    "CHIVALRY",
+    "GAUNTLET",
+    "HERALDRY"
+   ],
+   "inflected": [],
+   "zipf": {
+    "PORTCULLIS": 2.16,
+    "DUNGEON": 3.57,
+    "BATTLEMENT": 1.77,
+    "TOURNAMENT": 4.56,
+    "CHIVALRY": 3.08,
+    "GAUNTLET": 3.14,
+    "HERALDRY": 2.49
+   }
+  },
+  "theme_hint": "Knights and Castles",
+  "category": "themed"
+ },
+ {
+  "id": "T07",
+  "entries": [
+   {
+    "answer": "PANCAKE",
+    "chunkTexts": [
+     "PANC",
+     "AKE"
+    ]
+   },
+   {
+    "answer": "CROISSANT",
+    "chunkTexts": [
+     "CRO",
+     "ISS",
+     "ANT"
+    ]
+   },
+   {
+    "answer": "OMELETTE",
+    "chunkTexts": [
+     "OME",
+     "LET",
+     "TE"
+    ]
+   },
+   {
+    "answer": "GRANOLA",
+    "chunkTexts": [
+     "GRAN",
+     "OLA"
+    ]
+   },
+   {
+    "answer": "SAUSAGE",
+    "chunkTexts": [
+     "SAU",
+     "SAGE"
+    ]
+   },
+   {
+    "answer": "WAFFLE",
+    "chunkTexts": [
+     "WAF",
+     "FLE"
+    ]
+   },
+   {
+    "answer": "PORRIDGE",
+    "chunkTexts": [
+     "POR",
+     "RI",
+     "DGE"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 2.0,
+   "tempting_pairs": 0.8,
+   "shared_fragments": 0.0,
+   "anchor_balance": 6.9,
+   "shape": 9.1,
+   "word_appeal": 14.0,
+   "penalties": -12.4,
+   "structure": 20.4
+  },
+  "analysis": {
+   "n_tiles": 17,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 12,
+    "4": 3
+   },
+   "decoys": [
+    "RIFLE=RI+FLE",
+    "RITE=RI+TE",
+    "RIDGE=RI+DGE*"
+   ],
+   "tempting_pairs": [
+    "OLA+TE",
+    "RI+TE"
+   ],
+   "anchors": [
+    "PANC",
+    "WAF"
+   ],
+   "word_tiles": [],
+   "misaligned": 8,
+   "dup_tiles": [],
+   "near_pairs": [],
+   "no_start_rival": [
+    "PANCAKE",
+    "CROISSANT",
+    "OMELETTE",
+    "GRANOLA",
+    "SAUSAGE",
+    "WAFFLE",
+    "PORRIDGE"
+   ],
+   "inflected": [],
+   "zipf": {
+    "PANCAKE": 3.35,
+    "CROISSANT": 2.78,
+    "OMELETTE": 2.85,
+    "GRANOLA": 2.98,
+    "SAUSAGE": 3.8,
+    "WAFFLE": 3.3,
+    "PORRIDGE": 3.11
+   }
+  },
+  "theme_hint": "Breakfast",
+  "category": "themed"
+ },
+ {
+  "id": "T08",
+  "entries": [
+   {
+    "answer": "OREGANO",
+    "chunkTexts": [
+     "OREG",
+     "ANO"
+    ]
+   },
+   {
+    "answer": "TURMERIC",
+    "chunkTexts": [
+     "TUR",
+     "MER",
+     "IC"
+    ]
+   },
+   {
+    "answer": "CARDAMOM",
+    "chunkTexts": [
+     "CAR",
+     "DAM",
+     "OM"
+    ]
+   },
+   {
+    "answer": "CORIANDER",
+    "chunkTexts": [
+     "COR",
+     "IAN",
+     "DER"
+    ]
+   },
+   {
+    "answer": "SAFFRON",
+    "chunkTexts": [
+     "SAF",
+     "FRON"
+    ]
+   },
+   {
+    "answer": "NUTMEG",
+    "chunkTexts": [
+     "NUT",
+     "MEG"
+    ]
+   },
+   {
+    "answer": "CILANTRO",
+    "chunkTexts": [
+     "CI",
+     "LAN",
+     "TRO"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 2.2,
+   "tempting_pairs": 0.8,
+   "shared_fragments": 5.0,
+   "anchor_balance": 4.9,
+   "shape": 10.4,
+   "word_appeal": 14.0,
+   "penalties": -15.3,
+   "structure": 22.0
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 13,
+    "4": 2
+   },
+   "decoys": [
+    "CIDER=CI+DER",
+    "LANDER=LAN+DER"
+   ],
+   "tempting_pairs": [
+    "IC+IAN",
+    "OM+IC"
+   ],
+   "anchors": [
+    "FRON",
+    "MEG",
+    "OREG"
+   ],
+   "word_tiles": [],
+   "misaligned": 6,
+   "dup_tiles": [],
+   "near_pairs": [
+    "CAR/COR",
+    "DER/MER",
+    "IAN/LAN",
+    "MEG/MER"
+   ],
+   "no_start_rival": [
+    "OREGANO",
+    "TURMERIC",
+    "CARDAMOM",
+    "CORIANDER",
+    "SAFFRON",
+    "NUTMEG",
+    "CILANTRO"
+   ],
+   "inflected": [],
+   "zipf": {
+    "OREGANO": 2.8,
+    "TURMERIC": 2.87,
+    "CARDAMOM": 2.71,
+    "CORIANDER": 2.95,
+    "SAFFRON": 3.21,
+    "NUTMEG": 3.04,
+    "CILANTRO": 2.89
+   }
+  },
+  "theme_hint": "Spice Rack",
+  "category": "themed"
+ },
+ {
+  "id": "T09",
+  "entries": [
+   {
+    "answer": "MACAROON",
+    "chunkTexts": [
+     "MAC",
+     "AR",
+     "OON"
+    ]
+   },
+   {
+    "answer": "BROWNIE",
+    "chunkTexts": [
+     "BROW",
+     "NIE"
+    ]
+   },
+   {
+    "answer": "CHEESECAKE",
+    "chunkTexts": [
+     "CHEE",
+     "SEC",
+     "AKE"
+    ]
+   },
+   {
+    "answer": "ECLAIR",
+    "chunkTexts": [
+     "ECL",
+     "AIR"
+    ]
+   },
+   {
+    "answer": "CUPCAKE",
+    "chunkTexts": [
+     "CUP",
+     "CAKE"
+    ]
+   },
+   {
+    "answer": "DOUGHNUT",
+    "chunkTexts": [
+     "DO",
+     "UGH",
+     "NUT"
+    ]
+   },
+   {
+    "answer": "STRUDEL",
+    "chunkTexts": [
+     "STRU",
+     "DEL"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 0.6,
+   "tempting_pairs": 0.0,
+   "shared_fragments": 0.0,
+   "anchor_balance": 6.8,
+   "shape": 7.9,
+   "word_appeal": 14.0,
+   "penalties": -15.6,
+   "structure": 13.7
+  },
+  "analysis": {
+   "n_tiles": 17,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 11,
+    "4": 4
+   },
+   "decoys": [
+    "DOUGH=DO+UGH*",
+    "DONUT=DO+NUT*"
+   ],
+   "tempting_pairs": [],
+   "anchors": [
+    "BROW"
+   ],
+   "word_tiles": [
+    "CAKE"
+   ],
+   "misaligned": 7,
+   "dup_tiles": [],
+   "near_pairs": [],
+   "no_start_rival": [
+    "MACAROON",
+    "BROWNIE",
+    "CHEESECAKE",
+    "ECLAIR",
+    "CUPCAKE",
+    "DOUGHNUT",
+    "STRUDEL"
+   ],
+   "inflected": [],
+   "zipf": {
+    "MACAROON": 2.05,
+    "BROWNIE": 3.21,
+    "CHEESECAKE": 3.22,
+    "ECLAIR": 2.18,
+    "CUPCAKE": 3.35,
+    "DOUGHNUT": 3.17,
+    "STRUDEL": 2.32
+   }
+  },
+  "theme_hint": "Bakery",
+  "category": "themed"
+ },
+ {
+  "id": "T10",
+  "entries": [
+   {
+    "answer": "PASTEL",
+    "chunkTexts": [
+     "PAS",
+     "TEL"
+    ]
+   },
+   {
+    "answer": "CHARCOAL",
+    "chunkTexts": [
+     "CHA",
+     "RCO",
+     "AL"
+    ]
+   },
+   {
+    "answer": "PALETTE",
+    "chunkTexts": [
+     "PAL",
+     "ETTE"
+    ]
+   },
+   {
+    "answer": "PORTRAIT",
+    "chunkTexts": [
+     "POR",
+     "TRA",
+     "IT"
+    ]
+   },
+   {
+    "answer": "TAPESTRY",
+    "chunkTexts": [
+     "TA",
+     "PES",
+     "TRY"
+    ]
+   },
+   {
+    "answer": "CERAMIC",
+    "chunkTexts": [
+     "CER",
+     "AMIC"
+    ]
+   },
+   {
+    "answer": "PIGMENT",
+    "chunkTexts": [
+     "PIG",
+     "MENT"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 6.2,
+   "tempting_pairs": 1.2,
+   "shared_fragments": 3.8,
+   "anchor_balance": 7.2,
+   "shape": 6.9,
+   "word_appeal": 14.0,
+   "penalties": -12.7,
+   "structure": 26.6
+  },
+  "analysis": {
+   "n_tiles": 17,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 11,
+    "4": 3
+   },
+   "decoys": [
+    "MENTAL=MENT+AL",
+    "PASTA=PAS+TA",
+    "PASTRY=PAS+TRY",
+    "TRACER=TRA+CER",
+    "TAPES=TA+PES*",
+    "TRAIT=TRA+IT*"
+   ],
+   "tempting_pairs": [
+    "CER+TA",
+    "IT+AL",
+    "MENT+AL"
+   ],
+   "anchors": [],
+   "word_tiles": [],
+   "misaligned": 4,
+   "dup_tiles": [],
+   "near_pairs": [
+    "PAL/PAS",
+    "PAS/PES",
+    "TRA/TRY"
+   ],
+   "no_start_rival": [
+    "PASTEL",
+    "CHARCOAL",
+    "PALETTE",
+    "TAPESTRY",
+    "PIGMENT"
+   ],
+   "inflected": [],
+   "zipf": {
+    "PASTEL": 3.25,
+    "CHARCOAL": 3.58,
+    "PALETTE": 3.74,
+    "PORTRAIT": 4.22,
+    "TAPESTRY": 3.24,
+    "CERAMIC": 3.74,
+    "PIGMENT": 3.37
+   }
+  },
+  "theme_hint": "Art Studio",
+  "category": "themed"
+ },
+ {
+  "id": "T11",
+  "entries": [
+   {
+    "answer": "FLAMENCO",
+    "chunkTexts": [
+     "FLA",
+     "ME",
+     "NCO"
+    ]
+   },
+   {
+    "answer": "BALLERINA",
+    "chunkTexts": [
+     "BAL",
+     "LER",
+     "INA"
+    ]
+   },
+   {
+    "answer": "FOXTROT",
+    "chunkTexts": [
+     "FOX",
+     "TROT"
+    ]
+   },
+   {
+    "answer": "QUICKSTEP",
+    "chunkTexts": [
+     "QU",
+     "ICKS",
+     "TEP"
+    ]
+   },
+   {
+    "answer": "CHARLESTON",
+    "chunkTexts": [
+     "CHAR",
+     "LES",
+     "TON"
+    ]
+   },
+   {
+    "answer": "BOLERO",
+    "chunkTexts": [
+     "BOL",
+     "ERO"
+    ]
+   },
+   {
+    "answer": "JITTERBUG",
+    "chunkTexts": [
+     "JIT",
+     "TER",
+     "BUG"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 4.2,
+   "tempting_pairs": 0.4,
+   "shared_fragments": 5.0,
+   "anchor_balance": 1.9,
+   "shape": 11.7,
+   "word_appeal": 14.0,
+   "penalties": -10.8,
+   "structure": 26.4
+  },
+  "analysis": {
+   "n_tiles": 19,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 14,
+    "4": 3
+   },
+   "decoys": [
+    "CHARTER=CHAR+TER",
+    "METER=ME+TER",
+    "TROTTER=TROT+TER",
+    "FLAME=FLA+ME*"
+   ],
+   "tempting_pairs": [
+    "ME+TER"
+   ],
+   "anchors": [
+    "BUG",
+    "ERO",
+    "JIT",
+    "TROT"
+   ],
+   "word_tiles": [],
+   "misaligned": 6,
+   "dup_tiles": [],
+   "near_pairs": [
+    "BAL/BOL",
+    "LER/LES",
+    "LER/TER",
+    "TEP/TER"
+   ],
+   "no_start_rival": [
+    "FLAMENCO",
+    "BALLERINA",
+    "FOXTROT",
+    "QUICKSTEP",
+    "BOLERO",
+    "JITTERBUG"
+   ],
+   "inflected": [],
+   "zipf": {
+    "FLAMENCO": 2.93,
+    "BALLERINA": 3.1,
+    "FOXTROT": 2.6,
+    "QUICKSTEP": 2.2,
+    "CHARLESTON": 3.77,
+    "BOLERO": 2.49,
+    "JITTERBUG": 2.07
+   }
+  },
+  "theme_hint": "Dance Floor",
+  "category": "themed"
+ },
+ {
+  "id": "T12",
+  "entries": [
+   {
+    "answer": "FLAMINGO",
+    "chunkTexts": [
+     "FLA",
+     "MIN",
+     "GO"
+    ]
+   },
+   {
+    "answer": "WOODPECKER",
+    "chunkTexts": [
+     "WOOD",
+     "PEC",
+     "KER"
+    ]
+   },
+   {
+    "answer": "ALBATROSS",
+    "chunkTexts": [
+     "ALB",
+     "ATR",
+     "OSS"
+    ]
+   },
+   {
+    "answer": "CARDINAL",
+    "chunkTexts": [
+     "CAR",
+     "DIN",
+     "AL"
+    ]
+   },
+   {
+    "answer": "KINGFISHER",
+    "chunkTexts": [
+     "KING",
+     "FIS",
+     "HER"
+    ]
+   },
+   {
+    "answer": "PENGUIN",
+    "chunkTexts": [
+     "PEN",
+     "GUIN"
+    ]
+   },
+   {
+    "answer": "MAGPIE",
+    "chunkTexts": [
+     "MAG",
+     "PIE"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 2.9,
+   "tempting_pairs": 0.4,
+   "shared_fragments": 3.8,
+   "anchor_balance": 7.4,
+   "shape": 11.7,
+   "word_appeal": 14.0,
+   "penalties": -12.3,
+   "structure": 27.8
+  },
+  "analysis": {
+   "n_tiles": 19,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 14,
+    "4": 3
+   },
+   "decoys": [
+    "GOAL=GO+AL",
+    "CARGO=CAR+GO",
+    "PENAL=PEN+AL",
+    "FISHER=FIS+HER*"
+   ],
+   "tempting_pairs": [
+    "MIN+AL"
+   ],
+   "anchors": [
+    "GUIN"
+   ],
+   "word_tiles": [
+    "WOOD"
+   ],
+   "misaligned": 6,
+   "dup_tiles": [],
+   "near_pairs": [
+    "DIN/MIN",
+    "HER/KER",
+    "PEC/PEN"
+   ],
+   "no_start_rival": [
+    "FLAMINGO",
+    "WOODPECKER",
+    "ALBATROSS",
+    "CARDINAL",
+    "KINGFISHER",
+    "MAGPIE"
+   ],
+   "inflected": [],
+   "zipf": {
+    "FLAMINGO": 3.06,
+    "WOODPECKER": 2.82,
+    "ALBATROSS": 2.9,
+    "CARDINAL": 3.9,
+    "KINGFISHER": 2.87,
+    "PENGUIN": 3.78,
+    "MAGPIE": 2.9
+   }
+  },
+  "theme_hint": "Birds",
+  "category": "themed"
+ },
+ {
+  "id": "T13",
+  "entries": [
+   {
+    "answer": "SEAHORSE",
+    "chunkTexts": [
+     "SEA",
+     "HOR",
+     "SE"
+    ]
+   },
+   {
+    "answer": "PORPOISE",
+    "chunkTexts": [
+     "POR",
+     "POI",
+     "SE"
+    ]
+   },
+   {
+    "answer": "MANATEE",
+    "chunkTexts": [
+     "MANA",
+     "TEE"
+    ]
+   },
+   {
+    "answer": "ANEMONE",
+    "chunkTexts": [
+     "ANE",
+     "MONE"
+    ]
+   },
+   {
+    "answer": "BARRACUDA",
+    "chunkTexts": [
+     "BAR",
+     "RAC",
+     "UDA"
+    ]
+   },
+   {
+    "answer": "HAMMERHEAD",
+    "chunkTexts": [
+     "HAM",
+     "MER",
+     "HEAD"
+    ]
+   },
+   {
+    "answer": "NARWHAL",
+    "chunkTexts": [
+     "NAR",
+     "WHAL"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 2.7,
+   "tempting_pairs": 0.0,
+   "shared_fragments": 5.0,
+   "anchor_balance": 6.9,
+   "shape": 9.3,
+   "word_appeal": 14.0,
+   "penalties": -14.7,
+   "structure": 23.3
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 12,
+    "4": 4
+   },
+   "decoys": [
+    "HORMONE=HOR+MONE",
+    "HORSE=HOR+SE*",
+    "HAMMER=HAM+MER*",
+    "POISE=POI+SE*"
+   ],
+   "tempting_pairs": [],
+   "anchors": [
+    "UDA",
+    "WHAL"
+   ],
+   "word_tiles": [
+    "HEAD"
+   ],
+   "misaligned": 4,
+   "dup_tiles": [
+    "SE"
+   ],
+   "near_pairs": [
+    "BAR/NAR",
+    "HOR/POR"
+   ],
+   "no_start_rival": [
+    "SEAHORSE",
+    "PORPOISE",
+    "MANATEE",
+    "ANEMONE",
+    "BARRACUDA",
+    "HAMMERHEAD",
+    "NARWHAL"
+   ],
+   "inflected": [],
+   "zipf": {
+    "SEAHORSE": 2.5,
+    "PORPOISE": 2.56,
+    "MANATEE": 2.74,
+    "ANEMONE": 2.56,
+    "BARRACUDA": 2.78,
+    "HAMMERHEAD": 2.68,
+    "NARWHAL": 2.28
+   }
+  },
+  "theme_hint": "Ocean Life",
+  "category": "themed"
+ },
+ {
+  "id": "T14",
+  "entries": [
+   {
+    "answer": "SEQUOIA",
+    "chunkTexts": [
+     "SEQU",
+     "OIA"
+    ]
+   },
+   {
+    "answer": "CYPRESS",
+    "chunkTexts": [
+     "CYP",
+     "RESS"
+    ]
+   },
+   {
+    "answer": "EUCALYPTUS",
+    "chunkTexts": [
+     "EU",
+     "CA",
+     "LYP",
+     "TUS"
+    ]
+   },
+   {
+    "answer": "SYCAMORE",
+    "chunkTexts": [
+     "SY",
+     "CAM",
+     "ORE"
+    ]
+   },
+   {
+    "answer": "HEMLOCK",
+    "chunkTexts": [
+     "HEM",
+     "LOCK"
+    ]
+   },
+   {
+    "answer": "JUNIPER",
+    "chunkTexts": [
+     "JUNI",
+     "PER"
+    ]
+   },
+   {
+    "answer": "REDWOOD",
+    "chunkTexts": [
+     "RED",
+     "WOOD"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 4.2,
+   "tempting_pairs": 0.0,
+   "shared_fragments": 1.2,
+   "anchor_balance": 6.7,
+   "shape": 4.6,
+   "word_appeal": 14.0,
+   "penalties": -18.0,
+   "structure": 12.7
+  },
+  "analysis": {
+   "n_tiles": 17,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 9,
+    "4": 5
+   },
+   "decoys": [
+    "CARED=CA+RED",
+    "CAMPER=CAM+PER",
+    "REDRESS=RED+RESS",
+    "CARESS=CA+RESS"
+   ],
+   "tempting_pairs": [],
+   "anchors": [
+    "CYP"
+   ],
+   "word_tiles": [
+    "LOCK",
+    "WOOD"
+   ],
+   "misaligned": 5,
+   "dup_tiles": [],
+   "near_pairs": [
+    "CYP/LYP"
+   ],
+   "no_start_rival": [
+    "SEQUOIA",
+    "CYPRESS",
+    "EUCALYPTUS",
+    "SYCAMORE",
+    "HEMLOCK",
+    "JUNIPER",
+    "REDWOOD"
+   ],
+   "inflected": [],
+   "zipf": {
+    "SEQUOIA": 2.82,
+    "CYPRESS": 3.25,
+    "EUCALYPTUS": 3.01,
+    "SYCAMORE": 2.94,
+    "HEMLOCK": 2.86,
+    "JUNIPER": 3.15,
+    "REDWOOD": 3.22
+   }
+  },
+  "theme_hint": "Trees",
+  "category": "themed"
+ },
+ {
+  "id": "T15",
+  "entries": [
+   {
+    "answer": "DALMATIAN",
+    "chunkTexts": [
+     "DAL",
+     "MAT",
+     "IAN"
+    ]
+   },
+   {
+    "answer": "LABRADOR",
+    "chunkTexts": [
+     "LAB",
+     "RA",
+     "DOR"
+    ]
+   },
+   {
+    "answer": "CHIHUAHUA",
+    "chunkTexts": [
+     "CHI",
+     "HUA",
+     "HUA"
+    ]
+   },
+   {
+    "answer": "TERRIER",
+    "chunkTexts": [
+     "TER",
+     "RIER"
+    ]
+   },
+   {
+    "answer": "BULLDOG",
+    "chunkTexts": [
+     "BULL",
+     "DOG"
+    ]
+   },
+   {
+    "answer": "RETRIEVER",
+    "chunkTexts": [
+     "RET",
+     "RIE",
+     "VER"
+    ]
+   },
+   {
+    "answer": "POODLE",
+    "chunkTexts": [
+     "POO",
+     "DLE"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 1.7,
+   "tempting_pairs": 0.0,
+   "shared_fragments": 5.0,
+   "anchor_balance": 6.6,
+   "shape": 11.0,
+   "word_appeal": 14.0,
+   "penalties": -10.8,
+   "structure": 27.4
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "2": 1,
+    "3": 15,
+    "4": 2
+   },
+   "decoys": [
+    "MATTER=MAT+TER"
+   ],
+   "tempting_pairs": [],
+   "anchors": [
+    "DAL",
+    "HUA"
+   ],
+   "word_tiles": [
+    "BULL"
+   ],
+   "misaligned": 6,
+   "dup_tiles": [
+    "HUA"
+   ],
+   "near_pairs": [
+    "DOG/DOR",
+    "TER/VER"
+   ],
+   "no_start_rival": [
+    "DALMATIAN",
+    "LABRADOR",
+    "CHIHUAHUA",
+    "BULLDOG",
+    "RETRIEVER",
+    "POODLE"
+   ],
+   "inflected": [],
+   "zipf": {
+    "DALMATIAN": 2.66,
+    "LABRADOR": 3.3,
+    "CHIHUAHUA": 3.21,
+    "TERRIER": 3.24,
+    "BULLDOG": 3.38,
+    "RETRIEVER": 2.99,
+    "POODLE": 3.02
+   }
+  },
+  "theme_hint": "Dog Breeds",
+  "category": "themed"
+ },
+ {
+  "id": "T16",
+  "entries": [
+   {
+    "answer": "RUNWAY",
+    "chunkTexts": [
+     "RUN",
+     "WAY"
+    ]
+   },
+   {
+    "answer": "TURBULENCE",
+    "chunkTexts": [
+     "TUR",
+     "BUL",
+     "ENCE"
+    ]
+   },
+   {
+    "answer": "LAYOVER",
+    "chunkTexts": [
+     "LAYO",
+     "VER"
+    ]
+   },
+   {
+    "answer": "CAROUSEL",
+    "chunkTexts": [
+     "CAR",
+     "OUS",
+     "EL"
+    ]
+   },
+   {
+    "answer": "DEPARTURE",
+    "chunkTexts": [
+     "DEP",
+     "ART",
+     "URE"
+    ]
+   },
+   {
+    "answer": "ARRIVAL",
+    "chunkTexts": [
+     "ARR",
+     "IVAL"
+    ]
+   },
+   {
+    "answer": "ITINERARY",
+    "chunkTexts": [
+     "ITI",
+     "NER",
+     "ARY"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 4.8,
+   "tempting_pairs": 0.0,
+   "shared_fragments": 5.0,
+   "anchor_balance": 7.2,
+   "shape": 11.0,
+   "word_appeal": 14.0,
+   "penalties": -10.9,
+   "structure": 31.1
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "2": 1,
+    "3": 14,
+    "4": 3
+   },
+   "decoys": [
+    "TURNER=TUR+NER",
+    "RUNNER=RUN+NER",
+    "CARVER=CAR+VER",
+    "DEPART=DEP+ART*"
+   ],
+   "tempting_pairs": [],
+   "anchors": [
+    "ITI"
+   ],
+   "word_tiles": [],
+   "misaligned": 8,
+   "dup_tiles": [],
+   "near_pairs": [
+    "ARR/ART",
+    "ARR/ARY",
+    "ART/ARY",
+    "NER/VER"
+   ],
+   "no_start_rival": [
+    "RUNWAY",
+    "TURBULENCE",
+    "LAYOVER",
+    "CAROUSEL",
+    "DEPARTURE",
+    "ARRIVAL",
+    "ITINERARY"
+   ],
+   "inflected": [],
+   "zipf": {
+    "RUNWAY": 3.92,
+    "TURBULENCE": 3.55,
+    "LAYOVER": 2.67,
+    "CAROUSEL": 3.21,
+    "DEPARTURE": 4.22,
+    "ARRIVAL": 4.44,
+    "ITINERARY": 3.23
+   }
+  },
+  "theme_hint": "At the Airport",
+  "category": "themed"
+ },
+ {
+  "id": "T17",
+  "entries": [
+   {
+    "answer": "LANTERN",
+    "chunkTexts": [
+     "LAN",
+     "TERN"
+    ]
+   },
+   {
+    "answer": "CANTEEN",
+    "chunkTexts": [
+     "CAN",
+     "TEEN"
+    ]
+   },
+   {
+    "answer": "BINOCULARS",
+    "chunkTexts": [
+     "BIN",
+     "OCU",
+     "LARS"
+    ]
+   },
+   {
+    "answer": "FIREWOOD",
+    "chunkTexts": [
+     "FIR",
+     "EW",
+     "OOD"
+    ]
+   },
+   {
+    "answer": "STARGAZER",
+    "chunkTexts": [
+     "STA",
+     "RGA",
+     "ZER"
+    ]
+   },
+   {
+    "answer": "CAMPSITE",
+    "chunkTexts": [
+     "CAM",
+     "PSI",
+     "TE"
+    ]
+   },
+   {
+    "answer": "TARPAULIN",
+    "chunkTexts": [
+     "TAR",
+     "PAU",
+     "LIN"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 1.2,
+   "tempting_pairs": 0.4,
+   "shared_fragments": 6.2,
+   "anchor_balance": 7.6,
+   "shape": 11.7,
+   "word_appeal": 14.0,
+   "penalties": -11.9,
+   "structure": 29.3
+  },
+  "analysis": {
+   "n_tiles": 19,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 14,
+    "4": 3
+   },
+   "decoys": [
+    "STATE=STA+TE"
+   ],
+   "tempting_pairs": [
+    "STA+TE"
+   ],
+   "anchors": [],
+   "word_tiles": [
+    "TEEN"
+   ],
+   "misaligned": 8,
+   "dup_tiles": [],
+   "near_pairs": [
+    "BIN/LIN",
+    "CAM/CAN",
+    "CAN/LAN",
+    "LAN/LIN",
+    "TEEN/TERN"
+   ],
+   "no_start_rival": [
+    "LANTERN",
+    "BINOCULARS",
+    "FIREWOOD",
+    "CAMPSITE",
+    "TARPAULIN"
+   ],
+   "inflected": [],
+   "zipf": {
+    "LANTERN": 3.61,
+    "CANTEEN": 3.17,
+    "BINOCULARS": 3.1,
+    "FIREWOOD": 3.16,
+    "STARGAZER": 2.28,
+    "CAMPSITE": 3.09,
+    "TARPAULIN": 2.38
+   }
+  },
+  "theme_hint": "Camping Trip",
+  "category": "themed"
+ },
+ {
+  "id": "T18",
+  "entries": [
+   {
+    "answer": "SUSPECT",
+    "chunkTexts": [
+     "SUS",
+     "PECT"
+    ]
+   },
+   {
+    "answer": "MOTIVE",
+    "chunkTexts": [
+     "MOT",
+     "IVE"
+    ]
+   },
+   {
+    "answer": "EVIDENCE",
+    "chunkTexts": [
+     "EV",
+     "IDE",
+     "NCE"
+    ]
+   },
+   {
+    "answer": "WITNESS",
+    "chunkTexts": [
+     "WIT",
+     "NESS"
+    ]
+   },
+   {
+    "answer": "CULPRIT",
+    "chunkTexts": [
+     "CULP",
+     "RIT"
+    ]
+   },
+   {
+    "answer": "CONFESSION",
+    "chunkTexts": [
+     "CON",
+     "FESS",
+     "ION"
+    ]
+   },
+   {
+    "answer": "ACCOMPLICE",
+    "chunkTexts": [
+     "ACC",
+     "OMPL",
+     "ICE"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 2.2,
+   "tempting_pairs": 0.4,
+   "shared_fragments": 7.5,
+   "anchor_balance": 6.7,
+   "shape": 7.9,
+   "word_appeal": 14.0,
+   "penalties": -11.3,
+   "structure": 27.4
+  },
+  "analysis": {
+   "n_tiles": 17,
+   "tile_len_hist": {
+    "2": 1,
+    "3": 11,
+    "4": 5
+   },
+   "decoys": [
+    "MOTION=MOT+ION",
+    "CONFESS=CON+FESS*"
+   ],
+   "tempting_pairs": [
+    "MOT+ION"
+   ],
+   "anchors": [
+    "CULP",
+    "SUS"
+   ],
+   "word_tiles": [],
+   "misaligned": 6,
+   "dup_tiles": [],
+   "near_pairs": [
+    "FESS/NESS",
+    "ICE/IDE",
+    "ICE/IVE",
+    "ICE/NCE",
+    "IDE/IVE",
+    "RIT/WIT"
+   ],
+   "no_start_rival": [
+    "SUSPECT",
+    "MOTIVE",
+    "EVIDENCE",
+    "WITNESS",
+    "CULPRIT",
+    "CONFESSION"
+   ],
+   "inflected": [],
+   "zipf": {
+    "SUSPECT": 4.51,
+    "MOTIVE": 3.94,
+    "EVIDENCE": 5.14,
+    "WITNESS": 4.52,
+    "CULPRIT": 3.4,
+    "CONFESSION": 3.88,
+    "ACCOMPLICE": 3.22
+   }
+  },
+  "theme_hint": "Whodunit",
+  "category": "themed"
+ },
+ {
+  "id": "T19",
+  "entries": [
+   {
+    "answer": "CUTLASS",
+    "chunkTexts": [
+     "CUT",
+     "LASS"
+    ]
+   },
+   {
+    "answer": "MUTINY",
+    "chunkTexts": [
+     "MUT",
+     "INY"
+    ]
+   },
+   {
+    "answer": "DOUBLOON",
+    "chunkTexts": [
+     "DO",
+     "UBL",
+     "OON"
+    ]
+   },
+   {
+    "answer": "PARROT",
+    "chunkTexts": [
+     "PAR",
+     "ROT"
+    ]
+   },
+   {
+    "answer": "SCALLYWAG",
+    "chunkTexts": [
+     "SCA",
+     "LLY",
+     "WAG"
+    ]
+   },
+   {
+    "answer": "CORSAIR",
+    "chunkTexts": [
+     "CORS",
+     "AIR"
+    ]
+   },
+   {
+    "answer": "MAROONED",
+    "chunkTexts": [
+     "MAR",
+     "OON",
+     "ED"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 5.7,
+   "tempting_pairs": 1.2,
+   "shared_fragments": 5.0,
+   "anchor_balance": 6.9,
+   "shape": 10.0,
+   "word_appeal": 14.0,
+   "penalties": -14.1,
+   "structure": 28.7
+  },
+  "analysis": {
+   "n_tiles": 17,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 13,
+    "4": 2
+   },
+   "decoys": [
+    "DOUBLED=DO+UBL+ED",
+    "AIRED=AIR+ED",
+    "DOLLY=DO+LLY",
+    "MUTED=MUT+ED",
+    "WAGED=WAG+ED",
+    "MAROON=MAR+OON*"
+   ],
+   "tempting_pairs": [
+    "AIR+ED",
+    "CUT+ED",
+    "PAR+ED"
+   ],
+   "anchors": [
+    "CORS",
+    "WAG"
+   ],
+   "word_tiles": [],
+   "misaligned": 7,
+   "dup_tiles": [
+    "OON"
+   ],
+   "near_pairs": [
+    "CUT/MUT",
+    "MAR/PAR"
+   ],
+   "no_start_rival": [
+    "CUTLASS",
+    "MUTINY",
+    "DOUBLOON",
+    "PARROT",
+    "SCALLYWAG",
+    "CORSAIR",
+    "MAROONED"
+   ],
+   "inflected": [],
+   "zipf": {
+    "CUTLASS": 2.59,
+    "MUTINY": 3.27,
+    "DOUBLOON": 1.68,
+    "PARROT": 3.49,
+    "SCALLYWAG": 1.74,
+    "CORSAIR": 2.83,
+    "MAROONED": 2.64
+   }
+  },
+  "theme_hint": "Pirates",
+  "category": "themed"
+ },
+ {
+  "id": "T20",
+  "entries": [
+   {
+    "answer": "ACROBAT",
+    "chunkTexts": [
+     "ACRO",
+     "BAT"
+    ]
+   },
+   {
+    "answer": "JUGGLER",
+    "chunkTexts": [
+     "JUGG",
+     "LER"
+    ]
+   },
+   {
+    "answer": "RINGMASTER",
+    "chunkTexts": [
+     "RING",
+     "MAS",
+     "TER"
+    ]
+   },
+   {
+    "answer": "TIGHTROPE",
+    "chunkTexts": [
+     "TIGH",
+     "TRO",
+     "PE"
+    ]
+   },
+   {
+    "answer": "UNICYCLE",
+    "chunkTexts": [
+     "UNI",
+     "CYC",
+     "LE"
+    ]
+   },
+   {
+    "answer": "CANNONBALL",
+    "chunkTexts": [
+     "CAN",
+     "NON",
+     "BALL"
+    ]
+   },
+   {
+    "answer": "CALLIOPE",
+    "chunkTexts": [
+     "CAL",
+     "LI",
+     "OPE"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 12.1,
+   "tempting_pairs": 0.8,
+   "shared_fragments": 2.5,
+   "anchor_balance": 6.8,
+   "shape": 8.6,
+   "word_appeal": 14.0,
+   "penalties": -16.5,
+   "structure": 28.3
+  },
+  "analysis": {
+   "n_tiles": 19,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 11,
+    "4": 5
+   },
+   "decoys": [
+    "PETER=PE+TER",
+    "CALLER=CAL+LER",
+    "TIGHTER=TIGH+TER",
+    "BATTER=BAT+TER",
+    "LITER=LI+TER",
+    "CYCLICAL=CYC+LI+CAL",
+    "PELICAN=PE+LI+CAN",
+    "JUGGLE=JUGG+LE",
+    "PECAN=PE+CAN",
+    "MASTER=MAS+TER*",
+    "CYCLE=CYC+LE*",
+    "CANNON=CAN+NON*",
+    "TROPE=TRO+PE*"
+   ],
+   "tempting_pairs": [
+    "BAT+TER",
+    "LI+TER"
+   ],
+   "anchors": [
+    "JUGG",
+    "TIGH"
+   ],
+   "word_tiles": [
+    "BALL"
+   ],
+   "misaligned": 5,
+   "dup_tiles": [],
+   "near_pairs": [
+    "CAL/CAN",
+    "LER/TER"
+   ],
+   "no_start_rival": [
+    "ACROBAT",
+    "JUGGLER",
+    "RINGMASTER",
+    "TIGHTROPE",
+    "UNICYCLE",
+    "CANNONBALL",
+    "CALLIOPE"
+   ],
+   "inflected": [],
+   "zipf": {
+    "ACROBAT": 2.72,
+    "JUGGLER": 2.55,
+    "RINGMASTER": 2.28,
+    "TIGHTROPE": 2.72,
+    "UNICYCLE": 2.37,
+    "CANNONBALL": 2.87,
+    "CALLIOPE": 2.41
+   }
+  },
+  "theme_hint": "Circus",
+  "category": "themed"
+ }
+]

@@ -1,0 +1,631 @@
+[
+ {
+  "id": "S01",
+  "category": "STEM",
+  "theme": "Mechanics",
+  "allowProperNouns": false,
+  "words": [
+   "ACCELERATE",
+   "TORQUE",
+   "TRAJECTORY",
+   "KINETIC",
+   "BUOYANCY",
+   "PROJECTILE",
+   "OSCILLATE",
+   "ELASTIC",
+   "VISCOSITY"
+  ]
+ },
+ {
+  "id": "S02",
+  "category": "STEM",
+  "theme": "Electricity",
+  "allowProperNouns": false,
+  "words": [
+   "CAPACITOR",
+   "RESISTOR",
+   "VOLTAGE",
+   "INDUCTION",
+   "INSULATOR",
+   "CIRCUIT",
+   "TRANSISTOR",
+   "ELECTRODE",
+   "FREQUENCY"
+  ]
+ },
+ {
+  "id": "S03",
+  "category": "STEM",
+  "theme": "Optics",
+  "allowProperNouns": false,
+  "words": [
+   "REFRACTION",
+   "SPECTRUM",
+   "POLARIZE",
+   "REFLECTION",
+   "APERTURE",
+   "HOLOGRAM",
+   "LUMINOUS",
+   "CONCAVE",
+   "FILAMENT",
+   "MAGNIFY",
+   "TELEPHOTO"
+  ]
+ },
+ {
+  "id": "S04",
+  "category": "STEM",
+  "theme": "Periodic Table",
+  "allowProperNouns": false,
+  "words": [
+   "HYDROGEN",
+   "NITROGEN",
+   "TITANIUM",
+   "POTASSIUM",
+   "HELIUM",
+   "MAGNESIUM",
+   "CALCIUM",
+   "PLATINUM",
+   "CHLORINE"
+  ]
+ },
+ {
+  "id": "S05",
+  "category": "STEM",
+  "theme": "Chemistry Lab",
+  "allowProperNouns": false,
+  "words": [
+   "BEAKER",
+   "PIPETTE",
+   "CENTRIFUGE",
+   "CRUCIBLE",
+   "DISTILLATE",
+   "REAGENT",
+   "FILTRATE",
+   "INDICATOR",
+   "BURETTE"
+  ]
+ },
+ {
+  "id": "S06",
+  "category": "STEM",
+  "theme": "Genetics",
+  "allowProperNouns": false,
+  "words": [
+   "CHROMOSOME",
+   "MUTATION",
+   "DOMINANT",
+   "RECESSIVE",
+   "HEREDITY",
+   "GENOTYPE",
+   "PHENOTYPE",
+   "TRANSCRIBE",
+   "HYBRID"
+  ]
+ },
+ {
+  "id": "S07",
+  "category": "STEM",
+  "theme": "Human Anatomy",
+  "allowProperNouns": false,
+  "words": [
+   "CEREBELLUM",
+   "ESOPHAGUS",
+   "VERTEBRA",
+   "CARTILAGE",
+   "PANCREAS",
+   "LIGAMENT",
+   "CAPILLARY",
+   "CLAVICLE",
+   "TRACHEA"
+  ]
+ },
+ {
+  "id": "S08",
+  "category": "STEM",
+  "theme": "Ecology",
+  "allowProperNouns": false,
+  "words": [
+   "ECOSYSTEM",
+   "PREDATOR",
+   "HABITAT",
+   "PARASITE",
+   "HERBIVORE",
+   "CARNIVORE",
+   "MIGRATION",
+   "KEYSTONE",
+   "DECOMPOSER"
+  ]
+ },
+ {
+  "id": "S09",
+  "category": "STEM",
+  "theme": "Geometry",
+  "allowProperNouns": false,
+  "words": [
+   "HYPOTENUSE",
+   "POLYGON",
+   "PERIMETER",
+   "CYLINDER",
+   "TRAPEZOID",
+   "CONGRUENT",
+   "PARABOLA",
+   "ELLIPSE",
+   "BISECTOR"
+  ]
+ },
+ {
+  "id": "S10",
+  "category": "STEM",
+  "theme": "Algebra",
+  "allowProperNouns": false,
+  "words": [
+   "POLYNOMIAL",
+   "EXPONENT",
+   "QUADRATIC",
+   "LOGARITHM",
+   "INEQUALITY",
+   "FACTORIAL",
+   "BINOMIAL",
+   "EQUATION",
+   "NUMERATOR"
+  ]
+ },
+ {
+  "id": "S11",
+  "category": "STEM",
+  "theme": "Logic and Proof",
+  "allowProperNouns": false,
+  "words": [
+   "THEOREM",
+   "COROLLARY",
+   "CONJECTURE",
+   "PARADOX",
+   "HYPOTHESIS",
+   "DEDUCTION",
+   "PREMISE",
+   "SYLLOGISM",
+   "POSTULATE"
+  ]
+ },
+ {
+  "id": "S12",
+  "category": "STEM",
+  "theme": "Data Science",
+  "allowProperNouns": false,
+  "words": [
+   "RANDOMIZE",
+   "CONFIDENCE",
+   "SKEWNESS",
+   "ESTIMATE",
+   "INFERENCE",
+   "BIMODAL",
+   "NORMALIZE",
+   "COVARIANCE",
+   "ANOMALY"
+  ]
+ },
+ {
+  "id": "S13",
+  "category": "STEM",
+  "theme": "Computer Networks",
+  "allowProperNouns": false,
+  "words": [
+   "PROTOCOL",
+   "FIREWALL",
+   "BANDWIDTH",
+   "ROUTER",
+   "BROWSER",
+   "ETHERNET",
+   "HYPERLINK",
+   "LATENCY",
+   "DOWNLOAD"
+  ]
+ },
+ {
+  "id": "S14",
+  "category": "STEM",
+  "theme": "Programming",
+  "allowProperNouns": false,
+  "words": [
+   "FUNCTION",
+   "SYNTAX",
+   "DEBUGGER",
+   "OPERATOR",
+   "INTEGER",
+   "BOOLEAN",
+   "COMPILER",
+   "ARGUMENT",
+   "RUNTIME"
+  ]
+ },
+ {
+  "id": "S15",
+  "category": "STEM",
+  "theme": "Geology",
+  "allowProperNouns": false,
+  "words": [
+   "IGNEOUS",
+   "TECTONIC",
+   "EARTHQUAKE",
+   "STALACTITE",
+   "GEYSER",
+   "EROSION",
+   "GRANITE",
+   "BEDROCK",
+   "OBSIDIAN"
+  ]
+ },
+ {
+  "id": "S16",
+  "category": "STEM",
+  "theme": "Atmosphere",
+  "allowProperNouns": false,
+  "words": [
+   "ATMOSPHERE",
+   "GREENHOUSE",
+   "CUMULUS",
+   "CONDENSE",
+   "EVAPORATE",
+   "EMISSION",
+   "ALTITUDE",
+   "AEROSOL",
+   "STRATUS",
+   "METHANE",
+   "CARBONATE",
+   "VAPORIZE",
+   "MONOXIDE"
+  ]
+ },
+ {
+  "id": "T01",
+  "category": "themed",
+  "theme": "US States",
+  "allowProperNouns": true,
+  "words": [
+   "MONTANA",
+   "KENTUCKY",
+   "ALABAMA",
+   "COLORADO",
+   "MICHIGAN",
+   "VERMONT",
+   "NEBRASKA",
+   "DELAWARE",
+   "TENNESSEE"
+  ]
+ },
+ {
+  "id": "T02",
+  "category": "themed",
+  "theme": "Countries",
+  "allowProperNouns": true,
+  "words": [
+   "ARGENTINA",
+   "PORTUGAL",
+   "INDONESIA",
+   "MOROCCO",
+   "THAILAND",
+   "ICELAND",
+   "MADAGASCAR",
+   "AUSTRALIA",
+   "VENEZUELA"
+  ]
+ },
+ {
+  "id": "T03",
+  "category": "themed",
+  "theme": "Great Scientists",
+  "allowProperNouns": true,
+  "words": [
+   "EINSTEIN",
+   "PASTEUR",
+   "COPERNICUS",
+   "ARCHIMEDES",
+   "FARADAY",
+   "HAWKING",
+   "DARWIN",
+   "EDISON",
+   "LOVELACE"
+  ]
+ },
+ {
+  "id": "T04",
+  "category": "themed",
+  "theme": "Shakespeare",
+  "allowProperNouns": true,
+  "words": [
+   "HAMLET",
+   "MACBETH",
+   "OTHELLO",
+   "PROSPERO",
+   "CORDELIA",
+   "BENVOLIO",
+   "MERCUTIO",
+   "OPHELIA",
+   "FALSTAFF"
+  ]
+ },
+ {
+  "id": "T05",
+  "category": "themed",
+  "theme": "Ancient Rome",
+  "allowProperNouns": false,
+  "words": [
+   "GLADIATOR",
+   "COLOSSEUM",
+   "AQUEDUCT",
+   "SENATOR",
+   "CENTURION",
+   "CHARIOT",
+   "EMPEROR",
+   "LEGIONARY",
+   "TRIBUNE"
+  ]
+ },
+ {
+  "id": "T06",
+  "category": "themed",
+  "theme": "Knights and Castles",
+  "allowProperNouns": false,
+  "words": [
+   "PORTCULLIS",
+   "DUNGEON",
+   "BATTLEMENT",
+   "TOURNAMENT",
+   "CHIVALRY",
+   "GAUNTLET",
+   "CRUSADE",
+   "FORTRESS",
+   "HERALDRY"
+  ]
+ },
+ {
+  "id": "T07",
+  "category": "themed",
+  "theme": "Breakfast",
+  "allowProperNouns": false,
+  "words": [
+   "PANCAKE",
+   "OATMEAL",
+   "CROISSANT",
+   "OMELETTE",
+   "GRANOLA",
+   "SAUSAGE",
+   "WAFFLE",
+   "PORRIDGE",
+   "YOGURT"
+  ]
+ },
+ {
+  "id": "T08",
+  "category": "themed",
+  "theme": "Spice Rack",
+  "allowProperNouns": false,
+  "words": [
+   "OREGANO",
+   "PAPRIKA",
+   "TURMERIC",
+   "CARDAMOM",
+   "CORIANDER",
+   "ROSEMARY",
+   "SAFFRON",
+   "NUTMEG",
+   "CILANTRO"
+  ]
+ },
+ {
+  "id": "T09",
+  "category": "themed",
+  "theme": "Bakery",
+  "allowProperNouns": false,
+  "words": [
+   "MACAROON",
+   "BROWNIE",
+   "CHEESECAKE",
+   "ECLAIR",
+   "CUPCAKE",
+   "SHORTBREAD",
+   "DOUGHNUT",
+   "STRUDEL",
+   "BAKLAVA"
+  ]
+ },
+ {
+  "id": "T10",
+  "category": "themed",
+  "theme": "Art Studio",
+  "allowProperNouns": false,
+  "words": [
+   "WATERCOLOR",
+   "PORTRAIT",
+   "LANDSCAPE",
+   "PALETTE",
+   "SCULPTURE",
+   "GALLERY",
+   "CHARCOAL",
+   "MOSAIC",
+   "ABSTRACT",
+   "PASTEL",
+   "PIGMENT",
+   "VARNISH",
+   "CERAMIC",
+   "TAPESTRY"
+  ]
+ },
+ {
+  "id": "T11",
+  "category": "themed",
+  "theme": "Dance Floor",
+  "allowProperNouns": false,
+  "words": [
+   "FLAMENCO",
+   "BALLERINA",
+   "PIROUETTE",
+   "FOXTROT",
+   "QUICKSTEP",
+   "MAZURKA",
+   "CHARLESTON",
+   "BOLERO",
+   "JITTERBUG"
+  ]
+ },
+ {
+  "id": "T12",
+  "category": "themed",
+  "theme": "Birds",
+  "allowProperNouns": false,
+  "words": [
+   "FLAMINGO",
+   "PELICAN",
+   "WOODPECKER",
+   "ALBATROSS",
+   "CARDINAL",
+   "KINGFISHER",
+   "PENGUIN",
+   "OSTRICH",
+   "MAGPIE"
+  ]
+ },
+ {
+  "id": "T13",
+  "category": "themed",
+  "theme": "Ocean Life",
+  "allowProperNouns": false,
+  "words": [
+   "OCTOPUS",
+   "DOLPHIN",
+   "SEAHORSE",
+   "ANEMONE",
+   "BARRACUDA",
+   "STINGRAY",
+   "MANATEE",
+   "PLANKTON",
+   "NARWHAL",
+   "SWORDFISH",
+   "HAMMERHEAD",
+   "PORPOISE"
+  ]
+ },
+ {
+  "id": "T14",
+  "category": "themed",
+  "theme": "Trees",
+  "allowProperNouns": false,
+  "words": [
+   "SEQUOIA",
+   "CYPRESS",
+   "EUCALYPTUS",
+   "SYCAMORE",
+   "HEMLOCK",
+   "JUNIPER",
+   "MAHOGANY",
+   "CHESTNUT",
+   "REDWOOD"
+  ]
+ },
+ {
+  "id": "T15",
+  "category": "themed",
+  "theme": "Dog Breeds",
+  "allowProperNouns": false,
+  "words": [
+   "DALMATIAN",
+   "LABRADOR",
+   "CHIHUAHUA",
+   "TERRIER",
+   "GREYHOUND",
+   "BULLDOG",
+   "RETRIEVER",
+   "SPANIEL",
+   "POODLE"
+  ]
+ },
+ {
+  "id": "T16",
+  "category": "themed",
+  "theme": "At the Airport",
+  "allowProperNouns": false,
+  "words": [
+   "RUNWAY",
+   "TURBULENCE",
+   "LAYOVER",
+   "CAROUSEL",
+   "DEPARTURE",
+   "ARRIVAL",
+   "CHECKPOINT",
+   "CUSTOMS",
+   "ITINERARY"
+  ]
+ },
+ {
+  "id": "T17",
+  "category": "themed",
+  "theme": "Camping Trip",
+  "allowProperNouns": false,
+  "words": [
+   "LANTERN",
+   "CAMPFIRE",
+   "HAMMOCK",
+   "BACKPACK",
+   "CANTEEN",
+   "TRAILHEAD",
+   "KINDLING",
+   "FIREWOOD",
+   "CAMPSITE",
+   "BINOCULARS",
+   "TARPAULIN",
+   "STARGAZER"
+  ]
+ },
+ {
+  "id": "T18",
+  "category": "themed",
+  "theme": "Whodunit",
+  "allowProperNouns": false,
+  "words": [
+   "SUSPECT",
+   "ALIBI",
+   "MOTIVE",
+   "EVIDENCE",
+   "WITNESS",
+   "CULPRIT",
+   "INSPECTOR",
+   "CONFESSION",
+   "ACCOMPLICE"
+  ]
+ },
+ {
+  "id": "T19",
+  "category": "themed",
+  "theme": "Pirates",
+  "allowProperNouns": false,
+  "words": [
+   "BUCCANEER",
+   "CUTLASS",
+   "GALLEON",
+   "MUTINY",
+   "DOUBLOON",
+   "PARROT",
+   "SCALLYWAG",
+   "CORSAIR",
+   "MAROONED"
+  ]
+ },
+ {
+  "id": "T20",
+  "category": "themed",
+  "theme": "Circus",
+  "allowProperNouns": false,
+  "words": [
+   "ACROBAT",
+   "TRAPEZE",
+   "JUGGLER",
+   "RINGMASTER",
+   "TIGHTROPE",
+   "UNICYCLE",
+   "CANNONBALL",
+   "STRONGMAN",
+   "CALLIOPE"
+  ]
+ }
+]

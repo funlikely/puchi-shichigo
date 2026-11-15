@@ -23,7 +23,9 @@ interface Props {
 }
 
 export function GameScreen({ puzzleDef, onBack, onComplete }: Props) {
-  const { puzzle, state, selectClue, tapChunk, clearSelection, submitAnswer, isComplete } =
+  const {
+    puzzle, state, selectClue, tapChunk, clearSelection, submitAnswer, shuffleChunks, isComplete,
+  } =
     useGameState(puzzleDef);
 
   useEffect(() => {
@@ -55,6 +57,11 @@ export function GameScreen({ puzzleDef, onBack, onComplete }: Props) {
           <Text style={styles.headerRound}>{puzzleDef.title}</Text>
           <Text style={styles.headerTheme}>{puzzleDef.theme}</Text>
         </View>
+        {!isComplete && (
+          <TouchableOpacity onPress={shuffleChunks} style={styles.shuffleBtn} hitSlop={12}>
+            <Text style={styles.shuffleText}>⇄ Shuffle</Text>
+          </TouchableOpacity>
+        )}
       </View>
 
       {isComplete ? (
@@ -128,6 +135,18 @@ const styles = StyleSheet.create({
     fontSize: 15,
     color: '#4A90D9',
     fontWeight: '600',
+  },
+  shuffleBtn: {
+    marginLeft: 12,
+    paddingHorizontal: 12,
+    paddingVertical: 6,
+    borderRadius: 8,
+    backgroundColor: '#E0D8C8',
+  },
+  shuffleText: {
+    fontSize: 14,
+    fontWeight: '700',
+    color: '#444',
   },
   headerTitles: {
     flex: 1,

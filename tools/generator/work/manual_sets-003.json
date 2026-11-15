@@ -1,0 +1,308 @@
+[
+ {
+  "id": "s1",
+  "category": "STEM",
+  "theme": "Physics",
+  "allowProperNouns": false,
+  "words": [
+   "ENTROPY",
+   "PHOTON",
+   "INERTIA",
+   "NEUTRINO",
+   "FRICTION",
+   "MAGNETISM",
+   "PENDULUM",
+   "QUANTUM",
+   "RESONANCE"
+  ]
+ },
+ {
+  "id": "s2",
+  "category": "STEM",
+  "theme": "Chemistry",
+  "allowProperNouns": false,
+  "words": [
+   "CATALYST",
+   "ISOTOPE",
+   "MOLECULE",
+   "ELECTRON",
+   "COVALENT",
+   "TITRATION",
+   "POLYMER",
+   "OXIDATION",
+   "SOLVENT"
+  ]
+ },
+ {
+  "id": "s3",
+  "category": "STEM",
+  "theme": "Cell Biology",
+  "allowProperNouns": false,
+  "words": [
+   "MITOSIS",
+   "RIBOSOME",
+   "ENZYME",
+   "MEMBRANE",
+   "NUCLEUS",
+   "PROTEIN",
+   "GENOME",
+   "ORGANELLE",
+   "SYMBIOSIS"
+  ]
+ },
+ {
+  "id": "s4",
+  "category": "STEM",
+  "theme": "Calculus",
+  "allowProperNouns": false,
+  "words": [
+   "DERIVATIVE",
+   "INTEGRAL",
+   "GRADIENT",
+   "ASYMPTOTE",
+   "CONTINUOUS",
+   "INFINITY",
+   "SEQUENCE",
+   "CONVERGE",
+   "MAXIMUM"
+  ]
+ },
+ {
+  "id": "s5",
+  "category": "STEM",
+  "theme": "Linear Algebra",
+  "allowProperNouns": false,
+  "words": [
+   "MATRIX",
+   "VECTOR",
+   "EIGENVALUE",
+   "TRANSPOSE",
+   "DIAGONAL",
+   "ORTHOGONAL",
+   "DIMENSION",
+   "IDENTITY",
+   "KERNEL"
+  ]
+ },
+ {
+  "id": "s6",
+  "category": "STEM",
+  "theme": "Statistics",
+  "allowProperNouns": false,
+  "words": [
+   "VARIANCE",
+   "MEDIAN",
+   "OUTLIER",
+   "HISTOGRAM",
+   "REGRESSION",
+   "QUARTILE",
+   "DEVIATION",
+   "PERCENTILE",
+   "SAMPLING"
+  ]
+ },
+ {
+  "id": "s7",
+  "category": "STEM",
+  "theme": "Computer Science",
+  "allowProperNouns": false,
+  "words": [
+   "ALGORITHM",
+   "RECURSION",
+   "COMPILER",
+   "BOOLEAN",
+   "VARIABLE",
+   "POINTER",
+   "DATABASE",
+   "ENCRYPTION",
+   "BINARY"
+  ]
+ },
+ {
+  "id": "s8",
+  "category": "STEM",
+  "theme": "Astronomy",
+  "allowProperNouns": false,
+  "words": [
+   "NEBULA",
+   "SUPERNOVA",
+   "ECLIPSE",
+   "GALAXY",
+   "EQUINOX",
+   "METEORITE",
+   "SOLSTICE",
+   "PARALLAX",
+   "PULSAR"
+  ]
+ },
+ {
+  "id": "t1",
+  "category": "themed",
+  "theme": "World Capitals",
+  "allowProperNouns": true,
+  "words": [
+   "LISBON",
+   "NAIROBI",
+   "HELSINKI",
+   "CANBERRA",
+   "SANTIAGO",
+   "BANGKOK",
+   "OTTAWA",
+   "BUDAPEST",
+   "COPENHAGEN"
+  ]
+ },
+ {
+  "id": "t2",
+  "category": "themed",
+  "theme": "Figures of History",
+  "allowProperNouns": true,
+  "words": [
+   "NAPOLEON",
+   "CLEOPATRA",
+   "CHURCHILL",
+   "LINCOLN",
+   "GANDHI",
+   "COLUMBUS",
+   "CAESAR",
+   "MANDELA",
+   "GALILEO"
+  ]
+ },
+ {
+  "id": "t3",
+  "category": "themed",
+  "theme": "Italian Kitchen",
+  "allowProperNouns": false,
+  "words": [
+   "RISOTTO",
+   "GNOCCHI",
+   "PARMESAN",
+   "TIRAMISU",
+   "PROSCIUTTO",
+   "RAVIOLI",
+   "FOCACCIA",
+   "MOZZARELLA",
+   "CALZONE"
+  ]
+ },
+ {
+  "id": "t4",
+  "category": "themed",
+  "theme": "Classical Music",
+  "allowProperNouns": false,
+  "words": [
+   "SYMPHONY",
+   "CRESCENDO",
+   "BARITONE",
+   "OVERTURE",
+   "MANDOLIN",
+   "FALSETTO",
+   "CONDUCTOR",
+   "METRONOME",
+   "HARMONY"
+  ]
+ },
+ {
+  "id": "t5",
+  "category": "themed",
+  "theme": "Weather",
+  "allowProperNouns": false,
+  "words": [
+   "BLIZZARD",
+   "TORNADO",
+   "HUMIDITY",
+   "FORECAST",
+   "DROUGHT",
+   "CYCLONE",
+   "BAROMETER",
+   "RAINBOW",
+   "THUNDER"
+  ]
+ },
+ {
+  "id": "t6",
+  "category": "themed",
+  "theme": "Game Night",
+  "allowProperNouns": false,
+  "words": [
+   "CHECKMATE",
+   "MONOPOLY",
+   "DOMINOES",
+   "SCRABBLE",
+   "BACKGAMMON",
+   "SOLITAIRE",
+   "CHARADES",
+   "CRIBBAGE",
+   "CHECKERS"
+  ]
+ },
+ {
+  "id": "t7",
+  "category": "themed",
+  "theme": "Greek Myth",
+  "allowProperNouns": true,
+  "words": [
+   "POSEIDON",
+   "HERCULES",
+   "MEDUSA",
+   "ACHILLES",
+   "PANDORA",
+   "ODYSSEUS",
+   "MINOTAUR",
+   "APHRODITE",
+   "PEGASUS"
+  ]
+ },
+ {
+  "id": "t8",
+  "category": "themed",
+  "theme": "Olympic Events",
+  "allowProperNouns": false,
+  "words": [
+   "DECATHLON",
+   "TRIATHLON",
+   "GYMNASTICS",
+   "WRESTLING",
+   "VOLLEYBALL",
+   "BADMINTON",
+   "TAEKWONDO",
+   "EQUESTRIAN",
+   "ARCHERY"
+  ]
+ },
+ {
+  "id": "t9",
+  "category": "themed",
+  "theme": "In the Garden",
+  "allowProperNouns": false,
+  "words": [
+   "ORCHID",
+   "DAFFODIL",
+   "MARIGOLD",
+   "JASMINE",
+   "HYACINTH",
+   "MAGNOLIA",
+   "SUNFLOWER",
+   "GERANIUM",
+   "PETUNIA"
+  ]
+ },
+ {
+  "id": "t10",
+  "category": "themed",
+  "theme": "At the Movies",
+  "allowProperNouns": false,
+  "words": [
+   "DIRECTOR",
+   "SEQUEL",
+   "SCREENPLAY",
+   "PREMIERE",
+   "STUNTMAN",
+   "MATINEE",
+   "BLOOPER",
+   "POPCORN",
+   "CAMEO"
+  ]
+ }
+]

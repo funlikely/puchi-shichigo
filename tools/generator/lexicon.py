@@ -106,6 +106,111 @@ def is_abstract(word: str) -> bool:
     return word.lower().endswith(ABSTRACT_SUFFIXES)
 
 
+@functools.lru_cache(maxsize=None)
+def vetted() -> frozenset[str]:
+    return frozenset(_read_list("vetted_words.txt"))
+
+
+@functools.lru_cache(maxsize=None)
+def proper_nouns() -> frozenset[str]:
+    return frozenset(_read_list("proper_nouns.txt"))
+
+
+def is_curated(word: str) -> bool:
+    w = word.lower()
+    return w in vetted() or w in proper_nouns()
+
+
+@functools.lru_cache(maxsize=None)
+def _fragment_stems():
+    """fragment (2-4 letters) -> set of 4-letter word stems of familiar words containing it."""
+    d: dict[str, set] = {}
+    for w in decoy_lexicon():
+        if len(w) < 5:
+            continue
+        stem = w[:4]
+        for i in range(len(w)):
+            for L in (2, 3, 4):
+                if i + L <= len(w):
+                    d.setdefault(w[i : i + L], set()).add(stem)
+    return d
+
+
+def productivity(tile: str, answer: str = "") -> int:
+    """How many distinct UNRELATED word families contain this tile?
+
+    Families are 4-letter stems of familiar words; the answer's own family is
+    not counted, so ENGI (only ENGINE/ENGINEER) scores 0 and INE scores hundreds.
+    """
+    s = _fragment_stems().get(tile, ())
+    return len(s) - (1 if answer[:4] in s else 0)
+
+
+FAMILY_LEN = 5            # words sharing this many leading letters are one family
+
+
+def _weight(word: str) -> float:
+    """Frequency weight, compressed so a few very common words do not drown the rest."""
+    return 10 ** ((max(zipf(word), 2.0) - 3.0) / 2)
+
+
+@functools.lru_cache(maxsize=None)
+def _giveaway_index():
+    """(anywhere, start, end): fragment -> {family: weight} over familiar words."""
+    anywhere: dict = {}
+    start: dict = {}
+    end: dict = {}
+    for w in decoy_lexicon():
+        if len(w) < 5:
+            continue
+        fam, wt, n = w[:FAMILY_LEN], _weight(w), len(w)
+        seen = set()
+        for L in (2, 3, 4):
+            for i in range(n - L + 1):
+                f = w[i : i + L]
+                if f not in seen:
+                    seen.add(f)
+                    d = anywhere.setdefault(f, {})
+                    d[fam] = d.get(fam, 0.0) + wt
+            d = start.setdefault(w[:L], {})
+            d[fam] = d.get(fam, 0.0) + wt
+            d = end.setdefault(w[-L:], {})
+            d[fam] = d.get(fam, 0.0) + wt
+    return anywhere, start, end
+
+
+def _share(table: dict, tile: str, answer: str) -> float:
+    d = table.get(tile, {})
+    fam = answer[:FAMILY_LEN]
+    own, total = d.get(fam, 0.0), sum(d.values())
+    if answer not in decoy_lexicon():          # curated / proper answers are not in the lexicon
+        own, total = own + 1.0, total + 1.0
+    return own / total if total else 1.0
+
+
+@functools.lru_cache(maxsize=None)
+def giveaway(tile: str, answer: str, pos: int) -> float:
+    """How much does this one tile give the answer away?  0 = not at all, 1 = completely.
+
+    Roughly P(answer's word family | tile): the frequency-weighted share of familiar words
+    containing the tile that belong to the answer's own family. For a first or last tile the
+    share among words that START / END with it is averaged in, because ENGI- only ever leads
+    to ENGINE*, while -ITY ends thousands of words.
+    """
+    anywhere, start, end = _giveaway_index()
+    g = _share(anywhere, tile, answer)
+    if pos == 0:
+        g = 0.5 * g + 0.5 * _share(start, tile, answer)
+    elif pos + len(tile) == len(answer):
+        g = 0.5 * g + 0.5 * _share(end, tile, answer)
+    return round(g, 3)
+
+
+def is_word_tile(tile: str) -> bool:
+    """A 4-letter tile that is itself a common word (CITY, NECK) is a giveaway. -ING tiles are exempt."""
+    return len(tile) == 4 and not tile.endswith("ING") and tile.lower() in dictionary() and zipf(tile) >= 4.0
+
+
 def inflection(word: str) -> str | None:
     """Return 'plural', 'ing', 'ed' if word looks like an inflected form."""
     d = dictionary()
@@ -154,6 +259,8 @@ def answer_ok(word: str) -> tuple[bool, str]:
         return False, "non-alphabetic"
     if not (ANSWER_MIN_LEN <= len(w) <= ANSWER_MAX_LEN):
         return False, f"length {len(w)} outside {ANSWER_MIN_LEN}-{ANSWER_MAX_LEN}"
+    if is_curated(w):
+        return (False, "blocklisted") if is_blocked(w) else (True, "")
     if w not in dictionary():
         return False, "not in dictionary"
     if is_blocked(w):

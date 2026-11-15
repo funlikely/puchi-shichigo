@@ -8,7 +8,7 @@ are a separate file-based stage so a human or an LLM can do them.
 
     cd tools/generator
     python3 -m venv --without-pip .venv            # plain `python3 -m venv .venv` if ensurepip exists
-    pip --python .venv/bin/python install wordfreq
+    pip --python .venv/bin/python install wordfreq pyphen
 
 Needs `/usr/share/dict/american-english` (override with `PUCHI_DICT=/path`).
 
@@ -58,7 +58,24 @@ In the clues file, `"critique": {"verdict": "cut"}` vetoes a round regardless of
 * A bare `ING` tile is penalised (tiling cost +1.5, score -2); a 4-letter tile ending in ING
   (KING, TING, LING) is preferred. This is NOT applied to other fragments (CON, ION, SUB...).
 * The generator emits no `-ING`/`-ED` answers and at most 1 abstract-suffix word per round.
-* At most 3 two-tile answers.
+* 2-tile answers are fine (STA·BLE); hard cap 5 per round, no score penalty.
+* **Productive tiles (batch 003+).** `lexicon.productivity(tile, answer)` counts the distinct
+  unrelated word families (4-letter stems of familiar words, excluding the answer's own) that
+  contain the tile. A 3-letter tile under 6 families or a 4-letter tile under 3 is
+  "low-productivity": +1.0 tiling cost, and each one beyond two per round costs 2 points of the
+  8-point tile-productivity component (formerly "anchor balance"). So ENG·INE·ER beats
+  ENGI·NEER. A 4-letter tile that is itself a common word (CITY, NECK; -ING tiles exempt) costs
+  +1.0 in tiling and -1.5 in the score, so VEL·OC·ITY beats VELO·CITY.
+* **Proper nouns** are allowed only from the curated `data/proper_nouns.txt` (well-known places,
+  historical and mythical figures): max 2 per round, unless the round sets
+  `"allowProperNouns": true` (geography / history / myth rounds).
+* **Themed and STEM rounds** are editor-seeded: list 7-9 words per round in a manual-sets JSON
+  (`generate.py --manual-file`), the generator picks the best 7 and cuts the tiles under the
+  hard rules only. Theme words go in `data/vetted_words.txt`, which bypasses the dictionary,
+  frequency and dull-word filters. Each round carries `category`: STEM / themed / mixed.
+* **Clue originality.** Everything under `content/generated/` and `content/puzzles.json` is
+  public, so clues must be original. `content/borrowed/` (gitignored) may be read for style
+  only; a round using a borrowed clue must be tagged `"source": "borrowed"` and stay there.
 * **Unique solution:** each answer can be spelled from the round's tile multiset in exactly one
   way. Since the app accepts any tile sequence that spells the answer, a second spelling would
   strand tiles; this rule also means no two answers can trade tiles. Identical tiles (two `ING`)
@@ -72,6 +89,53 @@ In the clues file, `"critique": {"verdict": "cut"}` vetoes a round regardless of
 
 What code cannot decide: whether a clue also fits a decoy word. That is the judge's job
 (prompt rule 6). Two batch-001 clues were rewritten for exactly this reason.
+
+## Tiling (batch 004+): per-tile giveaway
+
+Rounds 1-70 were cut with older rules and are not re-tiled. From batch 004, `tiling.py` works
+like this:
+
+1. **Candidates:** every split of the answer into 2-4 letter tiles that each contain a vowel.
+   Hyphenation is not a constraint.
+2. **Per-tile giveaway** (`lexicon.giveaway`): roughly P(answer's word family | tile). Take all
+   familiar words (5+ letters) containing the tile, weight each by compressed frequency
+   (10^((zipf-3)/2)), group them into families (same first 5 letters, so ENGINE / ENGINEER /
+   ENGINEERING are one family), and take the share of the weight that belongs to the answer's
+   family. For a first or last tile, that share is averaged with the share among words that
+   START or END with the tile. 0 = tells you nothing, 1 = only this answer. Curated answers that
+   are not in the lexicon count themselves, so a tile found nowhere else (GKOK) scores 1.0.
+3. **Split cost** (lower wins): 6 x (worst tile giveaway above 0.30) + 2 x mean giveaway
+   + tile-length costs (2-letter 1.5, +0.6 more if it is the first tile; 4-letter 0.5; bare ING
+   +1.5; 4-letter -ING tile -0.5) + 1.0 per 4-letter tile that is a common word (CITY)
+   + 0.3 per tile boundary that is off a `pyphen` en_US hyphenation point (the syllable bonus).
+   Splits within 0.5 of the best are kept, and the round-level search picks among them
+   (widened to 1.5 for a hand-seeded themed round only if no valid round exists otherwise).
+4. **Round level:** a tile with giveaway >= 0.40 is a "giveaway tile". The generator's mixed
+   pool only uses words whose best split has none; the 8-point tile component of the structure
+   score loses 2 per giveaway tile beyond two and 10 x the round's mean giveaway.
+
+Pair giveaway (how far the first two tiles pin the answer down) is not implemented.
+
+| Split | Giveaway per tile | Worst | Cost | Verdict |
+|---|---|---|---|---|
+| ENGI·NEER | 0.94 / 0.58 | 0.94 | 6.39 | bad: ENGI only leads to ENGINE*, NEER is a small set |
+| ENG·INE·ER | 0.39 / 0.04 / 0.00 | 0.39 | 2.90 | better |
+| EN·GIN·EER | 0.03 / 0.10 / 0.17 | 0.17 | 2.61 | chosen |
+| VELO·CITY | 0.53 / 0.07 | 0.53 | 4.26 | bad: VELO- start, CITY is a whole word |
+| VEL·OC·ITY | 0.31 / 0.01 / 0.01 | 0.31 | 2.09 | chosen |
+| VE·LOC·ITY | 0.01 / 0.02 / 0.01 | 0.02 | 2.13 | also fine (within 0.04) |
+| SYM·PHO·NY | 0.06 / 0.02 / 0.02 | 0.06 | 1.56 | chosen |
+| SYMP·HONY | 0.11 / 0.62 | 0.62 | 3.95 | bad: -HONY |
+| PLAY·GRO·UND | 0.04 / 0.02 / 0.01 | 0.04 | 1.85 | chosen |
+| PLA·YGRO·UND | 0.01 / 1.00 / 0.01 | 1.00 | 5.98 | bad: YGRO |
+| EXP·ERI·MENT | 0.19 / 0.09 / 0.01 | 0.19 | 0.99 | chosen |
+| EXP·ERIM·ENT | 0.19 / 0.75 / 0.01 | 0.75 | 4.46 | bad: ERIM |
+| CRE·SCEN·DO | 0.01 / 0.04 / 0.03 | 0.04 | 2.35 | syllabic |
+| CRE·SCE·NDO | 0.01 / 0.03 / 0.10 | 0.10 | 0.70 | chosen: cheaper on tile lengths, see note |
+
+Note on CRESCENDO: the metric rates both splits as non-giveaway, so the tile-length cost
+decides and the non-syllabic CRE·SCE·NDO wins. Raise `MIS_COST` in `tiling.py` if syllable
+boundaries should count for more.
 
 ## Scoring formula (0-100)
 

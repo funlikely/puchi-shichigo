@@ -32,6 +32,7 @@ GEN_FOUR_MIN, GEN_FOUR_MAX_FRAC = 2, 0.2    # and 2-letter tiles must not outnum
 GEN_MIN_FRAC3 = 0.6
 GEN_MAX_INFLECTED = 0              # no -ING/-ED filler answers
 GEN_MAX_ABSTRACT = 1
+MANUAL_MAX_WORDS = 9
 EXCLUDE: set = set()               # answers already used in earlier batches
 GEN_MIN_FAVORITES = 4              # vivid, hand-vetted words per round
 STEPS = 90
@@ -57,25 +58,28 @@ def tile_index():
     return _INDEX
 
 
-def evaluate(entries, min_fav=GEN_MIN_FAVORITES):
-    """Return (score, analysis) or (None, None) if the round is invalid."""
+def evaluate(entries, min_fav=GEN_MIN_FAVORITES, strict=True, max_proper=None):
+    """Return (score, analysis) or (None, None) if the round is invalid.
+
+    strict=False (editor-seeded themed rounds) applies only the hard rules."""
     n = sum(len(t) for _, t in entries)
-    if not (GEN_TILES_MIN <= n <= GEN_TILES_MAX):
-        return None, None
-    lens = [len(t) for _, ts in entries for t in ts]
-    if lens.count(2) > GEN_MAX_TWO or lens.count(3) < GEN_MIN_FRAC3 * n:
-        return None, None
-    if not (GEN_FOUR_MIN <= lens.count(4) <= GEN_FOUR_MAX_FRAC * n) or lens.count(2) > lens.count(4):
-        return None, None
-    if sum(1 for w, _ in entries if lx.inflection(w.lower()) in ("ing", "ed")) > GEN_MAX_INFLECTED:
-        return None, None
-    if sum(1 for w, _ in entries if lx.is_abstract(w)) > GEN_MAX_ABSTRACT:
-        return None, None
-    fav = lx.favorites()
-    if sum(1 for w, _ in entries if w.lower() in fav) < min_fav:
-        return None, None
+    if strict:
+        if not (GEN_TILES_MIN <= n <= GEN_TILES_MAX):
+            return None, None
+        lens = [len(t) for _, ts in entries for t in ts]
+        if lens.count(2) > GEN_MAX_TWO or lens.count(3) < GEN_MIN_FRAC3 * n:
+            return None, None
+        if not (GEN_FOUR_MIN <= lens.count(4) <= GEN_FOUR_MAX_FRAC * n) or lens.count(2) > lens.count(4):
+            return None, None
+        if sum(1 for w, _ in entries if lx.inflection(w.lower()) in ("ing", "ed")) > GEN_MAX_INFLECTED:
+            return None, None
+        if sum(1 for w, _ in entries if lx.is_abstract(w)) > GEN_MAX_ABSTRACT:
+            return None, None
+        fav = lx.favorites()
+        if sum(1 for w, _ in entries if w.lower() in fav) < min_fav:
+            return None, None
     an = scoring.analyze(entries)
-    if scoring.hard_errors(entries, an, check_words=False):
+    if scoring.hard_errors(entries, an, check_words=False, max_proper=max_proper):
         return None, None
     return scoring.structure_score(an)["structure"], an
 
@@ -134,16 +138,24 @@ def search(seed: int, words: list[str], fixed: list[str] | None = None):
     return best
 
 
-def retile(entries):
+def retile(entries, strict=True, max_proper=None):
     """Keep the words, re-cut the tiles: coordinate ascent on the structure score."""
     best = [(w, tuple(t)) for w, t in entries]
-    best_s, _ = evaluate(best, 0)
+    best_s, _ = evaluate(best, 0, strict, max_proper)
+    if best_s is None:                         # no valid start: try seeded random tilings
+        rng = random.Random(zlib.crc32("".join(w for w, _ in best).encode()))
+        for _try in range(300):
+            ent = [(w, rng.choice(tiling.good_tilings(w))) for w, _ in best]
+            s, _an = evaluate(ent, 0, strict, max_proper)
+            if s is not None:
+                best, best_s = ent, s
+                break
     for _sweep in range(4):
         changed = False
         for i, (w, _t) in enumerate(best):
             for t in tiling.good_tilings(w):
                 ent = best[:i] + [(w, t)] + best[i + 1 :]
-                s, _an = evaluate(ent, 0)
+                s, _an = evaluate(ent, 0, strict, max_proper)
                 if s is not None and (best_s is None or s > best_s):
                     best, best_s, changed = ent, s, True
         if not changed:
@@ -151,8 +163,43 @@ def retile(entries):
     return best, best_s
 
 
+def build_manual(m):
+    """Editor-seeded round: pick the best 7 of the listed words and cut their tiles."""
+    import itertools
+    ok = []
+    for w in (x.upper() for x in m["words"]):
+        good, why = lx.answer_ok(w)
+        if not good or w in EXCLUDE or not tiling.good_tilings(w):
+            print(f"  {m['id']}: drop {w} ({why or 'already used / no legal tiling'})")
+            continue
+        ok.append(w)
+    if len(ok) > MANUAL_MAX_WORDS:            # keep the words with the least giveaway-prone tiles
+        ok = sorted(ok, key=lambda w: (tiling.worst_giveaway(w), w))[:MANUAL_MAX_WORDS]
+    mp = 7 if m.get("allowProperNouns") else None
+    best = None
+    for combo in itertools.combinations(ok, 7):
+        ent, s = retile([(w, tiling.good_tilings(w)[0]) for w in combo], strict=False, max_proper=mp)
+        if s is not None and (best is None or s > best[1]):
+            best = (ent, s)
+    if best is None and tiling.SLACK < 1.5:    # no valid round from near-best splits: widen once
+        old, tiling.SLACK = tiling.SLACK, 1.5
+        tiling.good_tilings.cache_clear()
+        try:
+            return build_manual(m)
+        finally:
+            tiling.SLACK = old
+            tiling.good_tilings.cache_clear()
+    if best is None:
+        ent = [(w, list(tiling.good_tilings(w)[0])) for w in ok[:7]]
+        print(f"  {m['id']}: NO VALID ROUND from {ok}: e.g. {scoring.hard_errors(ent, check_words=False, max_proper=mp)[:3]}")
+        return None
+    EXCLUDE.update(w for w, _ in best[0])
+    return package(m["id"], [[w, list(t)] for w, t in best[0]],
+                   {"theme_hint": m.get("theme", ""), "category": m.get("category", "themed")})
+
+
 def _shard_words(shard: int):
-    pool = [w for w in lx.answer_pool() if w not in EXCLUDE and tiling.good_tilings(w)]
+    pool = [w for w in lx.answer_pool() if w not in EXCLUDE and tiling.worst_giveaway(w) < tiling.GIVEAWAY_BAD]
     if SHARDS <= 1:
         return list(pool)
     return [w for w in pool if zlib.crc32(w.encode()) % SHARDS == shard]
@@ -196,6 +243,8 @@ def summarize(an):
         "decoys": [f"{d['word']}={'+'.join(d['tiles'])}" + ("" if d["cross"] else "*") for d in an["decoys"]],
         "tempting_pairs": ["+".join(p) for p in an["tempting_pairs"]],
         "anchors": an["anchors"],
+        "word_tiles": an["word_tiles"],
+        "misaligned": an["misaligned"],
         "dup_tiles": an["dup_tiles"],
         "near_pairs": ["/".join(p) for p in an["near_pairs"]],
         "no_start_rival": [a for a, r in an["start_rivals"].items() if not r],
@@ -210,7 +259,7 @@ def main():
     ap.add_argument("--seed", type=int, default=1)
     ap.add_argument("--jobs", type=int, default=8)
     ap.add_argument("--out", default=str(HERE / "work" / "candidates.json"))
-    ap.add_argument("--manual", action="store_true", help="also build work/manual_sets.json")
+    ap.add_argument("--manual-file", help="JSON of editor-seeded rounds: [{id, theme, category, words:[7-9], allowProperNouns}]")
     ap.add_argument("--manual-only", action="store_true")
     ap.add_argument("--retile", help="candidates file: keep each round's words, re-cut tiles under the current rules, rewrite in place")
     ap.add_argument("--exclude", action="append", default=[], help="puzzles JSON whose answers must not be reused")
@@ -231,6 +280,16 @@ def main():
         print(f"re-tiled {len(out)} candidates in {args.retile}")
         return
     out = []
+    manual = []
+    if args.manual_file:                       # themed rounds first, so their words are excluded below
+        msets = json.loads(Path(args.manual_file).read_text())
+        seen: set[str] = set()                 # a word may belong to one themed set only
+        for m in msets:
+            m["words"] = [w for w in m["words"] if w.upper() not in seen]
+            seen.update(w.upper() for w in m["words"])
+        with Pool(args.jobs) as pool:
+            manual = [d for d in pool.map(build_manual, msets) if d]
+        EXCLUDE.update(e["answer"] for d in manual for e in d["entries"])
     if not args.manual_only:
         jobs = [(args.seed * 1000 + i, None) for i in range(args.count)]
         with Pool(args.jobs) as pool:
@@ -249,16 +308,7 @@ def main():
             k += 1
             d["id"] = f"c{k:03d}"
             out.append(d)
-    mpath = HERE / "work" / "manual_sets.json"
-    if (args.manual or args.manual_only) and mpath.exists():
-        for m in json.loads(mpath.read_text()):
-            seed = zlib.crc32(m["id"].encode())
-            bests = [r for r in (_job((seed + j * SHARDS, [w.upper() for w in m["words"]])) for j in range(m.get("tries", 3))) if r]
-            if not bests:
-                print("no valid round for", m["id"])
-                continue
-            cands = [package(m["id"], r, {"theme_hint": m.get("theme", "")}) for r in bests]
-            out.append(max(cands, key=lambda d: d["structure_scores"]["structure"]))
+    out += manual
     Path(args.out).parent.mkdir(parents=True, exist_ok=True)
     Path(args.out).write_text(json.dumps(out, indent=1) + "\n")
     print(f"wrote {len(out)} candidates to {args.out}")

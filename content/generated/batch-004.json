@@ -1,0 +1,6151 @@
+[
+  {
+    "id": "round71",
+    "title": "Round 71",
+    "theme": "Mixed",
+    "clueAnswers": [
+      {
+        "clue": "Brain power",
+        "answer": "INTELLECT",
+        "chunkTexts": [
+          "INT",
+          "ELL",
+          "ECT"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Bottled common scents",
+        "answer": "PERFUME",
+        "chunkTexts": [
+          "PERF",
+          "UME"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "Right hand, on payroll",
+        "answer": "ASSISTANT",
+        "chunkTexts": [
+          "ASS",
+          "IST",
+          "ANT"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Ship, or blood carrier",
+        "answer": "VESSEL",
+        "chunkTexts": [
+          "VES",
+          "SEL"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Unmentioned one in the room",
+        "answer": "ELEPHANT",
+        "chunkTexts": [
+          "EL",
+          "EPH",
+          "ANT"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 5
+      },
+      {
+        "clue": "Stand in for",
+        "answer": "REPRESENT",
+        "chunkTexts": [
+          "REP",
+          "RES",
+          "ENT"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Case that needs cracking",
+        "answer": "MYSTERY",
+        "chunkTexts": [
+          "MYS",
+          "TERY"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "mixed",
+    "candidateId": "c003",
+    "scores": {
+      "decoys": 19.8,
+      "tempting_pairs": 2.4,
+      "shared_fragments": 10.0,
+      "anchor_balance": 6.8,
+      "shape": 11.0,
+      "word_appeal": 11.3,
+      "penalties": -6.9,
+      "structure": 54.5,
+      "clue_rating": 22.5,
+      "clue_variety": 8.0,
+      "clue_puns": 12.0,
+      "clue_penalties": 0.0,
+      "clues": 42.5,
+      "structure_scaled": 34.1,
+      "total": 76.6
+    }
+  },
+  {
+    "id": "round72",
+    "title": "Round 72",
+    "theme": "Mixed",
+    "clueAnswers": [
+      {
+        "clue": "Scatter, as a crowd",
+        "answer": "DISPERSE",
+        "chunkTexts": [
+          "DIS",
+          "PER",
+          "SE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Field worker with big wheels",
+        "answer": "TRACTOR",
+        "chunkTexts": [
+          "TRA",
+          "CTOR"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Nest you shouldn't stir",
+        "answer": "HORNET",
+        "chunkTexts": [
+          "HOR",
+          "NET"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Save, or fruity spread",
+        "answer": "CONSERVE",
+        "chunkTexts": [
+          "CON",
+          "SER",
+          "VE"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Extra point after a try",
+        "answer": "CONVERSION",
+        "chunkTexts": [
+          "CON",
+          "VER",
+          "SION"
+        ],
+        "clueType": "misdirection",
+        "clueRating": 4
+      },
+      {
+        "clue": "It really digs its work",
+        "answer": "SHOVEL",
+        "chunkTexts": [
+          "SHO",
+          "VEL"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Pit crew with strings",
+        "answer": "ORCHESTRA",
+        "chunkTexts": [
+          "ORC",
+          "HES",
+          "TRA"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "mixed",
+    "candidateId": "c004",
+    "scores": {
+      "decoys": 19.1,
+      "tempting_pairs": 4.0,
+      "shared_fragments": 10.0,
+      "anchor_balance": 7.5,
+      "shape": 11.0,
+      "word_appeal": 9.7,
+      "penalties": -7.5,
+      "structure": 53.8,
+      "clue_rating": 22.5,
+      "clue_variety": 8.0,
+      "clue_puns": 12.0,
+      "clue_penalties": 0.0,
+      "clues": 42.5,
+      "structure_scaled": 33.6,
+      "total": 76.1
+    }
+  },
+  {
+    "id": "round73",
+    "title": "Round 73",
+    "theme": "Mixed",
+    "clueAnswers": [
+      {
+        "clue": "Rotten luck, formally",
+        "answer": "MISFORTUNE",
+        "chunkTexts": [
+          "MIS",
+          "FOR",
+          "TUNE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Dell resident of song",
+        "answer": "FARMER",
+        "chunkTexts": [
+          "FAR",
+          "MER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Top-shelf, or insurance bill",
+        "answer": "PREMIUM",
+        "chunkTexts": [
+          "PRE",
+          "MI",
+          "UM"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Section that gets hit a lot",
+        "answer": "PERCUSSION",
+        "chunkTexts": [
+          "PER",
+          "CUS",
+          "SION"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "Practice makes it",
+        "answer": "PERFECT",
+        "chunkTexts": [
+          "PER",
+          "FECT"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Chew over",
+        "answer": "PONDER",
+        "chunkTexts": [
+          "PON",
+          "DER"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Operation, step by step",
+        "answer": "PROCEDURE",
+        "chunkTexts": [
+          "PRO",
+          "CED",
+          "URE"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "mixed",
+    "candidateId": "c010",
+    "scores": {
+      "decoys": 13.7,
+      "tempting_pairs": 3.2,
+      "shared_fragments": 10.0,
+      "anchor_balance": 7.3,
+      "shape": 10.4,
+      "word_appeal": 10.2,
+      "penalties": -7.1,
+      "structure": 47.7,
+      "clue_rating": 22.5,
+      "clue_variety": 8.0,
+      "clue_puns": 12.0,
+      "clue_penalties": 0.0,
+      "clues": 42.5,
+      "structure_scaled": 29.8,
+      "total": 72.3
+    }
+  },
+  {
+    "id": "round74",
+    "title": "Round 74",
+    "theme": "Mixed",
+    "clueAnswers": [
+      {
+        "clue": "Full of fire",
+        "answer": "PASSIONATE",
+        "chunkTexts": [
+          "PAS",
+          "SIO",
+          "NATE"
+        ],
+        "clueType": "evocative",
+        "clueRating": 3
+      },
+      {
+        "clue": "Up the creek without one",
+        "answer": "PADDLE",
+        "chunkTexts": [
+          "PAD",
+          "DLE"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Salesperson's cut",
+        "answer": "COMMISSION",
+        "chunkTexts": [
+          "COM",
+          "MIS",
+          "SION"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Behavior, or lead a band",
+        "answer": "CONDUCT",
+        "chunkTexts": [
+          "CON",
+          "DUCT"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Chat, or the opposite",
+        "answer": "CONVERSE",
+        "chunkTexts": [
+          "CON",
+          "VER",
+          "SE"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "One paid to be tactful abroad",
+        "answer": "DIPLOMAT",
+        "chunkTexts": [
+          "DI",
+          "PLO",
+          "MAT"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "It rubs out mistakes",
+        "answer": "ERASER",
+        "chunkTexts": [
+          "ERA",
+          "SER"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "mixed",
+    "candidateId": "c006",
+    "scores": {
+      "decoys": 19.6,
+      "tempting_pairs": 1.6,
+      "shared_fragments": 6.2,
+      "anchor_balance": 7.1,
+      "shape": 10.4,
+      "word_appeal": 10.6,
+      "penalties": -5.2,
+      "structure": 50.4,
+      "clue_rating": 20.4,
+      "clue_variety": 8.0,
+      "clue_puns": 12.0,
+      "clue_penalties": 0.0,
+      "clues": 40.4,
+      "structure_scaled": 31.5,
+      "total": 71.9
+    }
+  },
+  {
+    "id": "round75",
+    "title": "Round 75",
+    "theme": "Mixed",
+    "clueAnswers": [
+      {
+        "clue": "Shrinking flower",
+        "answer": "VIOLET",
+        "chunkTexts": [
+          "VIO",
+          "LET"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 5
+      },
+      {
+        "clue": "Plane's big fan",
+        "answer": "PROPELLER",
+        "chunkTexts": [
+          "PRO",
+          "PEL",
+          "LER"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "It goes up when rain comes down",
+        "answer": "UMBRELLA",
+        "chunkTexts": [
+          "UMB",
+          "REL",
+          "LA"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 5
+      },
+      {
+        "clue": "Steal of a deal",
+        "answer": "BARGAIN",
+        "chunkTexts": [
+          "BAR",
+          "GAIN"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Waterfall in steps",
+        "answer": "CASCADE",
+        "chunkTexts": [
+          "CAS",
+          "CADE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Award show envelope opener",
+        "answer": "PRESENTER",
+        "chunkTexts": [
+          "PRE",
+          "SEN",
+          "TER"
+        ],
+        "clueType": "evocative",
+        "clueRating": 3
+      },
+      {
+        "clue": "Judge's last words, or these",
+        "answer": "SENTENCE",
+        "chunkTexts": [
+          "SEN",
+          "TE",
+          "NCE"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "mixed",
+    "candidateId": "c022",
+    "scores": {
+      "decoys": 14.5,
+      "tempting_pairs": 2.4,
+      "shared_fragments": 7.5,
+      "anchor_balance": 7.1,
+      "shape": 11.0,
+      "word_appeal": 10.4,
+      "penalties": -10.1,
+      "structure": 42.7,
+      "clue_rating": 24.6,
+      "clue_variety": 8.0,
+      "clue_puns": 12.0,
+      "clue_penalties": 0.0,
+      "clues": 44.6,
+      "structure_scaled": 26.7,
+      "total": 71.3
+    }
+  },
+  {
+    "id": "round76",
+    "title": "Round 76",
+    "theme": "Mixed",
+    "clueAnswers": [
+      {
+        "clue": "Utter rubbish",
+        "answer": "NONSENSE",
+        "chunkTexts": [
+          "NON",
+          "SEN",
+          "SE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Lunch meat, or hogwash",
+        "answer": "BALONEY",
+        "chunkTexts": [
+          "BAL",
+          "ONEY"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Fiddle with the works",
+        "answer": "TINKER",
+        "chunkTexts": [
+          "TIN",
+          "KER"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Forecast, or film on a wall",
+        "answer": "PROJECTION",
+        "chunkTexts": [
+          "PRO",
+          "JECT",
+          "ION"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Straight up",
+        "answer": "VERTICAL",
+        "chunkTexts": [
+          "VER",
+          "TIC",
+          "AL"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Deep-diving sandwich",
+        "answer": "SUBMARINE",
+        "chunkTexts": [
+          "SUB",
+          "MAR",
+          "INE"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "Handy, like a corner store",
+        "answer": "CONVENIENT",
+        "chunkTexts": [
+          "CON",
+          "VEN",
+          "IENT"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "mixed",
+    "candidateId": "c005",
+    "scores": {
+      "decoys": 18.1,
+      "tempting_pairs": 3.6,
+      "shared_fragments": 8.8,
+      "anchor_balance": 7.5,
+      "shape": 11.7,
+      "word_appeal": 11.0,
+      "penalties": -7.8,
+      "structure": 52.8,
+      "clue_rating": 18.2,
+      "clue_variety": 8.0,
+      "clue_puns": 12.0,
+      "clue_penalties": 0.0,
+      "clues": 38.2,
+      "structure_scaled": 33.0,
+      "total": 71.2
+    }
+  },
+  {
+    "id": "round77",
+    "title": "Round 77",
+    "theme": "Mixed",
+    "clueAnswers": [
+      {
+        "clue": "Hard evidence underfoot",
+        "answer": "CONCRETE",
+        "chunkTexts": [
+          "CON",
+          "CRE",
+          "TE"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Reflective type",
+        "answer": "MIRROR",
+        "chunkTexts": [
+          "MIR",
+          "ROR"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Greener place, proverbially",
+        "answer": "PASTURE",
+        "chunkTexts": [
+          "PAS",
+          "TURE"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Chess title, or degree",
+        "answer": "MASTER",
+        "chunkTexts": [
+          "MAS",
+          "TER"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 3
+      },
+      {
+        "clue": "Ratio that keeps things in scale",
+        "answer": "PROPORTION",
+        "chunkTexts": [
+          "PRO",
+          "POR",
+          "TION"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Backup when the power dies",
+        "answer": "GENERATOR",
+        "chunkTexts": [
+          "GEN",
+          "ERA",
+          "TOR"
+        ],
+        "clueType": "evocative",
+        "clueRating": 3
+      },
+      {
+        "clue": "One with patent ambitions",
+        "answer": "INVENTOR",
+        "chunkTexts": [
+          "IN",
+          "VEN",
+          "TOR"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "mixed",
+    "candidateId": "c001",
+    "scores": {
+      "decoys": 19.8,
+      "tempting_pairs": 4.0,
+      "shared_fragments": 10.0,
+      "anchor_balance": 7.0,
+      "shape": 11.0,
+      "word_appeal": 11.0,
+      "penalties": -7.3,
+      "structure": 55.5,
+      "clue_rating": 16.1,
+      "clue_variety": 8.0,
+      "clue_puns": 12.0,
+      "clue_penalties": 0.0,
+      "clues": 36.1,
+      "structure_scaled": 34.7,
+      "total": 70.8
+    }
+  },
+  {
+    "id": "round78",
+    "title": "Round 78",
+    "theme": "Mixed",
+    "clueAnswers": [
+      {
+        "clue": "Letter color in Hawthorne",
+        "answer": "SCARLET",
+        "chunkTexts": [
+          "SCAR",
+          "LET"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Do what Arnold's robot does",
+        "answer": "TERMINATE",
+        "chunkTexts": [
+          "TER",
+          "MIN",
+          "ATE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Like pints and empires",
+        "answer": "IMPERIAL",
+        "chunkTexts": [
+          "IMP",
+          "ERI",
+          "AL"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Degree holder, or unwed man",
+        "answer": "BACHELOR",
+        "chunkTexts": [
+          "BAC",
+          "HEL",
+          "OR"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Plane's garage",
+        "answer": "HANGAR",
+        "chunkTexts": [
+          "HAN",
+          "GAR"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Slow traveler with a mobile home",
+        "answer": "TURTLE",
+        "chunkTexts": [
+          "TUR",
+          "TLE"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "The suits upstairs",
+        "answer": "MANAGEMENT",
+        "chunkTexts": [
+          "MAN",
+          "AGE",
+          "MENT"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "mixed",
+    "candidateId": "c018",
+    "scores": {
+      "decoys": 18.2,
+      "tempting_pairs": 4.4,
+      "shared_fragments": 5.0,
+      "anchor_balance": 7.5,
+      "shape": 11.0,
+      "word_appeal": 10.7,
+      "penalties": -11.5,
+      "structure": 45.3,
+      "clue_rating": 22.5,
+      "clue_variety": 8.0,
+      "clue_puns": 12.0,
+      "clue_penalties": 0.0,
+      "clues": 42.5,
+      "structure_scaled": 28.3,
+      "total": 70.8
+    }
+  },
+  {
+    "id": "round79",
+    "title": "Round 79",
+    "theme": "Mixed",
+    "clueAnswers": [
+      {
+        "clue": "Bond's naval rank",
+        "answer": "COMMANDER",
+        "chunkTexts": [
+          "COM",
+          "MAN",
+          "DER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "It comes with the job, they say",
+        "answer": "TERRITORY",
+        "chunkTexts": [
+          "TER",
+          "RIT",
+          "ORY"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Blow it to expose wrongdoing",
+        "answer": "WHISTLE",
+        "chunkTexts": [
+          "WHIS",
+          "TLE"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Love shape with three sides",
+        "answer": "TRIANGLE",
+        "chunkTexts": [
+          "TRI",
+          "AN",
+          "GLE"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Like motion that can't exist",
+        "answer": "PERPETUAL",
+        "chunkTexts": [
+          "PER",
+          "PET",
+          "UAL"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Terrible-twos eruption",
+        "answer": "TANTRUM",
+        "chunkTexts": [
+          "TAN",
+          "TRUM"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "A king's is a huge sum",
+        "answer": "RANSOM",
+        "chunkTexts": [
+          "RAN",
+          "SOM"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "mixed",
+    "candidateId": "c019",
+    "scores": {
+      "decoys": 9.7,
+      "tempting_pairs": 1.2,
+      "shared_fragments": 10.0,
+      "anchor_balance": 7.2,
+      "shape": 11.0,
+      "word_appeal": 11.6,
+      "penalties": -6.1,
+      "structure": 44.6,
+      "clue_rating": 22.5,
+      "clue_variety": 8.0,
+      "clue_puns": 12.0,
+      "clue_penalties": 0.0,
+      "clues": 42.5,
+      "structure_scaled": 27.9,
+      "total": 70.4
+    }
+  },
+  {
+    "id": "round80",
+    "title": "Round 80",
+    "theme": "Mixed",
+    "clueAnswers": [
+      {
+        "clue": "Unable to read this clue",
+        "answer": "ILLITERATE",
+        "chunkTexts": [
+          "ILLI",
+          "TER",
+          "ATE"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "Stock trader's firm",
+        "answer": "BROKERAGE",
+        "chunkTexts": [
+          "BRO",
+          "KER",
+          "AGE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Little trees on a plate",
+        "answer": "BROCCOLI",
+        "chunkTexts": [
+          "BRO",
+          "CCO",
+          "LI"
+        ],
+        "clueType": "evocative",
+        "clueRating": 5
+      },
+      {
+        "clue": "Like a lamb",
+        "answer": "GENTLE",
+        "chunkTexts": [
+          "GEN",
+          "TLE"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 3
+      },
+      {
+        "clue": "It's charged, but not guilty",
+        "answer": "BATTERY",
+        "chunkTexts": [
+          "BAT",
+          "TERY"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "Rainbow scoop",
+        "answer": "SHERBET",
+        "chunkTexts": [
+          "SHER",
+          "BET"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Free with the tip",
+        "answer": "GENEROUS",
+        "chunkTexts": [
+          "GEN",
+          "ERO",
+          "US"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "mixed",
+    "candidateId": "c026",
+    "scores": {
+      "decoys": 8.7,
+      "tempting_pairs": 1.6,
+      "shared_fragments": 10.0,
+      "anchor_balance": 7.0,
+      "shape": 10.4,
+      "word_appeal": 10.5,
+      "penalties": -7.2,
+      "structure": 41.0,
+      "clue_rating": 24.6,
+      "clue_variety": 8.0,
+      "clue_puns": 12.0,
+      "clue_penalties": 0.0,
+      "clues": 44.6,
+      "structure_scaled": 25.6,
+      "total": 70.2
+    }
+  },
+  {
+    "id": "round81",
+    "title": "Round 81",
+    "theme": "Mixed",
+    "clueAnswers": [
+      {
+        "clue": "Practice run before opening night",
+        "answer": "REHEARSAL",
+        "chunkTexts": [
+          "REH",
+          "EAR",
+          "SAL"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Mockery with a point",
+        "answer": "SATIRE",
+        "chunkTexts": [
+          "SAT",
+          "IRE"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Quit the job, or the chess game",
+        "answer": "RESIGN",
+        "chunkTexts": [
+          "RES",
+          "IGN"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Line on a tax form",
+        "answer": "DEPENDENT",
+        "chunkTexts": [
+          "DEP",
+          "END",
+          "ENT"
+        ],
+        "clueType": "misdirection",
+        "clueRating": 4
+      },
+      {
+        "clue": "Backstory dump",
+        "answer": "EXPOSITION",
+        "chunkTexts": [
+          "EXP",
+          "OSIT",
+          "ION"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Course you save room for",
+        "answer": "DESSERT",
+        "chunkTexts": [
+          "DES",
+          "SERT"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Moon, or dish target",
+        "answer": "SATELLITE",
+        "chunkTexts": [
+          "SAT",
+          "ELL",
+          "ITE"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "mixed",
+    "candidateId": "c007",
+    "scores": {
+      "decoys": 14.5,
+      "tempting_pairs": 2.8,
+      "shared_fragments": 10.0,
+      "anchor_balance": 7.3,
+      "shape": 11.0,
+      "word_appeal": 11.0,
+      "penalties": -6.3,
+      "structure": 50.3,
+      "clue_rating": 20.4,
+      "clue_variety": 8.0,
+      "clue_puns": 9.0,
+      "clue_penalties": 0.0,
+      "clues": 37.4,
+      "structure_scaled": 31.4,
+      "total": 68.8
+    }
+  },
+  {
+    "id": "round82",
+    "title": "Round 82",
+    "theme": "Mixed",
+    "clueAnswers": [
+      {
+        "clue": "What these tiles start as",
+        "answer": "JUMBLE",
+        "chunkTexts": [
+          "JUM",
+          "BLE"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 5
+      },
+      {
+        "clue": "Funhouse mirror effect",
+        "answer": "DISTORTION",
+        "chunkTexts": [
+          "DIS",
+          "TOR",
+          "TION"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Muffin's purple polka dot",
+        "answer": "BLUEBERRY",
+        "chunkTexts": [
+          "BLU",
+          "EBE",
+          "RRY"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Chess move you regret",
+        "answer": "BLUNDER",
+        "chunkTexts": [
+          "BLU",
+          "NDER"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "On a schedule",
+        "answer": "REGULARLY",
+        "chunkTexts": [
+          "REG",
+          "ULA",
+          "RLY"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Number that can lie, they say",
+        "answer": "STATISTIC",
+        "chunkTexts": [
+          "STA",
+          "TIS",
+          "TIC"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Shot before work",
+        "answer": "ESPRESSO",
+        "chunkTexts": [
+          "ESP",
+          "RES",
+          "SO"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "mixed",
+    "candidateId": "c021",
+    "scores": {
+      "decoys": 12.5,
+      "tempting_pairs": 2.0,
+      "shared_fragments": 7.5,
+      "anchor_balance": 7.3,
+      "shape": 12.0,
+      "word_appeal": 10.6,
+      "penalties": -8.3,
+      "structure": 43.6,
+      "clue_rating": 24.6,
+      "clue_variety": 8.0,
+      "clue_puns": 9.0,
+      "clue_penalties": 0.0,
+      "clues": 41.6,
+      "structure_scaled": 27.2,
+      "total": 68.8
+    }
+  },
+  {
+    "id": "round83",
+    "title": "Round 83",
+    "theme": "Mixed",
+    "clueAnswers": [
+      {
+        "clue": "One who picks for a living",
+        "answer": "GUITARIST",
+        "chunkTexts": [
+          "GUI",
+          "TAR",
+          "IST"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "Pond's reaction to a pebble",
+        "answer": "RIPPLE",
+        "chunkTexts": [
+          "RIP",
+          "PLE"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Where you park, oddly",
+        "answer": "DRIVEWAY",
+        "chunkTexts": [
+          "DRI",
+          "VE",
+          "WAY"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Grudge fuel",
+        "answer": "RESENTMENT",
+        "chunkTexts": [
+          "RES",
+          "ENT",
+          "MENT"
+        ],
+        "clueType": "evocative",
+        "clueRating": 3
+      },
+      {
+        "clue": "British freeway",
+        "answer": "MOTORWAY",
+        "chunkTexts": [
+          "MO",
+          "TOR",
+          "WAY"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Rook move, or king's home",
+        "answer": "CASTLE",
+        "chunkTexts": [
+          "CAS",
+          "TLE"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Comfort, or gaming box",
+        "answer": "CONSOLE",
+        "chunkTexts": [
+          "CONS",
+          "OLE"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "mixed",
+    "candidateId": "c020",
+    "scores": {
+      "decoys": 16.2,
+      "tempting_pairs": 2.0,
+      "shared_fragments": 7.5,
+      "anchor_balance": 7.4,
+      "shape": 11.0,
+      "word_appeal": 10.7,
+      "penalties": -10.2,
+      "structure": 44.5,
+      "clue_rating": 20.4,
+      "clue_variety": 8.0,
+      "clue_puns": 12.0,
+      "clue_penalties": 0.0,
+      "clues": 40.4,
+      "structure_scaled": 27.8,
+      "total": 68.2
+    }
+  },
+  {
+    "id": "round84",
+    "title": "Round 84",
+    "theme": "Mixed",
+    "clueAnswers": [
+      {
+        "clue": "Flex appeal",
+        "answer": "MUSCLE",
+        "chunkTexts": [
+          "MUS",
+          "CLE"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "Church's high point",
+        "answer": "STEEPLE",
+        "chunkTexts": [
+          "STEE",
+          "PLE"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Win over with words",
+        "answer": "CONVINCE",
+        "chunkTexts": [
+          "CON",
+          "VIN",
+          "CE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Believable, as an alibi",
+        "answer": "PLAUSIBLE",
+        "chunkTexts": [
+          "PLA",
+          "USI",
+          "BLE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Ten out of ten",
+        "answer": "PERFECTION",
+        "chunkTexts": [
+          "PER",
+          "FECT",
+          "ION"
+        ],
+        "clueType": "evocative",
+        "clueRating": 3
+      },
+      {
+        "clue": "First course, or first pitcher",
+        "answer": "STARTER",
+        "chunkTexts": [
+          "STA",
+          "RTER"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Five-sided headquarters",
+        "answer": "PENTAGON",
+        "chunkTexts": [
+          "PEN",
+          "TA",
+          "GON"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "mixed",
+    "candidateId": "c015",
+    "scores": {
+      "decoys": 10.7,
+      "tempting_pairs": 3.2,
+      "shared_fragments": 10.0,
+      "anchor_balance": 7.4,
+      "shape": 10.4,
+      "word_appeal": 11.0,
+      "penalties": -6.5,
+      "structure": 46.2,
+      "clue_rating": 18.2,
+      "clue_variety": 8.0,
+      "clue_puns": 12.0,
+      "clue_penalties": 0.0,
+      "clues": 38.2,
+      "structure_scaled": 28.9,
+      "total": 67.1
+    }
+  },
+  {
+    "id": "round85",
+    "title": "Round 85",
+    "theme": "Mixed",
+    "clueAnswers": [
+      {
+        "clue": "Stamp fan, or bill chaser",
+        "answer": "COLLECTOR",
+        "chunkTexts": [
+          "COL",
+          "LEC",
+          "TOR"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Loose one is trouble",
+        "answer": "CANNON",
+        "chunkTexts": [
+          "CAN",
+          "NON"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "White-glove test",
+        "answer": "INSPECTION",
+        "chunkTexts": [
+          "INS",
+          "PECT",
+          "ION"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Top brass at sea",
+        "answer": "ADMIRAL",
+        "chunkTexts": [
+          "ADMI",
+          "RAL"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "What a committee rarely reaches",
+        "answer": "CONSENSUS",
+        "chunkTexts": [
+          "CON",
+          "SEN",
+          "SUS"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Pants that swish when you walk",
+        "answer": "CORDUROY",
+        "chunkTexts": [
+          "COR",
+          "DU",
+          "ROY"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Roamer where the deer play",
+        "answer": "BISON",
+        "chunkTexts": [
+          "BIS",
+          "ON"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "mixed",
+    "candidateId": "c030",
+    "scores": {
+      "decoys": 7.7,
+      "tempting_pairs": 1.2,
+      "shared_fragments": 10.0,
+      "anchor_balance": 7.1,
+      "shape": 11.0,
+      "word_appeal": 11.0,
+      "penalties": -9.2,
+      "structure": 38.7,
+      "clue_rating": 22.5,
+      "clue_variety": 8.0,
+      "clue_puns": 12.0,
+      "clue_penalties": 0.0,
+      "clues": 42.5,
+      "structure_scaled": 24.2,
+      "total": 66.7
+    }
+  },
+  {
+    "id": "round86",
+    "title": "Round 86",
+    "theme": "Mixed",
+    "clueAnswers": [
+      {
+        "clue": "Rear, politely",
+        "answer": "POSTERIOR",
+        "chunkTexts": [
+          "POS",
+          "TER",
+          "IOR"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Hollywood hopeful",
+        "answer": "STARLET",
+        "chunkTexts": [
+          "STAR",
+          "LET"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Fourteen lines of love",
+        "answer": "SONNET",
+        "chunkTexts": [
+          "SON",
+          "NET"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Startup's favorite buzzword",
+        "answer": "DISRUPTION",
+        "chunkTexts": [
+          "DIS",
+          "RUPT",
+          "ION"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Where the roadies roam",
+        "answer": "BACKSTAGE",
+        "chunkTexts": [
+          "BACK",
+          "STA",
+          "GE"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "No tie required",
+        "answer": "INFORMAL",
+        "chunkTexts": [
+          "IN",
+          "FOR",
+          "MAL"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Belly feature, or panic trigger",
+        "answer": "BUTTON",
+        "chunkTexts": [
+          "BUT",
+          "TON"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "mixed",
+    "candidateId": "c017",
+    "scores": {
+      "decoys": 18.1,
+      "tempting_pairs": 2.4,
+      "shared_fragments": 7.5,
+      "anchor_balance": 7.5,
+      "shape": 10.4,
+      "word_appeal": 10.6,
+      "penalties": -10.9,
+      "structure": 45.5,
+      "clue_rating": 20.4,
+      "clue_variety": 8.0,
+      "clue_puns": 9.0,
+      "clue_penalties": 0.0,
+      "clues": 37.4,
+      "structure_scaled": 28.4,
+      "total": 65.8
+    }
+  },
+  {
+    "id": "round87",
+    "title": "Round 87",
+    "theme": "Mixed",
+    "clueAnswers": [
+      {
+        "clue": "What antibiotics fight",
+        "answer": "INFECTION",
+        "chunkTexts": [
+          "INF",
+          "ECT",
+          "ION"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Loan's safety net",
+        "answer": "COLLATERAL",
+        "chunkTexts": [
+          "COL",
+          "LAT",
+          "ERAL"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Lie or smoke follower",
+        "answer": "DETECTOR",
+        "chunkTexts": [
+          "DET",
+          "ECT",
+          "OR"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Back-pocket bank",
+        "answer": "WALLET",
+        "chunkTexts": [
+          "WAL",
+          "LET"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Animal, vegetable or this",
+        "answer": "MINERAL",
+        "chunkTexts": [
+          "MIN",
+          "ERAL"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Nutella's nut",
+        "answer": "HAZELNUT",
+        "chunkTexts": [
+          "HAZ",
+          "EL",
+          "NUT"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Bite-sized bite",
+        "answer": "MORSEL",
+        "chunkTexts": [
+          "MOR",
+          "SEL"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "mixed",
+    "candidateId": "c013",
+    "scores": {
+      "decoys": 18.2,
+      "tempting_pairs": 2.4,
+      "shared_fragments": 7.5,
+      "anchor_balance": 7.3,
+      "shape": 11.0,
+      "word_appeal": 11.0,
+      "penalties": -10.8,
+      "structure": 46.5,
+      "clue_rating": 16.1,
+      "clue_variety": 8.0,
+      "clue_puns": 12.0,
+      "clue_penalties": 0.0,
+      "clues": 36.1,
+      "structure_scaled": 29.1,
+      "total": 65.2
+    }
+  },
+  {
+    "id": "round88",
+    "title": "Round 88",
+    "theme": "Mixed",
+    "clueAnswers": [
+      {
+        "clue": "One who makes up long stories",
+        "answer": "NOVELIST",
+        "chunkTexts": [
+          "NO",
+          "VEL",
+          "IST"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Seeing beneath the surface",
+        "answer": "INSIGHTFUL",
+        "chunkTexts": [
+          "INS",
+          "IGHT",
+          "FUL"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Door holder of the old school",
+        "answer": "GENTLEMAN",
+        "chunkTexts": [
+          "GEN",
+          "TLE",
+          "MAN"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Statue stock, or lost item",
+        "answer": "MARBLE",
+        "chunkTexts": [
+          "MAR",
+          "BLE"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Clementine's zesty cousin",
+        "answer": "TANGERINE",
+        "chunkTexts": [
+          "TAN",
+          "GER",
+          "INE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "C or D, for one",
+        "answer": "VITAMIN",
+        "chunkTexts": [
+          "VITA",
+          "MIN"
+        ],
+        "clueType": "example",
+        "clueRating": 4
+      },
+      {
+        "clue": "Throw shade at",
+        "answer": "DISRESPECT",
+        "chunkTexts": [
+          "DIS",
+          "RES",
+          "PECT"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "mixed",
+    "candidateId": "c002",
+    "scores": {
+      "decoys": 20.0,
+      "tempting_pairs": 2.0,
+      "shared_fragments": 7.5,
+      "anchor_balance": 7.5,
+      "shape": 12.0,
+      "word_appeal": 11.1,
+      "penalties": -5.4,
+      "structure": 54.8,
+      "clue_rating": 16.1,
+      "clue_variety": 8.0,
+      "clue_puns": 6.0,
+      "clue_penalties": 0.0,
+      "clues": 30.1,
+      "structure_scaled": 34.2,
+      "total": 64.3
+    }
+  },
+  {
+    "id": "round89",
+    "title": "Round 89",
+    "theme": "Mixed",
+    "clueAnswers": [
+      {
+        "clue": "Follower on sunny days",
+        "answer": "SHADOW",
+        "chunkTexts": [
+          "SHA",
+          "DOW"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "Left over, like actor's checks",
+        "answer": "RESIDUAL",
+        "chunkTexts": [
+          "RES",
+          "ID",
+          "UAL"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 3
+      },
+      {
+        "clue": "Doing right unobserved",
+        "answer": "INTEGRITY",
+        "chunkTexts": [
+          "INT",
+          "EGR",
+          "ITY"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Do to eggs or letters",
+        "answer": "SCRAMBLE",
+        "chunkTexts": [
+          "SCRA",
+          "MBLE"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "February heart mail",
+        "answer": "VALENTINE",
+        "chunkTexts": [
+          "VAL",
+          "ENT",
+          "INE"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Glastonbury, for one",
+        "answer": "FESTIVAL",
+        "chunkTexts": [
+          "FE",
+          "STI",
+          "VAL"
+        ],
+        "clueType": "example",
+        "clueRating": 3
+      },
+      {
+        "clue": "What an empty stomach does",
+        "answer": "GRUMBLE",
+        "chunkTexts": [
+          "GRU",
+          "MBLE"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "mixed",
+    "candidateId": "c024",
+    "scores": {
+      "decoys": 12.2,
+      "tempting_pairs": 2.0,
+      "shared_fragments": 8.8,
+      "anchor_balance": 7.3,
+      "shape": 10.4,
+      "word_appeal": 10.8,
+      "penalties": -9.7,
+      "structure": 41.8,
+      "clue_rating": 18.2,
+      "clue_variety": 8.0,
+      "clue_puns": 12.0,
+      "clue_penalties": 0.0,
+      "clues": 38.2,
+      "structure_scaled": 26.1,
+      "total": 64.3
+    }
+  },
+  {
+    "id": "round90",
+    "title": "Round 90",
+    "theme": "Algebra",
+    "clueAnswers": [
+      {
+        "clue": "Many-termed expression",
+        "answer": "POLYNOMIAL",
+        "chunkTexts": [
+          "POLY",
+          "NOM",
+          "IAL"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Formula with b squared in it",
+        "answer": "QUADRATIC",
+        "chunkTexts": [
+          "QUA",
+          "DRA",
+          "TIC"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Greater-than statement, or injustice",
+        "answer": "INEQUALITY",
+        "chunkTexts": [
+          "INE",
+          "QUA",
+          "LITY"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "What 5! means",
+        "answer": "FACTORIAL",
+        "chunkTexts": [
+          "FAC",
+          "TOR",
+          "IAL"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "Two-term expression",
+        "answer": "BINOMIAL",
+        "chunkTexts": [
+          "BIN",
+          "OMI",
+          "AL"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Statement with balance",
+        "answer": "EQUATION",
+        "chunkTexts": [
+          "EQUA",
+          "TION"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Fraction's upper class",
+        "answer": "NUMERATOR",
+        "chunkTexts": [
+          "NUM",
+          "ERA",
+          "TOR"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "STEM",
+    "candidateId": "S10",
+    "scores": {
+      "decoys": 6.8,
+      "tempting_pairs": 1.6,
+      "shared_fragments": 7.5,
+      "anchor_balance": 7.4,
+      "shape": 11.0,
+      "word_appeal": 14.0,
+      "penalties": -10.6,
+      "structure": 37.7,
+      "clue_rating": 20.4,
+      "clue_variety": 8.0,
+      "clue_puns": 12.0,
+      "clue_penalties": 0.0,
+      "clues": 40.4,
+      "structure_scaled": 23.6,
+      "total": 64.0
+    }
+  },
+  {
+    "id": "round91",
+    "title": "Round 91",
+    "theme": "Electricity",
+    "clueAnswers": [
+      {
+        "clue": "Part that opposes the current",
+        "answer": "RESISTOR",
+        "chunkTexts": [
+          "RES",
+          "IS",
+          "TOR"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Potential difference maker",
+        "answer": "VOLTAGE",
+        "chunkTexts": [
+          "VOL",
+          "TAGE"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Faraday's law, or a stovetop",
+        "answer": "INDUCTION",
+        "chunkTexts": [
+          "IND",
+          "UCT",
+          "ION"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Rubber, to a current",
+        "answer": "INSULATOR",
+        "chunkTexts": [
+          "INS",
+          "ULA",
+          "TOR"
+        ],
+        "clueType": "example",
+        "clueRating": 3
+      },
+      {
+        "clue": "Loop current events need",
+        "answer": "CIRCUIT",
+        "chunkTexts": [
+          "CIRC",
+          "UIT"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "Anode or cathode",
+        "answer": "ELECTRODE",
+        "chunkTexts": [
+          "EL",
+          "ECT",
+          "RODE"
+        ],
+        "clueType": "example",
+        "clueRating": 3
+      },
+      {
+        "clue": "Rate where it hertz",
+        "answer": "FREQUENCY",
+        "chunkTexts": [
+          "FRE",
+          "QUE",
+          "NCY"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "STEM",
+    "candidateId": "S02",
+    "scores": {
+      "decoys": 6.3,
+      "tempting_pairs": 1.6,
+      "shared_fragments": 6.2,
+      "anchor_balance": 6.8,
+      "shape": 10.7,
+      "word_appeal": 14.0,
+      "penalties": -8.7,
+      "structure": 37.0,
+      "clue_rating": 20.4,
+      "clue_variety": 8.0,
+      "clue_puns": 12.0,
+      "clue_penalties": 0.0,
+      "clues": 40.4,
+      "structure_scaled": 23.1,
+      "total": 63.5
+    }
+  },
+  {
+    "id": "round92",
+    "title": "Round 92",
+    "theme": "Chemistry Lab",
+    "clueAnswers": [
+      {
+        "clue": "Lab glass, or a Muppet",
+        "answer": "BEAKER",
+        "chunkTexts": [
+          "BEA",
+          "KER"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 5
+      },
+      {
+        "clue": "Spin doctor's machine",
+        "answer": "CENTRIFUGE",
+        "chunkTexts": [
+          "CEN",
+          "TRI",
+          "FUGE"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "Melting pot, or Miller play",
+        "answer": "CRUCIBLE",
+        "chunkTexts": [
+          "CRU",
+          "CIB",
+          "LE"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "What drips from the condenser",
+        "answer": "DISTILLATE",
+        "chunkTexts": [
+          "DIS",
+          "TIL",
+          "LATE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Chemical ready to react",
+        "answer": "REAGENT",
+        "chunkTexts": [
+          "REA",
+          "GENT"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "What gets past the paper",
+        "answer": "FILTRATE",
+        "chunkTexts": [
+          "FIL",
+          "TRA",
+          "TE"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Litmus, or a car's blinker",
+        "answer": "INDICATOR",
+        "chunkTexts": [
+          "IND",
+          "ICA",
+          "TOR"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "STEM",
+    "candidateId": "S05",
+    "scores": {
+      "decoys": 3.3,
+      "tempting_pairs": 2.8,
+      "shared_fragments": 3.8,
+      "anchor_balance": 7.4,
+      "shape": 11.7,
+      "word_appeal": 14.0,
+      "penalties": -10.3,
+      "structure": 32.7,
+      "clue_rating": 22.5,
+      "clue_variety": 8.0,
+      "clue_puns": 12.0,
+      "clue_penalties": 0.0,
+      "clues": 42.5,
+      "structure_scaled": 20.4,
+      "total": 62.9
+    }
+  },
+  {
+    "id": "round93",
+    "title": "Round 93",
+    "theme": "Ecology",
+    "clueAnswers": [
+      {
+        "clue": "Prey's worst date",
+        "answer": "PREDATOR",
+        "chunkTexts": [
+          "PRE",
+          "DA",
+          "TOR"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Home sweet biome",
+        "answer": "HABITAT",
+        "chunkTexts": [
+          "HABI",
+          "TAT"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Freeloader with a host",
+        "answer": "PARASITE",
+        "chunkTexts": [
+          "PAR",
+          "ASI",
+          "TE"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "Salad-only diner",
+        "answer": "HERBIVORE",
+        "chunkTexts": [
+          "HER",
+          "BIV",
+          "ORE"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Steak-only diner",
+        "answer": "CARNIVORE",
+        "chunkTexts": [
+          "CAR",
+          "NIV",
+          "ORE"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Snowbirds' commute",
+        "answer": "MIGRATION",
+        "chunkTexts": [
+          "MIG",
+          "RAT",
+          "ION"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Beethoven after death, or fungus",
+        "answer": "DECOMPOSER",
+        "chunkTexts": [
+          "DECO",
+          "MPO",
+          "SER"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "STEM",
+    "candidateId": "S08",
+    "scores": {
+      "decoys": 6.3,
+      "tempting_pairs": 2.8,
+      "shared_fragments": 8.8,
+      "anchor_balance": 6.8,
+      "shape": 12.0,
+      "word_appeal": 14.0,
+      "penalties": -12.4,
+      "structure": 38.2,
+      "clue_rating": 26.8,
+      "clue_variety": 0.0,
+      "clue_puns": 12.0,
+      "clue_penalties": 0.0,
+      "clues": 38.8,
+      "structure_scaled": 23.9,
+      "total": 62.7
+    }
+  },
+  {
+    "id": "round94",
+    "title": "Round 94",
+    "theme": "Circus",
+    "clueAnswers": [
+      {
+        "clue": "Flipping professional",
+        "answer": "ACROBAT",
+        "chunkTexts": [
+          "ACRO",
+          "BAT"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "One with lots up in the air",
+        "answer": "JUGGLER",
+        "chunkTexts": [
+          "JUGG",
+          "LER"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "Top hat in the big top",
+        "answer": "RINGMASTER",
+        "chunkTexts": [
+          "RING",
+          "MAS",
+          "TER"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "High wire with no room for error",
+        "answer": "TIGHTROPE",
+        "chunkTexts": [
+          "TIGH",
+          "TRO",
+          "PE"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Ride that's one wheel short",
+        "answer": "UNICYCLE",
+        "chunkTexts": [
+          "UNI",
+          "CYC",
+          "LE"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Human one flies at the finale",
+        "answer": "CANNONBALL",
+        "chunkTexts": [
+          "CAN",
+          "NON",
+          "BALL"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Steam organ with carnival pipes",
+        "answer": "CALLIOPE",
+        "chunkTexts": [
+          "CAL",
+          "LI",
+          "OPE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "themed",
+    "candidateId": "T20",
+    "scores": {
+      "decoys": 12.1,
+      "tempting_pairs": 0.8,
+      "shared_fragments": 2.5,
+      "anchor_balance": 6.8,
+      "shape": 8.6,
+      "word_appeal": 14.0,
+      "penalties": -16.5,
+      "structure": 28.3,
+      "clue_rating": 24.6,
+      "clue_variety": 8.0,
+      "clue_puns": 12.0,
+      "clue_penalties": 0.0,
+      "clues": 44.6,
+      "structure_scaled": 17.7,
+      "total": 62.3
+    }
+  },
+  {
+    "id": "round95",
+    "title": "Round 95",
+    "theme": "Air and Sky",
+    "clueAnswers": [
+      {
+        "clue": "Turn to gas, sci-fi style",
+        "answer": "VAPORIZE",
+        "chunkTexts": [
+          "VA",
+          "POR",
+          "IZE"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Do what puddles do",
+        "answer": "EVAPORATE",
+        "chunkTexts": [
+          "EVA",
+          "POR",
+          "ATE"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Cow's contribution to the air",
+        "answer": "METHANE",
+        "chunkTexts": [
+          "METH",
+          "ANE"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Make bubbly",
+        "answer": "CARBONATE",
+        "chunkTexts": [
+          "CAR",
+          "BON",
+          "ATE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Mood, or blanket of air",
+        "answer": "ATMOSPHERE",
+        "chunkTexts": [
+          "ATM",
+          "OSPH",
+          "ERE"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Kind of gas or glass room",
+        "answer": "GREENHOUSE",
+        "chunkTexts": [
+          "GRE",
+          "ENH",
+          "OUSE"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Shorten, or turn to dew",
+        "answer": "CONDENSE",
+        "chunkTexts": [
+          "CON",
+          "DEN",
+          "SE"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "STEM",
+    "candidateId": "S16",
+    "scores": {
+      "decoys": 2.9,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 10.0,
+      "anchor_balance": 6.8,
+      "shape": 12.0,
+      "word_appeal": 14.0,
+      "penalties": -11.1,
+      "structure": 34.6,
+      "clue_rating": 20.4,
+      "clue_variety": 8.0,
+      "clue_puns": 12.0,
+      "clue_penalties": 0.0,
+      "clues": 40.4,
+      "structure_scaled": 21.6,
+      "total": 62.0
+    }
+  },
+  {
+    "id": "round96",
+    "title": "Round 96",
+    "theme": "Dance Floor",
+    "clueAnswers": [
+      {
+        "clue": "Spanish dance with fiery footwork",
+        "answer": "FLAMENCO",
+        "chunkTexts": [
+          "FLA",
+          "ME",
+          "NCO"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "One always on her toes",
+        "answer": "BALLERINA",
+        "chunkTexts": [
+          "BAL",
+          "LER",
+          "INA"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "Ballroom dance, or letter F",
+        "answer": "FOXTROT",
+        "chunkTexts": [
+          "FOX",
+          "TROT"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Ballroom dance in a hurry",
+        "answer": "QUICKSTEP",
+        "chunkTexts": [
+          "QU",
+          "ICKS",
+          "TEP"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Flapper's kick-happy dance",
+        "answer": "CHARLESTON",
+        "chunkTexts": [
+          "CHAR",
+          "LES",
+          "TON"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Ravel's slow build",
+        "answer": "BOLERO",
+        "chunkTexts": [
+          "BOL",
+          "ERO"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Nervous insect of the swing era",
+        "answer": "JITTERBUG",
+        "chunkTexts": [
+          "JIT",
+          "TER",
+          "BUG"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "themed",
+    "candidateId": "T11",
+    "scores": {
+      "decoys": 4.2,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 5.0,
+      "anchor_balance": 1.9,
+      "shape": 11.7,
+      "word_appeal": 14.0,
+      "penalties": -10.8,
+      "structure": 26.4,
+      "clue_rating": 24.6,
+      "clue_variety": 8.0,
+      "clue_puns": 12.0,
+      "clue_penalties": 0.0,
+      "clues": 44.6,
+      "structure_scaled": 16.5,
+      "total": 61.1
+    }
+  },
+  {
+    "id": "round97",
+    "title": "Round 97",
+    "theme": "Mixed",
+    "clueAnswers": [
+      {
+        "clue": "Break-in artist",
+        "answer": "BURGLAR",
+        "chunkTexts": [
+          "BURG",
+          "LAR"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Ability to get around",
+        "answer": "MOBILITY",
+        "chunkTexts": [
+          "MO",
+          "BIL",
+          "ITY"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Two-sided, as talks",
+        "answer": "BILATERAL",
+        "chunkTexts": [
+          "BIL",
+          "ATE",
+          "RAL"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Where fans do the wave",
+        "answer": "STADIUM",
+        "chunkTexts": [
+          "STA",
+          "DIUM"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Rungs to climb, corporate or not",
+        "answer": "LADDER",
+        "chunkTexts": [
+          "LAD",
+          "DER"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Theory's frequent partner",
+        "answer": "CONSPIRACY",
+        "chunkTexts": [
+          "CON",
+          "SPI",
+          "RACY"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Narnia's front door",
+        "answer": "WARDROBE",
+        "chunkTexts": [
+          "WAR",
+          "DRO",
+          "BE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "mixed",
+    "candidateId": "c031",
+    "scores": {
+      "decoys": 10.2,
+      "tempting_pairs": 2.4,
+      "shared_fragments": 5.0,
+      "anchor_balance": 7.2,
+      "shape": 10.4,
+      "word_appeal": 11.0,
+      "penalties": -8.8,
+      "structure": 37.4,
+      "clue_rating": 20.4,
+      "clue_variety": 8.0,
+      "clue_puns": 9.0,
+      "clue_penalties": 0.0,
+      "clues": 37.4,
+      "structure_scaled": 23.4,
+      "total": 60.8
+    }
+  },
+  {
+    "id": "round98",
+    "title": "Round 98",
+    "theme": "Mixed",
+    "clueAnswers": [
+      {
+        "clue": "Suitable professional",
+        "answer": "TAILOR",
+        "chunkTexts": [
+          "TAI",
+          "LOR"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "Rival in the race",
+        "answer": "COMPETITOR",
+        "chunkTexts": [
+          "COMP",
+          "ETI",
+          "TOR"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Like data in digits",
+        "answer": "NUMERICAL",
+        "chunkTexts": [
+          "NUM",
+          "ERI",
+          "CAL"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Dryer cycle, or a fall",
+        "answer": "TUMBLE",
+        "chunkTexts": [
+          "TUM",
+          "BLE"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Wild adventure story later",
+        "answer": "ESCAPADE",
+        "chunkTexts": [
+          "ES",
+          "CAP",
+          "ADE"
+        ],
+        "clueType": "evocative",
+        "clueRating": 3
+      },
+      {
+        "clue": "Trek with sherpas",
+        "answer": "EXPEDITION",
+        "chunkTexts": [
+          "EXP",
+          "EDI",
+          "TION"
+        ],
+        "clueType": "evocative",
+        "clueRating": 3
+      },
+      {
+        "clue": "Prom night stretch",
+        "answer": "LIMOUSINE",
+        "chunkTexts": [
+          "LIM",
+          "OUS",
+          "INE"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "mixed",
+    "candidateId": "c027",
+    "scores": {
+      "decoys": 9.0,
+      "tempting_pairs": 1.6,
+      "shared_fragments": 7.5,
+      "anchor_balance": 7.3,
+      "shape": 12.0,
+      "word_appeal": 11.0,
+      "penalties": -8.3,
+      "structure": 40.1,
+      "clue_rating": 18.2,
+      "clue_variety": 8.0,
+      "clue_puns": 9.0,
+      "clue_penalties": 0.0,
+      "clues": 35.2,
+      "structure_scaled": 25.1,
+      "total": 60.3
+    }
+  },
+  {
+    "id": "round99",
+    "title": "Round 99",
+    "theme": "Mixed",
+    "clueAnswers": [
+      {
+        "clue": "Tool with a good grip",
+        "answer": "PLIERS",
+        "chunkTexts": [
+          "PLI",
+          "ERS"
+        ],
+        "clueType": "pun",
+        "clueRating": 3
+      },
+      {
+        "clue": "Sidekick on the road",
+        "answer": "COMPANION",
+        "chunkTexts": [
+          "COM",
+          "PAN",
+          "ION"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Game bird that sounds like a peasant",
+        "answer": "PHEASANT",
+        "chunkTexts": [
+          "PHE",
+          "AS",
+          "ANT"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Happening at once",
+        "answer": "CONCURRENT",
+        "chunkTexts": [
+          "CON",
+          "CURR",
+          "ENT"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Like medicine before the illness",
+        "answer": "PREVENTIVE",
+        "chunkTexts": [
+          "PRE",
+          "VENT",
+          "IVE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Red one greets the stars",
+        "answer": "CARPET",
+        "chunkTexts": [
+          "CAR",
+          "PET"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Georgia's fuzzy pride",
+        "answer": "PEACH",
+        "chunkTexts": [
+          "PE",
+          "ACH"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "mixed",
+    "candidateId": "c014",
+    "scores": {
+      "decoys": 17.3,
+      "tempting_pairs": 4.4,
+      "shared_fragments": 5.0,
+      "anchor_balance": 7.4,
+      "shape": 11.0,
+      "word_appeal": 10.6,
+      "penalties": -9.2,
+      "structure": 46.5,
+      "clue_rating": 13.9,
+      "clue_variety": 8.0,
+      "clue_puns": 9.0,
+      "clue_penalties": 0.0,
+      "clues": 30.9,
+      "structure_scaled": 29.1,
+      "total": 60.0
+    }
+  },
+  {
+    "id": "round100",
+    "title": "Round 100",
+    "theme": "Mixed",
+    "clueAnswers": [
+      {
+        "clue": "Grunge band uniform",
+        "answer": "FLANNEL",
+        "chunkTexts": [
+          "FLA",
+          "NNEL"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Light is at its end",
+        "answer": "TUNNEL",
+        "chunkTexts": [
+          "TUN",
+          "NEL"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Red tape, by the book",
+        "answer": "REGULATION",
+        "chunkTexts": [
+          "REG",
+          "ULA",
+          "TION"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Pilot's video game",
+        "answer": "SIMULATOR",
+        "chunkTexts": [
+          "SIM",
+          "ULA",
+          "TOR"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Chair with a whistle and a tan",
+        "answer": "LIFEGUARD",
+        "chunkTexts": [
+          "LIF",
+          "EGU",
+          "ARD"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Weasel out, with another animal",
+        "answer": "FERRET",
+        "chunkTexts": [
+          "FER",
+          "RET"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Likewise",
+        "answer": "SIMILARLY",
+        "chunkTexts": [
+          "SIM",
+          "ILA",
+          "RLY"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "mixed",
+    "candidateId": "c023",
+    "scores": {
+      "decoys": 8.3,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 10.0,
+      "anchor_balance": 7.1,
+      "shape": 11.0,
+      "word_appeal": 11.0,
+      "penalties": -5.2,
+      "structure": 42.6,
+      "clue_rating": 18.2,
+      "clue_variety": 8.0,
+      "clue_puns": 9.0,
+      "clue_penalties": -2.0,
+      "clues": 33.2,
+      "structure_scaled": 26.6,
+      "total": 59.8
+    }
+  },
+  {
+    "id": "round101",
+    "title": "Round 101",
+    "theme": "Breakfast",
+    "clueAnswers": [
+      {
+        "clue": "Flat stack member",
+        "answer": "PANCAKE",
+        "chunkTexts": [
+          "PANC",
+          "AKE"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Crescent with layers of butter",
+        "answer": "CROISSANT",
+        "chunkTexts": [
+          "CRO",
+          "ISS",
+          "ANT"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "You must break eggs for it",
+        "answer": "OMELETTE",
+        "chunkTexts": [
+          "OME",
+          "LET",
+          "TE"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Crunchy, in both senses",
+        "answer": "GRANOLA",
+        "chunkTexts": [
+          "GRAN",
+          "OLA"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Link on the morning plate",
+        "answer": "SAUSAGE",
+        "chunkTexts": [
+          "SAU",
+          "SAGE"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "Flip-flop, or grid for syrup",
+        "answer": "WAFFLE",
+        "chunkTexts": [
+          "WAF",
+          "FLE"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 5
+      },
+      {
+        "clue": "Goldilocks's just-right bowl",
+        "answer": "PORRIDGE",
+        "chunkTexts": [
+          "POR",
+          "RI",
+          "DGE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "themed",
+    "candidateId": "T07",
+    "scores": {
+      "decoys": 2.0,
+      "tempting_pairs": 0.8,
+      "shared_fragments": 0.0,
+      "anchor_balance": 6.9,
+      "shape": 9.1,
+      "word_appeal": 14.0,
+      "penalties": -12.4,
+      "structure": 20.4,
+      "clue_rating": 26.8,
+      "clue_variety": 8.0,
+      "clue_puns": 12.0,
+      "clue_penalties": 0.0,
+      "clues": 46.8,
+      "structure_scaled": 12.8,
+      "total": 59.6
+    }
+  },
+  {
+    "id": "round102",
+    "title": "Round 102",
+    "theme": "Great Scientists",
+    "clueAnswers": [
+      {
+        "clue": "Relatively famous physicist",
+        "answer": "EINSTEIN",
+        "chunkTexts": [
+          "EIN",
+          "STE",
+          "IN"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "He put the sun in its place",
+        "answer": "COPERNICUS",
+        "chunkTexts": [
+          "COP",
+          "ERNI",
+          "CUS"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "Eureka shouter in the bath",
+        "answer": "ARCHIMEDES",
+        "chunkTexts": [
+          "ARC",
+          "HIME",
+          "DES"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Brief history of time teller",
+        "answer": "HAWKING",
+        "chunkTexts": [
+          "HAW",
+          "KING"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Naturally selected naturalist",
+        "answer": "DARWIN",
+        "chunkTexts": [
+          "DAR",
+          "WIN"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "Man of bright ideas",
+        "answer": "EDISON",
+        "chunkTexts": [
+          "EDI",
+          "SON"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "Ada, the first programmer",
+        "answer": "LOVELACE",
+        "chunkTexts": [
+          "LOV",
+          "ELA",
+          "CE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "themed",
+    "allowProperNouns": true,
+    "candidateId": "T03",
+    "scores": {
+      "decoys": 1.5,
+      "tempting_pairs": 1.2,
+      "shared_fragments": 1.2,
+      "anchor_balance": 6.8,
+      "shape": 10.4,
+      "word_appeal": 14.0,
+      "penalties": -12.1,
+      "structure": 23.1,
+      "clue_rating": 28.9,
+      "clue_variety": 4.0,
+      "clue_puns": 12.0,
+      "clue_penalties": 0.0,
+      "clues": 44.9,
+      "structure_scaled": 14.4,
+      "total": 59.3
+    }
+  },
+  {
+    "id": "round103",
+    "title": "Round 103",
+    "theme": "Ocean Life",
+    "clueAnswers": [
+      {
+        "clue": "Tiny steed nobody rides",
+        "answer": "SEAHORSE",
+        "chunkTexts": [
+          "SEA",
+          "HOR",
+          "SE"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Mammal that does things on purpose",
+        "answer": "PORPOISE",
+        "chunkTexts": [
+          "POR",
+          "POI",
+          "SE"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "Gentle sea cow of Florida",
+        "answer": "MANATEE",
+        "chunkTexts": [
+          "MANA",
+          "TEE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Clownfish's stinging landlord",
+        "answer": "ANEMONE",
+        "chunkTexts": [
+          "ANE",
+          "MONE"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "Toothy fish in a Heart hit",
+        "answer": "BARRACUDA",
+        "chunkTexts": [
+          "BAR",
+          "RAC",
+          "UDA"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Shark shaped like a tool",
+        "answer": "HAMMERHEAD",
+        "chunkTexts": [
+          "HAM",
+          "MER",
+          "HEAD"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Unicorn of the sea",
+        "answer": "NARWHAL",
+        "chunkTexts": [
+          "NAR",
+          "WHAL"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "themed",
+    "candidateId": "T13",
+    "scores": {
+      "decoys": 2.7,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 5.0,
+      "anchor_balance": 6.9,
+      "shape": 9.3,
+      "word_appeal": 14.0,
+      "penalties": -14.7,
+      "structure": 23.3,
+      "clue_rating": 24.6,
+      "clue_variety": 8.0,
+      "clue_puns": 12.0,
+      "clue_penalties": 0.0,
+      "clues": 44.6,
+      "structure_scaled": 14.6,
+      "total": 59.2
+    }
+  },
+  {
+    "id": "round104",
+    "title": "Round 104",
+    "theme": "Data Science",
+    "clueAnswers": [
+      {
+        "clue": "Shuffle the deck, statistically",
+        "answer": "RANDOMIZE",
+        "chunkTexts": [
+          "RAN",
+          "DOM",
+          "IZE"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Interval's self-assured partner",
+        "answer": "CONFIDENCE",
+        "chunkTexts": [
+          "CONF",
+          "IDE",
+          "NCE"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Lopsidedness of a distribution",
+        "answer": "SKEWNESS",
+        "chunkTexts": [
+          "SKEW",
+          "NESS"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Ballpark figure",
+        "answer": "ESTIMATE",
+        "chunkTexts": [
+          "ES",
+          "TIM",
+          "ATE"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Rescale to fit in",
+        "answer": "NORMALIZE",
+        "chunkTexts": [
+          "NOR",
+          "MAL",
+          "IZE"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "How two variables move together",
+        "answer": "COVARIANCE",
+        "chunkTexts": [
+          "COV",
+          "ARIA",
+          "NCE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Data point that raises eyebrows",
+        "answer": "ANOMALY",
+        "chunkTexts": [
+          "ANO",
+          "MA",
+          "LY"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "STEM",
+    "candidateId": "S12",
+    "scores": {
+      "decoys": 11.4,
+      "tempting_pairs": 1.2,
+      "shared_fragments": 6.2,
+      "anchor_balance": 7.0,
+      "shape": 10.0,
+      "word_appeal": 14.0,
+      "penalties": -11.6,
+      "structure": 38.3,
+      "clue_rating": 18.2,
+      "clue_variety": 8.0,
+      "clue_puns": 9.0,
+      "clue_penalties": 0.0,
+      "clues": 35.2,
+      "structure_scaled": 23.9,
+      "total": 59.1
+    }
+  },
+  {
+    "id": "round105",
+    "title": "Round 105",
+    "theme": "Art Studio",
+    "clueAnswers": [
+      {
+        "clue": "Soft shade, or chalky stick",
+        "answer": "PASTEL",
+        "chunkTexts": [
+          "PAS",
+          "TEL"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Sketch stick, or grill fuel",
+        "answer": "CHARCOAL",
+        "chunkTexts": [
+          "CHA",
+          "RCO",
+          "AL"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Painter's thumb-hole board",
+        "answer": "PALETTE",
+        "chunkTexts": [
+          "PAL",
+          "ETTE"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Face value artwork",
+        "answer": "PORTRAIT",
+        "chunkTexts": [
+          "POR",
+          "TRA",
+          "IT"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "Woven wall story",
+        "answer": "TAPESTRY",
+        "chunkTexts": [
+          "TA",
+          "PES",
+          "TRY"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Fired from the kiln",
+        "answer": "CERAMIC",
+        "chunkTexts": [
+          "CER",
+          "AMIC"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "What gives paint its color",
+        "answer": "PIGMENT",
+        "chunkTexts": [
+          "PIG",
+          "MENT"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "themed",
+    "candidateId": "T10",
+    "scores": {
+      "decoys": 6.2,
+      "tempting_pairs": 1.2,
+      "shared_fragments": 3.8,
+      "anchor_balance": 7.2,
+      "shape": 6.9,
+      "word_appeal": 14.0,
+      "penalties": -12.7,
+      "structure": 26.6,
+      "clue_rating": 22.5,
+      "clue_variety": 8.0,
+      "clue_puns": 12.0,
+      "clue_penalties": 0.0,
+      "clues": 42.5,
+      "structure_scaled": 16.6,
+      "total": 59.1
+    }
+  },
+  {
+    "id": "round106",
+    "title": "Round 106",
+    "theme": "Birds",
+    "clueAnswers": [
+      {
+        "clue": "Pink lawn ornament model",
+        "answer": "FLAMINGO",
+        "chunkTexts": [
+          "FLA",
+          "MIN",
+          "GO"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Bird with a knock-knock habit",
+        "answer": "WOODPECKER",
+        "chunkTexts": [
+          "WOOD",
+          "PEC",
+          "KER"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "Burden around a mariner's neck",
+        "answer": "ALBATROSS",
+        "chunkTexts": [
+          "ALB",
+          "ATR",
+          "OSS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Red bird, or Vatican voter",
+        "answer": "CARDINAL",
+        "chunkTexts": [
+          "CAR",
+          "DIN",
+          "AL"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Royal angler with wings",
+        "answer": "KINGFISHER",
+        "chunkTexts": [
+          "KING",
+          "FIS",
+          "HER"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Bird in a tuxedo",
+        "answer": "PENGUIN",
+        "chunkTexts": [
+          "PEN",
+          "GUIN"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Chatterbox who steals shiny things",
+        "answer": "MAGPIE",
+        "chunkTexts": [
+          "MAG",
+          "PIE"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "themed",
+    "candidateId": "T12",
+    "scores": {
+      "decoys": 2.9,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 3.8,
+      "anchor_balance": 7.4,
+      "shape": 11.7,
+      "word_appeal": 14.0,
+      "penalties": -12.3,
+      "structure": 27.8,
+      "clue_rating": 24.6,
+      "clue_variety": 8.0,
+      "clue_puns": 9.0,
+      "clue_penalties": 0.0,
+      "clues": 41.6,
+      "structure_scaled": 17.4,
+      "total": 59.0
+    }
+  },
+  {
+    "id": "round107",
+    "title": "Round 107",
+    "theme": "At the Airport",
+    "clueAnswers": [
+      {
+        "clue": "Strip for models or jets",
+        "answer": "RUNWAY",
+        "chunkTexts": [
+          "RUN",
+          "WAY"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 5
+      },
+      {
+        "clue": "Bumpy patch at altitude",
+        "answer": "TURBULENCE",
+        "chunkTexts": [
+          "TUR",
+          "BUL",
+          "ENCE"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Stop you didn't want",
+        "answer": "LAYOVER",
+        "chunkTexts": [
+          "LAYO",
+          "VER"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Merry-go-round for bags",
+        "answer": "CAROUSEL",
+        "chunkTexts": [
+          "CAR",
+          "OUS",
+          "EL"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Leaving time on the board",
+        "answer": "DEPARTURE",
+        "chunkTexts": [
+          "DEP",
+          "ART",
+          "URE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Touchdown, to a traveler",
+        "answer": "ARRIVAL",
+        "chunkTexts": [
+          "ARR",
+          "IVAL"
+        ],
+        "clueType": "misdirection",
+        "clueRating": 4
+      },
+      {
+        "clue": "Trip's to-do list",
+        "answer": "ITINERARY",
+        "chunkTexts": [
+          "ITI",
+          "NER",
+          "ARY"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "themed",
+    "candidateId": "T16",
+    "scores": {
+      "decoys": 4.8,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 5.0,
+      "anchor_balance": 7.2,
+      "shape": 11.0,
+      "word_appeal": 14.0,
+      "penalties": -10.9,
+      "structure": 31.1,
+      "clue_rating": 22.5,
+      "clue_variety": 8.0,
+      "clue_puns": 9.0,
+      "clue_penalties": 0.0,
+      "clues": 39.5,
+      "structure_scaled": 19.4,
+      "total": 58.9
+    }
+  },
+  {
+    "id": "round108",
+    "title": "Round 108",
+    "theme": "Mechanics",
+    "clueAnswers": [
+      {
+        "clue": "Floor it, in physics terms",
+        "answer": "ACCELERATE",
+        "chunkTexts": [
+          "ACCE",
+          "LER",
+          "ATE"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Career path, or cannonball's",
+        "answer": "TRAJECTORY",
+        "chunkTexts": [
+          "TRA",
+          "JECT",
+          "ORY"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Uplifting force in a bath",
+        "answer": "BUOYANCY",
+        "chunkTexts": [
+          "BU",
+          "OYA",
+          "NCY"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "Anything launched, to Newton",
+        "answer": "PROJECTILE",
+        "chunkTexts": [
+          "PRO",
+          "JECT",
+          "ILE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Do what a desk fan does",
+        "answer": "OSCILLATE",
+        "chunkTexts": [
+          "OSC",
+          "ILL",
+          "ATE"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Like collisions that bounce back",
+        "answer": "ELASTIC",
+        "chunkTexts": [
+          "ELA",
+          "STIC"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Why honey is slow",
+        "answer": "VISCOSITY",
+        "chunkTexts": [
+          "VIS",
+          "COS",
+          "ITY"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "STEM",
+    "candidateId": "S01",
+    "scores": {
+      "decoys": 1.5,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 6.2,
+      "anchor_balance": 7.1,
+      "shape": 12.0,
+      "word_appeal": 14.0,
+      "penalties": -10.9,
+      "structure": 30.0,
+      "clue_rating": 22.5,
+      "clue_variety": 8.0,
+      "clue_puns": 9.0,
+      "clue_penalties": 0.0,
+      "clues": 39.5,
+      "structure_scaled": 18.8,
+      "total": 58.3
+    }
+  },
+  {
+    "id": "round109",
+    "title": "Round 109",
+    "theme": "Knights and Castles",
+    "clueAnswers": [
+      {
+        "clue": "Gate that drops in",
+        "answer": "PORTCULLIS",
+        "chunkTexts": [
+          "PORT",
+          "CUL",
+          "LIS"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Basement with chains",
+        "answer": "DUNGEON",
+        "chunkTexts": [
+          "DUN",
+          "GEON"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Toothy top of a wall",
+        "answer": "BATTLEMENT",
+        "chunkTexts": [
+          "BAT",
+          "TLE",
+          "MENT"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Joust the place to be",
+        "answer": "TOURNAMENT",
+        "chunkTexts": [
+          "TOU",
+          "RNA",
+          "MENT"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "It isn't dead, some say",
+        "answer": "CHIVALRY",
+        "chunkTexts": [
+          "CHI",
+          "VA",
+          "LRY"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Glove thrown as a dare",
+        "answer": "GAUNTLET",
+        "chunkTexts": [
+          "GA",
+          "UNT",
+          "LET"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Coat of arms study",
+        "answer": "HERALDRY",
+        "chunkTexts": [
+          "HER",
+          "AL",
+          "DRY"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "themed",
+    "candidateId": "T06",
+    "scores": {
+      "decoys": 4.7,
+      "tempting_pairs": 0.8,
+      "shared_fragments": 3.8,
+      "anchor_balance": 7.1,
+      "shape": 9.0,
+      "word_appeal": 14.0,
+      "penalties": -15.1,
+      "structure": 24.3,
+      "clue_rating": 22.5,
+      "clue_variety": 8.0,
+      "clue_puns": 12.0,
+      "clue_penalties": 0.0,
+      "clues": 42.5,
+      "structure_scaled": 15.2,
+      "total": 57.7
+    }
+  },
+  {
+    "id": "round110",
+    "title": "Round 110",
+    "theme": "Geology",
+    "clueAnswers": [
+      {
+        "clue": "Rock born of fire",
+        "answer": "IGNEOUS",
+        "chunkTexts": [
+          "IGN",
+          "EOUS"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Like plates that never get washed",
+        "answer": "TECTONIC",
+        "chunkTexts": [
+          "TEC",
+          "TON",
+          "IC"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "Fault's fault",
+        "answer": "EARTHQUAKE",
+        "chunkTexts": [
+          "EAR",
+          "THQU",
+          "AKE"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "Cave icicle holding tight",
+        "answer": "STALACTITE",
+        "chunkTexts": [
+          "STA",
+          "LACT",
+          "ITE"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Old Faithful, for one",
+        "answer": "GEYSER",
+        "chunkTexts": [
+          "GEY",
+          "SER"
+        ],
+        "clueType": "example",
+        "clueRating": 3
+      },
+      {
+        "clue": "Rock often taken for it",
+        "answer": "GRANITE",
+        "chunkTexts": [
+          "GRAN",
+          "ITE"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Volcanic glass, black as night",
+        "answer": "OBSIDIAN",
+        "chunkTexts": [
+          "OB",
+          "SID",
+          "IAN"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "STEM",
+    "candidateId": "S15",
+    "scores": {
+      "decoys": 2.2,
+      "tempting_pairs": 0.8,
+      "shared_fragments": 3.8,
+      "anchor_balance": 6.6,
+      "shape": 9.3,
+      "word_appeal": 14.0,
+      "penalties": -12.5,
+      "structure": 24.2,
+      "clue_rating": 22.5,
+      "clue_variety": 8.0,
+      "clue_puns": 12.0,
+      "clue_penalties": 0.0,
+      "clues": 42.5,
+      "structure_scaled": 15.1,
+      "total": 57.6
+    }
+  },
+  {
+    "id": "round111",
+    "title": "Round 111",
+    "theme": "Geometry",
+    "clueAnswers": [
+      {
+        "clue": "Longest side, to Pythagoras",
+        "answer": "HYPOTENUSE",
+        "chunkTexts": [
+          "HYP",
+          "OTEN",
+          "USE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Shape that sounds like a lost parrot",
+        "answer": "POLYGON",
+        "chunkTexts": [
+          "POLY",
+          "GON"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "Fence length",
+        "answer": "PERIMETER",
+        "chunkTexts": [
+          "PER",
+          "IME",
+          "TER"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Soup can shape",
+        "answer": "CYLINDER",
+        "chunkTexts": [
+          "CY",
+          "LIN",
+          "DER"
+        ],
+        "clueType": "example",
+        "clueRating": 3
+      },
+      {
+        "clue": "Same size and shape",
+        "answer": "CONGRUENT",
+        "chunkTexts": [
+          "CON",
+          "GRU",
+          "ENT"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Path of a thrown ball",
+        "answer": "PARABOLA",
+        "chunkTexts": [
+          "PAR",
+          "ABO",
+          "LA"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Circle that got sat on",
+        "answer": "ELLIPSE",
+        "chunkTexts": [
+          "ELLI",
+          "PSE"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "STEM",
+    "candidateId": "S09",
+    "scores": {
+      "decoys": 3.8,
+      "tempting_pairs": 0.8,
+      "shared_fragments": 6.2,
+      "anchor_balance": 7.2,
+      "shape": 11.7,
+      "word_appeal": 14.0,
+      "penalties": -10.8,
+      "structure": 33.0,
+      "clue_rating": 22.5,
+      "clue_variety": 8.0,
+      "clue_puns": 6.0,
+      "clue_penalties": 0.0,
+      "clues": 36.5,
+      "structure_scaled": 20.6,
+      "total": 57.1
+    }
+  },
+  {
+    "id": "round112",
+    "title": "Round 112",
+    "theme": "Mixed",
+    "clueAnswers": [
+      {
+        "clue": "Wigged London lawyer",
+        "answer": "BARRISTER",
+        "chunkTexts": [
+          "BAR",
+          "RIS",
+          "TER"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Recipe line item",
+        "answer": "INGREDIENT",
+        "chunkTexts": [
+          "ING",
+          "RED",
+          "IENT"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Parks department's partner",
+        "answer": "RECREATION",
+        "chunkTexts": [
+          "REC",
+          "REA",
+          "TION"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Sassy, like a monkey",
+        "answer": "CHEEKY",
+        "chunkTexts": [
+          "CHEE",
+          "KY"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Slow song with a story",
+        "answer": "BALLAD",
+        "chunkTexts": [
+          "BAL",
+          "LAD"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Go where the feet decide",
+        "answer": "WANDER",
+        "chunkTexts": [
+          "WAN",
+          "DER"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "It has its days numbered",
+        "answer": "CALENDAR",
+        "chunkTexts": [
+          "CAL",
+          "EN",
+          "DAR"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "mixed",
+    "candidateId": "c011",
+    "scores": {
+      "decoys": 20.0,
+      "tempting_pairs": 2.8,
+      "shared_fragments": 8.8,
+      "anchor_balance": 7.2,
+      "shape": 10.4,
+      "word_appeal": 10.4,
+      "penalties": -12.5,
+      "structure": 47.2,
+      "clue_rating": 16.1,
+      "clue_variety": 8.0,
+      "clue_puns": 3.0,
+      "clue_penalties": 0.0,
+      "clues": 27.1,
+      "structure_scaled": 29.5,
+      "total": 56.6
+    }
+  },
+  {
+    "id": "round113",
+    "title": "Round 113",
+    "theme": "Human Anatomy",
+    "clueAnswers": [
+      {
+        "clue": "Brain's balance department",
+        "answer": "CEREBELLUM",
+        "chunkTexts": [
+          "CER",
+          "EBEL",
+          "LUM"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "One of the backbone's crew",
+        "answer": "VERTEBRA",
+        "chunkTexts": [
+          "VER",
+          "TE",
+          "BRA"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "What your ears are made of",
+        "answer": "CARTILAGE",
+        "chunkTexts": [
+          "CAR",
+          "TIL",
+          "AGE"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Insulin's home office",
+        "answer": "PANCREAS",
+        "chunkTexts": [
+          "PAN",
+          "CRE",
+          "AS"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Smallest blood vessel",
+        "answer": "CAPILLARY",
+        "chunkTexts": [
+          "CAP",
+          "ILL",
+          "ARY"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Collarbone, formally",
+        "answer": "CLAVICLE",
+        "chunkTexts": [
+          "CLA",
+          "VI",
+          "CLE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Pipe that never needs a plumber",
+        "answer": "TRACHEA",
+        "chunkTexts": [
+          "TRA",
+          "CHEA"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "STEM",
+    "candidateId": "S07",
+    "scores": {
+      "decoys": 5.7,
+      "tempting_pairs": 2.0,
+      "shared_fragments": 6.2,
+      "anchor_balance": 7.5,
+      "shape": 12.0,
+      "word_appeal": 14.0,
+      "penalties": -15.0,
+      "structure": 32.5,
+      "clue_rating": 18.2,
+      "clue_variety": 8.0,
+      "clue_puns": 9.0,
+      "clue_penalties": 0.0,
+      "clues": 35.2,
+      "structure_scaled": 20.3,
+      "total": 55.5
+    }
+  },
+  {
+    "id": "round114",
+    "title": "Round 114",
+    "theme": "Programming",
+    "clueAnswers": [
+      {
+        "clue": "Levy on vice, by the sound",
+        "answer": "SYNTAX",
+        "chunkTexts": [
+          "SYN",
+          "TAX"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "Pest control for programmers",
+        "answer": "DEBUGGER",
+        "chunkTexts": [
+          "DEB",
+          "UG",
+          "GER"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "Plus sign, or switchboard worker",
+        "answer": "OPERATOR",
+        "chunkTexts": [
+          "OP",
+          "ERA",
+          "TOR"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Number with no fractions allowed",
+        "answer": "INTEGER",
+        "chunkTexts": [
+          "INTE",
+          "GER"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Source-to-machine translator",
+        "answer": "COMPILER",
+        "chunkTexts": [
+          "COM",
+          "PIL",
+          "ER"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "What you pass without fighting",
+        "answer": "ARGUMENT",
+        "chunkTexts": [
+          "ARGU",
+          "MENT"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "When the code finally goes",
+        "answer": "RUNTIME",
+        "chunkTexts": [
+          "RUN",
+          "TIME"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "STEM",
+    "candidateId": "S14",
+    "scores": {
+      "decoys": 4.0,
+      "tempting_pairs": 0.8,
+      "shared_fragments": 2.5,
+      "anchor_balance": 7.0,
+      "shape": 5.8,
+      "word_appeal": 14.0,
+      "penalties": -13.3,
+      "structure": 20.8,
+      "clue_rating": 22.5,
+      "clue_variety": 8.0,
+      "clue_puns": 12.0,
+      "clue_penalties": 0.0,
+      "clues": 42.5,
+      "structure_scaled": 13.0,
+      "total": 55.5
+    }
+  },
+  {
+    "id": "round115",
+    "title": "Round 115",
+    "theme": "Optics",
+    "clueAnswers": [
+      {
+        "clue": "Opening for a photographer",
+        "answer": "APERTURE",
+        "chunkTexts": [
+          "AP",
+          "ERT",
+          "URE"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Like the bowl side of a spoon",
+        "answer": "CONCAVE",
+        "chunkTexts": [
+          "CONC",
+          "AVE"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Why a straw looks bent",
+        "answer": "REFRACTION",
+        "chunkTexts": [
+          "REF",
+          "RACT",
+          "ION"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Bulb's glowing wire",
+        "answer": "FILAMENT",
+        "chunkTexts": [
+          "FIL",
+          "AM",
+          "ENT"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Mirror image, or deep thought",
+        "answer": "REFLECTION",
+        "chunkTexts": [
+          "REF",
+          "LECT",
+          "ION"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Glow-in-the-dark",
+        "answer": "LUMINOUS",
+        "chunkTexts": [
+          "LUM",
+          "INO",
+          "US"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Make a big deal of",
+        "answer": "MAGNIFY",
+        "chunkTexts": [
+          "MAG",
+          "NIFY"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "STEM",
+    "candidateId": "S03",
+    "scores": {
+      "decoys": 5.0,
+      "tempting_pairs": 1.6,
+      "shared_fragments": 6.2,
+      "anchor_balance": 7.4,
+      "shape": 8.6,
+      "word_appeal": 14.0,
+      "penalties": -14.5,
+      "structure": 28.4,
+      "clue_rating": 20.4,
+      "clue_variety": 8.0,
+      "clue_puns": 9.0,
+      "clue_penalties": 0.0,
+      "clues": 37.4,
+      "structure_scaled": 17.8,
+      "total": 55.2
+    }
+  },
+  {
+    "id": "round116",
+    "title": "Round 116",
+    "theme": "Camping Trip",
+    "clueAnswers": [
+      {
+        "clue": "Tent's night light",
+        "answer": "LANTERN",
+        "chunkTexts": [
+          "LAN",
+          "TERN"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Flask that's seen the trail",
+        "answer": "CANTEEN",
+        "chunkTexts": [
+          "CAN",
+          "TEEN"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "They bring birds closer",
+        "answer": "BINOCULARS",
+        "chunkTexts": [
+          "BIN",
+          "OCU",
+          "LARS"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Logs with a burning future",
+        "answer": "FIREWOOD",
+        "chunkTexts": [
+          "FIR",
+          "EW",
+          "OOD"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "One looking up after dark",
+        "answer": "STARGAZER",
+        "chunkTexts": [
+          "STA",
+          "RGA",
+          "ZER"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Pitch perfect location",
+        "answer": "CAMPSITE",
+        "chunkTexts": [
+          "CAM",
+          "PSI",
+          "TE"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "Rain cover in a pinch",
+        "answer": "TARPAULIN",
+        "chunkTexts": [
+          "TAR",
+          "PAU",
+          "LIN"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "themed",
+    "candidateId": "T17",
+    "scores": {
+      "decoys": 1.2,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 6.2,
+      "anchor_balance": 7.6,
+      "shape": 11.7,
+      "word_appeal": 14.0,
+      "penalties": -11.9,
+      "structure": 29.3,
+      "clue_rating": 22.5,
+      "clue_variety": 8.0,
+      "clue_puns": 6.0,
+      "clue_penalties": 0.0,
+      "clues": 36.5,
+      "structure_scaled": 18.3,
+      "total": 54.8
+    }
+  },
+  {
+    "id": "round117",
+    "title": "Round 117",
+    "theme": "Dog Breeds",
+    "clueAnswers": [
+      {
+        "clue": "Dog that's easily spotted",
+        "answer": "DALMATIAN",
+        "chunkTexts": [
+          "DAL",
+          "MAT",
+          "IAN"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "Lab partner with a tail",
+        "answer": "LABRADOR",
+        "chunkTexts": [
+          "LAB",
+          "RA",
+          "DOR"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "Purse-sized barker",
+        "answer": "CHIHUAHUA",
+        "chunkTexts": [
+          "CHI",
+          "HUA",
+          "HUA"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Small dog with big dig energy",
+        "answer": "TERRIER",
+        "chunkTexts": [
+          "TER",
+          "RIER"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Wrinkled mascot of stubbornness",
+        "answer": "BULLDOG",
+        "chunkTexts": [
+          "BULL",
+          "DOG"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Golden fetcher",
+        "answer": "RETRIEVER",
+        "chunkTexts": [
+          "RET",
+          "RIE",
+          "VER"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Curly show dog with pom-poms",
+        "answer": "POODLE",
+        "chunkTexts": [
+          "POO",
+          "DLE"
+        ],
+        "clueType": "evocative",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "themed",
+    "candidateId": "T15",
+    "scores": {
+      "decoys": 1.7,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 5.0,
+      "anchor_balance": 6.6,
+      "shape": 11.0,
+      "word_appeal": 14.0,
+      "penalties": -10.8,
+      "structure": 27.4,
+      "clue_rating": 24.6,
+      "clue_variety": 4.0,
+      "clue_puns": 9.0,
+      "clue_penalties": 0.0,
+      "clues": 37.6,
+      "structure_scaled": 17.1,
+      "total": 54.7
+    }
+  },
+  {
+    "id": "round118",
+    "title": "Round 118",
+    "theme": "Genetics",
+    "clueAnswers": [
+      {
+        "clue": "X or Y",
+        "answer": "CHROMOSOME",
+        "chunkTexts": [
+          "CHRO",
+          "MOS",
+          "OME"
+        ],
+        "clueType": "example",
+        "clueRating": 4
+      },
+      {
+        "clue": "Typo in the genetic code",
+        "answer": "MUTATION",
+        "chunkTexts": [
+          "MUT",
+          "AT",
+          "ION"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "Like the allele that wins",
+        "answer": "DOMINANT",
+        "chunkTexts": [
+          "DO",
+          "MIN",
+          "ANT"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Shy, like blue-eye genes",
+        "answer": "RECESSIVE",
+        "chunkTexts": [
+          "REC",
+          "ESS",
+          "IVE"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "It runs in the family",
+        "answer": "HEREDITY",
+        "chunkTexts": [
+          "HER",
+          "ED",
+          "ITY"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "The genes you carry",
+        "answer": "GENOTYPE",
+        "chunkTexts": [
+          "GENO",
+          "TYPE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "The traits you show",
+        "answer": "PHENOTYPE",
+        "chunkTexts": [
+          "PHE",
+          "NOT",
+          "YPE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "STEM",
+    "candidateId": "S06",
+    "scores": {
+      "decoys": 13.7,
+      "tempting_pairs": 3.2,
+      "shared_fragments": 0.0,
+      "anchor_balance": 7.2,
+      "shape": 10.0,
+      "word_appeal": 14.0,
+      "penalties": -17.7,
+      "structure": 30.4,
+      "clue_rating": 18.2,
+      "clue_variety": 8.0,
+      "clue_puns": 9.0,
+      "clue_penalties": 0.0,
+      "clues": 35.2,
+      "structure_scaled": 19.0,
+      "total": 54.2
+    }
+  },
+  {
+    "id": "round119",
+    "title": "Round 119",
+    "theme": "Countries",
+    "clueAnswers": [
+      {
+        "clue": "Don't cry for her, in song",
+        "answer": "ARGENTINA",
+        "chunkTexts": [
+          "ARG",
+          "ENT",
+          "INA"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "Land of 17,000 islands",
+        "answer": "INDONESIA",
+        "chunkTexts": [
+          "IND",
+          "ONE",
+          "SIA"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Casablanca's country",
+        "answer": "MOROCCO",
+        "chunkTexts": [
+          "MORO",
+          "CCO"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Where pad is a dish",
+        "answer": "THAILAND",
+        "chunkTexts": [
+          "THA",
+          "IL",
+          "AND"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Greener than its name",
+        "answer": "ICELAND",
+        "chunkTexts": [
+          "ICE",
+          "LAND"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 5
+      },
+      {
+        "clue": "Lemurs' island home",
+        "answer": "MADAGASCAR",
+        "chunkTexts": [
+          "MADA",
+          "GAS",
+          "CAR"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Land down under",
+        "answer": "AUSTRALIA",
+        "chunkTexts": [
+          "AUS",
+          "TRA",
+          "LIA"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "themed",
+    "allowProperNouns": true,
+    "candidateId": "T02",
+    "scores": {
+      "decoys": 2.2,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 5.0,
+      "anchor_balance": 7.2,
+      "shape": 12.0,
+      "word_appeal": 14.0,
+      "penalties": -12.1,
+      "structure": 28.7,
+      "clue_rating": 20.4,
+      "clue_variety": 8.0,
+      "clue_puns": 6.0,
+      "clue_penalties": 0.0,
+      "clues": 34.4,
+      "structure_scaled": 17.9,
+      "total": 52.3
+    }
+  },
+  {
+    "id": "round120",
+    "title": "Round 120",
+    "theme": "Computer Networks",
+    "clueAnswers": [
+      {
+        "clue": "Rules of the road for packets",
+        "answer": "PROTOCOL",
+        "chunkTexts": [
+          "PRO",
+          "TOC",
+          "OL"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Barrier that never gets hot",
+        "answer": "FIREWALL",
+        "chunkTexts": [
+          "FIR",
+          "EW",
+          "ALL"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Box that directs traffic at home",
+        "answer": "ROUTER",
+        "chunkTexts": [
+          "ROU",
+          "TER"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Window shopper, or Chrome",
+        "answer": "BROWSER",
+        "chunkTexts": [
+          "BROW",
+          "SER"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 5
+      },
+      {
+        "clue": "Wired alternative to Wi-Fi",
+        "answer": "ETHERNET",
+        "chunkTexts": [
+          "ETH",
+          "ER",
+          "NET"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Blue underlined shortcut",
+        "answer": "HYPERLINK",
+        "chunkTexts": [
+          "HYP",
+          "ERL",
+          "INK"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Lag, to an engineer",
+        "answer": "LATENCY",
+        "chunkTexts": [
+          "LAT",
+          "ENCY"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "STEM",
+    "candidateId": "S13",
+    "scores": {
+      "decoys": 4.2,
+      "tempting_pairs": 0.8,
+      "shared_fragments": 1.2,
+      "anchor_balance": 7.3,
+      "shape": 10.4,
+      "word_appeal": 14.0,
+      "penalties": -14.9,
+      "structure": 23.1,
+      "clue_rating": 20.4,
+      "clue_variety": 8.0,
+      "clue_puns": 9.0,
+      "clue_penalties": 0.0,
+      "clues": 37.4,
+      "structure_scaled": 14.4,
+      "total": 51.8
+    }
+  },
+  {
+    "id": "round121",
+    "title": "Round 121",
+    "theme": "Periodic Table",
+    "clueAnswers": [
+      {
+        "clue": "Number one element",
+        "answer": "HYDROGEN",
+        "chunkTexts": [
+          "HY",
+          "DRO",
+          "GEN"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      },
+      {
+        "clue": "Most of the air you breathe",
+        "answer": "NITROGEN",
+        "chunkTexts": [
+          "NI",
+          "TRO",
+          "GEN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Metal named for giants",
+        "answer": "TITANIUM",
+        "chunkTexts": [
+          "TIT",
+          "ANI",
+          "UM"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "K, as bananas know",
+        "answer": "POTASSIUM",
+        "chunkTexts": [
+          "POT",
+          "ASS",
+          "IUM"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 5
+      },
+      {
+        "clue": "Mg, burning bright white",
+        "answer": "MAGNESIUM",
+        "chunkTexts": [
+          "MAG",
+          "NES",
+          "IUM"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Record better than gold",
+        "answer": "PLATINUM",
+        "chunkTexts": [
+          "PLAT",
+          "INUM"
+        ],
+        "clueType": "misdirection",
+        "clueRating": 5
+      },
+      {
+        "clue": "Pool smell",
+        "answer": "CHLORINE",
+        "chunkTexts": [
+          "CHLO",
+          "RINE"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "STEM",
+    "candidateId": "S04",
+    "scores": {
+      "decoys": 1.7,
+      "tempting_pairs": 0.8,
+      "shared_fragments": 6.2,
+      "anchor_balance": 6.6,
+      "shape": 7.6,
+      "word_appeal": 14.0,
+      "penalties": -12.7,
+      "structure": 24.2,
+      "clue_rating": 22.5,
+      "clue_variety": 8.0,
+      "clue_puns": 6.0,
+      "clue_penalties": 0.0,
+      "clues": 36.5,
+      "structure_scaled": 15.1,
+      "total": 51.6
+    }
+  },
+  {
+    "id": "round122",
+    "title": "Round 122",
+    "theme": "Whodunit",
+    "clueAnswers": [
+      {
+        "clue": "One of the usual lineup",
+        "answer": "SUSPECT",
+        "chunkTexts": [
+          "SUS",
+          "PECT"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Why, to a detective",
+        "answer": "MOTIVE",
+        "chunkTexts": [
+          "MOT",
+          "IVE"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Exhibit A material",
+        "answer": "EVIDENCE",
+        "chunkTexts": [
+          "EV",
+          "IDE",
+          "NCE"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "One who saw it all",
+        "answer": "WITNESS",
+        "chunkTexts": [
+          "WIT",
+          "NESS"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "The butler, perhaps",
+        "answer": "CULPRIT",
+        "chunkTexts": [
+          "CULP",
+          "RIT"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "Case closer in the final chapter",
+        "answer": "CONFESSION",
+        "chunkTexts": [
+          "CON",
+          "FESS",
+          "ION"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Partner in crime",
+        "answer": "ACCOMPLICE",
+        "chunkTexts": [
+          "ACC",
+          "OMPL",
+          "ICE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "themed",
+    "candidateId": "T18",
+    "scores": {
+      "decoys": 2.2,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 7.5,
+      "anchor_balance": 6.7,
+      "shape": 7.9,
+      "word_appeal": 14.0,
+      "penalties": -11.3,
+      "structure": 27.4,
+      "clue_rating": 20.4,
+      "clue_variety": 8.0,
+      "clue_puns": 6.0,
+      "clue_penalties": 0.0,
+      "clues": 34.4,
+      "structure_scaled": 17.1,
+      "total": 51.5
+    }
+  },
+  {
+    "id": "round123",
+    "title": "Round 123",
+    "theme": "Ancient Rome",
+    "clueAnswers": [
+      {
+        "clue": "Arena pro with a thumbs problem",
+        "answer": "GLADIATOR",
+        "chunkTexts": [
+          "GLA",
+          "DIA",
+          "TOR"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "Rome's oldest stadium",
+        "answer": "COLOSSEUM",
+        "chunkTexts": [
+          "COL",
+          "OSS",
+          "EUM"
+        ],
+        "clueType": "evocative",
+        "clueRating": 3
+      },
+      {
+        "clue": "Water main on arches",
+        "answer": "AQUEDUCT",
+        "chunkTexts": [
+          "AQUE",
+          "DUCT"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Toga-wearing lawmaker",
+        "answer": "SENATOR",
+        "chunkTexts": [
+          "SEN",
+          "ATOR"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Boss of a hundred soldiers",
+        "answer": "CENTURION",
+        "chunkTexts": [
+          "CEN",
+          "TUR",
+          "ION"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "He fiddled, or wore no clothes",
+        "answer": "EMPEROR",
+        "chunkTexts": [
+          "EM",
+          "PER",
+          "OR"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Foot soldier on Roman roads",
+        "answer": "LEGIONARY",
+        "chunkTexts": [
+          "LEG",
+          "ION",
+          "ARY"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "themed",
+    "candidateId": "T05",
+    "scores": {
+      "decoys": 3.7,
+      "tempting_pairs": 1.2,
+      "shared_fragments": 5.0,
+      "anchor_balance": 7.5,
+      "shape": 10.7,
+      "word_appeal": 14.0,
+      "penalties": -10.8,
+      "structure": 31.3,
+      "clue_rating": 16.1,
+      "clue_variety": 8.0,
+      "clue_puns": 6.0,
+      "clue_penalties": 0.0,
+      "clues": 30.1,
+      "structure_scaled": 19.6,
+      "total": 49.7
+    }
+  },
+  {
+    "id": "round124",
+    "title": "Round 124",
+    "theme": "Logic and Proof",
+    "clueAnswers": [
+      {
+        "clue": "Pythagoras has a famous one",
+        "answer": "THEOREM",
+        "chunkTexts": [
+          "THE",
+          "OREM"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Bonus result that follows free",
+        "answer": "COROLLARY",
+        "chunkTexts": [
+          "COR",
+          "OLL",
+          "ARY"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Educated guess awaiting proof",
+        "answer": "CONJECTURE",
+        "chunkTexts": [
+          "CON",
+          "JEC",
+          "TURE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "What an experiment tests",
+        "answer": "HYPOTHESIS",
+        "chunkTexts": [
+          "HYP",
+          "OTHE",
+          "SIS"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Holmes's method, or a tax break",
+        "answer": "DEDUCTION",
+        "chunkTexts": [
+          "DED",
+          "UCT",
+          "ION"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 5
+      },
+      {
+        "clue": "All men are mortal argument",
+        "answer": "SYLLOGISM",
+        "chunkTexts": [
+          "SYL",
+          "LOG",
+          "ISM"
+        ],
+        "clueType": "example",
+        "clueRating": 4
+      },
+      {
+        "clue": "Assume without proof",
+        "answer": "POSTULATE",
+        "chunkTexts": [
+          "POS",
+          "TUL",
+          "ATE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "STEM",
+    "candidateId": "S11",
+    "scores": {
+      "decoys": 3.6,
+      "tempting_pairs": 1.2,
+      "shared_fragments": 2.5,
+      "anchor_balance": 7.2,
+      "shape": 11.0,
+      "word_appeal": 14.0,
+      "penalties": -8.1,
+      "structure": 31.4,
+      "clue_rating": 18.2,
+      "clue_variety": 8.0,
+      "clue_puns": 3.0,
+      "clue_penalties": 0.0,
+      "clues": 29.2,
+      "structure_scaled": 19.6,
+      "total": 48.8
+    }
+  },
+  {
+    "id": "round125",
+    "title": "Round 125",
+    "theme": "Pirates",
+    "clueAnswers": [
+      {
+        "clue": "Blade for swashbuckling",
+        "answer": "CUTLASS",
+        "chunkTexts": [
+          "CUT",
+          "LASS"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Crew's hostile takeover",
+        "answer": "MUTINY",
+        "chunkTexts": [
+          "MUT",
+          "INY"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "Gold in a treasure chest",
+        "answer": "DOUBLOON",
+        "chunkTexts": [
+          "DO",
+          "UBL",
+          "OON"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Shoulder pet that repeats itself",
+        "answer": "PARROT",
+        "chunkTexts": [
+          "PAR",
+          "ROT"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Rascal, in pirate talk",
+        "answer": "SCALLYWAG",
+        "chunkTexts": [
+          "SCA",
+          "LLY",
+          "WAG"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Privateer of the Barbary coast",
+        "answer": "CORSAIR",
+        "chunkTexts": [
+          "CORS",
+          "AIR"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Left high and dry on an island",
+        "answer": "MAROONED",
+        "chunkTexts": [
+          "MAR",
+          "OON",
+          "ED"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "themed",
+    "candidateId": "T19",
+    "scores": {
+      "decoys": 5.7,
+      "tempting_pairs": 1.2,
+      "shared_fragments": 5.0,
+      "anchor_balance": 6.9,
+      "shape": 10.0,
+      "word_appeal": 14.0,
+      "penalties": -14.1,
+      "structure": 28.7,
+      "clue_rating": 16.1,
+      "clue_variety": 8.0,
+      "clue_puns": 6.0,
+      "clue_penalties": 0.0,
+      "clues": 30.1,
+      "structure_scaled": 17.9,
+      "total": 48.0
+    }
+  },
+  {
+    "id": "round126",
+    "title": "Round 126",
+    "theme": "Trees",
+    "clueAnswers": [
+      {
+        "clue": "Giant with all five vowels",
+        "answer": "SEQUOIA",
+        "chunkTexts": [
+          "SEQU",
+          "OIA"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 5
+      },
+      {
+        "clue": "Swamp tree with knees",
+        "answer": "CYPRESS",
+        "chunkTexts": [
+          "CYP",
+          "RESS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Koala's entire menu",
+        "answer": "EUCALYPTUS",
+        "chunkTexts": [
+          "EU",
+          "CA",
+          "LYP",
+          "TUS"
+        ],
+        "clueType": "evocative",
+        "clueRating": 5
+      },
+      {
+        "clue": "Tree with peeling patchwork bark",
+        "answer": "SYCAMORE",
+        "chunkTexts": [
+          "SY",
+          "CAM",
+          "ORE"
+        ],
+        "clueType": "evocative",
+        "clueRating": 3
+      },
+      {
+        "clue": "Socrates's last drink",
+        "answer": "HEMLOCK",
+        "chunkTexts": [
+          "HEM",
+          "LOCK"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Gin's berry source",
+        "answer": "JUNIPER",
+        "chunkTexts": [
+          "JUNI",
+          "PER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "California's coastal skyscraper",
+        "answer": "REDWOOD",
+        "chunkTexts": [
+          "RED",
+          "WOOD"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "themed",
+    "candidateId": "T14",
+    "scores": {
+      "decoys": 4.2,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 1.2,
+      "anchor_balance": 6.7,
+      "shape": 4.6,
+      "word_appeal": 14.0,
+      "penalties": -18.0,
+      "structure": 12.7,
+      "clue_rating": 24.6,
+      "clue_variety": 8.0,
+      "clue_puns": 6.0,
+      "clue_penalties": 0.0,
+      "clues": 38.6,
+      "structure_scaled": 7.9,
+      "total": 46.5
+    }
+  },
+  {
+    "id": "round127",
+    "title": "Round 127",
+    "theme": "Shakespeare",
+    "clueAnswers": [
+      {
+        "clue": "Prince with a to-be list",
+        "answer": "HAMLET",
+        "chunkTexts": [
+          "HAM",
+          "LET"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "The Scottish play",
+        "answer": "MACBETH",
+        "chunkTexts": [
+          "MAC",
+          "BETH"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Moor undone by a hanky",
+        "answer": "OTHELLO",
+        "chunkTexts": [
+          "OTHE",
+          "LLO"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Lear's honest daughter",
+        "answer": "CORDELIA",
+        "chunkTexts": [
+          "COR",
+          "DE",
+          "LIA"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Romeo's peacemaking cousin",
+        "answer": "BENVOLIO",
+        "chunkTexts": [
+          "BEN",
+          "VO",
+          "LIO"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "He wished a plague on both houses",
+        "answer": "MERCUTIO",
+        "chunkTexts": [
+          "MER",
+          "CU",
+          "TIO"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "She got herself to no nunnery",
+        "answer": "OPHELIA",
+        "chunkTexts": [
+          "OPHE",
+          "LIA"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "themed",
+    "allowProperNouns": true,
+    "candidateId": "T04",
+    "scores": {
+      "decoys": 2.0,
+      "tempting_pairs": 1.2,
+      "shared_fragments": 7.5,
+      "anchor_balance": 6.7,
+      "shape": 6.9,
+      "word_appeal": 14.0,
+      "penalties": -13.4,
+      "structure": 25.0,
+      "clue_rating": 20.4,
+      "clue_variety": 4.0,
+      "clue_puns": 6.0,
+      "clue_penalties": 0.0,
+      "clues": 30.4,
+      "structure_scaled": 15.6,
+      "total": 46.0
+    }
+  },
+  {
+    "id": "round128",
+    "title": "Round 128",
+    "theme": "Spice Rack",
+    "clueAnswers": [
+      {
+        "clue": "Pizza parlor shaker herb",
+        "answer": "OREGANO",
+        "chunkTexts": [
+          "OREG",
+          "ANO"
+        ],
+        "clueType": "evocative",
+        "clueRating": 3
+      },
+      {
+        "clue": "Curry's golden stain",
+        "answer": "TURMERIC",
+        "chunkTexts": [
+          "TUR",
+          "MER",
+          "IC"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Chai's green pod",
+        "answer": "CARDAMOM",
+        "chunkTexts": [
+          "CAR",
+          "DAM",
+          "OM"
+        ],
+        "clueType": "evocative",
+        "clueRating": 3
+      },
+      {
+        "clue": "Seed of the soapy herb",
+        "answer": "CORIANDER",
+        "chunkTexts": [
+          "COR",
+          "IAN",
+          "DER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Spice worth its weight in gold",
+        "answer": "SAFFRON",
+        "chunkTexts": [
+          "SAF",
+          "FRON"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Eggnog dust, or soccer trick",
+        "answer": "NUTMEG",
+        "chunkTexts": [
+          "NUT",
+          "MEG"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 5
+      },
+      {
+        "clue": "Herb that tastes like soap to some",
+        "answer": "CILANTRO",
+        "chunkTexts": [
+          "CI",
+          "LAN",
+          "TRO"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "themed",
+    "candidateId": "T08",
+    "scores": {
+      "decoys": 2.2,
+      "tempting_pairs": 0.8,
+      "shared_fragments": 5.0,
+      "anchor_balance": 4.9,
+      "shape": 10.4,
+      "word_appeal": 14.0,
+      "penalties": -15.3,
+      "structure": 22.0,
+      "clue_rating": 20.4,
+      "clue_variety": 8.0,
+      "clue_puns": 3.0,
+      "clue_penalties": 0.0,
+      "clues": 31.4,
+      "structure_scaled": 13.8,
+      "total": 45.2
+    }
+  },
+  {
+    "id": "round129",
+    "title": "Round 129",
+    "theme": "Bakery",
+    "clueAnswers": [
+      {
+        "clue": "Coconut cookie, not the French one",
+        "answer": "MACAROON",
+        "chunkTexts": [
+          "MAC",
+          "AR",
+          "OON"
+        ],
+        "clueType": "misdirection",
+        "clueRating": 4
+      },
+      {
+        "clue": "Fudgy square, or junior scout",
+        "answer": "BROWNIE",
+        "chunkTexts": [
+          "BROW",
+          "NIE"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "New York's creamy slice",
+        "answer": "CHEESECAKE",
+        "chunkTexts": [
+          "CHEE",
+          "SEC",
+          "AKE"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Long choux with a lightning name",
+        "answer": "ECLAIR",
+        "chunkTexts": [
+          "ECL",
+          "AIR"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Single-serving birthday treat",
+        "answer": "CUPCAKE",
+        "chunkTexts": [
+          "CUP",
+          "CAKE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Hole food",
+        "answer": "DOUGHNUT",
+        "chunkTexts": [
+          "DO",
+          "UGH",
+          "NUT"
+        ],
+        "clueType": "pun",
+        "clueRating": 5
+      },
+      {
+        "clue": "Apple-filled Viennese roll",
+        "answer": "STRUDEL",
+        "chunkTexts": [
+          "STRU",
+          "DEL"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "themed",
+    "candidateId": "T09",
+    "scores": {
+      "decoys": 0.6,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 0.0,
+      "anchor_balance": 6.8,
+      "shape": 7.9,
+      "word_appeal": 14.0,
+      "penalties": -15.6,
+      "structure": 13.7,
+      "clue_rating": 20.4,
+      "clue_variety": 8.0,
+      "clue_puns": 6.0,
+      "clue_penalties": 0.0,
+      "clues": 34.4,
+      "structure_scaled": 8.6,
+      "total": 43.0
+    }
+  },
+  {
+    "id": "round130",
+    "title": "Round 130",
+    "theme": "US States",
+    "clueAnswers": [
+      {
+        "clue": "Big Sky Country",
+        "answer": "MONTANA",
+        "chunkTexts": [
+          "MONT",
+          "ANA"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "State of fried chicken fame",
+        "answer": "KENTUCKY",
+        "chunkTexts": [
+          "KEN",
+          "TU",
+          "CKY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Rocky Mountain high state",
+        "answer": "COLORADO",
+        "chunkTexts": [
+          "COL",
+          "OR",
+          "ADO"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Mitten-shaped state",
+        "answer": "MICHIGAN",
+        "chunkTexts": [
+          "MIC",
+          "HI",
+          "GAN"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Maple syrup's green state",
+        "answer": "VERMONT",
+        "chunkTexts": [
+          "VER",
+          "MONT"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "First to ratify, small to find",
+        "answer": "DELAWARE",
+        "chunkTexts": [
+          "DELA",
+          "WARE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Volunteer State with Nashville",
+        "answer": "TENNESSEE",
+        "chunkTexts": [
+          "TEN",
+          "NES",
+          "SEE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-004",
+    "category": "themed",
+    "allowProperNouns": true,
+    "candidateId": "T01",
+    "scores": {
+      "decoys": 3.4,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 3.8,
+      "anchor_balance": 7.2,
+      "shape": 7.2,
+      "word_appeal": 14.0,
+      "penalties": -14.7,
+      "structure": 21.3,
+      "clue_rating": 16.1,
+      "clue_variety": 4.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 20.1,
+      "structure_scaled": 13.3,
+      "total": 33.4
+    }
+  }
+]

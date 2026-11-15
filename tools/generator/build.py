@@ -102,7 +102,7 @@ def build_round(cand, block):
 
 def review_section(rnd, an, block):
     s = rnd["scores"]
-    out = [f"## {rnd['title']}: {rnd['theme']}  (total {s['total']:.1f}, candidate {rnd['candidateId']})", ""]
+    out = [f"## {rnd['title']} [{rnd.get('category', 'mixed')}]: {rnd['theme']}  (total {s['total']:.1f}, candidate {rnd['candidateId']})", ""]
     out.append("| Clue | Answer | Tiles | Type | Self-rating |")
     out.append("|---|---|---|---|---|")
     for ca in rnd["clueAnswers"]:
@@ -124,7 +124,7 @@ def review_section(rnd, an, block):
     out.append(f"- Decoys ({len(dec)}): {', '.join(dec) if dec else 'none'}")
     out.append(f"- Duplicate tiles: {', '.join(an['dup_tiles']) or 'none'}; near-twin tiles: "
                f"{', '.join('/'.join(p) for p in an['near_pairs']) or 'none'}")
-    out.append(f"- Anchor tiles (rare fragments): {', '.join(an['anchors']) or 'none'}")
+    out.append(f"- Giveaway tiles (share of the answer's family): {', '.join(f'{t} ({an['giveaway'][t]})' for t in an['anchors']) or 'none'}; whole-word tiles: {', '.join(an['word_tiles']) or 'none'}")
     nr = [a for a, r in an["start_rivals"].items() if not r]
     out.append(f"- Answers whose first tile has no rival continuation: {', '.join(nr) or 'none'}")
     out.append(f"- Word frequency (zipf): {', '.join(f'{a} {z}' for a, z in an['zipf'].items())}")
@@ -164,7 +164,7 @@ def main():
         if cid.startswith("_"):
             continue
         entries = [(e["answer"], e["chunkTexts"]) for e in cands[cid]["entries"]]
-        hard = scoring.hard_errors(entries)
+        hard = scoring.hard_errors(entries, max_proper=7 if block.get("allowProperNouns") else None)
         if hard:
             print(f"skip {cid}: {hard}")
             continue
@@ -179,7 +179,8 @@ def main():
     rounds = []
     for i, (rnd, _an, _b) in enumerate(kept, args.start):
         full = {"id": f"round{i}", "title": f"Round {i}", "theme": rnd["theme"], "clueAnswers": rnd["clueAnswers"],
-                "source": "generated", "batch": args.batch, "candidateId": rnd["candidateId"], "scores": rnd["scores"]}
+                "source": "generated", "batch": args.batch, "category": _b.get("category", "mixed"),
+                **({"allowProperNouns": True} if _b.get("allowProperNouns") else {}), "candidateId": rnd["candidateId"], "scores": rnd["scores"]}
         rnd.update(full)
         rounds.append(full)
 

@@ -22,9 +22,13 @@ export function ClueRow({ index, clue, answer, isSolved, isActive, onPress }: Pr
       <Text style={[styles.clue, light && styles.lightText]} numberOfLines={2}>
         {clue}
       </Text>
-      <Text style={[styles.answer, light && styles.lightText]}>
-        {isSolved ? answer : '• • •'}
-      </Text>
+      {isSolved ? (
+        <Text style={[styles.answer, styles.lightText]}>{answer}</Text>
+      ) : (
+        <Text style={[styles.letterCount, isActive && styles.lightText]}>
+          {answer.length} letters
+        </Text>
+      )}
     </TouchableOpacity>
   );
 }
@@ -58,6 +62,11 @@ const styles = StyleSheet.create({
     fontWeight: '700',
     color: '#333',
     letterSpacing: 1,
+  },
+  letterCount: {
+    fontSize: 13,
+    fontWeight: '600',
+    color: '#777',
   },
   lightText: { color: '#fff' },
 });

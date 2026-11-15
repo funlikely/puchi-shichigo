@@ -1,0 +1,1340 @@
+{
+ "_meta": {
+  "batch": "batch-003",
+  "writer": "hand-written (Claude, no API); original clues, clue bank used only as style inspiration",
+  "judge": "self-rated by the writer"
+ },
+ "c003": {
+  "theme": "Mixed",
+  "category": "mixed",
+  "clues": {
+   "BROADER": {
+    "clue": "Like horizons after travel",
+    "type": "evocative",
+    "rating": 3
+   },
+   "ASSIGNMENT": {
+    "clue": "Homework, to a spy",
+    "type": "pun",
+    "rating": 4
+   },
+   "GARDEN": {
+    "clue": "Bed and border establishment",
+    "type": "pun",
+    "rating": 5
+   },
+   "HARMONICA": {
+    "clue": "Blues in your pocket",
+    "type": "pun",
+    "rating": 4
+   },
+   "DESIGNATE": {
+    "clue": "Name for the job",
+    "type": "wordplay",
+    "rating": 3
+   },
+   "LICORICE": {
+    "clue": "Black twist of candy",
+    "type": "definition",
+    "rating": 3
+   },
+   "RECESS": {
+    "clue": "Break kids actually want",
+    "type": "pun",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Weakest: BROADER (comparative filler)."
+  }
+ },
+ "c005": {
+  "theme": "Mixed",
+  "category": "mixed",
+  "clues": {
+   "BEAVER": {
+    "clue": "Eager one, proverbially",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "SAPPHIRE": {
+    "clue": "Blue-chip stone",
+    "type": "pun",
+    "rating": 4
+   },
+   "CAPTAIN": {
+    "clue": "Crunch or Hook's title",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "FALCON": {
+    "clue": "Hunter with a hooded head",
+    "type": "evocative",
+    "rating": 4
+   },
+   "CONVERTER": {
+    "clue": "Travel plug's partner",
+    "type": "definition",
+    "rating": 3
+   },
+   "SUSPENSE": {
+    "clue": "It keeps you hanging",
+    "type": "pun",
+    "rating": 5
+   },
+   "SUPPOSEDLY": {
+    "clue": "So they say",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Weakest: SUPPOSEDLY and CONVERTER."
+  }
+ },
+ "c007": {
+  "theme": "Mixed",
+  "category": "mixed",
+  "clues": {
+   "CRIMINAL": {
+    "clue": "Record holder of the wrong kind",
+    "type": "pun",
+    "rating": 5
+   },
+   "BULLDOZER": {
+    "clue": "Pushy construction worker",
+    "type": "pun",
+    "rating": 5
+   },
+   "BUTTERFLY": {
+    "clue": "Stomach flutterer",
+    "type": "pun",
+    "rating": 4
+   },
+   "STENCIL": {
+    "clue": "Cut-out for copycats",
+    "type": "pun",
+    "rating": 4
+   },
+   "DOMESTIC": {
+    "clue": "Like flights with no passport",
+    "type": "misdirection",
+    "rating": 4
+   },
+   "VERTICALLY": {
+    "clue": "Up and down",
+    "type": "definition",
+    "rating": 3
+   },
+   "RANCHER": {
+    "clue": "One with a lot of beef",
+    "type": "pun",
+    "rating": 5
+   }
+  },
+  "critique": {
+   "notes": "Weakest: VERTICALLY (adverb filler)."
+  }
+ },
+ "c008": {
+  "theme": "Mixed",
+  "category": "mixed",
+  "clues": {
+   "CHARITABLE": {
+    "clue": "Giving, and forgiving",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "CHARACTER": {
+    "clue": "Letter, or one in a play",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "BUTCHER": {
+    "clue": "Chop shop owner",
+    "type": "pun",
+    "rating": 5
+   },
+   "TEAPOT": {
+    "clue": "Short, stout pourer",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CONSTANTLY": {
+    "clue": "Without a letup",
+    "type": "definition",
+    "rating": 3
+   },
+   "FILLET": {
+    "clue": "Boneless cut",
+    "type": "definition",
+    "rating": 3
+   },
+   "FOUNTAIN": {
+    "clue": "Coin collector in a plaza",
+    "type": "pun",
+    "rating": 5
+   }
+  },
+  "critique": {
+   "notes": "Weakest: CONSTANTLY; CHARITABLE/CHARACTER share CHA- tiles by design."
+  }
+ },
+ "c009": {
+  "theme": "Mixed",
+  "category": "mixed",
+  "clues": {
+   "INTRICATE": {
+    "clue": "Like lace or a spy plot",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "SENTIMENT": {
+    "clue": "Greeting card's contents",
+    "type": "definition",
+    "rating": 3
+   },
+   "PATTERN": {
+    "clue": "Stripes or plaid",
+    "type": "example",
+    "rating": 3
+   },
+   "ATTENDANT": {
+    "clue": "Aisle server at altitude",
+    "type": "evocative",
+    "rating": 4
+   },
+   "PRETZEL": {
+    "clue": "Snack with a twist",
+    "type": "pun",
+    "rating": 5
+   },
+   "LIMERICK": {
+    "clue": "Five lines, usually naughty",
+    "type": "definition",
+    "rating": 4
+   },
+   "TINSEL": {
+    "clue": "Tree's silver lining",
+    "type": "pun",
+    "rating": 5
+   }
+  },
+  "critique": {
+   "notes": "Weakest: SENTIMENT clue is plain."
+  }
+ },
+ "c012": {
+  "theme": "Mixed",
+  "category": "mixed",
+  "clues": {
+   "COMPLETE": {
+    "clue": "All there",
+    "type": "wordplay",
+    "rating": 3
+   },
+   "COMPOSITE": {
+    "clue": "Police sketch, often",
+    "type": "example",
+    "rating": 3
+   },
+   "MASQUERADE": {
+    "clue": "Ball where nobody shows face",
+    "type": "pun",
+    "rating": 4
+   },
+   "CONTRACTOR": {
+    "clue": "Builder with a binding deal",
+    "type": "wordplay",
+    "rating": 3
+   },
+   "ALLIGATOR": {
+    "clue": "See-you-later reptile",
+    "type": "pun",
+    "rating": 5
+   },
+   "COUGAR": {
+    "clue": "Puma by another name",
+    "type": "definition",
+    "rating": 3
+   },
+   "PLANET": {
+    "clue": "Mars or Venus",
+    "type": "example",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Weakest: COMPLETE and COUGAR."
+  }
+ },
+ "c013": {
+  "theme": "Mixed",
+  "category": "mixed",
+  "clues": {
+   "QUARTER": {
+    "clue": "Fourth of a dollar, or a game",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "ROOMMATE": {
+    "clue": "Rent splitter",
+    "type": "pun",
+    "rating": 4
+   },
+   "LUGGAGE": {
+    "clue": "Case load for a traveler",
+    "type": "pun",
+    "rating": 5
+   },
+   "LEFTOVER": {
+    "clue": "Tomorrow's lunch tonight",
+    "type": "evocative",
+    "rating": 4
+   },
+   "MANSION": {
+    "clue": "House with wings",
+    "type": "pun",
+    "rating": 5
+   },
+   "PASSENGER": {
+    "clue": "One along for the ride",
+    "type": "pun",
+    "rating": 4
+   },
+   "MONASTERY": {
+    "clue": "Home for men of habit",
+    "type": "pun",
+    "rating": 5
+   }
+  },
+  "critique": {
+   "notes": "Weakest: none glaring; QUARTER clue is wordy."
+  }
+ },
+ "c017": {
+  "theme": "Mixed",
+  "category": "mixed",
+  "clues": {
+   "SNOWBOARD": {
+    "clue": "Ride for a powder hound",
+    "type": "pun",
+    "rating": 4
+   },
+   "BATHROBE": {
+    "clue": "Spa uniform",
+    "type": "evocative",
+    "rating": 4
+   },
+   "GINGER": {
+    "clue": "Spice with snap",
+    "type": "pun",
+    "rating": 5
+   },
+   "BARREL": {
+    "clue": "Where monkeys are fun",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "PROGRAMMER": {
+    "clue": "Bug's sworn enemy",
+    "type": "pun",
+    "rating": 5
+   },
+   "UNDERWATER": {
+    "clue": "Owing more than it's worth",
+    "type": "misdirection",
+    "rating": 4
+   },
+   "COOPERATE": {
+    "clue": "Play ball",
+    "type": "pun",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Weakest: BATHROBE; UNDERWATER uses the mortgage sense, may be US-only."
+  }
+ },
+ "c018": {
+  "theme": "Mixed",
+  "category": "mixed",
+  "clues": {
+   "AFFECTION": {
+    "clue": "Hugs convey it",
+    "type": "definition",
+    "rating": 3
+   },
+   "PEDDLE": {
+    "clue": "Sell, sounding like you cycle",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "ELEVATOR": {
+    "clue": "Uplifting ride",
+    "type": "pun",
+    "rating": 5
+   },
+   "ELEMENTARY": {
+    "clue": "Holmes's word for obvious",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CANDLE": {
+    "clue": "Birthday wish target",
+    "type": "evocative",
+    "rating": 4
+   },
+   "DIESEL": {
+    "clue": "Truck stop pump option",
+    "type": "definition",
+    "rating": 3
+   },
+   "DRAWBRIDGE": {
+    "clue": "Castle's welcome mat, raised",
+    "type": "pun",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Weakest: AFFECTION and DIESEL."
+  }
+ },
+ "c019": {
+  "theme": "Mixed",
+  "category": "mixed",
+  "clues": {
+   "BARTER": {
+    "clue": "Deal with no money down",
+    "type": "pun",
+    "rating": 4
+   },
+   "PARCEL": {
+    "clue": "Porch pirate's prize",
+    "type": "evocative",
+    "rating": 4
+   },
+   "PLAYGROUND": {
+    "clue": "Swing state",
+    "type": "pun",
+    "rating": 5
+   },
+   "PLATEAU": {
+    "clue": "Level best, geologically",
+    "type": "pun",
+    "rating": 5
+   },
+   "EXPERIMENT": {
+    "clue": "Trial without a jury",
+    "type": "pun",
+    "rating": 5
+   },
+   "INTERNET": {
+    "clue": "World wide time sink",
+    "type": "pun",
+    "rating": 4
+   },
+   "CLARINET": {
+    "clue": "Licorice stick, to jazzmen",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "My favourite mixed round; weakest is PARCEL."
+  }
+ },
+ "c022": {
+  "theme": "Mixed",
+  "category": "mixed",
+  "clues": {
+   "TOMATO": {
+    "clue": "Fruit posing as a vegetable",
+    "type": "evocative",
+    "rating": 4
+   },
+   "TEMPORARY": {
+    "clue": "Not for keeps",
+    "type": "definition",
+    "rating": 3
+   },
+   "LAUGHTER": {
+    "clue": "Best medicine, they say",
+    "type": "trivia",
+    "rating": 4
+   },
+   "STATIONARY": {
+    "clue": "Going nowhere",
+    "type": "pun",
+    "rating": 4
+   },
+   "PERSONAL": {
+    "clue": "Kind of trainer or foul",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "POTATO": {
+    "clue": "Couch occupant",
+    "type": "pun",
+    "rating": 5
+   },
+   "THRILLER": {
+    "clue": "Jackson's monster hit",
+    "type": "wordplay",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Weakest: TEMPORARY; TOMATO/POTATO share ATO."
+  }
+ },
+ "c026": {
+  "theme": "Mixed",
+  "category": "mixed",
+  "clues": {
+   "NEIGHBOR": {
+    "clue": "Fence sharer",
+    "type": "evocative",
+    "rating": 4
+   },
+   "SURRENDER": {
+    "clue": "Wave the white flag",
+    "type": "definition",
+    "rating": 3
+   },
+   "FREQUENTLY": {
+    "clue": "More often than not",
+    "type": "definition",
+    "rating": 3
+   },
+   "TURKEY": {
+    "clue": "Flop, or November bird",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "GENTLEMEN": {
+    "clue": "Ladies' partners in greetings",
+    "type": "definition",
+    "rating": 3
+   },
+   "CLOSET": {
+    "clue": "Skeleton's hiding place",
+    "type": "pun",
+    "rating": 5
+   },
+   "AIRPORT": {
+    "clue": "Place of terminal delays",
+    "type": "pun",
+    "rating": 5
+   }
+  },
+  "critique": {
+   "notes": "Weakest: FREQUENTLY (adverb) and GENTLEMEN (plural)."
+  }
+ },
+ "s1": {
+  "theme": "Physics",
+  "category": "STEM",
+  "clues": {
+   "ENTROPY": {
+    "clue": "Disorder that always grows",
+    "type": "definition",
+    "rating": 4
+   },
+   "PHOTON": {
+    "clue": "Traveler that always packs light",
+    "type": "pun",
+    "rating": 5
+   },
+   "NEUTRINO": {
+    "clue": "It passes through you unnoticed",
+    "type": "evocative",
+    "rating": 4
+   },
+   "FRICTION": {
+    "clue": "Rub that slows you down",
+    "type": "pun",
+    "rating": 4
+   },
+   "MAGNETISM": {
+    "clue": "Polar attraction",
+    "type": "pun",
+    "rating": 5
+   },
+   "PENDULUM": {
+    "clue": "Swinger in a grandfather clock",
+    "type": "pun",
+    "rating": 4
+   },
+   "RESONANCE": {
+    "clue": "Why singers shatter glass",
+    "type": "evocative",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Tiles ROPY/NDU are low-productivity; words are fair for first-year physics."
+  }
+ },
+ "s2": {
+  "theme": "Chemistry",
+  "category": "STEM",
+  "clues": {
+   "CATALYST": {
+    "clue": "Reaction starter that stays out of it",
+    "type": "evocative",
+    "rating": 4
+   },
+   "ISOTOPE": {
+    "clue": "Same element, different weight",
+    "type": "definition",
+    "rating": 3
+   },
+   "MOLECULE": {
+    "clue": "Where atoms bond",
+    "type": "pun",
+    "rating": 4
+   },
+   "ELECTRON": {
+    "clue": "Negative type in orbit",
+    "type": "pun",
+    "rating": 5
+   },
+   "TITRATION": {
+    "clue": "Drop-by-drop lab test",
+    "type": "definition",
+    "rating": 3
+   },
+   "OXIDATION": {
+    "clue": "What gives iron its rusty look",
+    "type": "definition",
+    "rating": 3
+   },
+   "SOLVENT": {
+    "clue": "Debt-free, or dissolving",
+    "type": "pun",
+    "rating": 5
+   }
+  },
+  "critique": {
+   "notes": "Best-structured STEM round (ION twice, ECT/ECU). Weakest clue: OXIDATION."
+  }
+ },
+ "s3": {
+  "theme": "Cell Biology",
+  "category": "STEM",
+  "clues": {
+   "MITOSIS": {
+    "clue": "Division problem for a cell",
+    "type": "pun",
+    "rating": 5
+   },
+   "RIBOSOME": {
+    "clue": "Protein factory floor",
+    "type": "evocative",
+    "rating": 3
+   },
+   "ENZYME": {
+    "clue": "Its name often ends in -ase",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "PROTEIN": {
+    "clue": "Gym-goer's shake ingredient",
+    "type": "misdirection",
+    "rating": 4
+   },
+   "GENOME": {
+    "clue": "Your complete instruction manual",
+    "type": "pun",
+    "rating": 4
+   },
+   "ORGANELLE": {
+    "clue": "Cell's little specialist",
+    "type": "definition",
+    "rating": 3
+   },
+   "SYMBIOSIS": {
+    "clue": "Win-win living arrangement",
+    "type": "pun",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Short answers, only 17 tiles; ENZ/YME are giveaways."
+  }
+ },
+ "s4": {
+  "theme": "Calculus",
+  "category": "STEM",
+  "clues": {
+   "DERIVATIVE": {
+    "clue": "Slope finder, or unoriginal",
+    "type": "pun",
+    "rating": 5
+   },
+   "GRADIENT": {
+    "clue": "Hill's rate of climb",
+    "type": "definition",
+    "rating": 3
+   },
+   "CONTINUOUS": {
+    "clue": "Drawn without lifting the pencil",
+    "type": "evocative",
+    "rating": 4
+   },
+   "INFINITY": {
+    "clue": "Sideways eight",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "SEQUENCE": {
+    "clue": "Fibonacci's famous list",
+    "type": "example",
+    "rating": 4
+   },
+   "CONVERGE": {
+    "clue": "Come together at a limit",
+    "type": "definition",
+    "rating": 3
+   },
+   "MAXIMUM": {
+    "clue": "Peak performance on a graph",
+    "type": "pun",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Weakest: CONVERGE and GRADIENT clues are near-definitions."
+  }
+ },
+ "s5": {
+  "theme": "Linear Algebra",
+  "category": "STEM",
+  "clues": {
+   "VECTOR": {
+    "clue": "Quantity with a sense of direction",
+    "type": "pun",
+    "rating": 5
+   },
+   "EIGENVALUE": {
+    "clue": "Lambda, to a matrix",
+    "type": "trivia",
+    "rating": 4
+   },
+   "TRANSPOSE": {
+    "clue": "Swap rows for columns",
+    "type": "definition",
+    "rating": 3
+   },
+   "DIAGONAL": {
+    "clue": "Bishop's only way to move",
+    "type": "misdirection",
+    "rating": 5
+   },
+   "ORTHOGONAL": {
+    "clue": "At right angles, formally",
+    "type": "definition",
+    "rating": 3
+   },
+   "DIMENSION": {
+    "clue": "Length, width or the fourth",
+    "type": "example",
+    "rating": 4
+   },
+   "KERNEL": {
+    "clue": "Null space, or corn bit",
+    "type": "pun",
+    "rating": 5
+   }
+  },
+  "critique": {
+   "notes": "Hardest vocabulary in the batch (EIGENVALUE, ORTHOGONAL); ENVA/OGO are poor tiles."
+  }
+ },
+ "s6": {
+  "theme": "Statistics",
+  "category": "STEM",
+  "clues": {
+   "VARIANCE": {
+    "clue": "Sigma squared",
+    "type": "trivia",
+    "rating": 4
+   },
+   "MEDIAN": {
+    "clue": "Middle of the road, or data",
+    "type": "pun",
+    "rating": 5
+   },
+   "OUTLIER": {
+    "clue": "Point that doesn't fit in",
+    "type": "pun",
+    "rating": 4
+   },
+   "REGRESSION": {
+    "clue": "Line-fitting, or going backward",
+    "type": "pun",
+    "rating": 4
+   },
+   "QUARTILE": {
+    "clue": "A fourth of the data",
+    "type": "definition",
+    "rating": 3
+   },
+   "DEVIATION": {
+    "clue": "Standard ___",
+    "type": "fill-in",
+    "rating": 3
+   },
+   "PERCENTILE": {
+    "clue": "Rank out of a hundred",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Weakest: QUARTILE and PERCENTILE are close cousins (shared ILE is intended)."
+  }
+ },
+ "s7": {
+  "theme": "Computer Science",
+  "category": "STEM",
+  "clues": {
+   "ALGORITHM": {
+    "clue": "Recipe a computer follows",
+    "type": "evocative",
+    "rating": 4
+   },
+   "RECURSION": {
+    "clue": "To understand it, see this clue",
+    "type": "pun",
+    "rating": 5
+   },
+   "VARIABLE": {
+    "clue": "X, for one, or changeable",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "POINTER": {
+    "clue": "Address holder, or hint",
+    "type": "pun",
+    "rating": 4
+   },
+   "DATABASE": {
+    "clue": "Home of tables without chairs",
+    "type": "pun",
+    "rating": 5
+   },
+   "ENCRYPTION": {
+    "clue": "Key to keeping secrets",
+    "type": "pun",
+    "rating": 4
+   },
+   "BINARY": {
+    "clue": "As easy as 1, 0, 1",
+    "type": "pun",
+    "rating": 5
+   }
+  },
+  "critique": {
+   "notes": "RECURSION's clue is the old self-reference joke, reworded."
+  }
+ },
+ "s8": {
+  "theme": "Astronomy",
+  "category": "STEM",
+  "clues": {
+   "NEBULA": {
+    "clue": "Cloud where stars are born",
+    "type": "definition",
+    "rating": 3
+   },
+   "SUPERNOVA": {
+    "clue": "Star's explosive finale",
+    "type": "evocative",
+    "rating": 4
+   },
+   "EQUINOX": {
+    "clue": "Day and night call it even",
+    "type": "pun",
+    "rating": 5
+   },
+   "METEORITE": {
+    "clue": "Shooting star that stuck the landing",
+    "type": "pun",
+    "rating": 5
+   },
+   "SOLSTICE": {
+    "clue": "Longest day, or shortest",
+    "type": "definition",
+    "rating": 3
+   },
+   "PARALLAX": {
+    "clue": "Shift that measures star distance",
+    "type": "definition",
+    "rating": 3
+   },
+   "PULSAR": {
+    "clue": "Star with a steady beat",
+    "type": "pun",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Weakest: PARALLAX (hardest word, plain clue); BULA/INOX are giveaway tiles."
+  }
+ },
+ "t1": {
+  "theme": "World Capitals",
+  "category": "themed",
+  "clues": {
+   "LISBON": {
+    "clue": "Port of call for Portugal",
+    "type": "pun",
+    "rating": 4
+   },
+   "NAIROBI": {
+    "clue": "Kenya's safari gateway",
+    "type": "definition",
+    "rating": 3
+   },
+   "CANBERRA": {
+    "clue": "Aussie seat, not Sydney",
+    "type": "misdirection",
+    "rating": 4
+   },
+   "SANTIAGO": {
+    "clue": "Chile's hot seat",
+    "type": "pun",
+    "rating": 4
+   },
+   "BANGKOK": {
+    "clue": "Thai home of street food",
+    "type": "definition",
+    "rating": 3
+   },
+   "OTTAWA": {
+    "clue": "Where Canada's Hill is",
+    "type": "trivia",
+    "rating": 3
+   },
+   "COPENHAGEN": {
+    "clue": "Little Mermaid's Danish home",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "All proper nouns; tiles like ROBI/GKOK/ENHA are unavoidable giveaways."
+  },
+  "allowProperNouns": true
+ },
+ "t2": {
+  "theme": "Figures of History",
+  "category": "themed",
+  "clues": {
+   "NAPOLEON": {
+    "clue": "Emperor who met his Waterloo",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CLEOPATRA": {
+    "clue": "Queen of the Nile, not denial",
+    "type": "pun",
+    "rating": 5
+   },
+   "GANDHI": {
+    "clue": "Salt March leader",
+    "type": "trivia",
+    "rating": 3
+   },
+   "COLUMBUS": {
+    "clue": "Sailor who found the wrong India",
+    "type": "evocative",
+    "rating": 4
+   },
+   "CAESAR": {
+    "clue": "Emperor of salads",
+    "type": "pun",
+    "rating": 5
+   },
+   "MANDELA": {
+    "clue": "Prisoner turned president",
+    "type": "trivia",
+    "rating": 4
+   },
+   "GALILEO": {
+    "clue": "He insisted it moves",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "All proper nouns; 17 tiles, plays fast. DHI and ILEO are giveaways."
+  },
+  "allowProperNouns": true
+ },
+ "t3": {
+  "theme": "Italian Kitchen",
+  "category": "themed",
+  "clues": {
+   "RISOTTO": {
+    "clue": "Rice that demands stirring",
+    "type": "evocative",
+    "rating": 4
+   },
+   "PARMESAN": {
+    "clue": "Grate Italian cheese",
+    "type": "pun",
+    "rating": 5
+   },
+   "TIRAMISU": {
+    "clue": "Dessert that picks you up",
+    "type": "wordplay",
+    "rating": 5
+   },
+   "PROSCIUTTO": {
+    "clue": "Cured ham, sliced see-through",
+    "type": "definition",
+    "rating": 3
+   },
+   "RAVIOLI": {
+    "clue": "Pasta with inside information",
+    "type": "pun",
+    "rating": 5
+   },
+   "FOCACCIA": {
+    "clue": "Dimpled olive oil bread",
+    "type": "definition",
+    "rating": 3
+   },
+   "MOZZARELLA": {
+    "clue": "Pizza's stretchy topper",
+    "type": "evocative",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Words are vivid but tiles (UTTO, MOZZ, ISU) are unproductive."
+  }
+ },
+ "t4": {
+  "theme": "Classical Music",
+  "category": "themed",
+  "clues": {
+   "SYMPHONY": {
+    "clue": "Beethoven wrote nine",
+    "type": "trivia",
+    "rating": 3
+   },
+   "CRESCENDO": {
+    "clue": "Volume on the rise",
+    "type": "pun",
+    "rating": 4
+   },
+   "BARITONE": {
+    "clue": "Voice between tenor and bass",
+    "type": "definition",
+    "rating": 3
+   },
+   "FALSETTO": {
+    "clue": "High voice, not quite true",
+    "type": "pun",
+    "rating": 4
+   },
+   "CONDUCTOR": {
+    "clue": "Stick figure on a podium",
+    "type": "pun",
+    "rating": 5
+   },
+   "METRONOME": {
+    "clue": "Ticker that keeps time",
+    "type": "pun",
+    "rating": 4
+   },
+   "HARMONY": {
+    "clue": "Agreement among notes",
+    "type": "pun",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Best-structured themed round. Weakest clue: BARITONE."
+  }
+ },
+ "t5": {
+  "theme": "Weather",
+  "category": "themed",
+  "clues": {
+   "TORNADO": {
+    "clue": "Dorothy's ride to Oz",
+    "type": "trivia",
+    "rating": 4
+   },
+   "HUMIDITY": {
+    "clue": "It's not the heat, it's this",
+    "type": "wordplay",
+    "rating": 5
+   },
+   "FORECAST": {
+    "clue": "Outlook, often cloudy",
+    "type": "pun",
+    "rating": 4
+   },
+   "DROUGHT": {
+    "clue": "Dry spell",
+    "type": "pun",
+    "rating": 4
+   },
+   "CYCLONE": {
+    "clue": "Storm that spins up at sea",
+    "type": "definition",
+    "rating": 3
+   },
+   "BAROMETER": {
+    "clue": "It works well under pressure",
+    "type": "pun",
+    "rating": 5
+   },
+   "THUNDER": {
+    "clue": "Sound you can steal",
+    "type": "pun",
+    "rating": 5
+   }
+  },
+  "critique": {
+   "notes": "Weakest: CYCLONE clue; UGHT is a giveaway tile."
+  }
+ },
+ "t6": {
+  "theme": "Game Night",
+  "category": "themed",
+  "clues": {
+   "MONOPOLY": {
+    "clue": "Go directly to this game",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "DOMINOES": {
+    "clue": "Tiles that fall in line",
+    "type": "pun",
+    "rating": 4
+   },
+   "SCRABBLE": {
+    "clue": "Other game with letter tiles",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "BACKGAMMON": {
+    "clue": "Game with a doubling cube",
+    "type": "trivia",
+    "rating": 3
+   },
+   "SOLITAIRE": {
+    "clue": "Game for one, or one diamond",
+    "type": "pun",
+    "rating": 5
+   },
+   "CHARADES": {
+    "clue": "Game where talk is cheating",
+    "type": "pun",
+    "rating": 4
+   },
+   "CRIBBAGE": {
+    "clue": "Card game scored on a pegboard",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "\"Game\" repeats across clues; BACKGAMMON and CRIBBAGE get plain clues."
+  }
+ },
+ "t7": {
+  "theme": "Greek Myth",
+  "category": "themed",
+  "clues": {
+   "HERCULES": {
+    "clue": "He labored twelve times",
+    "type": "trivia",
+    "rating": 4
+   },
+   "MEDUSA": {
+    "clue": "She had a stony stare",
+    "type": "pun",
+    "rating": 5
+   },
+   "ACHILLES": {
+    "clue": "Hero brought to heel",
+    "type": "pun",
+    "rating": 5
+   },
+   "PANDORA": {
+    "clue": "Box opener of legend",
+    "type": "pun",
+    "rating": 4
+   },
+   "MINOTAUR": {
+    "clue": "Bull in a maze",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "APHRODITE": {
+    "clue": "Goddess born of sea foam",
+    "type": "trivia",
+    "rating": 3
+   },
+   "PEGASUS": {
+    "clue": "Horse with a flight plan",
+    "type": "pun",
+    "rating": 5
+   }
+  },
+  "critique": {
+   "notes": "All proper nouns. Weakest clue: APHRODITE."
+  },
+  "allowProperNouns": true
+ },
+ "t8": {
+  "theme": "Olympic Events",
+  "category": "themed",
+  "clues": {
+   "DECATHLON": {
+    "clue": "Ten events in one",
+    "type": "definition",
+    "rating": 3
+   },
+   "TRIATHLON": {
+    "clue": "Swim, bike, run",
+    "type": "definition",
+    "rating": 3
+   },
+   "GYMNASTICS": {
+    "clue": "Sport where you stick the landing",
+    "type": "evocative",
+    "rating": 4
+   },
+   "WRESTLING": {
+    "clue": "Sport of pins and holds",
+    "type": "pun",
+    "rating": 4
+   },
+   "VOLLEYBALL": {
+    "clue": "Sport of spikes and digs",
+    "type": "pun",
+    "rating": 4
+   },
+   "BADMINTON": {
+    "clue": "Birdie's racket sport",
+    "type": "pun",
+    "rating": 4
+   },
+   "TAEKWONDO": {
+    "clue": "Korean art of kicks",
+    "type": "definition",
+    "rating": 3
+   },
+   "EQUESTRIAN": {
+    "clue": "Like events with horses",
+    "type": "definition",
+    "rating": 3
+   },
+   "ARCHERY": {
+    "clue": "Sport with a point, and a bow",
+    "type": "pun",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Three -ATHLON/-ING sports share tiles; several clues are plain definitions."
+  }
+ },
+ "t9": {
+  "theme": "In the Garden",
+  "category": "themed",
+  "clues": {
+   "ORCHID": {
+    "clue": "Corsage classic",
+    "type": "definition",
+    "rating": 3
+   },
+   "DAFFODIL": {
+    "clue": "Yellow trumpet of spring",
+    "type": "evocative",
+    "rating": 4
+   },
+   "MARIGOLD": {
+    "clue": "Bloom with a precious ending",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "JASMINE": {
+    "clue": "Tea scent, or Aladdin's princess",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "MAGNOLIA": {
+    "clue": "Southern bloom, steel in film",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "SUNFLOWER": {
+    "clue": "It follows its star",
+    "type": "pun",
+    "rating": 5
+   },
+   "PETUNIA": {
+    "clue": "Porky Pig's girlfriend",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Flower names tile badly (FFO, GNO, PETU). Weakest clue: ORCHID."
+  }
+ },
+ "t10": {
+  "theme": "At the Movies",
+  "category": "themed",
+  "clues": {
+   "DIRECTOR": {
+    "clue": "One who calls the shots",
+    "type": "pun",
+    "rating": 5
+   },
+   "SEQUEL": {
+    "clue": "Second coming to theaters",
+    "type": "pun",
+    "rating": 4
+   },
+   "SCREENPLAY": {
+    "clue": "Writing that hopes to be shot",
+    "type": "pun",
+    "rating": 5
+   },
+   "PREMIERE": {
+    "clue": "Red carpet night",
+    "type": "evocative",
+    "rating": 3
+   },
+   "MATINEE": {
+    "clue": "Show for the early crowd",
+    "type": "definition",
+    "rating": 3
+   },
+   "BLOOPER": {
+    "clue": "Flub that makes the gag reel",
+    "type": "evocative",
+    "rating": 4
+   },
+   "CAMEO": {
+    "clue": "Blink-and-miss-it role",
+    "type": "evocative",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Short words, 17 tiles; SEQ/UEL and MEO are giveaways."
+  }
+ }
+}

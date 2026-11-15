@@ -19,7 +19,8 @@ TILES_MIN, TILES_MAX = 17, 22          # hard limits; generator aims at 18-21
 TILE_LEN_MIN, TILE_LEN_MAX = 2, 4       # 5+ letter tiles are never allowed
 MAX_TWO_LETTER_TILES = 3               # target is 0-2
 MAX_FOUR_PLUS_FRAC = 0.3               # target is 12-15% (3-letter 75-80%, 2-letter 8-10%)
-MAX_TWO_TILE_ANSWERS = 3
+MAX_TWO_TILE_ANSWERS = 5               # 2-tile answers are fine (STA·BLE)
+MAX_PROPER = 2                         # proper nouns per round, unless allowProperNouns
 TILE_VOWELS = set("AEIOUY")
 MAX_SAME_TILE = 2                      # identical tile text at most twice
 MAX_INFLECTED = 1                      # -ING / -ED answers per round
@@ -41,12 +42,14 @@ STRUCTURE_SCALE = 0.625   # structure 0-80 is scaled to 0-50 in the total
 ANCHOR_MAX_WORDS_4 = 3
 ANCHOR_MAX_WORDS = 12     # a 3+ letter tile found in <= this many pool words is an "anchor"
 VIABLE_MIN_WORDS = 3      # tile pair must start/end this many pool words to be "tempting"
-ANCHOR_LO, ANCHOR_HI = 3, 6
+ANCHOR_LO, ANCHOR_HI = 0, 2            # low-productivity tiles tolerated per round
+PEN_WORD_TILE = 1.5
+PEN_MISALIGNED = 0.3       # per tile boundary off a syllable break
 PEN_TWO_LETTER_TILE = 1.5
 PEN_TWO_NOT_RARER = 2.0
 PEN_ING_TILE = 2.0         # bare ING tile (KING/TING/LING are fine)
 PEN_FOUR_SHARE = 2.0       # 4-letter tiles outside 10-20% of the round
-PEN_EXTRA_TWO_TILE_ANSWER = 2.0
+PEN_EXTRA_TWO_TILE_ANSWER = 0.0
 PEN_NO_START_RIVAL = 1.0
 PEN_INFLECTED = 1.5
 PEN_CLUE_STEM = 3.0
@@ -159,8 +162,13 @@ def analyze(entries) -> dict:
                 r.add(y)
         rivals[a] = sorted(r)
 
-    anchors = sorted({t for t in texts if (len(t) == 3 and anywhere.get(t, 0) <= ANCHOR_MAX_WORDS)
-                      or (len(t) >= 4 and anywhere.get(t, 0) <= ANCHOR_MAX_WORDS_4)})
+    import tiling as _tl
+    gmap = {}
+    for a_, ts_ in entries:
+        for t_, g_ in zip(ts_, _tl.giveaways(tuple(ts_))):
+            gmap[t_] = max(g_, gmap.get(t_, 0.0))
+    anchors = sorted(t for t, g_ in gmap.items() if g_ >= _tl.GIVEAWAY_BAD)
+    word_tiles = sorted({t for t in texts if lx.is_word_tile(t)})
     dups = sorted(t for t, c in pool.items() if c > 1)
     near = set()
     for x, ax in tiles:
@@ -178,10 +186,16 @@ def analyze(entries) -> dict:
         "decoys": decoys,
         "tempting_pairs": sorted(tempting),
         "start_rivals": rivals,
-        "anchors": anchors,
+        "anchors": anchors,          # giveaway tiles (giveaway >= GIVEAWAY_BAD)
+        "giveaway": gmap,
+        "mean_giveaway": round(sum(gmap.values()) / max(1, len(gmap)), 3),
+        "word_tiles": word_tiles,
+        "misaligned": sum(_tl.misaligned(tuple(ts)) for _, ts in entries),
+        "productivity": {t: lx.productivity(t, answers[ai]) for t, ai in tiles},
+        "proper": [a for a in answers if a.lower() in lx.proper_nouns()],
         "dup_tiles": dups,
         "near_pairs": sorted(near),
-        "inflected": [a for a in answers if lx.inflection(a.lower()) in ("ing", "ed")],
+        "inflected": [a for a in answers if not lx.is_curated(a) and lx.inflection(a.lower()) in ("ing", "ed")],
         "zipf": {a: round(lx.zipf(a), 2) for a in answers},
         "promiscuity": {t: anywhere.get(t, 0) for t in sorted(set(texts))},
     }
@@ -198,7 +212,7 @@ def same_stem(a: str, b: str) -> bool:
     return k >= STEM_LEN or a in b or b in a
 
 
-def hard_errors(entries, an=None, check_words=True) -> list[str]:
+def hard_errors(entries, an=None, check_words=True, max_proper=None) -> list[str]:
     """Rule violations that make a round invalid."""
     errs = []
     if len(entries) != N_ANSWERS:
@@ -251,7 +265,9 @@ def hard_errors(entries, an=None, check_words=True) -> list[str]:
         for b in answers[i + 1 :]:
             if same_stem(a, b):
                 errs.append(f"{a} / {b}: answers share a stem")
-    nab = [a for a in answers if lx.is_abstract(a)]
+    if len(an["proper"]) > (MAX_PROPER if max_proper is None else max_proper):
+        errs.append(f"{len(an['proper'])} proper nouns (max {MAX_PROPER} unless the round sets allowProperNouns)")
+    nab = [a for a in answers if lx.is_abstract(a) and not lx.is_curated(a)]
     if len(nab) > MAX_ABSTRACT:
         errs.append(f"{len(nab)} dry abstract-suffix answers (max {MAX_ABSTRACT}): {nab}")
     if len(an["inflected"]) > MAX_INFLECTED:
@@ -268,7 +284,7 @@ def _appeal(word: str) -> float:
         v = max(0.3, 1.0 - (3.6 - z) * 2.0)
     else:
         v = max(0.3, 1.0 - (z - 4.8) * 1.5)
-    if word.lower() in lx.favorites():
+    if word.lower() in lx.favorites() or lx.is_curated(word):
         return 1.0
     v *= NON_FAVORITE_CAP
     if lx.is_abstract(word):
@@ -299,14 +315,14 @@ def structure_score(an: dict) -> dict:
 
     a = len(an["anchors"])
     off = max(0, ANCHOR_LO - a, a - ANCHOR_HI)
-    s_anchor = max(0.0, W_ANCHOR - 2.0 * off)
+    s_anchor = max(0.0, W_ANCHOR - 2.0 * off - 10.0 * an.get("mean_giveaway", 0.0))
 
     n = an["n_tiles"]
     s_count = {20: 3, 19: 3, 21: 2, 18: 2, 17: 1, 22: 1}.get(n, 0)
     frac3 = an["tile_len_hist"].get(3, 0) / max(1, n)
     s_frac = 5 * max(0.0, min(1.0, (frac3 - 0.5) / 0.25))
     three = sum(1 for k in an["tiles_per_answer"] if k == 3)
-    s_three = 2 * min(1.0, three / 4)
+    s_three = 2.0
     nlen = len({len(x) for x in an["answers"]})
     s_var = 2 if nlen >= 4 else 1 if nlen == 3 else 0
     s_shape = s_count + s_frac + s_three + s_var
@@ -325,6 +341,8 @@ def structure_score(an: dict) -> dict:
     pen += PEN_EXTRA_TWO_TILE_ANSWER * max(0, sum(1 for k in an["tiles_per_answer"] if k == 2) - 1)
     pen += PEN_NO_START_RIVAL * sum(1 for r in an["start_rivals"].values() if not r)
     pen += PEN_INFLECTED * len(an["inflected"])
+    pen += PEN_WORD_TILE * len(an.get("word_tiles", []))
+    pen += PEN_MISALIGNED * an.get("misaligned", 0)
 
     total = s_decoy + s_tempt + s_shared + s_anchor + s_shape + s_appeal - pen
     return {

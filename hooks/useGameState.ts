@@ -1,5 +1,5 @@
 import { useCallback, useState } from 'react';
-import { buildPuzzle, Puzzle, PuzzleDef } from '../data/puzzles';
+import { buildPuzzle, Puzzle, PuzzleDef, shuffle } from '../data/puzzles';
 
 export interface GameState {
   activeClueIndex: number | null; // null until the player taps a clue
@@ -9,7 +9,7 @@ export interface GameState {
 }
 
 export function useGameState(def: PuzzleDef) {
-  const [puzzle] = useState<Puzzle>(() => buildPuzzle(def));
+  const [puzzle, setPuzzle] = useState<Puzzle>(() => buildPuzzle(def));
 
   const [state, setState] = useState<GameState>(() => ({
     activeClueIndex: null,
@@ -67,7 +67,14 @@ export function useGameState(def: PuzzleDef) {
     });
   }, [puzzle]);
 
+  // Reorders the tile grid only; selection and solved state are keyed by chunk id.
+  const shuffleChunks = useCallback(() => {
+    setPuzzle(prev => ({ ...prev, chunks: shuffle(prev.chunks) }));
+  }, []);
+
   const isComplete = state.solved.every(Boolean);
 
-  return { puzzle, state, selectClue, tapChunk, clearSelection, submitAnswer, isComplete };
+  return {
+    puzzle, state, selectClue, tapChunk, clearSelection, submitAnswer, shuffleChunks, isComplete,
+  };
 }

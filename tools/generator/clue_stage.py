@@ -93,7 +93,7 @@ def check_clues(cands: dict, clues: dict) -> tuple[list[str], list[str]]:
             seen_clues.add(item.get("clue", "").lower())
         extra = set(block.get("clues", {})) - set(answers)
         if extra:
-            errs.append(f"{cid}: clues for unknown answers {sorted(extra)}")
+            warns.append(f"{cid}: unused clues for {sorted(extra)}")
         theme = block.get("theme", "")
         if not theme:
             errs.append(f"{cid}: missing theme label")
