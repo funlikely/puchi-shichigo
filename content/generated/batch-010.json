@@ -1,0 +1,3043 @@
+[
+  {
+    "id": "round291",
+    "title": "Round 291",
+    "theme": "Parks and Recreation: The Department",
+    "clueAnswers": [
+      {
+        "clue": "Donna, who says treat yo self",
+        "answer": "MEAGLE",
+        "chunkTexts": [
+          "MEA",
+          "GLE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Tom, a self-styled entrepreneur",
+        "answer": "HAVERFORD",
+        "chunkTexts": [
+          "HAV",
+          "ERF",
+          "ORD"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Nurse and beautiful tropical fish",
+        "answer": "ANNPERKINS",
+        "chunkTexts": [
+          "ANN",
+          "PERK",
+          "INS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Deputy director with a binder habit",
+        "answer": "LESLIE",
+        "chunkTexts": [
+          "LES",
+          "LIE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Chris, the literally positive one",
+        "answer": "TRAEGER",
+        "chunkTexts": [
+          "TRA",
+          "EGER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Budget nerd who loves calzones",
+        "answer": "BENWYATT",
+        "chunkTexts": [
+          "BEN",
+          "WY",
+          "ATT"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Jerry, the office punching bag",
+        "answer": "GERGICH",
+        "chunkTexts": [
+          "GER",
+          "GICH"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-010",
+    "category": "themed",
+    "candidateId": "H01",
+    "scores": {
+      "decoys": 2.7,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 0.0,
+      "anchor_balance": 6.5,
+      "shape": 10.0,
+      "word_appeal": 14.0,
+      "penalties": -10.3,
+      "structure": 22.9,
+      "clue_rating": 9.6,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 9.6,
+      "structure_scaled": 14.3,
+      "total": 23.9
+    }
+  },
+  {
+    "id": "round292",
+    "title": "Round 292",
+    "theme": "Parks and Recreation: Cast and Crew",
+    "clueAnswers": [
+      {
+        "clue": "Nick, mustache for hire",
+        "answer": "OFFERMAN",
+        "chunkTexts": [
+          "OF",
+          "FER",
+          "MAN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Ms Plaza, deadpan as April",
+        "answer": "AUBREY",
+        "chunkTexts": [
+          "AUB",
+          "REY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "He played Chris, literally",
+        "answer": "ROBLOWE",
+        "chunkTexts": [
+          "ROB",
+          "LOWE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "One-named actress behind Donna",
+        "answer": "RETTA",
+        "chunkTexts": [
+          "RET",
+          "TA"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Megan, the Tammy who scared Ron",
+        "answer": "MULLALLY",
+        "chunkTexts": [
+          "MUL",
+          "LAL",
+          "LY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Ghostbuster who played a late mayor",
+        "answer": "BILLMURRAY",
+        "chunkTexts": [
+          "BILL",
+          "MUR",
+          "RAY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Pawnee mayor Walter, Murray's role",
+        "answer": "GUNDERSON",
+        "chunkTexts": [
+          "GUN",
+          "DER",
+          "SON"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-010",
+    "category": "themed",
+    "candidateId": "H02",
+    "scores": {
+      "decoys": 3.5,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 5.0,
+      "anchor_balance": 6.9,
+      "shape": 10.4,
+      "word_appeal": 14.0,
+      "penalties": -15.6,
+      "structure": 24.3,
+      "clue_rating": 18.2,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 18.2,
+      "structure_scaled": 15.2,
+      "total": 33.4
+    }
+  },
+  {
+    "id": "round293",
+    "title": "Round 293",
+    "theme": "Parks and Recreation: Town Tour",
+    "clueAnswers": [
+      {
+        "clue": "Snooty rich neighbor town",
+        "answer": "EAGLETON",
+        "chunkTexts": [
+          "EA",
+          "GLE",
+          "TON"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Candy giant with corn-syrup pride",
+        "answer": "SWEETUMS",
+        "chunkTexts": [
+          "SWE",
+          "ET",
+          "UMS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Town first in obesity, fourth in...",
+        "answer": "PAWNEE",
+        "chunkTexts": [
+          "PAW",
+          "NEE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Hoosier home of the show",
+        "answer": "INDIANA",
+        "chunkTexts": [
+          "INDI",
+          "ANA"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "City hall's masked pest problem",
+        "answer": "RACCOONS",
+        "chunkTexts": [
+          "RAC",
+          "CO",
+          "ONS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "___ Festival, Leslie's big gamble",
+        "answer": "HARVEST",
+        "chunkTexts": [
+          "HAR",
+          "VEST"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Float-filled march down Main Street",
+        "answer": "PARADE",
+        "chunkTexts": [
+          "PAR",
+          "ADE"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-010",
+    "category": "themed",
+    "candidateId": "H03",
+    "scores": {
+      "decoys": 1.9,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 2.5,
+      "anchor_balance": 7.2,
+      "shape": 8.1,
+      "word_appeal": 14.0,
+      "penalties": -14.7,
+      "structure": 19.0,
+      "clue_rating": 11.8,
+      "clue_variety": 4.0,
+      "clue_puns": 0.0,
+      "clue_penalties": -2.0,
+      "clues": 13.8,
+      "structure_scaled": 11.9,
+      "total": 25.7
+    }
+  },
+  {
+    "id": "round294",
+    "title": "Round 294",
+    "theme": "Parks and Recreation: Ron Swanson",
+    "clueAnswers": [
+      {
+        "clue": "Lagavulin, for Ron",
+        "answer": "WHISKEY",
+        "chunkTexts": [
+          "WHIS",
+          "KEY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Ron's upper-lip trademark",
+        "answer": "MUSTACHE",
+        "chunkTexts": [
+          "MU",
+          "STA",
+          "CHE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Ron's ___ of Greatness",
+        "answer": "PYRAMID",
+        "chunkTexts": [
+          "PYRA",
+          "MID"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "What Ron works in and despises",
+        "answer": "GOVERNMENT",
+        "chunkTexts": [
+          "GOV",
+          "ERN",
+          "MENT"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Ron's woodsy weekend pursuit",
+        "answer": "HUNTING",
+        "chunkTexts": [
+          "HUN",
+          "TING"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Pyramid top, per Ron",
+        "answer": "GREATNESS",
+        "chunkTexts": [
+          "GRE",
+          "AT",
+          "NESS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Name shared by two of Ron's exes",
+        "answer": "TAMMY",
+        "chunkTexts": [
+          "TAM",
+          "MY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-010",
+    "category": "themed",
+    "candidateId": "H04",
+    "scores": {
+      "decoys": 3.7,
+      "tempting_pairs": 0.8,
+      "shared_fragments": 0.0,
+      "anchor_balance": 5.9,
+      "shape": 5.6,
+      "word_appeal": 14.0,
+      "penalties": -15.0,
+      "structure": 15.0,
+      "clue_rating": 16.1,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 16.1,
+      "structure_scaled": 9.4,
+      "total": 25.5
+    }
+  },
+  {
+    "id": "round295",
+    "title": "Round 295",
+    "theme": "Parks and Recreation: Leslie Knope",
+    "clueAnswers": [
+      {
+        "clue": "JJ's specialty, Leslie's love",
+        "answer": "WAFFLES",
+        "chunkTexts": [
+          "WAF",
+          "FLES"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Leslie's organizing obsession",
+        "answer": "BINDERS",
+        "chunkTexts": [
+          "BIN",
+          "DERS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Season 4's run for office",
+        "answer": "CAMPAIGN",
+        "chunkTexts": [
+          "CAM",
+          "PA",
+          "IGN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "City body Leslie joins",
+        "answer": "COUNCIL",
+        "chunkTexts": [
+          "COUN",
+          "CIL"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Vote that ousted Leslie",
+        "answer": "RECALL",
+        "chunkTexts": [
+          "REC",
+          "ALL"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Leslie's future Indiana job",
+        "answer": "GOVERNOR",
+        "chunkTexts": [
+          "GO",
+          "VER",
+          "NOR"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Leslie's bottomless resource",
+        "answer": "OPTIMISM",
+        "chunkTexts": [
+          "OP",
+          "TIM",
+          "ISM"
+        ],
+        "clueType": "evocative",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-010",
+    "category": "themed",
+    "candidateId": "H05",
+    "scores": {
+      "decoys": 1.2,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 0.0,
+      "anchor_balance": 6.4,
+      "shape": 6.9,
+      "word_appeal": 14.0,
+      "penalties": -15.0,
+      "structure": 13.5,
+      "clue_rating": 11.8,
+      "clue_variety": 4.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 15.8,
+      "structure_scaled": 8.4,
+      "total": 24.2
+    }
+  },
+  {
+    "id": "round296",
+    "title": "Round 296",
+    "theme": "Parks and Recreation: Andy and April",
+    "clueAnswers": [
+      {
+        "clue": "Andy's band, one of many names",
+        "answer": "MOUSERAT",
+        "chunkTexts": [
+          "MOU",
+          "SER",
+          "AT"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Burt ___, FBI",
+        "answer": "MACKLIN",
+        "chunkTexts": [
+          "MACK",
+          "LIN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Johnny's kids'-show skill",
+        "answer": "KARATE",
+        "chunkTexts": [
+          "KAR",
+          "ATE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "April's fake boyfriends' homeland",
+        "answer": "VENEZUELA",
+        "chunkTexts": [
+          "VENE",
+          "ZU",
+          "ELA"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Li'l miniature horse legend",
+        "answer": "SEBASTIAN",
+        "chunkTexts": [
+          "SEB",
+          "AST",
+          "IAN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "5,000 in the Wind",
+        "answer": "CANDLES",
+        "chunkTexts": [
+          "CAND",
+          "LES"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Karate kid of Andy's TV show",
+        "answer": "JOHNNY",
+        "chunkTexts": [
+          "JOH",
+          "NNY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-010",
+    "category": "themed",
+    "candidateId": "H06",
+    "scores": {
+      "decoys": 1.7,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 1.2,
+      "anchor_balance": 6.5,
+      "shape": 9.1,
+      "word_appeal": 14.0,
+      "penalties": -12.4,
+      "structure": 20.2,
+      "clue_rating": 18.2,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 18.2,
+      "structure_scaled": 12.6,
+      "total": 30.8
+    }
+  },
+  {
+    "id": "round297",
+    "title": "Round 297",
+    "theme": "Parks and Recreation: Tom's Ventures",
+    "clueAnswers": [
+      {
+        "clue": "Tom's clothes-borrowing boutique",
+        "answer": "RENTASWAG",
+        "chunkTexts": [
+          "REN",
+          "TAS",
+          "WAG"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Tom's restaurant, finally a hit",
+        "answer": "BISTRO",
+        "chunkTexts": [
+          "BIS",
+          "TRO"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Jean-___, the worst",
+        "answer": "RALPHIO",
+        "chunkTexts": [
+          "RAL",
+          "PHIO"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Jean-Ralphio's surname",
+        "answer": "SAPERSTEIN",
+        "chunkTexts": [
+          "SAP",
+          "ERST",
+          "EIN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Treat yo self item after clothes",
+        "answer": "FRAGRANCES",
+        "chunkTexts": [
+          "FRAG",
+          "RAN",
+          "CES"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Treat yo self item in a flute",
+        "answer": "MIMOSAS",
+        "chunkTexts": [
+          "MI",
+          "MO",
+          "SAS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Fine ___ goods, a treat",
+        "answer": "LEATHER",
+        "chunkTexts": [
+          "LEA",
+          "THER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-010",
+    "category": "themed",
+    "candidateId": "H07",
+    "scores": {
+      "decoys": 3.8,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 5.0,
+      "anchor_balance": 6.6,
+      "shape": 9.3,
+      "word_appeal": 14.0,
+      "penalties": -14.7,
+      "structure": 24.5,
+      "clue_rating": 22.5,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 22.5,
+      "structure_scaled": 15.3,
+      "total": 37.8
+    }
+  },
+  {
+    "id": "round298",
+    "title": "Round 298",
+    "theme": "Parks and Recreation: Ben and Chris",
+    "clueAnswers": [
+      {
+        "clue": "Ben's folded-pizza dream",
+        "answer": "CALZONE",
+        "chunkTexts": [
+          "CAL",
+          "ZONE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "The Cones of ___",
+        "answer": "DUNSHIRE",
+        "chunkTexts": [
+          "DUN",
+          "SHI",
+          "RE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Chris's favorite emphasis",
+        "answer": "LITERALLY",
+        "chunkTexts": [
+          "LIT",
+          "ERAL",
+          "LY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Crisis that brings Ben and Chris",
+        "answer": "BUDGET",
+        "chunkTexts": [
+          "BUD",
+          "GET"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "State job that shrinks parks",
+        "answer": "AUDITOR",
+        "chunkTexts": [
+          "AUD",
+          "ITOR"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Ben's home state, of Ice Town",
+        "answer": "MINNESOTA",
+        "chunkTexts": [
+          "MIN",
+          "NES",
+          "OTA"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Ben's town, also a pear tree bird",
+        "answer": "PARTRIDGE",
+        "chunkTexts": [
+          "PAR",
+          "TRID",
+          "GE"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-010",
+    "category": "themed",
+    "candidateId": "H08",
+    "scores": {
+      "decoys": 6.4,
+      "tempting_pairs": 2.0,
+      "shared_fragments": 1.2,
+      "anchor_balance": 6.7,
+      "shape": 8.2,
+      "word_appeal": 14.0,
+      "penalties": -15.2,
+      "structure": 23.4,
+      "clue_rating": 16.1,
+      "clue_variety": 4.0,
+      "clue_puns": 3.0,
+      "clue_penalties": 0.0,
+      "clues": 23.1,
+      "structure_scaled": 14.6,
+      "total": 37.7
+    }
+  },
+  {
+    "id": "round299",
+    "title": "Round 299",
+    "theme": "Parks and Recreation: Townies",
+    "clueAnswers": [
+      {
+        "clue": "Donna's prized car",
+        "answer": "MERCEDES",
+        "chunkTexts": [
+          "MER",
+          "CE",
+          "DES"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Joan, of Pawnee Today",
+        "answer": "CALLAMEZZO",
+        "chunkTexts": [
+          "CAL",
+          "LAM",
+          "EZ",
+          "ZO"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Perd, the anchor who states the obvious",
+        "answer": "HAPLEY",
+        "chunkTexts": [
+          "HAP",
+          "LEY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Bobby, Sweetums heir and rival",
+        "answer": "NEWPORT",
+        "chunkTexts": [
+          "NEW",
+          "PORT"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Shauna ___-Tweep, reporter",
+        "answer": "MALWAE",
+        "chunkTexts": [
+          "MAL",
+          "WAE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Reporter with dating bad luck",
+        "answer": "SHAUNA",
+        "chunkTexts": [
+          "SHA",
+          "UNA"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Scandal-magnet councilman Bill",
+        "answer": "DEXHART",
+        "chunkTexts": [
+          "DEX",
+          "HART"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-010",
+    "category": "themed",
+    "candidateId": "H09",
+    "scores": {
+      "decoys": 2.7,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 2.5,
+      "anchor_balance": 6.8,
+      "shape": 9.1,
+      "word_appeal": 14.0,
+      "penalties": -17.7,
+      "structure": 17.4,
+      "clue_rating": 22.5,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 22.5,
+      "structure_scaled": 10.9,
+      "total": 33.4
+    }
+  },
+  {
+    "id": "round300",
+    "title": "Round 300",
+    "theme": "Parks and Recreation: Episodes",
+    "clueAnswers": [
+      {
+        "clue": "Leslie's overnight charity marathon",
+        "answer": "TELETHON",
+        "chunkTexts": [
+          "TELE",
+          "THON"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Zoo couple whose wedding caused uproar",
+        "answer": "PENGUINS",
+        "chunkTexts": [
+          "PEN",
+          "GU",
+          "INS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "February 13's ladies' day",
+        "answer": "GALENTINE",
+        "chunkTexts": [
+          "GAL",
+          "ENT",
+          "INE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Andy falls in a pit episode",
+        "answer": "KABOOM",
+        "chunkTexts": [
+          "KAB",
+          "OOM"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Pastry-themed primary episode",
+        "answer": "PIEMARY",
+        "chunkTexts": [
+          "PIE",
+          "MARY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "One Last Ride, the end",
+        "answer": "FINALE",
+        "chunkTexts": [
+          "FIN",
+          "ALE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Leslie pitches while very sick",
+        "answer": "FLUSEASON",
+        "chunkTexts": [
+          "FLU",
+          "SEA",
+          "SON"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-010",
+    "category": "themed",
+    "candidateId": "H10",
+    "scores": {
+      "decoys": 2.2,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 1.2,
+      "anchor_balance": 7.3,
+      "shape": 10.0,
+      "word_appeal": 14.0,
+      "penalties": -10.9,
+      "structure": 23.8,
+      "clue_rating": 16.1,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 16.1,
+      "structure_scaled": 14.9,
+      "total": 31.0
+    }
+  },
+  {
+    "id": "round301",
+    "title": "Round 301",
+    "theme": "Community: The Seven",
+    "clueAnswers": [
+      {
+        "clue": "Britta's surname",
+        "answer": "PERRY",
+        "chunkTexts": [
+          "PER",
+          "RY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Jeff, ex-lawyer",
+        "answer": "WINGER",
+        "chunkTexts": [
+          "WIN",
+          "GER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Mom of the study group",
+        "answer": "SHIRLEY",
+        "chunkTexts": [
+          "SHIR",
+          "LEY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Spanish 101's accidental family",
+        "answer": "STUDYGROUP",
+        "chunkTexts": [
+          "STU",
+          "DY",
+          "GRO",
+          "UP"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Jeff's fake-degree profession",
+        "answer": "LAWYER",
+        "chunkTexts": [
+          "LAW",
+          "YER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Former quarterback, Abed's best pal",
+        "answer": "TROYBARNES",
+        "chunkTexts": [
+          "TROY",
+          "BAR",
+          "NES"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Shirley's last name",
+        "answer": "BENNETT",
+        "chunkTexts": [
+          "BEN",
+          "NETT"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-010",
+    "category": "themed",
+    "candidateId": "I01",
+    "scores": {
+      "decoys": 4.0,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 3.8,
+      "anchor_balance": 6.8,
+      "shape": 7.9,
+      "word_appeal": 14.0,
+      "penalties": -15.3,
+      "structure": 21.2,
+      "clue_rating": 9.6,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 9.6,
+      "structure_scaled": 13.2,
+      "total": 22.8
+    }
+  },
+  {
+    "id": "round302",
+    "title": "Round 302",
+    "theme": "Community: Cast and Crew",
+    "clueAnswers": [
+      {
+        "clue": "Ms Jacobs, Britta's player",
+        "answer": "GILLIAN",
+        "chunkTexts": [
+          "GILL",
+          "IAN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Britta's actress, by surname",
+        "answer": "JACOBS",
+        "chunkTexts": [
+          "JAC",
+          "OBS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "He played Abed",
+        "answer": "DANNYPUDI",
+        "chunkTexts": [
+          "DAN",
+          "NY",
+          "PUDI"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Donald, Troy, Childish Gambino",
+        "answer": "GLOVER",
+        "chunkTexts": [
+          "GLO",
+          "VER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "SNL alum as Pierce",
+        "answer": "CHEVYCHASE",
+        "chunkTexts": [
+          "CHE",
+          "VY",
+          "CHA",
+          "SE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Dan, show's creator",
+        "answer": "HARMON",
+        "chunkTexts": [
+          "HAR",
+          "MON"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Oscar winner who played the Dean",
+        "answer": "JIMRASH",
+        "chunkTexts": [
+          "JIM",
+          "RASH"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-010",
+    "category": "themed",
+    "candidateId": "I02",
+    "scores": {
+      "decoys": 3.4,
+      "tempting_pairs": 0.8,
+      "shared_fragments": 1.2,
+      "anchor_balance": 6.6,
+      "shape": 7.9,
+      "word_appeal": 14.0,
+      "penalties": -15.0,
+      "structure": 19.0,
+      "clue_rating": 13.9,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 13.9,
+      "structure_scaled": 11.9,
+      "total": 25.8
+    }
+  },
+  {
+    "id": "round303",
+    "title": "Round 303",
+    "theme": "Community: Go Human Beings",
+    "clueAnswers": [
+      {
+        "clue": "Community college, go Human Beings",
+        "answer": "GREENDALE",
+        "chunkTexts": [
+          "GRE",
+          "END",
+          "ALE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "101 class that starts it all",
+        "answer": "SPANISH",
+        "chunkTexts": [
+          "SPA",
+          "NISH"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Chang's preferred title",
+        "answer": "SENOR",
+        "chunkTexts": [
+          "SEN",
+          "OR"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Grounds where it all happens",
+        "answer": "CAMPUS",
+        "chunkTexts": [
+          "CAM",
+          "PUS"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      },
+      {
+        "clue": "Kevin's convenient amnesia, supposedly",
+        "answer": "CHANGNESIA",
+        "chunkTexts": [
+          "CHAN",
+          "GNE",
+          "SIA"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Group's table-for-seven hangout",
+        "answer": "STUDYROOM",
+        "chunkTexts": [
+          "STU",
+          "DY",
+          "ROOM"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Human Being, for Greendale",
+        "answer": "MASCOT",
+        "chunkTexts": [
+          "MAS",
+          "COT"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-010",
+    "category": "themed",
+    "candidateId": "I03",
+    "scores": {
+      "decoys": 0.3,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 2.5,
+      "anchor_balance": 6.9,
+      "shape": 9.1,
+      "word_appeal": 14.0,
+      "penalties": -13.3,
+      "structure": 19.6,
+      "clue_rating": 11.8,
+      "clue_variety": 4.0,
+      "clue_puns": 0.0,
+      "clue_penalties": -2.0,
+      "clues": 13.8,
+      "structure_scaled": 12.2,
+      "total": 26.0
+    }
+  },
+  {
+    "id": "round304",
+    "title": "Round 304",
+    "theme": "Community: Campus Wars",
+    "clueAnswers": [
+      {
+        "clue": "Campus-wrecking splatter war",
+        "answer": "PAINTBALL",
+        "chunkTexts": [
+          "PA",
+          "INT",
+          "BALL"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Modern ___, an action homage",
+        "answer": "WARFARE",
+        "chunkTexts": [
+          "WAR",
+          "FARE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "A ___ of Paintballs",
+        "answer": "FISTFUL",
+        "chunkTexts": [
+          "FIST",
+          "FUL"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Genre of the paintball sequel",
+        "answer": "WESTERN",
+        "chunkTexts": [
+          "WES",
+          "TERN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "___ registration, the war's prize",
+        "answer": "PRIORITY",
+        "chunkTexts": [
+          "PRI",
+          "OR",
+          "ITY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Paintball killer on campus",
+        "answer": "ASSASSIN",
+        "chunkTexts": [
+          "ASS",
+          "ASS",
+          "IN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Troy's soft fortress",
+        "answer": "PILLOWTOWN",
+        "chunkTexts": [
+          "PIL",
+          "LOW",
+          "TOWN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-010",
+    "category": "themed",
+    "candidateId": "I04",
+    "scores": {
+      "decoys": 6.0,
+      "tempting_pairs": 1.6,
+      "shared_fragments": 2.5,
+      "anchor_balance": 7.0,
+      "shape": 7.1,
+      "word_appeal": 14.0,
+      "penalties": -16.7,
+      "structure": 21.5,
+      "clue_rating": 18.2,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 18.2,
+      "structure_scaled": 13.4,
+      "total": 31.6
+    }
+  },
+  {
+    "id": "round305",
+    "title": "Round 305",
+    "theme": "Community: Abed's Meta",
+    "clueAnswers": [
+      {
+        "clue": "Evil timeline's chin accessory",
+        "answer": "GOATEE",
+        "chunkTexts": [
+          "GOA",
+          "TEE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Abed's gravelly party persona",
+        "answer": "BATMAN",
+        "chunkTexts": [
+          "BAT",
+          "MAN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Training sequence, Abed approves",
+        "answer": "MONTAGE",
+        "chunkTexts": [
+          "MON",
+          "TAGE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Abed's uncontrollable Christmas style",
+        "answer": "CLAYMATION",
+        "chunkTexts": [
+          "CLAY",
+          "MAT",
+          "ION"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "What Abed keeps leaning on",
+        "answer": "FOURTHWALL",
+        "chunkTexts": [
+          "FO",
+          "URTH",
+          "WALL"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Abed's dream job",
+        "answer": "FILMMAKER",
+        "chunkTexts": [
+          "FILM",
+          "MAK",
+          "ER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Every episode, seemingly",
+        "answer": "HOMAGE",
+        "chunkTexts": [
+          "HOM",
+          "AGE"
+        ],
+        "clueType": "evocative",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-010",
+    "category": "themed",
+    "candidateId": "I05",
+    "scores": {
+      "decoys": 3.7,
+      "tempting_pairs": 1.2,
+      "shared_fragments": 7.5,
+      "anchor_balance": 6.9,
+      "shape": 6.8,
+      "word_appeal": 14.0,
+      "penalties": -17.4,
+      "structure": 22.6,
+      "clue_rating": 13.9,
+      "clue_variety": 8.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 21.9,
+      "structure_scaled": 14.1,
+      "total": 36.0
+    }
+  },
+  {
+    "id": "round306",
+    "title": "Round 306",
+    "theme": "Community: Troy and Abed",
+    "clueAnswers": [
+      {
+        "clue": "Troy and Abed in the ___",
+        "answer": "MORNING",
+        "chunkTexts": [
+          "MOR",
+          "NING"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Annie's Boobs, for one",
+        "answer": "MONKEY",
+        "chunkTexts": [
+          "MON",
+          "KEY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Floor game that consumed campus",
+        "answer": "HOTLAVA",
+        "chunkTexts": [
+          "HOT",
+          "LA",
+          "VA"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "LeVar, Troy's idol",
+        "answer": "BURTON",
+        "chunkTexts": [
+          "BUR",
+          "TON"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Troy's repair school, briefly",
+        "answer": "AIRCON",
+        "chunkTexts": [
+          "AIR",
+          "CON"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Pad Troy and Abed shared with Annie",
+        "answer": "APARTMENT",
+        "chunkTexts": [
+          "AP",
+          "ART",
+          "MENT"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Troy and Abed's sacred bond",
+        "answer": "FRIENDSHIP",
+        "chunkTexts": [
+          "FRI",
+          "END",
+          "SHIP"
+        ],
+        "clueType": "evocative",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-010",
+    "category": "themed",
+    "candidateId": "I06",
+    "scores": {
+      "decoys": 5.3,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 5.0,
+      "anchor_balance": 7.2,
+      "shape": 7.9,
+      "word_appeal": 14.0,
+      "penalties": -15.9,
+      "structure": 23.6,
+      "clue_rating": 16.1,
+      "clue_variety": 4.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 20.1,
+      "structure_scaled": 14.8,
+      "total": 34.9
+    }
+  },
+  {
+    "id": "round307",
+    "title": "Round 307",
+    "theme": "Community: Greendale Regulars",
+    "clueAnswers": [
+      {
+        "clue": "Background classmate, Greendale regular",
+        "answer": "VICKI",
+        "chunkTexts": [
+          "VIC",
+          "KI"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Nervous, Stop! Stop! student",
+        "answer": "GARRETT",
+        "chunkTexts": [
+          "GAR",
+          "RETT"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "British psych professor, Ian",
+        "answer": "DUNCAN",
+        "chunkTexts": [
+          "DUN",
+          "CAN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Michelle, Jeff's stats crush",
+        "answer": "SLATER",
+        "chunkTexts": [
+          "SLA",
+          "TER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "D&D player the group cheered up",
+        "answer": "FATNEIL",
+        "chunkTexts": [
+          "FAT",
+          "NE",
+          "IL"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Costume-loving administrator",
+        "answer": "DEANPELTON",
+        "chunkTexts": [
+          "DEAN",
+          "PEL",
+          "TON"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Gruff criminology teacher",
+        "answer": "BUZZHICKEY",
+        "chunkTexts": [
+          "BUZZ",
+          "HIC",
+          "KEY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-010",
+    "category": "themed",
+    "candidateId": "I07",
+    "scores": {
+      "decoys": 5.7,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 1.2,
+      "anchor_balance": 6.9,
+      "shape": 7.9,
+      "word_appeal": 14.0,
+      "penalties": -16.7,
+      "structure": 19.5,
+      "clue_rating": 20.4,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 20.4,
+      "structure_scaled": 12.2,
+      "total": 32.6
+    }
+  },
+  {
+    "id": "round308",
+    "title": "Round 308",
+    "theme": "Community: Episode Hooks",
+    "clueAnswers": [
+      {
+        "clue": "___ fingers, the fryer cartel",
+        "answer": "CHICKEN",
+        "chunkTexts": [
+          "CHIC",
+          "KEN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Abed's riff on My ___ with Andre",
+        "answer": "DINNER",
+        "chunkTexts": [
+          "DIN",
+          "NER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "___ Certification, a bar crawl",
+        "answer": "MIXOLOGY",
+        "chunkTexts": [
+          "MIX",
+          "OLO",
+          "GY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "D&D's first D",
+        "answer": "DUNGEONS",
+        "chunkTexts": [
+          "DUN",
+          "GE",
+          "ONS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "D&D's second D",
+        "answer": "DRAGONS",
+        "chunkTexts": [
+          "DRAG",
+          "ONS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Zombie outbreak at the party",
+        "answer": "HALLOWEEN",
+        "chunkTexts": [
+          "HAL",
+          "LOW",
+          "EEN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Shoebox scene for class",
+        "answer": "DIORAMA",
+        "chunkTexts": [
+          "DIO",
+          "RAMA"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-010",
+    "category": "themed",
+    "candidateId": "I08",
+    "scores": {
+      "decoys": 1.7,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 6.2,
+      "anchor_balance": 6.4,
+      "shape": 9.1,
+      "word_appeal": 14.0,
+      "penalties": -12.7,
+      "structure": 25.2,
+      "clue_rating": 11.8,
+      "clue_variety": 4.0,
+      "clue_puns": 0.0,
+      "clue_penalties": -2.0,
+      "clues": 13.8,
+      "structure_scaled": 15.8,
+      "total": 29.6
+    }
+  },
+  {
+    "id": "round309",
+    "title": "Round 309",
+    "theme": "Community: Catchphrases",
+    "clueAnswers": [
+      {
+        "clue": "___ ahead, Pierce's coinage",
+        "answer": "STREETS",
+        "chunkTexts": [
+          "STRE",
+          "ETS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "And a movie, the rallying cry",
+        "answer": "SIXSEASONS",
+        "chunkTexts": [
+          "SIX",
+          "SEAS",
+          "ONS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Magnitude's two-word catchphrase",
+        "answer": "POPPOP",
+        "chunkTexts": [
+          "POP",
+          "POP"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Faint praise, with an apostrophe",
+        "answer": "THATSNICE",
+        "chunkTexts": [
+          "THAT",
+          "SNI",
+          "CE"
+        ],
+        "clueType": "evocative",
+        "clueRating": 3
+      },
+      {
+        "clue": "E ___ Anus, a school motto",
+        "answer": "PLURIBUS",
+        "chunkTexts": [
+          "PLU",
+          "RI",
+          "BUS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "___ timeline, felt goatees and all",
+        "answer": "DARKEST",
+        "chunkTexts": [
+          "DAR",
+          "KEST"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Botched, Greendale-style",
+        "answer": "BRITTAD",
+        "chunkTexts": [
+          "BRIT",
+          "TAD"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-010",
+    "category": "themed",
+    "candidateId": "I09",
+    "scores": {
+      "decoys": 2.2,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 2.5,
+      "anchor_balance": 6.2,
+      "shape": 6.8,
+      "word_appeal": 14.0,
+      "penalties": -15.6,
+      "structure": 16.1,
+      "clue_rating": 24.6,
+      "clue_variety": 4.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 28.6,
+      "structure_scaled": 10.1,
+      "total": 38.7
+    }
+  },
+  {
+    "id": "round310",
+    "title": "Round 310",
+    "theme": "Community: Pierce and Shirley",
+    "clueAnswers": [
+      {
+        "clue": "Moist source of Pierce's wealth",
+        "answer": "TOWELETTE",
+        "chunkTexts": [
+          "TOW",
+          "ELET",
+          "TE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Pierce's cult's level of enlightenment",
+        "answer": "LASERLOTUS",
+        "chunkTexts": [
+          "LAS",
+          "ERLO",
+          "TUS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Pierce's bigoted father",
+        "answer": "CORNELIUS",
+        "chunkTexts": [
+          "COR",
+          "NEL",
+          "IUS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Shirley's business, between bread",
+        "answer": "SANDWICHES",
+        "chunkTexts": [
+          "SAN",
+          "DWI",
+          "CHES"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Shirley's husband",
+        "answer": "ANDRE",
+        "chunkTexts": [
+          "AN",
+          "DRE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Shirley's devout faith",
+        "answer": "CHRISTIAN",
+        "chunkTexts": [
+          "CHRI",
+          "STI",
+          "AN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Digital ___ Planning, an 8-bit will",
+        "answer": "ESTATE",
+        "chunkTexts": [
+          "EST",
+          "ATE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-010",
+    "category": "themed",
+    "candidateId": "I10",
+    "scores": {
+      "decoys": 0.3,
+      "tempting_pairs": 0.8,
+      "shared_fragments": 3.8,
+      "anchor_balance": 6.7,
+      "shape": 9.6,
+      "word_appeal": 14.0,
+      "penalties": -15.2,
+      "structure": 20.0,
+      "clue_rating": 20.4,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 20.4,
+      "structure_scaled": 12.5,
+      "total": 32.9
+    }
+  },
+  {
+    "id": "round311",
+    "title": "Round 311",
+    "theme": "Avatar: The Last Airbender: Team Avatar",
+    "clueAnswers": [
+      {
+        "clue": "Aang's people",
+        "answer": "AIRNOMAD",
+        "chunkTexts": [
+          "AIR",
+          "NOM",
+          "AD"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Monk's mountaintop home, four in all",
+        "answer": "AIRTEMPLE",
+        "chunkTexts": [
+          "AIR",
+          "TEM",
+          "PLE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Momo, by species",
+        "answer": "LEMUR",
+        "chunkTexts": [
+          "LEM",
+          "UR"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Aang's staff, unfolded",
+        "answer": "GLIDER",
+        "chunkTexts": [
+          "GLI",
+          "DER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Aang's iceberg nap, roughly",
+        "answer": "CENTURY",
+        "chunkTexts": [
+          "CENT",
+          "URY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Katara and Sokka's people",
+        "answer": "WATERTRIBE",
+        "chunkTexts": [
+          "WAT",
+          "ERT",
+          "RIBE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Waterbender from the Southern Tribe",
+        "answer": "KATARA",
+        "chunkTexts": [
+          "KAT",
+          "ARA"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-010",
+    "category": "themed",
+    "candidateId": "J01",
+    "scores": {
+      "decoys": 1.9,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 5.0,
+      "anchor_balance": 6.8,
+      "shape": 10.0,
+      "word_appeal": 14.0,
+      "penalties": -15.2,
+      "structure": 22.9,
+      "clue_rating": 11.8,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 11.8,
+      "structure_scaled": 14.3,
+      "total": 26.1
+    }
+  },
+  {
+    "id": "round312",
+    "title": "Round 312",
+    "theme": "Avatar: The Last Airbender: Ozai's Empire",
+    "clueAnswers": [
+      {
+        "clue": "Ozai's crown title",
+        "answer": "FIRELORD",
+        "chunkTexts": [
+          "FIRE",
+          "LORD"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "___ Man, with a third eye",
+        "answer": "COMBUSTION",
+        "chunkTexts": [
+          "COMB",
+          "UST",
+          "ION"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Island resort for the royals",
+        "answer": "EMBER",
+        "chunkTexts": [
+          "EMB",
+          "ER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Iroh's lost son",
+        "answer": "LUTEN",
+        "chunkTexts": [
+          "LUT",
+          "EN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Ancient firebenders, thought extinct",
+        "answer": "SUNWARRIOR",
+        "chunkTexts": [
+          "SUN",
+          "WARR",
+          "IOR"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Attacked, and everything changed",
+        "answer": "FIRENATION",
+        "chunkTexts": [
+          "FIRE",
+          "NAT",
+          "ION"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Sozin's power-up from space",
+        "answer": "COMET",
+        "chunkTexts": [
+          "CO",
+          "MET"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-010",
+    "category": "themed",
+    "candidateId": "J02",
+    "scores": {
+      "decoys": 3.8,
+      "tempting_pairs": 2.4,
+      "shared_fragments": 6.2,
+      "anchor_balance": 7.4,
+      "shape": 4.6,
+      "word_appeal": 14.0,
+      "penalties": -18.9,
+      "structure": 19.5,
+      "clue_rating": 16.1,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 16.1,
+      "structure_scaled": 12.2,
+      "total": 28.3
+    }
+  },
+  {
+    "id": "round313",
+    "title": "Round 313",
+    "theme": "Avatar: The Last Airbender: Earth Kingdom",
+    "clueAnswers": [
+      {
+        "clue": "There is no war in it",
+        "answer": "BASINGSE",
+        "chunkTexts": [
+          "BAS",
+          "ING",
+          "SE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "City of Bumi's mail chutes",
+        "answer": "OMASHU",
+        "chunkTexts": [
+          "OMA",
+          "SHU"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Dai Li's sinister leader",
+        "answer": "LONGFENG",
+        "chunkTexts": [
+          "LONG",
+          "FENG"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "My ___! the merchant wails",
+        "answer": "CABBAGES",
+        "chunkTexts": [
+          "CAB",
+          "BAG",
+          "ES"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Toph's hometown",
+        "answer": "GAOLING",
+        "chunkTexts": [
+          "GAO",
+          "LING"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Ba Sing Se transit",
+        "answer": "MONORAIL",
+        "chunkTexts": [
+          "MON",
+          "ORA",
+          "IL"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Lake hiding a brainwashing lab",
+        "answer": "LAOGAI",
+        "chunkTexts": [
+          "LAO",
+          "GAI"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-010",
+    "category": "themed",
+    "candidateId": "J03",
+    "scores": {
+      "decoys": 4.8,
+      "tempting_pairs": 0.8,
+      "shared_fragments": 6.2,
+      "anchor_balance": 0.0,
+      "shape": 6.9,
+      "word_appeal": 14.0,
+      "penalties": -19.1,
+      "structure": 13.7,
+      "clue_rating": 22.5,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 22.5,
+      "structure_scaled": 8.6,
+      "total": 31.1
+    }
+  },
+  {
+    "id": "round314",
+    "title": "Round 314",
+    "theme": "Avatar: The Last Airbender: Bending Arts",
+    "clueAnswers": [
+      {
+        "clue": "Aang's native art",
+        "answer": "AIRBENDING",
+        "chunkTexts": [
+          "AIR",
+          "BEN",
+          "DING"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      },
+      {
+        "clue": "Ty Lee's pressure-point specialty",
+        "answer": "CHIBLOCKER",
+        "chunkTexts": [
+          "CHI",
+          "BLOC",
+          "KER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Zuko, by element",
+        "answer": "FIREBENDER",
+        "chunkTexts": [
+          "FIRE",
+          "BEN",
+          "DER"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      },
+      {
+        "clue": "Waterbenders' power booster",
+        "answer": "MOONLIGHT",
+        "chunkTexts": [
+          "MO",
+          "ONL",
+          "IGHT"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Martial art behind waterbending",
+        "answer": "TAICHI",
+        "chunkTexts": [
+          "TAI",
+          "CHI"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Hama's dark, full-moon art",
+        "answer": "BLOODBEND",
+        "chunkTexts": [
+          "BLO",
+          "OD",
+          "BEND"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Toph's invention in a cage",
+        "answer": "METALBEND",
+        "chunkTexts": [
+          "MET",
+          "AL",
+          "BEND"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-010",
+    "category": "themed",
+    "candidateId": "J04",
+    "scores": {
+      "decoys": 3.7,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 6.2,
+      "anchor_balance": 7.0,
+      "shape": 7.0,
+      "word_appeal": 14.0,
+      "penalties": -17.6,
+      "structure": 20.8,
+      "clue_rating": 7.5,
+      "clue_variety": 4.0,
+      "clue_puns": 0.0,
+      "clue_penalties": -4.0,
+      "clues": 7.5,
+      "structure_scaled": 13.0,
+      "total": 20.5
+    }
+  },
+  {
+    "id": "round315",
+    "title": "Round 315",
+    "theme": "Avatar: The Last Airbender: Spirit World",
+    "clueAnswers": [
+      {
+        "clue": "Panda-like forest spirit",
+        "answer": "HEIBAI",
+        "chunkTexts": [
+          "HEI",
+          "BAI"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Tui, Yue's eventual role",
+        "answer": "MOONSPIRIT",
+        "chunkTexts": [
+          "MOON",
+          "SPI",
+          "RIT"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Guru who opens Aang's chakras",
+        "answer": "PATHIK",
+        "chunkTexts": [
+          "PAT",
+          "HIK"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Energy knots Aang must unblock",
+        "answer": "CHAKRAS",
+        "chunkTexts": [
+          "CHAK",
+          "RAS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Aang's predecessor, a firebender",
+        "answer": "AVATARROKU",
+        "chunkTexts": [
+          "AVA",
+          "TAR",
+          "RO",
+          "KU"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Avatar whose love's face was stolen",
+        "answer": "KURUK",
+        "chunkTexts": [
+          "KU",
+          "RUK"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Swamp tree with roots everywhere",
+        "answer": "BANYAN",
+        "chunkTexts": [
+          "BAN",
+          "YAN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-010",
+    "category": "themed",
+    "candidateId": "J05",
+    "scores": {
+      "decoys": 1.0,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 3.8,
+      "anchor_balance": 0.0,
+      "shape": 9.1,
+      "word_appeal": 14.0,
+      "penalties": -16.1,
+      "structure": 12.2,
+      "clue_rating": 16.1,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 16.1,
+      "structure_scaled": 7.6,
+      "total": 23.7
+    }
+  },
+  {
+    "id": "round316",
+    "title": "Round 316",
+    "theme": "Avatar: The Last Airbender: Sokka's Greatest Hits",
+    "clueAnswers": [
+      {
+        "clue": "Sokka's returning weapon",
+        "answer": "BOOMERANG",
+        "chunkTexts": [
+          "BOO",
+          "MER",
+          "ANG"
+        ],
+        "clueType": "trivia",
+        "clueRating": 2
+      },
+      {
+        "clue": "Meteorite blade Sokka forged",
+        "answer": "SPACESWORD",
+        "chunkTexts": [
+          "SPA",
+          "CES",
+          "WORD"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Sokka's poetry-battle form",
+        "answer": "HAIKU",
+        "chunkTexts": [
+          "HAI",
+          "KU"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Swordmaster who trained Sokka",
+        "answer": "PIANDAO",
+        "chunkTexts": [
+          "PI",
+          "AND",
+          "AO"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Cactus juice superlative",
+        "answer": "QUENCHIEST",
+        "chunkTexts": [
+          "QUEN",
+          "CHI",
+          "EST"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "War transport Sokka helped invent",
+        "answer": "BALLOON",
+        "chunkTexts": [
+          "BALL",
+          "OON"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Sokka's Black Sun plan",
+        "answer": "INVASION",
+        "chunkTexts": [
+          "INVA",
+          "SION"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-010",
+    "category": "themed",
+    "candidateId": "J06",
+    "scores": {
+      "decoys": 0.5,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 1.2,
+      "anchor_balance": 4.5,
+      "shape": 7.1,
+      "word_appeal": 14.0,
+      "penalties": -19.2,
+      "structure": 8.6,
+      "clue_rating": 16.1,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": -2.0,
+      "clues": 14.1,
+      "structure_scaled": 5.4,
+      "total": 19.5
+    }
+  },
+  {
+    "id": "round317",
+    "title": "Round 317",
+    "theme": "Avatar: The Last Airbender: Uncle Iroh",
+    "clueAnswers": [
+      {
+        "clue": "Iroh's role to Zuko",
+        "answer": "MENTOR",
+        "chunkTexts": [
+          "MEN",
+          "TOR"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      },
+      {
+        "clue": "Iroh's status after Ba Sing Se",
+        "answer": "PRISONER",
+        "chunkTexts": [
+          "PRI",
+          "SO",
+          "NER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "___ from the Vine, Iroh's lament",
+        "answer": "LEAVES",
+        "chunkTexts": [
+          "LEA",
+          "VES"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Iroh's rank in a secret order",
+        "answer": "GRANDLOTUS",
+        "chunkTexts": [
+          "GRA",
+          "NDLO",
+          "TUS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Iroh's trick for lightning",
+        "answer": "REDIRECT",
+        "chunkTexts": [
+          "RE",
+          "DIR",
+          "ECT"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Dragon of the West's old rank",
+        "answer": "GENERAL",
+        "chunkTexts": [
+          "GEN",
+          "ERAL"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Tile game Iroh loves",
+        "answer": "PAISHO",
+        "chunkTexts": [
+          "PAI",
+          "SHO"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-010",
+    "category": "themed",
+    "candidateId": "J07",
+    "scores": {
+      "decoys": 7.4,
+      "tempting_pairs": 1.6,
+      "shared_fragments": 2.5,
+      "anchor_balance": 6.9,
+      "shape": 10.0,
+      "word_appeal": 14.0,
+      "penalties": -12.8,
+      "structure": 29.6,
+      "clue_rating": 9.6,
+      "clue_variety": 4.0,
+      "clue_puns": 0.0,
+      "clue_penalties": -2.0,
+      "clues": 11.6,
+      "structure_scaled": 18.5,
+      "total": 30.1
+    }
+  },
+  {
+    "id": "round318",
+    "title": "Round 318",
+    "theme": "Avatar: The Last Airbender: Episodes",
+    "clueAnswers": [
+      {
+        "clue": "Episode of Ember Island soul-searching",
+        "answer": "BEACH",
+        "chunkTexts": [
+          "BE",
+          "ACH"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Festival where Aang is put on trial",
+        "answer": "AVATARDAY",
+        "chunkTexts": [
+          "AVA",
+          "TAR",
+          "DAY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Nightmares and ___",
+        "answer": "DAYDREAMS",
+        "chunkTexts": [
+          "DAY",
+          "DRE",
+          "AMS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Cave of Two ___",
+        "answer": "LOVERS",
+        "chunkTexts": [
+          "LOV",
+          "ERS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "The ___ Rock, a prison",
+        "answer": "BOILING",
+        "chunkTexts": [
+          "BOI",
+          "LING"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Ember Island ___, bad actors",
+        "answer": "PLAYERS",
+        "chunkTexts": [
+          "PLAY",
+          "ERS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Day of Black Sun's event",
+        "answer": "ECLIPSE",
+        "chunkTexts": [
+          "EC",
+          "LI",
+          "PSE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-010",
+    "category": "themed",
+    "candidateId": "J08",
+    "scores": {
+      "decoys": 4.3,
+      "tempting_pairs": 0.8,
+      "shared_fragments": 5.0,
+      "anchor_balance": 7.1,
+      "shape": 9.1,
+      "word_appeal": 14.0,
+      "penalties": -16.1,
+      "structure": 24.2,
+      "clue_rating": 20.4,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 20.4,
+      "structure_scaled": 15.1,
+      "total": 35.5
+    }
+  },
+  {
+    "id": "round319",
+    "title": "Round 319",
+    "theme": "Avatar: The Last Airbender: Allies and Rivals",
+    "clueAnswers": [
+      {
+        "clue": "Jet's ___ Fighters",
+        "answer": "FREEDOM",
+        "chunkTexts": [
+          "FREE",
+          "DOM"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Rough ___, Fire Nation cavalry",
+        "answer": "RHINOS",
+        "chunkTexts": [
+          "RHI",
+          "NOS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Inventor of the Northern Air Temple",
+        "answer": "MECHANIST",
+        "chunkTexts": [
+          "ME",
+          "CHA",
+          "NIST"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Jet's loyal lieutenant",
+        "answer": "SMELLERBEE",
+        "chunkTexts": [
+          "SMEL",
+          "LER",
+          "BEE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Katara and Sokka's father",
+        "answer": "HAKODA",
+        "chunkTexts": [
+          "HAK",
+          "ODA"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Northern waterbending master",
+        "answer": "PAKKU",
+        "chunkTexts": [
+          "PAK",
+          "KU"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Hama, the inn's dark guest",
+        "answer": "PUPPETEER",
+        "chunkTexts": [
+          "PUP",
+          "PET",
+          "EER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-010",
+    "category": "themed",
+    "candidateId": "J09",
+    "scores": {
+      "decoys": 0.5,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 2.5,
+      "anchor_balance": 0.0,
+      "shape": 9.1,
+      "word_appeal": 14.0,
+      "penalties": -13.0,
+      "structure": 13.1,
+      "clue_rating": 20.4,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 20.4,
+      "structure_scaled": 8.2,
+      "total": 28.6
+    }
+  },
+  {
+    "id": "round320",
+    "title": "Round 320",
+    "theme": "Avatar: The Last Airbender: Creatures",
+    "clueAnswers": [
+      {
+        "clue": "Hybrid night hunter",
+        "answer": "CATOWL",
+        "chunkTexts": [
+          "CAT",
+          "OWL"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Earthbending's original teachers",
+        "answer": "BADGERMOLE",
+        "chunkTexts": [
+          "BAD",
+          "GER",
+          "MOLE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Squealing barnyard hybrid",
+        "answer": "HOGMONKEY",
+        "chunkTexts": [
+          "HOG",
+          "MON",
+          "KEY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Swamp hybrid with whiskers",
+        "answer": "CATGATOR",
+        "chunkTexts": [
+          "CAT",
+          "GAT",
+          "OR"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "June's tongue-sniffing tracker",
+        "answer": "SHIRSHU",
+        "chunkTexts": [
+          "SHIR",
+          "SHU"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Appa, by species",
+        "answer": "SKYBISON",
+        "chunkTexts": [
+          "SKY",
+          "BI",
+          "SON"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Kyoshi Island's sea monster",
+        "answer": "UNAGI",
+        "chunkTexts": [
+          "UNA",
+          "GI"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-010",
+    "category": "themed",
+    "candidateId": "J10",
+    "scores": {
+      "decoys": 1.0,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 5.0,
+      "anchor_balance": 6.7,
+      "shape": 10.4,
+      "word_appeal": 14.0,
+      "penalties": -14.1,
+      "structure": 23.4,
+      "clue_rating": 18.2,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 18.2,
+      "structure_scaled": 14.6,
+      "total": 32.8
+    }
+  }
+]

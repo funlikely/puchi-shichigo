@@ -1,0 +1,3519 @@
+[
+ {
+  "id": "H01",
+  "entries": [
+   {
+    "answer": "MEAGLE",
+    "chunkTexts": [
+     "MEA",
+     "GLE"
+    ]
+   },
+   {
+    "answer": "HAVERFORD",
+    "chunkTexts": [
+     "HAV",
+     "ERF",
+     "ORD"
+    ]
+   },
+   {
+    "answer": "ANNPERKINS",
+    "chunkTexts": [
+     "ANN",
+     "PERK",
+     "INS"
+    ]
+   },
+   {
+    "answer": "LESLIE",
+    "chunkTexts": [
+     "LES",
+     "LIE"
+    ]
+   },
+   {
+    "answer": "TRAEGER",
+    "chunkTexts": [
+     "TRA",
+     "EGER"
+    ]
+   },
+   {
+    "answer": "BENWYATT",
+    "chunkTexts": [
+     "BEN",
+     "WY",
+     "ATT"
+    ]
+   },
+   {
+    "answer": "GERGICH",
+    "chunkTexts": [
+     "GER",
+     "GICH"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 2.7,
+   "tempting_pairs": 0.0,
+   "shared_fragments": 0.0,
+   "anchor_balance": 6.5,
+   "shape": 10.0,
+   "word_appeal": 14.0,
+   "penalties": -10.3,
+   "structure": 22.9
+  },
+  "analysis": {
+   "n_tiles": 17,
+   "tile_len_hist": {
+    "2": 1,
+    "3": 13,
+    "4": 3
+   },
+   "decoys": [
+    "TRAINS=TRA+INS",
+    "MEAGER=MEA+GER"
+   ],
+   "tempting_pairs": [],
+   "anchors": [
+    "ATT",
+    "GICH"
+   ],
+   "word_tiles": [],
+   "misaligned": 6,
+   "dup_tiles": [],
+   "near_pairs": [],
+   "no_start_rival": [
+    "MEAGLE",
+    "HAVERFORD",
+    "ANNPERKINS",
+    "LESLIE",
+    "TRAEGER",
+    "BENWYATT",
+    "GERGICH"
+   ],
+   "inflected": [],
+   "zipf": {
+    "MEAGLE": 0.0,
+    "HAVERFORD": 2.48,
+    "ANNPERKINS": 0.0,
+    "LESLIE": 3.9,
+    "TRAEGER": 2.11,
+    "BENWYATT": 0.0,
+    "GERGICH": 1.16
+   }
+  },
+  "theme_hint": "Parks and Recreation: The Department",
+  "category": "themed"
+ },
+ {
+  "id": "H02",
+  "entries": [
+   {
+    "answer": "OFFERMAN",
+    "chunkTexts": [
+     "OF",
+     "FER",
+     "MAN"
+    ]
+   },
+   {
+    "answer": "AUBREY",
+    "chunkTexts": [
+     "AUB",
+     "REY"
+    ]
+   },
+   {
+    "answer": "ROBLOWE",
+    "chunkTexts": [
+     "ROB",
+     "LOWE"
+    ]
+   },
+   {
+    "answer": "RETTA",
+    "chunkTexts": [
+     "RET",
+     "TA"
+    ]
+   },
+   {
+    "answer": "MULLALLY",
+    "chunkTexts": [
+     "MUL",
+     "LAL",
+     "LY"
+    ]
+   },
+   {
+    "answer": "BILLMURRAY",
+    "chunkTexts": [
+     "BILL",
+     "MUR",
+     "RAY"
+    ]
+   },
+   {
+    "answer": "GUNDERSON",
+    "chunkTexts": [
+     "GUN",
+     "DER",
+     "SON"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 3.5,
+   "tempting_pairs": 0.0,
+   "shared_fragments": 5.0,
+   "anchor_balance": 6.9,
+   "shape": 10.4,
+   "word_appeal": 14.0,
+   "penalties": -15.6,
+   "structure": 24.3
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 13,
+    "4": 2
+   },
+   "decoys": [
+    "MANLY=MAN+LY",
+    "GUNMAN=GUN+MAN",
+    "FERRET=FER+RET",
+    "OFFER=OF+FER*"
+   ],
+   "tempting_pairs": [],
+   "anchors": [
+    "LAL",
+    "LOWE"
+   ],
+   "word_tiles": [
+    "BILL"
+   ],
+   "misaligned": 2,
+   "dup_tiles": [],
+   "near_pairs": [
+    "DER/FER",
+    "MUL/MUR",
+    "RAY/REY",
+    "RET/REY"
+   ],
+   "no_start_rival": [
+    "OFFERMAN",
+    "AUBREY",
+    "ROBLOWE",
+    "RETTA",
+    "MULLALLY",
+    "BILLMURRAY",
+    "GUNDERSON"
+   ],
+   "inflected": [],
+   "zipf": {
+    "OFFERMAN": 2.18,
+    "AUBREY": 3.31,
+    "ROBLOWE": 0.0,
+    "RETTA": 1.71,
+    "MULLALLY": 1.89,
+    "BILLMURRAY": 0.0,
+    "GUNDERSON": 2.49
+   }
+  },
+  "theme_hint": "Parks and Recreation: Cast and Crew",
+  "category": "themed"
+ },
+ {
+  "id": "H03",
+  "entries": [
+   {
+    "answer": "EAGLETON",
+    "chunkTexts": [
+     "EA",
+     "GLE",
+     "TON"
+    ]
+   },
+   {
+    "answer": "SWEETUMS",
+    "chunkTexts": [
+     "SWE",
+     "ET",
+     "UMS"
+    ]
+   },
+   {
+    "answer": "PAWNEE",
+    "chunkTexts": [
+     "PAW",
+     "NEE"
+    ]
+   },
+   {
+    "answer": "INDIANA",
+    "chunkTexts": [
+     "INDI",
+     "ANA"
+    ]
+   },
+   {
+    "answer": "RACCOONS",
+    "chunkTexts": [
+     "RAC",
+     "CO",
+     "ONS"
+    ]
+   },
+   {
+    "answer": "HARVEST",
+    "chunkTexts": [
+     "HAR",
+     "VEST"
+    ]
+   },
+   {
+    "answer": "PARADE",
+    "chunkTexts": [
+     "PAR",
+     "ADE"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 1.9,
+   "tempting_pairs": 0.0,
+   "shared_fragments": 2.5,
+   "anchor_balance": 7.2,
+   "shape": 8.1,
+   "word_appeal": 14.0,
+   "penalties": -14.7,
+   "structure": 19.0
+  },
+  "analysis": {
+   "n_tiles": 17,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 12,
+    "4": 2
+   },
+   "decoys": [
+    "ONSET=ONS+ET",
+    "SWEET=SWE+ET*",
+    "EAGLE=EA+GLE*"
+   ],
+   "tempting_pairs": [],
+   "anchors": [],
+   "word_tiles": [],
+   "misaligned": 4,
+   "dup_tiles": [],
+   "near_pairs": [
+    "HAR/PAR",
+    "PAR/PAW"
+   ],
+   "no_start_rival": [
+    "EAGLETON",
+    "SWEETUMS",
+    "PAWNEE",
+    "INDIANA",
+    "RACCOONS",
+    "HARVEST",
+    "PARADE"
+   ],
+   "inflected": [],
+   "zipf": {
+    "EAGLETON": 2.38,
+    "SWEETUMS": 1.68,
+    "PAWNEE": 2.81,
+    "INDIANA": 4.31,
+    "RACCOONS": 2.92,
+    "HARVEST": 4.03,
+    "PARADE": 4.16
+   }
+  },
+  "theme_hint": "Parks and Recreation: Town Tour",
+  "category": "themed"
+ },
+ {
+  "id": "H04",
+  "entries": [
+   {
+    "answer": "WHISKEY",
+    "chunkTexts": [
+     "WHIS",
+     "KEY"
+    ]
+   },
+   {
+    "answer": "MUSTACHE",
+    "chunkTexts": [
+     "MU",
+     "STA",
+     "CHE"
+    ]
+   },
+   {
+    "answer": "PYRAMID",
+    "chunkTexts": [
+     "PYRA",
+     "MID"
+    ]
+   },
+   {
+    "answer": "GOVERNMENT",
+    "chunkTexts": [
+     "GOV",
+     "ERN",
+     "MENT"
+    ]
+   },
+   {
+    "answer": "HUNTING",
+    "chunkTexts": [
+     "HUN",
+     "TING"
+    ]
+   },
+   {
+    "answer": "GREATNESS",
+    "chunkTexts": [
+     "GRE",
+     "AT",
+     "NESS"
+    ]
+   },
+   {
+    "answer": "TAMMY",
+    "chunkTexts": [
+     "TAM",
+     "MY"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 3.7,
+   "tempting_pairs": 0.8,
+   "shared_fragments": 0.0,
+   "anchor_balance": 5.9,
+   "shape": 5.6,
+   "word_appeal": 14.0,
+   "penalties": -15.0,
+   "structure": 15.0
+  },
+  "analysis": {
+   "n_tiles": 17,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 9,
+    "4": 5
+   },
+   "decoys": [
+    "STATING=STA+TING",
+    "CHEAT=CHE+AT",
+    "GREAT=GRE+AT*",
+    "GOVERN=GOV+ERN*"
+   ],
+   "tempting_pairs": [
+    "AT+TING",
+    "CHE+AT"
+   ],
+   "anchors": [
+    "GOV",
+    "PYRA"
+   ],
+   "word_tiles": [],
+   "misaligned": 5,
+   "dup_tiles": [],
+   "near_pairs": [],
+   "no_start_rival": [
+    "WHISKEY",
+    "MUSTACHE",
+    "PYRAMID",
+    "GOVERNMENT",
+    "HUNTING",
+    "GREATNESS",
+    "TAMMY"
+   ],
+   "inflected": [],
+   "zipf": {
+    "WHISKEY": 3.78,
+    "MUSTACHE": 3.41,
+    "PYRAMID": 3.75,
+    "GOVERNMENT": 5.57,
+    "HUNTING": 4.42,
+    "GREATNESS": 3.71,
+    "TAMMY": 3.35
+   }
+  },
+  "theme_hint": "Parks and Recreation: Ron Swanson",
+  "category": "themed"
+ },
+ {
+  "id": "H05",
+  "entries": [
+   {
+    "answer": "WAFFLES",
+    "chunkTexts": [
+     "WAF",
+     "FLES"
+    ]
+   },
+   {
+    "answer": "BINDERS",
+    "chunkTexts": [
+     "BIN",
+     "DERS"
+    ]
+   },
+   {
+    "answer": "CAMPAIGN",
+    "chunkTexts": [
+     "CAM",
+     "PA",
+     "IGN"
+    ]
+   },
+   {
+    "answer": "COUNCIL",
+    "chunkTexts": [
+     "COUN",
+     "CIL"
+    ]
+   },
+   {
+    "answer": "RECALL",
+    "chunkTexts": [
+     "REC",
+     "ALL"
+    ]
+   },
+   {
+    "answer": "GOVERNOR",
+    "chunkTexts": [
+     "GO",
+     "VER",
+     "NOR"
+    ]
+   },
+   {
+    "answer": "OPTIMISM",
+    "chunkTexts": [
+     "OP",
+     "TIM",
+     "ISM"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 1.2,
+   "tempting_pairs": 0.0,
+   "shared_fragments": 0.0,
+   "anchor_balance": 6.4,
+   "shape": 6.9,
+   "word_appeal": 14.0,
+   "penalties": -15.0,
+   "structure": 13.5
+  },
+  "analysis": {
+   "n_tiles": 17,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 11,
+    "4": 3
+   },
+   "decoys": [
+    "BINGO=BIN+GO"
+   ],
+   "tempting_pairs": [],
+   "anchors": [
+    "CIL",
+    "WAF"
+   ],
+   "word_tiles": [],
+   "misaligned": 5,
+   "dup_tiles": [],
+   "near_pairs": [],
+   "no_start_rival": [
+    "WAFFLES",
+    "BINDERS",
+    "CAMPAIGN",
+    "COUNCIL",
+    "RECALL",
+    "GOVERNOR",
+    "OPTIMISM"
+   ],
+   "inflected": [],
+   "zipf": {
+    "WAFFLES": 3.23,
+    "BINDERS": 2.84,
+    "CAMPAIGN": 5.0,
+    "COUNCIL": 5.08,
+    "RECALL": 4.4,
+    "GOVERNOR": 4.71,
+    "OPTIMISM": 3.66
+   }
+  },
+  "theme_hint": "Parks and Recreation: Leslie Knope",
+  "category": "themed"
+ },
+ {
+  "id": "H06",
+  "entries": [
+   {
+    "answer": "MOUSERAT",
+    "chunkTexts": [
+     "MOU",
+     "SER",
+     "AT"
+    ]
+   },
+   {
+    "answer": "MACKLIN",
+    "chunkTexts": [
+     "MACK",
+     "LIN"
+    ]
+   },
+   {
+    "answer": "KARATE",
+    "chunkTexts": [
+     "KAR",
+     "ATE"
+    ]
+   },
+   {
+    "answer": "VENEZUELA",
+    "chunkTexts": [
+     "VENE",
+     "ZU",
+     "ELA"
+    ]
+   },
+   {
+    "answer": "SEBASTIAN",
+    "chunkTexts": [
+     "SEB",
+     "AST",
+     "IAN"
+    ]
+   },
+   {
+    "answer": "CANDLES",
+    "chunkTexts": [
+     "CAND",
+     "LES"
+    ]
+   },
+   {
+    "answer": "JOHNNY",
+    "chunkTexts": [
+     "JOH",
+     "NNY"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 1.7,
+   "tempting_pairs": 0.0,
+   "shared_fragments": 1.2,
+   "anchor_balance": 6.5,
+   "shape": 9.1,
+   "word_appeal": 14.0,
+   "penalties": -12.4,
+   "structure": 20.2
+  },
+  "analysis": {
+   "n_tiles": 17,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 12,
+    "4": 3
+   },
+   "decoys": [
+    "LESSER=LES+SER"
+   ],
+   "tempting_pairs": [],
+   "anchors": [
+    "ELA",
+    "SEB"
+   ],
+   "word_tiles": [],
+   "misaligned": 8,
+   "dup_tiles": [],
+   "near_pairs": [
+    "SEB/SER"
+   ],
+   "no_start_rival": [
+    "MOUSERAT",
+    "MACKLIN",
+    "KARATE",
+    "VENEZUELA",
+    "SEBASTIAN",
+    "CANDLES",
+    "JOHNNY"
+   ],
+   "inflected": [],
+   "zipf": {
+    "MOUSERAT": 0.0,
+    "MACKLIN": 2.53,
+    "KARATE": 3.55,
+    "VENEZUELA": 3.93,
+    "SEBASTIAN": 3.9,
+    "CANDLES": 3.82,
+    "JOHNNY": 4.35
+   }
+  },
+  "theme_hint": "Parks and Recreation: Andy and April",
+  "category": "themed"
+ },
+ {
+  "id": "H07",
+  "entries": [
+   {
+    "answer": "RENTASWAG",
+    "chunkTexts": [
+     "REN",
+     "TAS",
+     "WAG"
+    ]
+   },
+   {
+    "answer": "BISTRO",
+    "chunkTexts": [
+     "BIS",
+     "TRO"
+    ]
+   },
+   {
+    "answer": "RALPHIO",
+    "chunkTexts": [
+     "RAL",
+     "PHIO"
+    ]
+   },
+   {
+    "answer": "SAPERSTEIN",
+    "chunkTexts": [
+     "SAP",
+     "ERST",
+     "EIN"
+    ]
+   },
+   {
+    "answer": "FRAGRANCES",
+    "chunkTexts": [
+     "FRAG",
+     "RAN",
+     "CES"
+    ]
+   },
+   {
+    "answer": "MIMOSAS",
+    "chunkTexts": [
+     "MI",
+     "MO",
+     "SAS"
+    ]
+   },
+   {
+    "answer": "LEATHER",
+    "chunkTexts": [
+     "LEA",
+     "THER"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 3.8,
+   "tempting_pairs": 0.4,
+   "shared_fragments": 5.0,
+   "anchor_balance": 6.6,
+   "shape": 9.3,
+   "word_appeal": 14.0,
+   "penalties": -14.7,
+   "structure": 24.5
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 12,
+    "4": 4
+   },
+   "decoys": [
+    "MOTHER=MO+THER",
+    "MORAL=MO+RAL",
+    "THEREIN=THER+EIN"
+   ],
+   "tempting_pairs": [
+    "MO+RAL"
+   ],
+   "anchors": [
+    "PHIO",
+    "WAG"
+   ],
+   "word_tiles": [],
+   "misaligned": 9,
+   "dup_tiles": [],
+   "near_pairs": [
+    "RAL/RAN",
+    "RAN/REN",
+    "SAP/SAS",
+    "SAS/TAS"
+   ],
+   "no_start_rival": [
+    "RENTASWAG",
+    "BISTRO",
+    "RALPHIO",
+    "SAPERSTEIN",
+    "FRAGRANCES",
+    "MIMOSAS",
+    "LEATHER"
+   ],
+   "inflected": [],
+   "zipf": {
+    "RENTASWAG": 0.0,
+    "BISTRO": 3.05,
+    "RALPHIO": 1.57,
+    "SAPERSTEIN": 2.0,
+    "FRAGRANCES": 2.84,
+    "MIMOSAS": 2.41,
+    "LEATHER": 4.35
+   }
+  },
+  "theme_hint": "Parks and Recreation: Tom's Ventures",
+  "category": "themed"
+ },
+ {
+  "id": "H08",
+  "entries": [
+   {
+    "answer": "CALZONE",
+    "chunkTexts": [
+     "CAL",
+     "ZONE"
+    ]
+   },
+   {
+    "answer": "DUNSHIRE",
+    "chunkTexts": [
+     "DUN",
+     "SHI",
+     "RE"
+    ]
+   },
+   {
+    "answer": "LITERALLY",
+    "chunkTexts": [
+     "LIT",
+     "ERAL",
+     "LY"
+    ]
+   },
+   {
+    "answer": "BUDGET",
+    "chunkTexts": [
+     "BUD",
+     "GET"
+    ]
+   },
+   {
+    "answer": "AUDITOR",
+    "chunkTexts": [
+     "AUD",
+     "ITOR"
+    ]
+   },
+   {
+    "answer": "MINNESOTA",
+    "chunkTexts": [
+     "MIN",
+     "NES",
+     "OTA"
+    ]
+   },
+   {
+    "answer": "PARTRIDGE",
+    "chunkTexts": [
+     "PAR",
+     "TRID",
+     "GE"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 6.4,
+   "tempting_pairs": 2.0,
+   "shared_fragments": 1.2,
+   "anchor_balance": 6.7,
+   "shape": 8.2,
+   "word_appeal": 14.0,
+   "penalties": -15.2,
+   "structure": 23.4
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 11,
+    "4": 4
+   },
+   "decoys": [
+    "RELY=RE+LY",
+    "GENES=GE+NES",
+    "MINERAL=MIN+ERAL",
+    "SHINES=SHI+NES",
+    "BUDGE=BUD+GE",
+    "LITERAL=LIT+ERAL*",
+    "SHIRE=SHI+RE*"
+   ],
+   "tempting_pairs": [
+    "CAL+LY",
+    "GE+LY",
+    "RE+CAL",
+    "RE+LY",
+    "RE+MIN"
+   ],
+   "anchors": [
+    "AUD",
+    "BUD"
+   ],
+   "word_tiles": [
+    "ZONE"
+   ],
+   "misaligned": 4,
+   "dup_tiles": [],
+   "near_pairs": [
+    "AUD/BUD"
+   ],
+   "no_start_rival": [
+    "CALZONE",
+    "LITERALLY",
+    "BUDGET",
+    "AUDITOR",
+    "MINNESOTA",
+    "PARTRIDGE"
+   ],
+   "inflected": [],
+   "zipf": {
+    "CALZONE": 2.2,
+    "DUNSHIRE": 0.0,
+    "LITERALLY": 4.91,
+    "BUDGET": 4.82,
+    "AUDITOR": 3.48,
+    "MINNESOTA": 4.31,
+    "PARTRIDGE": 3.2
+   }
+  },
+  "theme_hint": "Parks and Recreation: Ben and Chris",
+  "category": "themed"
+ },
+ {
+  "id": "H09",
+  "entries": [
+   {
+    "answer": "MERCEDES",
+    "chunkTexts": [
+     "MER",
+     "CE",
+     "DES"
+    ]
+   },
+   {
+    "answer": "CALLAMEZZO",
+    "chunkTexts": [
+     "CAL",
+     "LAM",
+     "EZ",
+     "ZO"
+    ]
+   },
+   {
+    "answer": "HAPLEY",
+    "chunkTexts": [
+     "HAP",
+     "LEY"
+    ]
+   },
+   {
+    "answer": "NEWPORT",
+    "chunkTexts": [
+     "NEW",
+     "PORT"
+    ]
+   },
+   {
+    "answer": "MALWAE",
+    "chunkTexts": [
+     "MAL",
+     "WAE"
+    ]
+   },
+   {
+    "answer": "SHAUNA",
+    "chunkTexts": [
+     "SHA",
+     "UNA"
+    ]
+   },
+   {
+    "answer": "DEXHART",
+    "chunkTexts": [
+     "DEX",
+     "HART"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 2.7,
+   "tempting_pairs": 0.0,
+   "shared_fragments": 2.5,
+   "anchor_balance": 6.8,
+   "shape": 9.1,
+   "word_appeal": 14.0,
+   "penalties": -17.7,
+   "structure": 17.4
+  },
+  "analysis": {
+   "n_tiles": 17,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 12,
+    "4": 2
+   },
+   "decoys": [
+    "SHADES=SHA+DES",
+    "CALMER=CAL+MER"
+   ],
+   "tempting_pairs": [],
+   "anchors": [
+    "WAE"
+   ],
+   "word_tiles": [
+    "HART",
+    "PORT"
+   ],
+   "misaligned": 4,
+   "dup_tiles": [],
+   "near_pairs": [
+    "CAL/MAL",
+    "DES/DEX"
+   ],
+   "no_start_rival": [
+    "MERCEDES",
+    "CALLAMEZZO",
+    "HAPLEY",
+    "NEWPORT",
+    "MALWAE",
+    "SHAUNA",
+    "DEXHART"
+   ],
+   "inflected": [],
+   "zipf": {
+    "MERCEDES": 3.98,
+    "CALLAMEZZO": 0.0,
+    "HAPLEY": 1.29,
+    "NEWPORT": 3.78,
+    "MALWAE": 0.0,
+    "SHAUNA": 2.62,
+    "DEXHART": 0.0
+   }
+  },
+  "theme_hint": "Parks and Recreation: Townies",
+  "category": "themed"
+ },
+ {
+  "id": "H10",
+  "entries": [
+   {
+    "answer": "TELETHON",
+    "chunkTexts": [
+     "TELE",
+     "THON"
+    ]
+   },
+   {
+    "answer": "PENGUINS",
+    "chunkTexts": [
+     "PEN",
+     "GU",
+     "INS"
+    ]
+   },
+   {
+    "answer": "GALENTINE",
+    "chunkTexts": [
+     "GAL",
+     "ENT",
+     "INE"
+    ]
+   },
+   {
+    "answer": "KABOOM",
+    "chunkTexts": [
+     "KAB",
+     "OOM"
+    ]
+   },
+   {
+    "answer": "PIEMARY",
+    "chunkTexts": [
+     "PIE",
+     "MARY"
+    ]
+   },
+   {
+    "answer": "FINALE",
+    "chunkTexts": [
+     "FIN",
+     "ALE"
+    ]
+   },
+   {
+    "answer": "FLUSEASON",
+    "chunkTexts": [
+     "FLU",
+     "SEA",
+     "SON"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 2.2,
+   "tempting_pairs": 0.0,
+   "shared_fragments": 1.2,
+   "anchor_balance": 7.3,
+   "shape": 10.0,
+   "word_appeal": 14.0,
+   "penalties": -10.9,
+   "structure": 23.8
+  },
+  "analysis": {
+   "n_tiles": 17,
+   "tile_len_hist": {
+    "2": 1,
+    "3": 13,
+    "4": 3
+   },
+   "decoys": [
+    "FLUENT=FLU+ENT",
+    "SEASON=SEA+SON*"
+   ],
+   "tempting_pairs": [],
+   "anchors": [
+    "KAB"
+   ],
+   "word_tiles": [],
+   "misaligned": 8,
+   "dup_tiles": [],
+   "near_pairs": [
+    "INE/INS"
+   ],
+   "no_start_rival": [
+    "TELETHON",
+    "PENGUINS",
+    "GALENTINE",
+    "KABOOM",
+    "PIEMARY",
+    "FINALE",
+    "FLUSEASON"
+   ],
+   "inflected": [],
+   "zipf": {
+    "TELETHON": 2.45,
+    "PENGUINS": 3.67,
+    "GALENTINE": 0.0,
+    "KABOOM": 2.56,
+    "PIEMARY": 0.0,
+    "FINALE": 4.04,
+    "FLUSEASON": 0.0
+   }
+  },
+  "theme_hint": "Parks and Recreation: Episodes",
+  "category": "themed"
+ },
+ {
+  "id": "I01",
+  "entries": [
+   {
+    "answer": "PERRY",
+    "chunkTexts": [
+     "PER",
+     "RY"
+    ]
+   },
+   {
+    "answer": "WINGER",
+    "chunkTexts": [
+     "WIN",
+     "GER"
+    ]
+   },
+   {
+    "answer": "SHIRLEY",
+    "chunkTexts": [
+     "SHIR",
+     "LEY"
+    ]
+   },
+   {
+    "answer": "STUDYGROUP",
+    "chunkTexts": [
+     "STU",
+     "DY",
+     "GRO",
+     "UP"
+    ]
+   },
+   {
+    "answer": "LAWYER",
+    "chunkTexts": [
+     "LAW",
+     "YER"
+    ]
+   },
+   {
+    "answer": "TROYBARNES",
+    "chunkTexts": [
+     "TROY",
+     "BAR",
+     "NES"
+    ]
+   },
+   {
+    "answer": "BENNETT",
+    "chunkTexts": [
+     "BEN",
+     "NETT"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 4.0,
+   "tempting_pairs": 0.0,
+   "shared_fragments": 3.8,
+   "anchor_balance": 6.8,
+   "shape": 7.9,
+   "word_appeal": 14.0,
+   "penalties": -15.3,
+   "structure": 21.2
+  },
+  "analysis": {
+   "n_tiles": 17,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 11,
+    "4": 3
+   },
+   "decoys": [
+    "UPPER=UP+PER",
+    "WINDY=WIN+DY",
+    "BARLEY=BAR+LEY",
+    "GROUP=GRO+UP*",
+    "STUDY=STU+DY*"
+   ],
+   "tempting_pairs": [],
+   "anchors": [
+    "NETT",
+    "TROY"
+   ],
+   "word_tiles": [],
+   "misaligned": 6,
+   "dup_tiles": [],
+   "near_pairs": [
+    "GER/PER",
+    "GER/YER",
+    "PER/YER"
+   ],
+   "no_start_rival": [
+    "PERRY",
+    "WINGER",
+    "SHIRLEY",
+    "STUDYGROUP",
+    "LAWYER",
+    "TROYBARNES",
+    "BENNETT"
+   ],
+   "inflected": [],
+   "zipf": {
+    "PERRY": 4.22,
+    "WINGER": 3.57,
+    "SHIRLEY": 3.73,
+    "STUDYGROUP": 0.0,
+    "LAWYER": 4.67,
+    "TROYBARNES": 0.0,
+    "BENNETT": 4.03
+   }
+  },
+  "theme_hint": "Community: The Seven",
+  "category": "themed"
+ },
+ {
+  "id": "I02",
+  "entries": [
+   {
+    "answer": "GILLIAN",
+    "chunkTexts": [
+     "GILL",
+     "IAN"
+    ]
+   },
+   {
+    "answer": "JACOBS",
+    "chunkTexts": [
+     "JAC",
+     "OBS"
+    ]
+   },
+   {
+    "answer": "DANNYPUDI",
+    "chunkTexts": [
+     "DAN",
+     "NY",
+     "PUDI"
+    ]
+   },
+   {
+    "answer": "GLOVER",
+    "chunkTexts": [
+     "GLO",
+     "VER"
+    ]
+   },
+   {
+    "answer": "CHEVYCHASE",
+    "chunkTexts": [
+     "CHE",
+     "VY",
+     "CHA",
+     "SE"
+    ]
+   },
+   {
+    "answer": "HARMON",
+    "chunkTexts": [
+     "HAR",
+     "MON"
+    ]
+   },
+   {
+    "answer": "JIMRASH",
+    "chunkTexts": [
+     "JIM",
+     "RASH"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 3.4,
+   "tempting_pairs": 0.8,
+   "shared_fragments": 1.2,
+   "anchor_balance": 6.6,
+   "shape": 7.9,
+   "word_appeal": 14.0,
+   "penalties": -15.0,
+   "structure": 19.0
+  },
+  "analysis": {
+   "n_tiles": 17,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 11,
+    "4": 3
+   },
+   "decoys": [
+    "VERSE=VER+SE",
+    "SEDAN=SE+DAN",
+    "SEVER=SE+VER",
+    "CHASE=CHA+SE*"
+   ],
+   "tempting_pairs": [
+    "SE+VER",
+    "VER+SE"
+   ],
+   "anchors": [
+    "GILL",
+    "PUDI"
+   ],
+   "word_tiles": [],
+   "misaligned": 5,
+   "dup_tiles": [],
+   "near_pairs": [
+    "DAN/IAN"
+   ],
+   "no_start_rival": [
+    "GILLIAN",
+    "JACOBS",
+    "DANNYPUDI",
+    "GLOVER",
+    "CHEVYCHASE",
+    "HARMON",
+    "JIMRASH"
+   ],
+   "inflected": [],
+   "zipf": {
+    "GILLIAN": 3.31,
+    "JACOBS": 3.74,
+    "DANNYPUDI": 0.0,
+    "GLOVER": 3.33,
+    "CHEVYCHASE": 0.0,
+    "HARMON": 3.21,
+    "JIMRASH": 0.0
+   }
+  },
+  "theme_hint": "Community: Cast and Crew",
+  "category": "themed"
+ },
+ {
+  "id": "I03",
+  "entries": [
+   {
+    "answer": "GREENDALE",
+    "chunkTexts": [
+     "GRE",
+     "END",
+     "ALE"
+    ]
+   },
+   {
+    "answer": "SPANISH",
+    "chunkTexts": [
+     "SPA",
+     "NISH"
+    ]
+   },
+   {
+    "answer": "SENOR",
+    "chunkTexts": [
+     "SEN",
+     "OR"
+    ]
+   },
+   {
+    "answer": "CAMPUS",
+    "chunkTexts": [
+     "CAM",
+     "PUS"
+    ]
+   },
+   {
+    "answer": "CHANGNESIA",
+    "chunkTexts": [
+     "CHAN",
+     "GNE",
+     "SIA"
+    ]
+   },
+   {
+    "answer": "STUDYROOM",
+    "chunkTexts": [
+     "STU",
+     "DY",
+     "ROOM"
+    ]
+   },
+   {
+    "answer": "MASCOT",
+    "chunkTexts": [
+     "MAS",
+     "COT"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 0.3,
+   "tempting_pairs": 0.0,
+   "shared_fragments": 2.5,
+   "anchor_balance": 6.9,
+   "shape": 9.1,
+   "word_appeal": 14.0,
+   "penalties": -13.3,
+   "structure": 19.6
+  },
+  "analysis": {
+   "n_tiles": 17,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 12,
+    "4": 3
+   },
+   "decoys": [
+    "STUDY=STU+DY*"
+   ],
+   "tempting_pairs": [],
+   "anchors": [
+    "CHAN"
+   ],
+   "word_tiles": [
+    "ROOM"
+   ],
+   "misaligned": 6,
+   "dup_tiles": [],
+   "near_pairs": [
+    "GNE/GRE",
+    "SIA/SPA"
+   ],
+   "no_start_rival": [
+    "GREENDALE",
+    "SPANISH",
+    "SENOR",
+    "CAMPUS",
+    "CHANGNESIA",
+    "STUDYROOM",
+    "MASCOT"
+   ],
+   "inflected": [],
+   "zipf": {
+    "GREENDALE": 2.35,
+    "SPANISH": 4.73,
+    "SENOR": 2.61,
+    "CAMPUS": 4.51,
+    "CHANGNESIA": 0.0,
+    "STUDYROOM": 0.0,
+    "MASCOT": 3.62
+   }
+  },
+  "theme_hint": "Community: Go Human Beings",
+  "category": "themed"
+ },
+ {
+  "id": "I04",
+  "entries": [
+   {
+    "answer": "PAINTBALL",
+    "chunkTexts": [
+     "PA",
+     "INT",
+     "BALL"
+    ]
+   },
+   {
+    "answer": "WARFARE",
+    "chunkTexts": [
+     "WAR",
+     "FARE"
+    ]
+   },
+   {
+    "answer": "FISTFUL",
+    "chunkTexts": [
+     "FIST",
+     "FUL"
+    ]
+   },
+   {
+    "answer": "WESTERN",
+    "chunkTexts": [
+     "WES",
+     "TERN"
+    ]
+   },
+   {
+    "answer": "PRIORITY",
+    "chunkTexts": [
+     "PRI",
+     "OR",
+     "ITY"
+    ]
+   },
+   {
+    "answer": "ASSASSIN",
+    "chunkTexts": [
+     "ASS",
+     "ASS",
+     "IN"
+    ]
+   },
+   {
+    "answer": "PILLOWTOWN",
+    "chunkTexts": [
+     "PIL",
+     "LOW",
+     "TOWN"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 6.0,
+   "tempting_pairs": 1.6,
+   "shared_fragments": 2.5,
+   "anchor_balance": 7.0,
+   "shape": 7.1,
+   "word_appeal": 14.0,
+   "penalties": -16.7,
+   "structure": 21.5
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 10,
+    "4": 5
+   },
+   "decoys": [
+    "PAIN=PA+IN",
+    "PAINFUL=PA+IN+FUL",
+    "INTERN=IN+TERN",
+    "PATERNITY=PA+TERN+ITY",
+    "PRIOR=PRI+OR*",
+    "PAINT=PA+INT*",
+    "PILLOW=PIL+LOW*"
+   ],
+   "tempting_pairs": [
+    "IN+ITY",
+    "IN+TERN",
+    "PA+IN",
+    "TERN+ITY"
+   ],
+   "anchors": [
+    "WES"
+   ],
+   "word_tiles": [
+    "BALL",
+    "TOWN"
+   ],
+   "misaligned": 4,
+   "dup_tiles": [
+    "ASS"
+   ],
+   "near_pairs": [],
+   "no_start_rival": [
+    "WARFARE",
+    "FISTFUL",
+    "WESTERN",
+    "PRIORITY",
+    "ASSASSIN",
+    "PILLOWTOWN"
+   ],
+   "inflected": [],
+   "zipf": {
+    "PAINTBALL": 3.03,
+    "WARFARE": 4.05,
+    "FISTFUL": 2.58,
+    "WESTERN": 5.01,
+    "PRIORITY": 4.41,
+    "ASSASSIN": 3.66,
+    "PILLOWTOWN": 0.0
+   }
+  },
+  "theme_hint": "Community: Campus Wars",
+  "category": "themed"
+ },
+ {
+  "id": "I05",
+  "entries": [
+   {
+    "answer": "GOATEE",
+    "chunkTexts": [
+     "GOA",
+     "TEE"
+    ]
+   },
+   {
+    "answer": "BATMAN",
+    "chunkTexts": [
+     "BAT",
+     "MAN"
+    ]
+   },
+   {
+    "answer": "MONTAGE",
+    "chunkTexts": [
+     "MON",
+     "TAGE"
+    ]
+   },
+   {
+    "answer": "CLAYMATION",
+    "chunkTexts": [
+     "CLAY",
+     "MAT",
+     "ION"
+    ]
+   },
+   {
+    "answer": "FOURTHWALL",
+    "chunkTexts": [
+     "FO",
+     "URTH",
+     "WALL"
+    ]
+   },
+   {
+    "answer": "FILMMAKER",
+    "chunkTexts": [
+     "FILM",
+     "MAK",
+     "ER"
+    ]
+   },
+   {
+    "answer": "HOMAGE",
+    "chunkTexts": [
+     "HOM",
+     "AGE"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 3.7,
+   "tempting_pairs": 1.2,
+   "shared_fragments": 7.5,
+   "anchor_balance": 6.9,
+   "shape": 6.8,
+   "word_appeal": 14.0,
+   "penalties": -17.4,
+   "structure": 22.6
+  },
+  "analysis": {
+   "n_tiles": 17,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 10,
+    "4": 5
+   },
+   "decoys": [
+    "MANAGE=MAN+AGE",
+    "HOMER=HOM+ER",
+    "FOURTH=FO+URTH*",
+    "MAKER=MAK+ER*"
+   ],
+   "tempting_pairs": [
+    "ER+AGE",
+    "MAN+AGE",
+    "MAT+ER"
+   ],
+   "anchors": [
+    "CLAY"
+   ],
+   "word_tiles": [
+    "CLAY",
+    "FILM",
+    "WALL"
+   ],
+   "misaligned": 3,
+   "dup_tiles": [],
+   "near_pairs": [
+    "BAT/MAT",
+    "ION/MON",
+    "MAK/MAN",
+    "MAK/MAT",
+    "MAN/MAT",
+    "MAN/MON"
+   ],
+   "no_start_rival": [
+    "GOATEE",
+    "BATMAN",
+    "MONTAGE",
+    "CLAYMATION",
+    "FOURTHWALL",
+    "FILMMAKER",
+    "HOMAGE"
+   ],
+   "inflected": [],
+   "zipf": {
+    "GOATEE": 2.68,
+    "BATMAN": 4.22,
+    "MONTAGE": 3.33,
+    "CLAYMATION": 1.98,
+    "FOURTHWALL": 0.0,
+    "FILMMAKER": 3.62,
+    "HOMAGE": 3.61
+   }
+  },
+  "theme_hint": "Community: Abed's Meta",
+  "category": "themed"
+ },
+ {
+  "id": "I06",
+  "entries": [
+   {
+    "answer": "MORNING",
+    "chunkTexts": [
+     "MOR",
+     "NING"
+    ]
+   },
+   {
+    "answer": "MONKEY",
+    "chunkTexts": [
+     "MON",
+     "KEY"
+    ]
+   },
+   {
+    "answer": "HOTLAVA",
+    "chunkTexts": [
+     "HOT",
+     "LA",
+     "VA"
+    ]
+   },
+   {
+    "answer": "BURTON",
+    "chunkTexts": [
+     "BUR",
+     "TON"
+    ]
+   },
+   {
+    "answer": "AIRCON",
+    "chunkTexts": [
+     "AIR",
+     "CON"
+    ]
+   },
+   {
+    "answer": "APARTMENT",
+    "chunkTexts": [
+     "AP",
+     "ART",
+     "MENT"
+    ]
+   },
+   {
+    "answer": "FRIENDSHIP",
+    "chunkTexts": [
+     "FRI",
+     "END",
+     "SHIP"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 5.3,
+   "tempting_pairs": 0.0,
+   "shared_fragments": 5.0,
+   "anchor_balance": 7.2,
+   "shape": 7.9,
+   "word_appeal": 14.0,
+   "penalties": -15.9,
+   "structure": 23.6
+  },
+  "analysis": {
+   "n_tiles": 17,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 11,
+    "4": 3
+   },
+   "decoys": [
+    "BURNING=BUR+NING",
+    "SHIPMENT=SHIP+MENT",
+    "LAMENT=LA+MENT",
+    "FRIEND=FRI+END*",
+    "APART=AP+ART*",
+    "LAVA=LA+VA*"
+   ],
+   "tempting_pairs": [],
+   "anchors": [
+    "FRI"
+   ],
+   "word_tiles": [
+    "SHIP"
+   ],
+   "misaligned": 3,
+   "dup_tiles": [],
+   "near_pairs": [
+    "CON/MON",
+    "CON/TON",
+    "MON/MOR",
+    "MON/TON"
+   ],
+   "no_start_rival": [
+    "MORNING",
+    "MONKEY",
+    "HOTLAVA",
+    "BURTON",
+    "AIRCON",
+    "APARTMENT",
+    "FRIENDSHIP"
+   ],
+   "inflected": [],
+   "zipf": {
+    "MORNING": 5.33,
+    "MONKEY": 4.07,
+    "HOTLAVA": 0.0,
+    "BURTON": 3.8,
+    "AIRCON": 2.27,
+    "APARTMENT": 4.65,
+    "FRIENDSHIP": 4.39
+   }
+  },
+  "theme_hint": "Community: Troy and Abed",
+  "category": "themed"
+ },
+ {
+  "id": "I07",
+  "entries": [
+   {
+    "answer": "VICKI",
+    "chunkTexts": [
+     "VIC",
+     "KI"
+    ]
+   },
+   {
+    "answer": "GARRETT",
+    "chunkTexts": [
+     "GAR",
+     "RETT"
+    ]
+   },
+   {
+    "answer": "DUNCAN",
+    "chunkTexts": [
+     "DUN",
+     "CAN"
+    ]
+   },
+   {
+    "answer": "SLATER",
+    "chunkTexts": [
+     "SLA",
+     "TER"
+    ]
+   },
+   {
+    "answer": "FATNEIL",
+    "chunkTexts": [
+     "FAT",
+     "NE",
+     "IL"
+    ]
+   },
+   {
+    "answer": "DEANPELTON",
+    "chunkTexts": [
+     "DEAN",
+     "PEL",
+     "TON"
+    ]
+   },
+   {
+    "answer": "BUZZHICKEY",
+    "chunkTexts": [
+     "BUZZ",
+     "HIC",
+     "KEY"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 5.7,
+   "tempting_pairs": 0.4,
+   "shared_fragments": 1.2,
+   "anchor_balance": 6.9,
+   "shape": 7.9,
+   "word_appeal": 14.0,
+   "penalties": -16.7,
+   "structure": 19.5
+  },
+  "analysis": {
+   "n_tiles": 17,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 11,
+    "4": 3
+   },
+   "decoys": [
+    "CANTON=CAN+TON",
+    "PELVIC=PEL+VIC",
+    "TONNE=TON+NE",
+    "FATTER=FAT+TER",
+    "GARTER=GAR+TER",
+    "HICKEY=HIC+KEY*"
+   ],
+   "tempting_pairs": [
+    "GAR+NE"
+   ],
+   "anchors": [
+    "DEAN",
+    "RETT"
+   ],
+   "word_tiles": [
+    "BUZZ",
+    "DEAN"
+   ],
+   "misaligned": 4,
+   "dup_tiles": [],
+   "near_pairs": [
+    "HIC/VIC"
+   ],
+   "no_start_rival": [
+    "VICKI",
+    "DUNCAN",
+    "SLATER",
+    "FATNEIL",
+    "DEANPELTON",
+    "BUZZHICKEY"
+   ],
+   "inflected": [],
+   "zipf": {
+    "VICKI": 3.22,
+    "GARRETT": 3.67,
+    "DUNCAN": 4.02,
+    "SLATER": 3.46,
+    "FATNEIL": 0.0,
+    "DEANPELTON": 0.0,
+    "BUZZHICKEY": 0.0
+   }
+  },
+  "theme_hint": "Community: Greendale Regulars",
+  "category": "themed"
+ },
+ {
+  "id": "I08",
+  "entries": [
+   {
+    "answer": "CHICKEN",
+    "chunkTexts": [
+     "CHIC",
+     "KEN"
+    ]
+   },
+   {
+    "answer": "DINNER",
+    "chunkTexts": [
+     "DIN",
+     "NER"
+    ]
+   },
+   {
+    "answer": "MIXOLOGY",
+    "chunkTexts": [
+     "MIX",
+     "OLO",
+     "GY"
+    ]
+   },
+   {
+    "answer": "DUNGEONS",
+    "chunkTexts": [
+     "DUN",
+     "GE",
+     "ONS"
+    ]
+   },
+   {
+    "answer": "DRAGONS",
+    "chunkTexts": [
+     "DRAG",
+     "ONS"
+    ]
+   },
+   {
+    "answer": "HALLOWEEN",
+    "chunkTexts": [
+     "HAL",
+     "LOW",
+     "EEN"
+    ]
+   },
+   {
+    "answer": "DIORAMA",
+    "chunkTexts": [
+     "DIO",
+     "RAMA"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 1.7,
+   "tempting_pairs": 0.4,
+   "shared_fragments": 6.2,
+   "anchor_balance": 6.4,
+   "shape": 9.1,
+   "word_appeal": 14.0,
+   "penalties": -12.7,
+   "structure": 25.2
+  },
+  "analysis": {
+   "n_tiles": 17,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 12,
+    "4": 3
+   },
+   "decoys": [
+    "GEOLOGY=GE+OLO+GY"
+   ],
+   "tempting_pairs": [
+    "GE+NER"
+   ],
+   "anchors": [
+    "CHIC",
+    "DRAG"
+   ],
+   "word_tiles": [
+    "DRAG"
+   ],
+   "misaligned": 4,
+   "dup_tiles": [
+    "ONS"
+   ],
+   "near_pairs": [
+    "DIN/DIO",
+    "DIN/DUN",
+    "EEN/KEN"
+   ],
+   "no_start_rival": [
+    "CHICKEN",
+    "DINNER",
+    "MIXOLOGY",
+    "DUNGEONS",
+    "DRAGONS",
+    "HALLOWEEN",
+    "DIORAMA"
+   ],
+   "inflected": [],
+   "zipf": {
+    "CHICKEN": 4.63,
+    "DINNER": 4.78,
+    "MIXOLOGY": 2.06,
+    "DUNGEONS": 3.31,
+    "DRAGONS": 4.1,
+    "HALLOWEEN": 4.16,
+    "DIORAMA": 2.49
+   }
+  },
+  "theme_hint": "Community: Episode Hooks",
+  "category": "themed"
+ },
+ {
+  "id": "I09",
+  "entries": [
+   {
+    "answer": "STREETS",
+    "chunkTexts": [
+     "STRE",
+     "ETS"
+    ]
+   },
+   {
+    "answer": "SIXSEASONS",
+    "chunkTexts": [
+     "SIX",
+     "SEAS",
+     "ONS"
+    ]
+   },
+   {
+    "answer": "POPPOP",
+    "chunkTexts": [
+     "POP",
+     "POP"
+    ]
+   },
+   {
+    "answer": "THATSNICE",
+    "chunkTexts": [
+     "THAT",
+     "SNI",
+     "CE"
+    ]
+   },
+   {
+    "answer": "PLURIBUS",
+    "chunkTexts": [
+     "PLU",
+     "RI",
+     "BUS"
+    ]
+   },
+   {
+    "answer": "DARKEST",
+    "chunkTexts": [
+     "DAR",
+     "KEST"
+    ]
+   },
+   {
+    "answer": "BRITTAD",
+    "chunkTexts": [
+     "BRIT",
+     "TAD"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 2.2,
+   "tempting_pairs": 0.0,
+   "shared_fragments": 2.5,
+   "anchor_balance": 6.2,
+   "shape": 6.8,
+   "word_appeal": 14.0,
+   "penalties": -15.6,
+   "structure": 16.1
+  },
+  "analysis": {
+   "n_tiles": 17,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 10,
+    "4": 5
+   },
+   "decoys": [
+    "RICE=RI+CE",
+    "CEDAR=CE+DAR",
+    "SEASONS=SEAS+ONS*"
+   ],
+   "tempting_pairs": [],
+   "anchors": [
+    "BRIT",
+    "TAD"
+   ],
+   "word_tiles": [
+    "THAT"
+   ],
+   "misaligned": 7,
+   "dup_tiles": [
+    "POP"
+   ],
+   "near_pairs": [],
+   "no_start_rival": [
+    "STREETS",
+    "SIXSEASONS",
+    "POPPOP",
+    "THATSNICE",
+    "PLURIBUS",
+    "DARKEST",
+    "BRITTAD"
+   ],
+   "inflected": [],
+   "zipf": {
+    "STREETS": 4.66,
+    "SIXSEASONS": 0.0,
+    "POPPOP": 1.14,
+    "THATSNICE": 0.0,
+    "PLURIBUS": 2.02,
+    "DARKEST": 3.58,
+    "BRITTAD": 0.0
+   }
+  },
+  "theme_hint": "Community: Catchphrases",
+  "category": "themed"
+ },
+ {
+  "id": "I10",
+  "entries": [
+   {
+    "answer": "TOWELETTE",
+    "chunkTexts": [
+     "TOW",
+     "ELET",
+     "TE"
+    ]
+   },
+   {
+    "answer": "LASERLOTUS",
+    "chunkTexts": [
+     "LAS",
+     "ERLO",
+     "TUS"
+    ]
+   },
+   {
+    "answer": "CORNELIUS",
+    "chunkTexts": [
+     "COR",
+     "NEL",
+     "IUS"
+    ]
+   },
+   {
+    "answer": "SANDWICHES",
+    "chunkTexts": [
+     "SAN",
+     "DWI",
+     "CHES"
+    ]
+   },
+   {
+    "answer": "ANDRE",
+    "chunkTexts": [
+     "AN",
+     "DRE"
+    ]
+   },
+   {
+    "answer": "CHRISTIAN",
+    "chunkTexts": [
+     "CHRI",
+     "STI",
+     "AN"
+    ]
+   },
+   {
+    "answer": "ESTATE",
+    "chunkTexts": [
+     "EST",
+     "ATE"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 0.3,
+   "tempting_pairs": 0.8,
+   "shared_fragments": 3.8,
+   "anchor_balance": 6.7,
+   "shape": 9.6,
+   "word_appeal": 14.0,
+   "penalties": -15.2,
+   "structure": 20.0
+  },
+  "analysis": {
+   "n_tiles": 19,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 12,
+    "4": 4
+   },
+   "decoys": [
+    "ANTE=AN+TE"
+   ],
+   "tempting_pairs": [
+    "AN+TE",
+    "TE+STI"
+   ],
+   "anchors": [
+    "CHRI"
+   ],
+   "word_tiles": [],
+   "misaligned": 9,
+   "dup_tiles": [
+    "AN"
+   ],
+   "near_pairs": [
+    "IUS/TUS"
+   ],
+   "no_start_rival": [
+    "TOWELETTE",
+    "LASERLOTUS",
+    "CORNELIUS",
+    "SANDWICHES",
+    "CHRISTIAN",
+    "ESTATE"
+   ],
+   "inflected": [],
+   "zipf": {
+    "TOWELETTE": 1.32,
+    "LASERLOTUS": 0.0,
+    "CORNELIUS": 3.27,
+    "SANDWICHES": 3.77,
+    "ANDRE": 3.85,
+    "CHRISTIAN": 4.88,
+    "ESTATE": 4.82
+   }
+  },
+  "theme_hint": "Community: Pierce and Shirley",
+  "category": "themed"
+ },
+ {
+  "id": "J01",
+  "entries": [
+   {
+    "answer": "AIRNOMAD",
+    "chunkTexts": [
+     "AIR",
+     "NOM",
+     "AD"
+    ]
+   },
+   {
+    "answer": "AIRTEMPLE",
+    "chunkTexts": [
+     "AIR",
+     "TEM",
+     "PLE"
+    ]
+   },
+   {
+    "answer": "LEMUR",
+    "chunkTexts": [
+     "LEM",
+     "UR"
+    ]
+   },
+   {
+    "answer": "GLIDER",
+    "chunkTexts": [
+     "GLI",
+     "DER"
+    ]
+   },
+   {
+    "answer": "CENTURY",
+    "chunkTexts": [
+     "CENT",
+     "URY"
+    ]
+   },
+   {
+    "answer": "WATERTRIBE",
+    "chunkTexts": [
+     "WAT",
+     "ERT",
+     "RIBE"
+    ]
+   },
+   {
+    "answer": "KATARA",
+    "chunkTexts": [
+     "KAT",
+     "ARA"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 1.9,
+   "tempting_pairs": 0.4,
+   "shared_fragments": 5.0,
+   "anchor_balance": 6.8,
+   "shape": 10.0,
+   "word_appeal": 14.0,
+   "penalties": -15.2,
+   "structure": 22.9
+  },
+  "analysis": {
+   "n_tiles": 17,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 13,
+    "4": 2
+   },
+   "decoys": [
+    "PLEAD=PLE+AD",
+    "TEMPLE=TEM+PLE*",
+    "NOMAD=NOM+AD*"
+   ],
+   "tempting_pairs": [
+    "PLE+AD"
+   ],
+   "anchors": [
+    "KAT",
+    "WAT"
+   ],
+   "word_tiles": [
+    "CENT"
+   ],
+   "misaligned": 9,
+   "dup_tiles": [
+    "AIR"
+   ],
+   "near_pairs": [
+    "KAT/WAT",
+    "LEM/TEM"
+   ],
+   "no_start_rival": [
+    "AIRNOMAD",
+    "AIRTEMPLE",
+    "LEMUR",
+    "GLIDER",
+    "WATERTRIBE",
+    "KATARA"
+   ],
+   "inflected": [],
+   "zipf": {
+    "AIRNOMAD": 0.0,
+    "AIRTEMPLE": 0.0,
+    "LEMUR": 2.57,
+    "GLIDER": 3.09,
+    "CENTURY": 5.02,
+    "WATERTRIBE": 0.0,
+    "KATARA": 2.47
+   }
+  },
+  "theme_hint": "Avatar: The Last Airbender: Team Avatar",
+  "category": "themed"
+ },
+ {
+  "id": "J02",
+  "entries": [
+   {
+    "answer": "FIRELORD",
+    "chunkTexts": [
+     "FIRE",
+     "LORD"
+    ]
+   },
+   {
+    "answer": "COMBUSTION",
+    "chunkTexts": [
+     "COMB",
+     "UST",
+     "ION"
+    ]
+   },
+   {
+    "answer": "EMBER",
+    "chunkTexts": [
+     "EMB",
+     "ER"
+    ]
+   },
+   {
+    "answer": "LUTEN",
+    "chunkTexts": [
+     "LUT",
+     "EN"
+    ]
+   },
+   {
+    "answer": "SUNWARRIOR",
+    "chunkTexts": [
+     "SUN",
+     "WARR",
+     "IOR"
+    ]
+   },
+   {
+    "answer": "FIRENATION",
+    "chunkTexts": [
+     "FIRE",
+     "NAT",
+     "ION"
+    ]
+   },
+   {
+    "answer": "COMET",
+    "chunkTexts": [
+     "CO",
+     "MET"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 3.8,
+   "tempting_pairs": 2.4,
+   "shared_fragments": 6.2,
+   "anchor_balance": 7.4,
+   "shape": 4.6,
+   "word_appeal": 14.0,
+   "penalties": -18.9,
+   "structure": 19.5
+  },
+  "analysis": {
+   "n_tiles": 17,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 9,
+    "4": 5
+   },
+   "decoys": [
+    "WARREN=WARR+EN",
+    "METER=MET+ER",
+    "NATION=NAT+ION*",
+    "WARRIOR=WARR+IOR*"
+   ],
+   "tempting_pairs": [
+    "EN+CO",
+    "EN+ER",
+    "ER+IOR",
+    "LUT+ION",
+    "MET+ER",
+    "UST+ER"
+   ],
+   "anchors": [
+    "LUT"
+   ],
+   "word_tiles": [
+    "FIRE",
+    "LORD"
+   ],
+   "misaligned": 8,
+   "dup_tiles": [
+    "FIRE",
+    "ION"
+   ],
+   "near_pairs": [
+    "ION/IOR"
+   ],
+   "no_start_rival": [
+    "FIRELORD",
+    "COMBUSTION",
+    "EMBER",
+    "LUTEN",
+    "SUNWARRIOR",
+    "FIRENATION",
+    "COMET"
+   ],
+   "inflected": [],
+   "zipf": {
+    "FIRELORD": 1.71,
+    "COMBUSTION": 3.57,
+    "EMBER": 2.97,
+    "LUTEN": 1.05,
+    "SUNWARRIOR": 0.0,
+    "FIRENATION": 0.0,
+    "COMET": 3.64
+   }
+  },
+  "theme_hint": "Avatar: The Last Airbender: Ozai's Empire",
+  "category": "themed"
+ },
+ {
+  "id": "J03",
+  "entries": [
+   {
+    "answer": "BASINGSE",
+    "chunkTexts": [
+     "BAS",
+     "ING",
+     "SE"
+    ]
+   },
+   {
+    "answer": "OMASHU",
+    "chunkTexts": [
+     "OMA",
+     "SHU"
+    ]
+   },
+   {
+    "answer": "LONGFENG",
+    "chunkTexts": [
+     "LONG",
+     "FENG"
+    ]
+   },
+   {
+    "answer": "CABBAGES",
+    "chunkTexts": [
+     "CAB",
+     "BAG",
+     "ES"
+    ]
+   },
+   {
+    "answer": "GAOLING",
+    "chunkTexts": [
+     "GAO",
+     "LING"
+    ]
+   },
+   {
+    "answer": "MONORAIL",
+    "chunkTexts": [
+     "MON",
+     "ORA",
+     "IL"
+    ]
+   },
+   {
+    "answer": "LAOGAI",
+    "chunkTexts": [
+     "LAO",
+     "GAI"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 4.8,
+   "tempting_pairs": 0.8,
+   "shared_fragments": 6.2,
+   "anchor_balance": 0.0,
+   "shape": 6.9,
+   "word_appeal": 14.0,
+   "penalties": -19.1,
+   "structure": 13.7
+  },
+  "analysis": {
+   "n_tiles": 17,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 11,
+    "4": 3
+   },
+   "decoys": [
+    "SEES=SE+ES",
+    "BASES=BAS+ES",
+    "BASIL=BAS+IL",
+    "LONGING=LONG+ING",
+    "BASING=BAS+ING*"
+   ],
+   "tempting_pairs": [
+    "IL+ING",
+    "IL+LING"
+   ],
+   "anchors": [
+    "FENG",
+    "GAI",
+    "GAO",
+    "LAO",
+    "OMA",
+    "SHU"
+   ],
+   "word_tiles": [
+    "LONG"
+   ],
+   "misaligned": 7,
+   "dup_tiles": [],
+   "near_pairs": [
+    "BAG/BAS",
+    "GAI/GAO",
+    "GAO/LAO",
+    "LING/LONG",
+    "OMA/ORA"
+   ],
+   "no_start_rival": [
+    "BASINGSE",
+    "OMASHU",
+    "LONGFENG",
+    "CABBAGES",
+    "GAOLING",
+    "MONORAIL",
+    "LAOGAI"
+   ],
+   "inflected": [],
+   "zipf": {
+    "BASINGSE": 0.0,
+    "OMASHU": 0.0,
+    "LONGFENG": 0.0,
+    "CABBAGES": 2.61,
+    "GAOLING": 0.0,
+    "MONORAIL": 2.69,
+    "LAOGAI": 1.46
+   }
+  },
+  "theme_hint": "Avatar: The Last Airbender: Earth Kingdom",
+  "category": "themed"
+ },
+ {
+  "id": "J04",
+  "entries": [
+   {
+    "answer": "AIRBENDING",
+    "chunkTexts": [
+     "AIR",
+     "BEN",
+     "DING"
+    ]
+   },
+   {
+    "answer": "CHIBLOCKER",
+    "chunkTexts": [
+     "CHI",
+     "BLOC",
+     "KER"
+    ]
+   },
+   {
+    "answer": "FIREBENDER",
+    "chunkTexts": [
+     "FIRE",
+     "BEN",
+     "DER"
+    ]
+   },
+   {
+    "answer": "MOONLIGHT",
+    "chunkTexts": [
+     "MO",
+     "ONL",
+     "IGHT"
+    ]
+   },
+   {
+    "answer": "TAICHI",
+    "chunkTexts": [
+     "TAI",
+     "CHI"
+    ]
+   },
+   {
+    "answer": "BLOODBEND",
+    "chunkTexts": [
+     "BLO",
+     "OD",
+     "BEND"
+    ]
+   },
+   {
+    "answer": "METALBEND",
+    "chunkTexts": [
+     "MET",
+     "AL",
+     "BEND"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 3.7,
+   "tempting_pairs": 0.4,
+   "shared_fragments": 6.2,
+   "anchor_balance": 7.0,
+   "shape": 7.0,
+   "word_appeal": 14.0,
+   "penalties": -17.6,
+   "structure": 20.8
+  },
+  "analysis": {
+   "n_tiles": 20,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 11,
+    "4": 6
+   },
+   "decoys": [
+    "MOOD=MO+OD",
+    "ALIGHT=AL+IGHT",
+    "ALDER=AL+DER",
+    "BLOOD=BLO+OD*",
+    "METAL=MET+AL*",
+    "BENDING=BEN+DING*",
+    "BENDER=BEN+DER*"
+   ],
+   "tempting_pairs": [
+    "MO+DER"
+   ],
+   "anchors": [
+    "BEND",
+    "CHI"
+   ],
+   "word_tiles": [
+    "BEND",
+    "FIRE"
+   ],
+   "misaligned": 7,
+   "dup_tiles": [
+    "BEN",
+    "BEND",
+    "CHI"
+   ],
+   "near_pairs": [
+    "DER/KER"
+   ],
+   "no_start_rival": [
+    "AIRBENDING",
+    "CHIBLOCKER",
+    "FIREBENDER",
+    "TAICHI",
+    "BLOODBEND",
+    "METALBEND"
+   ],
+   "inflected": [],
+   "zipf": {
+    "AIRBENDING": 1.81,
+    "CHIBLOCKER": 0.0,
+    "FIREBENDER": 1.45,
+    "MOONLIGHT": 3.61,
+    "TAICHI": 2.28,
+    "BLOODBEND": 0.0,
+    "METALBEND": 0.0
+   }
+  },
+  "theme_hint": "Avatar: The Last Airbender: Bending Arts",
+  "category": "themed"
+ },
+ {
+  "id": "J05",
+  "entries": [
+   {
+    "answer": "HEIBAI",
+    "chunkTexts": [
+     "HEI",
+     "BAI"
+    ]
+   },
+   {
+    "answer": "MOONSPIRIT",
+    "chunkTexts": [
+     "MOON",
+     "SPI",
+     "RIT"
+    ]
+   },
+   {
+    "answer": "PATHIK",
+    "chunkTexts": [
+     "PAT",
+     "HIK"
+    ]
+   },
+   {
+    "answer": "CHAKRAS",
+    "chunkTexts": [
+     "CHAK",
+     "RAS"
+    ]
+   },
+   {
+    "answer": "AVATARROKU",
+    "chunkTexts": [
+     "AVA",
+     "TAR",
+     "RO",
+     "KU"
+    ]
+   },
+   {
+    "answer": "KURUK",
+    "chunkTexts": [
+     "KU",
+     "RUK"
+    ]
+   },
+   {
+    "answer": "BANYAN",
+    "chunkTexts": [
+     "BAN",
+     "YAN"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 1.0,
+   "tempting_pairs": 0.4,
+   "shared_fragments": 3.8,
+   "anchor_balance": 0.0,
+   "shape": 9.1,
+   "word_appeal": 14.0,
+   "penalties": -16.1,
+   "structure": 12.2
+  },
+  "analysis": {
+   "n_tiles": 17,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 12,
+    "4": 2
+   },
+   "decoys": [
+    "SPIRIT=SPI+RIT*",
+    "AVATAR=AVA+TAR*"
+   ],
+   "tempting_pairs": [
+    "PAT+RO"
+   ],
+   "anchors": [
+    "BAI",
+    "CHAK",
+    "HIK",
+    "MOON",
+    "RUK",
+    "YAN"
+   ],
+   "word_tiles": [
+    "MOON"
+   ],
+   "misaligned": 7,
+   "dup_tiles": [
+    "KU"
+   ],
+   "near_pairs": [
+    "BAI/BAN"
+   ],
+   "no_start_rival": [
+    "HEIBAI",
+    "MOONSPIRIT",
+    "CHAKRAS",
+    "AVATARROKU",
+    "KURUK",
+    "BANYAN"
+   ],
+   "inflected": [],
+   "zipf": {
+    "HEIBAI": 0.0,
+    "MOONSPIRIT": 0.0,
+    "PATHIK": 1.02,
+    "CHAKRAS": 2.64,
+    "AVATARROKU": 0.0,
+    "KURUK": 0.0,
+    "BANYAN": 2.57
+   }
+  },
+  "theme_hint": "Avatar: The Last Airbender: Spirit World",
+  "category": "themed"
+ },
+ {
+  "id": "J06",
+  "entries": [
+   {
+    "answer": "BOOMERANG",
+    "chunkTexts": [
+     "BOO",
+     "MER",
+     "ANG"
+    ]
+   },
+   {
+    "answer": "SPACESWORD",
+    "chunkTexts": [
+     "SPA",
+     "CES",
+     "WORD"
+    ]
+   },
+   {
+    "answer": "HAIKU",
+    "chunkTexts": [
+     "HAI",
+     "KU"
+    ]
+   },
+   {
+    "answer": "PIANDAO",
+    "chunkTexts": [
+     "PI",
+     "AND",
+     "AO"
+    ]
+   },
+   {
+    "answer": "QUENCHIEST",
+    "chunkTexts": [
+     "QUEN",
+     "CHI",
+     "EST"
+    ]
+   },
+   {
+    "answer": "BALLOON",
+    "chunkTexts": [
+     "BALL",
+     "OON"
+    ]
+   },
+   {
+    "answer": "INVASION",
+    "chunkTexts": [
+     "INVA",
+     "SION"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 0.5,
+   "tempting_pairs": 0.4,
+   "shared_fragments": 1.2,
+   "anchor_balance": 4.5,
+   "shape": 7.1,
+   "word_appeal": 14.0,
+   "penalties": -19.2,
+   "structure": 8.6
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 10,
+    "4": 5
+   },
+   "decoys": [
+    "SPACES=SPA+CES*"
+   ],
+   "tempting_pairs": [
+    "CES+SION"
+   ],
+   "anchors": [
+    "AO",
+    "KU",
+    "QUEN"
+   ],
+   "word_tiles": [
+    "BALL",
+    "WORD"
+   ],
+   "misaligned": 9,
+   "dup_tiles": [],
+   "near_pairs": [
+    "AND/ANG"
+   ],
+   "no_start_rival": [
+    "BOOMERANG",
+    "SPACESWORD",
+    "HAIKU",
+    "PIANDAO",
+    "QUENCHIEST",
+    "BALLOON",
+    "INVASION"
+   ],
+   "inflected": [],
+   "zipf": {
+    "BOOMERANG": 3.06,
+    "SPACESWORD": 0.0,
+    "HAIKU": 3.08,
+    "PIANDAO": 0.0,
+    "QUENCHIEST": 0.0,
+    "BALLOON": 3.9,
+    "INVASION": 4.23
+   }
+  },
+  "theme_hint": "Avatar: The Last Airbender: Sokka's Greatest Hits",
+  "category": "themed"
+ },
+ {
+  "id": "J07",
+  "entries": [
+   {
+    "answer": "MENTOR",
+    "chunkTexts": [
+     "MEN",
+     "TOR"
+    ]
+   },
+   {
+    "answer": "PRISONER",
+    "chunkTexts": [
+     "PRI",
+     "SO",
+     "NER"
+    ]
+   },
+   {
+    "answer": "LEAVES",
+    "chunkTexts": [
+     "LEA",
+     "VES"
+    ]
+   },
+   {
+    "answer": "GRANDLOTUS",
+    "chunkTexts": [
+     "GRA",
+     "NDLO",
+     "TUS"
+    ]
+   },
+   {
+    "answer": "REDIRECT",
+    "chunkTexts": [
+     "RE",
+     "DIR",
+     "ECT"
+    ]
+   },
+   {
+    "answer": "GENERAL",
+    "chunkTexts": [
+     "GEN",
+     "ERAL"
+    ]
+   },
+   {
+    "answer": "PAISHO",
+    "chunkTexts": [
+     "PAI",
+     "SHO"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 7.4,
+   "tempting_pairs": 1.6,
+   "shared_fragments": 2.5,
+   "anchor_balance": 6.9,
+   "shape": 10.0,
+   "word_appeal": 14.0,
+   "penalties": -12.8,
+   "structure": 29.6
+  },
+  "analysis": {
+   "n_tiles": 17,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 13,
+    "4": 2
+   },
+   "decoys": [
+    "SHORE=SHO+RE",
+    "GENRE=GEN+RE",
+    "NERVES=NER+VES",
+    "SORE=SO+RE",
+    "GRAVES=GRA+VES",
+    "TORSO=TOR+SO",
+    "DIRECT=DIR+ECT*"
+   ],
+   "tempting_pairs": [
+    "RE+LEA",
+    "RE+PAI",
+    "RE+SO",
+    "SHO+RE"
+   ],
+   "anchors": [
+    "SHO"
+   ],
+   "word_tiles": [],
+   "misaligned": 6,
+   "dup_tiles": [],
+   "near_pairs": [
+    "GEN/MEN",
+    "PAI/PRI"
+   ],
+   "no_start_rival": [
+    "MENTOR",
+    "PRISONER",
+    "LEAVES",
+    "GRANDLOTUS",
+    "GENERAL",
+    "PAISHO"
+   ],
+   "inflected": [],
+   "zipf": {
+    "MENTOR": 3.93,
+    "PRISONER": 4.2,
+    "LEAVES": 4.79,
+    "GRANDLOTUS": 0.0,
+    "REDIRECT": 3.21,
+    "GENERAL": 5.47,
+    "PAISHO": 0.0
+   }
+  },
+  "theme_hint": "Avatar: The Last Airbender: Uncle Iroh",
+  "category": "themed"
+ },
+ {
+  "id": "J08",
+  "entries": [
+   {
+    "answer": "BEACH",
+    "chunkTexts": [
+     "BE",
+     "ACH"
+    ]
+   },
+   {
+    "answer": "AVATARDAY",
+    "chunkTexts": [
+     "AVA",
+     "TAR",
+     "DAY"
+    ]
+   },
+   {
+    "answer": "DAYDREAMS",
+    "chunkTexts": [
+     "DAY",
+     "DRE",
+     "AMS"
+    ]
+   },
+   {
+    "answer": "LOVERS",
+    "chunkTexts": [
+     "LOV",
+     "ERS"
+    ]
+   },
+   {
+    "answer": "BOILING",
+    "chunkTexts": [
+     "BOI",
+     "LING"
+    ]
+   },
+   {
+    "answer": "PLAYERS",
+    "chunkTexts": [
+     "PLAY",
+     "ERS"
+    ]
+   },
+   {
+    "answer": "ECLIPSE",
+    "chunkTexts": [
+     "EC",
+     "LI",
+     "PSE"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 4.3,
+   "tempting_pairs": 0.8,
+   "shared_fragments": 5.0,
+   "anchor_balance": 7.1,
+   "shape": 9.1,
+   "word_appeal": 14.0,
+   "penalties": -16.1,
+   "structure": 24.2
+  },
+  "analysis": {
+   "n_tiles": 17,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 12,
+    "4": 2
+   },
+   "decoys": [
+    "BEERS=BE+ERS",
+    "BEAMS=BE+AMS",
+    "LINGERS=LING+ERS",
+    "DREAMS=DRE+AMS*",
+    "AVATAR=AVA+TAR*"
+   ],
+   "tempting_pairs": [
+    "BE+LI",
+    "LI+BE"
+   ],
+   "anchors": [],
+   "word_tiles": [
+    "PLAY"
+   ],
+   "misaligned": 7,
+   "dup_tiles": [
+    "DAY",
+    "ERS"
+   ],
+   "near_pairs": [],
+   "no_start_rival": [
+    "AVATARDAY",
+    "DAYDREAMS",
+    "LOVERS",
+    "BOILING",
+    "PLAYERS",
+    "ECLIPSE"
+   ],
+   "inflected": [],
+   "zipf": {
+    "BEACH": 4.92,
+    "AVATARDAY": 0.0,
+    "DAYDREAMS": 2.59,
+    "LOVERS": 4.15,
+    "BOILING": 3.75,
+    "PLAYERS": 5.3,
+    "ECLIPSE": 3.81
+   }
+  },
+  "theme_hint": "Avatar: The Last Airbender: Episodes",
+  "category": "themed"
+ },
+ {
+  "id": "J09",
+  "entries": [
+   {
+    "answer": "FREEDOM",
+    "chunkTexts": [
+     "FREE",
+     "DOM"
+    ]
+   },
+   {
+    "answer": "RHINOS",
+    "chunkTexts": [
+     "RHI",
+     "NOS"
+    ]
+   },
+   {
+    "answer": "MECHANIST",
+    "chunkTexts": [
+     "ME",
+     "CHA",
+     "NIST"
+    ]
+   },
+   {
+    "answer": "SMELLERBEE",
+    "chunkTexts": [
+     "SMEL",
+     "LER",
+     "BEE"
+    ]
+   },
+   {
+    "answer": "HAKODA",
+    "chunkTexts": [
+     "HAK",
+     "ODA"
+    ]
+   },
+   {
+    "answer": "PAKKU",
+    "chunkTexts": [
+     "PAK",
+     "KU"
+    ]
+   },
+   {
+    "answer": "PUPPETEER",
+    "chunkTexts": [
+     "PUP",
+     "PET",
+     "EER"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 0.5,
+   "tempting_pairs": 0.0,
+   "shared_fragments": 2.5,
+   "anchor_balance": 0.0,
+   "shape": 9.1,
+   "word_appeal": 14.0,
+   "penalties": -13.0,
+   "structure": 13.1
+  },
+  "analysis": {
+   "n_tiles": 17,
+   "tile_len_hist": {
+    "2": 2,
+    "3": 12,
+    "4": 3
+   },
+   "decoys": [
+    "PUPPET=PUP+PET*"
+   ],
+   "tempting_pairs": [],
+   "anchors": [
+    "HAK",
+    "ODA",
+    "PAK",
+    "RHI",
+    "SMEL"
+   ],
+   "word_tiles": [
+    "FREE"
+   ],
+   "misaligned": 5,
+   "dup_tiles": [],
+   "near_pairs": [
+    "EER/LER",
+    "HAK/PAK"
+   ],
+   "no_start_rival": [
+    "FREEDOM",
+    "RHINOS",
+    "MECHANIST",
+    "SMELLERBEE",
+    "HAKODA",
+    "PAKKU",
+    "PUPPETEER"
+   ],
+   "inflected": [],
+   "zipf": {
+    "FREEDOM": 4.86,
+    "RHINOS": 3.18,
+    "MECHANIST": 1.61,
+    "SMELLERBEE": 0.0,
+    "HAKODA": 0.0,
+    "PAKKU": 0.0,
+    "PUPPETEER": 2.59
+   }
+  },
+  "theme_hint": "Avatar: The Last Airbender: Allies and Rivals",
+  "category": "themed"
+ },
+ {
+  "id": "J10",
+  "entries": [
+   {
+    "answer": "CATOWL",
+    "chunkTexts": [
+     "CAT",
+     "OWL"
+    ]
+   },
+   {
+    "answer": "BADGERMOLE",
+    "chunkTexts": [
+     "BAD",
+     "GER",
+     "MOLE"
+    ]
+   },
+   {
+    "answer": "HOGMONKEY",
+    "chunkTexts": [
+     "HOG",
+     "MON",
+     "KEY"
+    ]
+   },
+   {
+    "answer": "CATGATOR",
+    "chunkTexts": [
+     "CAT",
+     "GAT",
+     "OR"
+    ]
+   },
+   {
+    "answer": "SHIRSHU",
+    "chunkTexts": [
+     "SHIR",
+     "SHU"
+    ]
+   },
+   {
+    "answer": "SKYBISON",
+    "chunkTexts": [
+     "SKY",
+     "BI",
+     "SON"
+    ]
+   },
+   {
+    "answer": "UNAGI",
+    "chunkTexts": [
+     "UNA",
+     "GI"
+    ]
+   }
+  ],
+  "structure_scores": {
+   "decoys": 1.0,
+   "tempting_pairs": 0.4,
+   "shared_fragments": 5.0,
+   "anchor_balance": 6.7,
+   "shape": 10.4,
+   "word_appeal": 14.0,
+   "penalties": -14.1,
+   "structure": 23.4
+  },
+  "analysis": {
+   "n_tiles": 18,
+   "tile_len_hist": {
+    "2": 3,
+    "3": 13,
+    "4": 2
+   },
+   "decoys": [
+    "MONKEY=MON+KEY*",
+    "BADGER=BAD+GER*",
+    "BISON=BI+SON*"
+   ],
+   "tempting_pairs": [
+    "CAT+OR"
+   ],
+   "anchors": [
+    "BAD",
+    "SHU"
+   ],
+   "word_tiles": [],
+   "misaligned": 2,
+   "dup_tiles": [
+    "CAT"
+   ],
+   "near_pairs": [
+    "CAT/GAT",
+    "MON/SON"
+   ],
+   "no_start_rival": [
+    "CATOWL",
+    "BADGERMOLE",
+    "HOGMONKEY",
+    "CATGATOR",
+    "SHIRSHU",
+    "SKYBISON",
+    "UNAGI"
+   ],
+   "inflected": [],
+   "zipf": {
+    "CATOWL": 0.0,
+    "BADGERMOLE": 0.0,
+    "HOGMONKEY": 0.0,
+    "CATGATOR": 0.0,
+    "SHIRSHU": 0.0,
+    "SKYBISON": 0.0,
+    "UNAGI": 1.81
+   }
+  },
+  "theme_hint": "Avatar: The Last Airbender: Creatures",
+  "category": "themed"
+ }
+]

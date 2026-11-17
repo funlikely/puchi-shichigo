@@ -1,7 +1,7 @@
 import React, { useMemo, useState } from 'react';
 import {
-  FlatList,
   ScrollView,
+  SectionList,
   StyleSheet,
   Text,
   TouchableOpacity,
@@ -10,7 +10,7 @@ import {
 import { Colors, useStyles, useTheme } from '../theme';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { RoundStatus } from '../App';
-import { isBorrowed, PUZZLE_DEFS, PuzzleDef } from '../data/puzzles';
+import { collectionOf, isBorrowed, PUZZLE_DEFS, PuzzleDef } from '../data/puzzles';
 
 interface Props {
   onSelectPuzzle: (index: number) => void;
@@ -95,7 +95,10 @@ function ListRow({
   const styles = useStyles(makeStyles);
   const { colors } = useTheme();
   const sc = statusColors(colors, status ?? 'none');
-  const showTheme = !isBorrowed(def) && def.theme && def.theme !== 'Mixed';
+  // The section header already names the collection, so drop it from the subtitle.
+  const collection = collectionOf(def);
+  const theme = def.theme?.startsWith(collection + ': ') ? def.theme.slice(collection.length + 2) : def.theme;
+  const showTheme = !isBorrowed(def) && theme && theme !== 'Mixed' && theme !== collection;
   return (
     <TouchableOpacity
       style={[styles.row, { backgroundColor: sc.bg }]}
@@ -109,7 +112,7 @@ function ListRow({
         </Text>
         {showTheme ? (
           <Text style={[styles.rowTheme, { color: sc.sub }]} numberOfLines={1}>
-            {def.theme}
+            {theme}
           </Text>
         ) : null}
       </View>
@@ -127,7 +130,28 @@ export function HomeScreen({ onSelectPuzzle, roundStatuses }: Props) {
   // Keep each puzzle's index into PUZZLE_DEFS so selection and status still line up.
   const indexed = useMemo(() => PUZZLE_DEFS.map((def, i) => ({ def, i })), []);
   const hasBorrowed = indexed.some(x => isBorrowed(x.def));
-  const listItems = indexed.filter(x => (tab === 'borrowed') === isBorrowed(x.def));
+  const [open, setOpen] = useState<Set<string>>(new Set());
+
+  // Collections in order of first appearance; each section keeps its full item list
+  // in `items` and only hands rows to SectionList when expanded.
+  const groups = useMemo(() => {
+    const m = new Map<string, { def: PuzzleDef; i: number }[]>();
+    for (const x of indexed) {
+      if ((tab === 'borrowed') !== isBorrowed(x.def)) continue;
+      const k = collectionOf(x.def);
+      if (!m.has(k)) m.set(k, []);
+      m.get(k)!.push(x);
+    }
+    return [...m].map(([title, items]) => ({ title, items }));
+  }, [indexed, tab]);
+  const sections = groups.map(g => ({ ...g, data: open.has(g.title) ? g.items : [] }));
+  const toggleSection = (title: string) =>
+    setOpen(prev => {
+      const next = new Set(prev);
+      if (next.has(title)) next.delete(title);
+      else next.add(title);
+      return next;
+    });
 
   const header = (
     <>
@@ -181,11 +205,29 @@ export function HomeScreen({ onSelectPuzzle, roundStatuses }: Props) {
           </View>
         </ScrollView>
       ) : (
-        <FlatList
+        <SectionList
           contentContainerStyle={styles.scroll}
           ListHeaderComponent={header}
-          data={listItems}
+          sections={sections}
+          stickySectionHeadersEnabled={false}
           keyExtractor={x => x.def.id}
+          renderSectionHeader={({ section }) => {
+            const done = section.items.filter(x => roundStatuses[x.i] === 'completed').length;
+            const isOpen = open.has(section.title);
+            return (
+              <TouchableOpacity
+                style={styles.sectionHeader}
+                onPress={() => toggleSection(section.title)}
+                activeOpacity={0.7}
+              >
+                <Text style={styles.sectionChevron}>{isOpen ? '▾' : '▸'}</Text>
+                <Text style={styles.sectionTitle} numberOfLines={1}>{section.title}</Text>
+                <Text style={styles.sectionCount}>
+                  {done}/{section.items.length}
+                </Text>
+              </TouchableOpacity>
+            );
+          }}
           renderItem={({ item }) => (
             <ListRow
               def={item.def}
@@ -267,6 +309,32 @@ const makeStyles = (c: Colors) => StyleSheet.create({
     shadowOpacity: 0.06,
     shadowRadius: 2,
     elevation: 1,
+  },
+  sectionHeader: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    paddingHorizontal: 12,
+    paddingVertical: 12,
+    borderRadius: 10,
+    marginBottom: 6,
+    backgroundColor: c.surfaceMuted,
+  },
+  sectionChevron: {
+    width: 22,
+    fontSize: 16,
+    color: c.textSecondary,
+  },
+  sectionTitle: {
+    flex: 1,
+    fontSize: 16,
+    fontWeight: '800',
+    color: c.text,
+  },
+  sectionCount: {
+    fontSize: 13,
+    fontWeight: '700',
+    color: c.textFaint,
+    marginLeft: 8,
   },
   rowNumber: {
     width: 40,

@@ -1,0 +1,571 @@
+[
+ {
+  "id": "H01",
+  "category": "themed",
+  "theme": "Parks and Recreation: The Department",
+  "allowProperNouns": true,
+  "words": [
+   "LESLIE",
+   "SWANSON",
+   "LUDGATE",
+   "HAVERFORD",
+   "GERGICH",
+   "DWYER",
+   "TRAEGER",
+   "MEAGLE",
+   "APRIL",
+   "DONNA",
+   "GARRY",
+   "BENWYATT",
+   "ANNPERKINS"
+  ]
+ },
+ {
+  "id": "H02",
+  "category": "themed",
+  "theme": "Parks and Recreation: Cast and Crew",
+  "allowProperNouns": true,
+  "words": [
+   "POEHLER",
+   "OFFERMAN",
+   "AUBREY",
+   "ANSARI",
+   "RASHIDA",
+   "ROBLOWE",
+   "RETTA",
+   "OHEIR",
+   "DANIELS",
+   "MULLALLY",
+   "BILLMURRAY",
+   "GUNDERSON"
+  ]
+ },
+ {
+  "id": "H03",
+  "category": "themed",
+  "theme": "Parks and Recreation: Town Tour",
+  "allowProperNouns": true,
+  "words": [
+   "EAGLETON",
+   "SWEETUMS",
+   "PAWNEE",
+   "INDIANA",
+   "SNAKEHOLE",
+   "RACCOONS",
+   "MURALS",
+   "CITYHALL",
+   "WAMAPOKE",
+   "LIBRARY",
+   "HARVEST",
+   "PARADE"
+  ]
+ },
+ {
+  "id": "H04",
+  "category": "themed",
+  "theme": "Parks and Recreation: Ron Swanson",
+  "allowProperNouns": true,
+  "words": [
+   "WHISKEY",
+   "LAGAVULIN",
+   "WOODWORK",
+   "MUSTACHE",
+   "DUKESILVER",
+   "PYRAMID",
+   "GOVERNMENT",
+   "HUNTING",
+   "BREAKFAST",
+   "GREATNESS",
+   "TAMMY"
+  ]
+ },
+ {
+  "id": "H05",
+  "category": "themed",
+  "theme": "Parks and Recreation: Leslie Knope",
+  "allowProperNouns": true,
+  "words": [
+   "WAFFLES",
+   "BINDERS",
+   "CAMPAIGN",
+   "COUNCIL",
+   "RECALL",
+   "SCRAPBOOK",
+   "WHIPPED",
+   "BIDEN",
+   "GOVERNOR",
+   "OPTIMISM"
+  ]
+ },
+ {
+  "id": "H06",
+  "category": "themed",
+  "theme": "Parks and Recreation: Andy and April",
+  "allowProperNouns": true,
+  "words": [
+   "MOUSERAT",
+   "MACKLIN",
+   "KARATE",
+   "CHAMPION",
+   "VENEZUELA",
+   "SEBASTIAN",
+   "CANDLES",
+   "ANIMAL",
+   "JOHNNY",
+   "DRUMMER"
+  ]
+ },
+ {
+  "id": "H07",
+  "category": "themed",
+  "theme": "Parks and Recreation: Tom's Ventures",
+  "allowProperNouns": true,
+  "words": [
+   "RENTASWAG",
+   "BISTRO",
+   "RALPHIO",
+   "SAPERSTEIN",
+   "ROOMBA",
+   "FRAGRANCES",
+   "MIMOSAS",
+   "LEATHER",
+   "SNAKEJUICE",
+   "TOMMY"
+  ]
+ },
+ {
+  "id": "H08",
+  "category": "themed",
+  "theme": "Parks and Recreation: Ben and Chris",
+  "allowProperNouns": true,
+  "words": [
+   "CALZONE",
+   "ICETOWN",
+   "DUNSHIRE",
+   "LITERALLY",
+   "JOGGING",
+   "CONGRESS",
+   "BUDGET",
+   "AUDITOR",
+   "MINNESOTA",
+   "PARTRIDGE",
+   "NYGARD"
+  ]
+ },
+ {
+  "id": "H09",
+  "category": "themed",
+  "theme": "Parks and Recreation: Townies",
+  "allowProperNouns": true,
+  "words": [
+   "GAYLE",
+   "MERCEDES",
+   "CRAIG",
+   "CALLAMEZZO",
+   "HAPLEY",
+   "FEINSTEIN",
+   "NEWPORT",
+   "MALWAE",
+   "SHAUNA",
+   "DEXHART",
+   "LARRY",
+   "TERRY"
+  ]
+ },
+ {
+  "id": "H10",
+  "category": "themed",
+  "theme": "Parks and Recreation: Episodes",
+  "allowProperNouns": true,
+  "words": [
+   "TELETHON",
+   "PENGUINS",
+   "GALENTINE",
+   "SODATAX",
+   "KABOOM",
+   "CAPSULE",
+   "PIEMARY",
+   "FINALE",
+   "SMALLEST",
+   "FLUSEASON"
+  ]
+ },
+ {
+  "id": "I01",
+  "category": "themed",
+  "theme": "Community: The Seven",
+  "allowProperNouns": true,
+  "words": [
+   "WINGER",
+   "BRITTA",
+   "PERRY",
+   "NADIR",
+   "BARNES",
+   "SHIRLEY",
+   "BENNETT",
+   "ANNIE",
+   "PIERCE",
+   "JEFFREY",
+   "LAWYER",
+   "STUDYGROUP",
+   "HAWTHORNE",
+   "ABEDNADIR",
+   "TROYBARNES"
+  ]
+ },
+ {
+  "id": "I02",
+  "category": "themed",
+  "theme": "Community: Cast and Crew",
+  "allowProperNouns": true,
+  "words": [
+   "MCHALE",
+   "GILLIAN",
+   "JACOBS",
+   "DANNYPUDI",
+   "GLOVER",
+   "YVETTE",
+   "CHEVYCHASE",
+   "JEONG",
+   "HARMON",
+   "JIMRASH",
+   "RUSSO"
+  ]
+ },
+ {
+  "id": "I03",
+  "category": "themed",
+  "theme": "Community: Campus Life",
+  "allowProperNouns": true,
+  "words": [
+   "GREENDALE",
+   "SPANISH",
+   "SENOR",
+   "CAMPUS",
+   "CHANGNESIA",
+   "KEVIN",
+   "STUDYROOM",
+   "DEANLET",
+   "MASCOT"
+  ]
+ },
+ {
+  "id": "I04",
+  "category": "themed",
+  "theme": "Community: Campus Wars",
+  "allowProperNouns": true,
+  "words": [
+   "PAINTBALL",
+   "PILLOWS",
+   "BLANKETS",
+   "WARFARE",
+   "FISTFUL",
+   "WESTERN",
+   "PRIORITY",
+   "PILLOWTOWN"
+  ]
+ },
+ {
+  "id": "I05",
+  "category": "themed",
+  "theme": "Community: Abed's Meta",
+  "allowProperNouns": true,
+  "words": [
+   "GOATEE",
+   "BATMAN",
+   "BOTTLE",
+   "MONTAGE",
+   "CLAYMATION",
+   "TROPES",
+   "FOURTHWALL",
+   "FILMMAKER",
+   "HOMAGE"
+  ]
+ },
+ {
+  "id": "I06",
+  "category": "themed",
+  "theme": "Community: Troy and Abed",
+  "allowProperNouns": true,
+  "words": [
+   "MORNING",
+   "MONKEY",
+   "HOTLAVA",
+   "BURTON",
+   "HANDSHAKE",
+   "AIRCON",
+   "DREAMER",
+   "APARTMENT",
+   "LEVAR",
+   "FOOSBALL",
+   "FRIENDSHIP"
+  ]
+ },
+ {
+  "id": "I07",
+  "category": "themed",
+  "theme": "Community: Greendale Regulars",
+  "allowProperNouns": true,
+  "words": [
+   "VICKI",
+   "GARRETT",
+   "VAUGHN",
+   "DUNCAN",
+   "SLATER",
+   "ELROY",
+   "FRANKIE",
+   "HICKEY",
+   "FATNEIL",
+   "DEANPELTON",
+   "BUZZHICKEY",
+   "LAMBERT"
+  ]
+ },
+ {
+  "id": "I08",
+  "category": "themed",
+  "theme": "Community: Episode Hooks",
+  "allowProperNouns": true,
+  "words": [
+   "ZOMBIES",
+   "CHICKEN",
+   "DINNER",
+   "MIXOLOGY",
+   "DEBATE",
+   "DUNGEONS",
+   "DRAGONS",
+   "HALLOWEEN",
+   "DIORAMA"
+  ]
+ },
+ {
+  "id": "I09",
+  "category": "themed",
+  "theme": "Community: Catchphrases",
+  "allowProperNouns": true,
+  "words": [
+   "STREETS",
+   "AHEAD",
+   "COOLCOOL",
+   "SIXSEASONS",
+   "POPPOP",
+   "THATSNICE",
+   "PLURIBUS",
+   "DARKEST",
+   "BRITTAD"
+  ]
+ },
+ {
+  "id": "I10",
+  "category": "themed",
+  "theme": "Community: Pierce and Shirley",
+  "allowProperNouns": true,
+  "words": [
+   "TOWELETTE",
+   "BUDDHISM",
+   "LASERLOTUS",
+   "CORNELIUS",
+   "SANDWICHES",
+   "ANDRE",
+   "BROWNIES",
+   "CHRISTIAN",
+   "WIPES",
+   "ESTATE"
+  ]
+ },
+ {
+  "id": "J01",
+  "category": "themed",
+  "theme": "Avatar: The Last Airbender: Team Avatar",
+  "allowProperNouns": true,
+  "words": [
+   "KATARA",
+   "BEIFONG",
+   "AIRNOMAD",
+   "KYOSHI",
+   "SOKKA",
+   "LEMUR",
+   "TATTOOS",
+   "SOUTHPOLE",
+   "ICEBERG",
+   "GLIDER",
+   "AIRTEMPLE",
+   "CENTURY",
+   "WATERTRIBE"
+  ]
+ },
+ {
+  "id": "J02",
+  "category": "themed",
+  "theme": "Avatar: The Last Airbender: Ozai's Empire",
+  "allowProperNouns": true,
+  "words": [
+   "AZULA",
+   "TYLEE",
+   "SOZIN",
+   "AGNIKAI",
+   "FIRELORD",
+   "COMBUSTION",
+   "EMBER",
+   "LUTEN",
+   "SUNWARRIOR",
+   "FIRENATION",
+   "COMET"
+  ]
+ },
+ {
+  "id": "J03",
+  "category": "themed",
+  "theme": "Avatar: The Last Airbender: Earth Kingdom",
+  "allowProperNouns": true,
+  "words": [
+   "BASINGSE",
+   "OMASHU",
+   "KINGBUMI",
+   "DAILI",
+   "LONGFENG",
+   "BOSCO",
+   "CABBAGES",
+   "GAOLING",
+   "JOODEE",
+   "MONORAIL",
+   "LAOGAI"
+  ]
+ },
+ {
+  "id": "J04",
+  "category": "themed",
+  "theme": "Avatar: The Last Airbender: Bending Arts",
+  "allowProperNouns": true,
+  "words": [
+   "AIRBENDING",
+   "FIREBENDER",
+   "BLOODBEND",
+   "METALBEND",
+   "HEALING",
+   "SEISMIC",
+   "CHIBLOCKER",
+   "MOONLIGHT",
+   "STANCES",
+   "TAICHI",
+   "BAGUAZHANG",
+   "HUNGGAR",
+   "SHAOLIN"
+  ]
+ },
+ {
+  "id": "J05",
+  "category": "themed",
+  "theme": "Avatar: The Last Airbender: Spirit World",
+  "allowProperNouns": true,
+  "words": [
+   "HEIBAI",
+   "MOONSPIRIT",
+   "KOIFISH",
+   "PATHIK",
+   "CHAKRAS",
+   "LIONTURTLE",
+   "AVATARROKU",
+   "KURUK",
+   "KNOWLEDGE",
+   "BANYAN"
+  ]
+ },
+ {
+  "id": "J06",
+  "category": "themed",
+  "theme": "Avatar: The Last Airbender: Sokka's Greatest Hits",
+  "allowProperNouns": true,
+  "words": [
+   "BOOMERANG",
+   "SPACESWORD",
+   "SARCASM",
+   "HAIKU",
+   "PIANDAO",
+   "WOLFTAIL",
+   "QUENCHIEST",
+   "BALLOON",
+   "INVASION"
+  ]
+ },
+ {
+  "id": "J07",
+  "category": "themed",
+  "theme": "Avatar: The Last Airbender: Uncle Iroh",
+  "allowProperNouns": true,
+  "words": [
+   "GINSENG",
+   "TEASHOP",
+   "PAISHO",
+   "LEAVES",
+   "REDIRECT",
+   "WISDOM",
+   "TSUNGI",
+   "LOTUS",
+   "GENERAL",
+   "PRISONER",
+   "HOTLEAF",
+   "PROVERBS",
+   "MENTOR",
+   "GRANDLOTUS"
+  ]
+ },
+ {
+  "id": "J08",
+  "category": "themed",
+  "theme": "Avatar: The Last Airbender: Episodes",
+  "allowProperNouns": true,
+  "words": [
+   "PLAYERS",
+   "LOVERS",
+   "SERPENT",
+   "ECLIPSE",
+   "BOILING",
+   "HEADBAND",
+   "BANDIT",
+   "DESERT",
+   "NIGHTMARES",
+   "BEACH",
+   "BLACKSUN",
+   "AVATARDAY",
+   "OASIS",
+   "DAYDREAMS"
+  ]
+ },
+ {
+  "id": "J09",
+  "category": "themed",
+  "theme": "Avatar: The Last Airbender: Allies and Rivals",
+  "allowProperNouns": true,
+  "words": [
+   "FREEDOM",
+   "YUYAN",
+   "RHINOS",
+   "MECHANIST",
+   "SMELLERBEE",
+   "LONGSHOT",
+   "HAKODA",
+   "PAKKU",
+   "GYATSO",
+   "BOUNTY",
+   "PUPPETEER"
+  ]
+ },
+ {
+  "id": "J10",
+  "category": "themed",
+  "theme": "Avatar: The Last Airbender: Creatures",
+  "allowProperNouns": true,
+  "words": [
+   "CATOWL",
+   "BADGERMOLE",
+   "EELHOUND",
+   "HOGMONKEY",
+   "CATGATOR",
+   "SHIRSHU",
+   "SKYBISON",
+   "UNAGI",
+   "KOALAOTTER"
+  ]
+ }
+]

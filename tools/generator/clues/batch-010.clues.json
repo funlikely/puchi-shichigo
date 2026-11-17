@@ -1,0 +1,1327 @@
+{
+ "_meta": {
+  "batch": "batch-010",
+  "writer": "hand-written (Claude, no API)",
+  "judge": "self-rated by the writer"
+ },
+ "H01": {
+  "theme": "Parks and Recreation: The Department",
+  "category": "themed",
+  "clues": {
+   "MEAGLE": {
+    "clue": "Donna, who says treat yo self",
+    "type": "trivia",
+    "rating": 3
+   },
+   "HAVERFORD": {
+    "clue": "Tom, a self-styled entrepreneur",
+    "type": "trivia",
+    "rating": 3
+   },
+   "ANNPERKINS": {
+    "clue": "Nurse and beautiful tropical fish",
+    "type": "trivia",
+    "rating": 4
+   },
+   "LESLIE": {
+    "clue": "Deputy director with a binder habit",
+    "type": "trivia",
+    "rating": 3
+   },
+   "TRAEGER": {
+    "clue": "Chris, the literally positive one",
+    "type": "trivia",
+    "rating": 3
+   },
+   "BENWYATT": {
+    "clue": "Budget nerd who loves calzones",
+    "type": "trivia",
+    "rating": 3
+   },
+   "GERGICH": {
+    "clue": "Jerry, the office punching bag",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "H02": {
+  "theme": "Parks and Recreation: Cast and Crew",
+  "category": "themed",
+  "clues": {
+   "OFFERMAN": {
+    "clue": "Nick, mustache for hire",
+    "type": "trivia",
+    "rating": 3
+   },
+   "AUBREY": {
+    "clue": "Ms Plaza, deadpan as April",
+    "type": "trivia",
+    "rating": 4
+   },
+   "ROBLOWE": {
+    "clue": "He played Chris, literally",
+    "type": "trivia",
+    "rating": 3
+   },
+   "RETTA": {
+    "clue": "One-named actress behind Donna",
+    "type": "trivia",
+    "rating": 4
+   },
+   "MULLALLY": {
+    "clue": "Megan, the Tammy who scared Ron",
+    "type": "trivia",
+    "rating": 4
+   },
+   "BILLMURRAY": {
+    "clue": "Ghostbuster who played a late mayor",
+    "type": "trivia",
+    "rating": 4
+   },
+   "GUNDERSON": {
+    "clue": "Pawnee mayor Walter, Murray's role",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "H03": {
+  "theme": "Parks and Recreation: Town Tour",
+  "category": "themed",
+  "clues": {
+   "EAGLETON": {
+    "clue": "Snooty rich neighbor town",
+    "type": "trivia",
+    "rating": 3
+   },
+   "SWEETUMS": {
+    "clue": "Candy giant with corn-syrup pride",
+    "type": "trivia",
+    "rating": 4
+   },
+   "PAWNEE": {
+    "clue": "Town first in obesity, fourth in...",
+    "type": "trivia",
+    "rating": 4
+   },
+   "INDIANA": {
+    "clue": "Hoosier home of the show",
+    "type": "trivia",
+    "rating": 3
+   },
+   "RACCOONS": {
+    "clue": "City hall's masked pest problem",
+    "type": "trivia",
+    "rating": 4
+   },
+   "HARVEST": {
+    "clue": "___ Festival, Leslie's big gamble",
+    "type": "trivia",
+    "rating": 3
+   },
+   "PARADE": {
+    "clue": "Float-filled march down Main Street",
+    "type": "definition",
+    "rating": 2
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "H04": {
+  "theme": "Parks and Recreation: Ron Swanson",
+  "category": "themed",
+  "clues": {
+   "WHISKEY": {
+    "clue": "Lagavulin, for Ron",
+    "type": "trivia",
+    "rating": 3
+   },
+   "MUSTACHE": {
+    "clue": "Ron's upper-lip trademark",
+    "type": "trivia",
+    "rating": 3
+   },
+   "PYRAMID": {
+    "clue": "Ron's ___ of Greatness",
+    "type": "trivia",
+    "rating": 4
+   },
+   "GOVERNMENT": {
+    "clue": "What Ron works in and despises",
+    "type": "trivia",
+    "rating": 4
+   },
+   "HUNTING": {
+    "clue": "Ron's woodsy weekend pursuit",
+    "type": "trivia",
+    "rating": 3
+   },
+   "GREATNESS": {
+    "clue": "Pyramid top, per Ron",
+    "type": "trivia",
+    "rating": 4
+   },
+   "TAMMY": {
+    "clue": "Name shared by two of Ron's exes",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "H05": {
+  "theme": "Parks and Recreation: Leslie Knope",
+  "category": "themed",
+  "clues": {
+   "WAFFLES": {
+    "clue": "JJ's specialty, Leslie's love",
+    "type": "trivia",
+    "rating": 3
+   },
+   "BINDERS": {
+    "clue": "Leslie's organizing obsession",
+    "type": "trivia",
+    "rating": 3
+   },
+   "CAMPAIGN": {
+    "clue": "Season 4's run for office",
+    "type": "trivia",
+    "rating": 3
+   },
+   "COUNCIL": {
+    "clue": "City body Leslie joins",
+    "type": "trivia",
+    "rating": 3
+   },
+   "RECALL": {
+    "clue": "Vote that ousted Leslie",
+    "type": "trivia",
+    "rating": 4
+   },
+   "GOVERNOR": {
+    "clue": "Leslie's future Indiana job",
+    "type": "trivia",
+    "rating": 4
+   },
+   "OPTIMISM": {
+    "clue": "Leslie's bottomless resource",
+    "type": "evocative",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "H06": {
+  "theme": "Parks and Recreation: Andy and April",
+  "category": "themed",
+  "clues": {
+   "MOUSERAT": {
+    "clue": "Andy's band, one of many names",
+    "type": "trivia",
+    "rating": 4
+   },
+   "MACKLIN": {
+    "clue": "Burt ___, FBI",
+    "type": "trivia",
+    "rating": 4
+   },
+   "KARATE": {
+    "clue": "Johnny's kids'-show skill",
+    "type": "trivia",
+    "rating": 3
+   },
+   "VENEZUELA": {
+    "clue": "April's fake boyfriends' homeland",
+    "type": "trivia",
+    "rating": 4
+   },
+   "SEBASTIAN": {
+    "clue": "Li'l miniature horse legend",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CANDLES": {
+    "clue": "5,000 in the Wind",
+    "type": "trivia",
+    "rating": 4
+   },
+   "JOHNNY": {
+    "clue": "Karate kid of Andy's TV show",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "H07": {
+  "theme": "Parks and Recreation: Tom's Ventures",
+  "category": "themed",
+  "clues": {
+   "RENTASWAG": {
+    "clue": "Tom's clothes-borrowing boutique",
+    "type": "trivia",
+    "rating": 4
+   },
+   "BISTRO": {
+    "clue": "Tom's restaurant, finally a hit",
+    "type": "trivia",
+    "rating": 4
+   },
+   "RALPHIO": {
+    "clue": "Jean-___, the worst",
+    "type": "trivia",
+    "rating": 4
+   },
+   "SAPERSTEIN": {
+    "clue": "Jean-Ralphio's surname",
+    "type": "trivia",
+    "rating": 4
+   },
+   "FRAGRANCES": {
+    "clue": "Treat yo self item after clothes",
+    "type": "trivia",
+    "rating": 4
+   },
+   "MIMOSAS": {
+    "clue": "Treat yo self item in a flute",
+    "type": "trivia",
+    "rating": 4
+   },
+   "LEATHER": {
+    "clue": "Fine ___ goods, a treat",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "H08": {
+  "theme": "Parks and Recreation: Ben and Chris",
+  "category": "themed",
+  "clues": {
+   "CALZONE": {
+    "clue": "Ben's folded-pizza dream",
+    "type": "trivia",
+    "rating": 4
+   },
+   "DUNSHIRE": {
+    "clue": "The Cones of ___",
+    "type": "trivia",
+    "rating": 4
+   },
+   "LITERALLY": {
+    "clue": "Chris's favorite emphasis",
+    "type": "trivia",
+    "rating": 3
+   },
+   "BUDGET": {
+    "clue": "Crisis that brings Ben and Chris",
+    "type": "trivia",
+    "rating": 3
+   },
+   "AUDITOR": {
+    "clue": "State job that shrinks parks",
+    "type": "trivia",
+    "rating": 3
+   },
+   "MINNESOTA": {
+    "clue": "Ben's home state, of Ice Town",
+    "type": "trivia",
+    "rating": 4
+   },
+   "PARTRIDGE": {
+    "clue": "Ben's town, also a pear tree bird",
+    "type": "wordplay",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "H09": {
+  "theme": "Parks and Recreation: Townies",
+  "category": "themed",
+  "clues": {
+   "MERCEDES": {
+    "clue": "Donna's prized car",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CALLAMEZZO": {
+    "clue": "Joan, of Pawnee Today",
+    "type": "trivia",
+    "rating": 4
+   },
+   "HAPLEY": {
+    "clue": "Perd, the anchor who states the obvious",
+    "type": "trivia",
+    "rating": 4
+   },
+   "NEWPORT": {
+    "clue": "Bobby, Sweetums heir and rival",
+    "type": "trivia",
+    "rating": 4
+   },
+   "MALWAE": {
+    "clue": "Shauna ___-Tweep, reporter",
+    "type": "trivia",
+    "rating": 4
+   },
+   "SHAUNA": {
+    "clue": "Reporter with dating bad luck",
+    "type": "trivia",
+    "rating": 4
+   },
+   "DEXHART": {
+    "clue": "Scandal-magnet councilman Bill",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "H10": {
+  "theme": "Parks and Recreation: Episodes",
+  "category": "themed",
+  "clues": {
+   "TELETHON": {
+    "clue": "Leslie's overnight charity marathon",
+    "type": "trivia",
+    "rating": 3
+   },
+   "PENGUINS": {
+    "clue": "Zoo couple whose wedding caused uproar",
+    "type": "trivia",
+    "rating": 4
+   },
+   "GALENTINE": {
+    "clue": "February 13's ladies' day",
+    "type": "trivia",
+    "rating": 3
+   },
+   "KABOOM": {
+    "clue": "Andy falls in a pit episode",
+    "type": "trivia",
+    "rating": 4
+   },
+   "PIEMARY": {
+    "clue": "Pastry-themed primary episode",
+    "type": "trivia",
+    "rating": 4
+   },
+   "FINALE": {
+    "clue": "One Last Ride, the end",
+    "type": "trivia",
+    "rating": 3
+   },
+   "FLUSEASON": {
+    "clue": "Leslie pitches while very sick",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "I01": {
+  "theme": "Community: The Seven",
+  "category": "themed",
+  "clues": {
+   "PERRY": {
+    "clue": "Britta's surname",
+    "type": "trivia",
+    "rating": 3
+   },
+   "WINGER": {
+    "clue": "Jeff, ex-lawyer",
+    "type": "trivia",
+    "rating": 3
+   },
+   "SHIRLEY": {
+    "clue": "Mom of the study group",
+    "type": "trivia",
+    "rating": 3
+   },
+   "STUDYGROUP": {
+    "clue": "Spanish 101's accidental family",
+    "type": "trivia",
+    "rating": 3
+   },
+   "LAWYER": {
+    "clue": "Jeff's fake-degree profession",
+    "type": "trivia",
+    "rating": 3
+   },
+   "TROYBARNES": {
+    "clue": "Former quarterback, Abed's best pal",
+    "type": "trivia",
+    "rating": 3
+   },
+   "BENNETT": {
+    "clue": "Shirley's last name",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "I02": {
+  "theme": "Community: Cast and Crew",
+  "category": "themed",
+  "clues": {
+   "GILLIAN": {
+    "clue": "Ms Jacobs, Britta's player",
+    "type": "trivia",
+    "rating": 4
+   },
+   "JACOBS": {
+    "clue": "Britta's actress, by surname",
+    "type": "trivia",
+    "rating": 4
+   },
+   "DANNYPUDI": {
+    "clue": "He played Abed",
+    "type": "trivia",
+    "rating": 3
+   },
+   "GLOVER": {
+    "clue": "Donald, Troy, Childish Gambino",
+    "type": "trivia",
+    "rating": 3
+   },
+   "CHEVYCHASE": {
+    "clue": "SNL alum as Pierce",
+    "type": "trivia",
+    "rating": 3
+   },
+   "HARMON": {
+    "clue": "Dan, show's creator",
+    "type": "trivia",
+    "rating": 3
+   },
+   "JIMRASH": {
+    "clue": "Oscar winner who played the Dean",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "I03": {
+  "theme": "Community: Go Human Beings",
+  "category": "themed",
+  "clues": {
+   "GREENDALE": {
+    "clue": "Community college, go Human Beings",
+    "type": "trivia",
+    "rating": 3
+   },
+   "SPANISH": {
+    "clue": "101 class that starts it all",
+    "type": "trivia",
+    "rating": 3
+   },
+   "SENOR": {
+    "clue": "Chang's preferred title",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CAMPUS": {
+    "clue": "Grounds where it all happens",
+    "type": "definition",
+    "rating": 2
+   },
+   "CHANGNESIA": {
+    "clue": "Kevin's convenient amnesia, supposedly",
+    "type": "trivia",
+    "rating": 4
+   },
+   "STUDYROOM": {
+    "clue": "Group's table-for-seven hangout",
+    "type": "trivia",
+    "rating": 3
+   },
+   "MASCOT": {
+    "clue": "Human Being, for Greendale",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "I04": {
+  "theme": "Community: Campus Wars",
+  "category": "themed",
+  "clues": {
+   "PAINTBALL": {
+    "clue": "Campus-wrecking splatter war",
+    "type": "trivia",
+    "rating": 3
+   },
+   "WARFARE": {
+    "clue": "Modern ___, an action homage",
+    "type": "trivia",
+    "rating": 4
+   },
+   "FISTFUL": {
+    "clue": "A ___ of Paintballs",
+    "type": "trivia",
+    "rating": 4
+   },
+   "WESTERN": {
+    "clue": "Genre of the paintball sequel",
+    "type": "trivia",
+    "rating": 4
+   },
+   "PRIORITY": {
+    "clue": "___ registration, the war's prize",
+    "type": "trivia",
+    "rating": 4
+   },
+   "ASSASSIN": {
+    "clue": "Paintball killer on campus",
+    "type": "trivia",
+    "rating": 3
+   },
+   "PILLOWTOWN": {
+    "clue": "Troy's soft fortress",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "I05": {
+  "theme": "Community: Abed's Meta",
+  "category": "themed",
+  "clues": {
+   "GOATEE": {
+    "clue": "Evil timeline's chin accessory",
+    "type": "trivia",
+    "rating": 4
+   },
+   "BATMAN": {
+    "clue": "Abed's gravelly party persona",
+    "type": "trivia",
+    "rating": 4
+   },
+   "MONTAGE": {
+    "clue": "Training sequence, Abed approves",
+    "type": "definition",
+    "rating": 3
+   },
+   "CLAYMATION": {
+    "clue": "Abed's uncontrollable Christmas style",
+    "type": "trivia",
+    "rating": 4
+   },
+   "FOURTHWALL": {
+    "clue": "What Abed keeps leaning on",
+    "type": "trivia",
+    "rating": 3
+   },
+   "FILMMAKER": {
+    "clue": "Abed's dream job",
+    "type": "trivia",
+    "rating": 3
+   },
+   "HOMAGE": {
+    "clue": "Every episode, seemingly",
+    "type": "evocative",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "I06": {
+  "theme": "Community: Troy and Abed",
+  "category": "themed",
+  "clues": {
+   "MORNING": {
+    "clue": "Troy and Abed in the ___",
+    "type": "trivia",
+    "rating": 3
+   },
+   "MONKEY": {
+    "clue": "Annie's Boobs, for one",
+    "type": "trivia",
+    "rating": 4
+   },
+   "HOTLAVA": {
+    "clue": "Floor game that consumed campus",
+    "type": "trivia",
+    "rating": 4
+   },
+   "BURTON": {
+    "clue": "LeVar, Troy's idol",
+    "type": "trivia",
+    "rating": 4
+   },
+   "AIRCON": {
+    "clue": "Troy's repair school, briefly",
+    "type": "trivia",
+    "rating": 4
+   },
+   "APARTMENT": {
+    "clue": "Pad Troy and Abed shared with Annie",
+    "type": "trivia",
+    "rating": 3
+   },
+   "FRIENDSHIP": {
+    "clue": "Troy and Abed's sacred bond",
+    "type": "evocative",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "I07": {
+  "theme": "Community: Greendale Regulars",
+  "category": "themed",
+  "clues": {
+   "VICKI": {
+    "clue": "Background classmate, Greendale regular",
+    "type": "trivia",
+    "rating": 4
+   },
+   "GARRETT": {
+    "clue": "Nervous, Stop! Stop! student",
+    "type": "trivia",
+    "rating": 4
+   },
+   "DUNCAN": {
+    "clue": "British psych professor, Ian",
+    "type": "trivia",
+    "rating": 4
+   },
+   "SLATER": {
+    "clue": "Michelle, Jeff's stats crush",
+    "type": "trivia",
+    "rating": 4
+   },
+   "FATNEIL": {
+    "clue": "D&D player the group cheered up",
+    "type": "trivia",
+    "rating": 4
+   },
+   "DEANPELTON": {
+    "clue": "Costume-loving administrator",
+    "type": "trivia",
+    "rating": 3
+   },
+   "BUZZHICKEY": {
+    "clue": "Gruff criminology teacher",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "I08": {
+  "theme": "Community: Episode Hooks",
+  "category": "themed",
+  "clues": {
+   "CHICKEN": {
+    "clue": "___ fingers, the fryer cartel",
+    "type": "trivia",
+    "rating": 4
+   },
+   "DINNER": {
+    "clue": "Abed's riff on My ___ with Andre",
+    "type": "trivia",
+    "rating": 4
+   },
+   "MIXOLOGY": {
+    "clue": "___ Certification, a bar crawl",
+    "type": "trivia",
+    "rating": 4
+   },
+   "DUNGEONS": {
+    "clue": "D&D's first D",
+    "type": "trivia",
+    "rating": 3
+   },
+   "DRAGONS": {
+    "clue": "D&D's second D",
+    "type": "trivia",
+    "rating": 3
+   },
+   "HALLOWEEN": {
+    "clue": "Zombie outbreak at the party",
+    "type": "trivia",
+    "rating": 3
+   },
+   "DIORAMA": {
+    "clue": "Shoebox scene for class",
+    "type": "definition",
+    "rating": 2
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "I09": {
+  "theme": "Community: Catchphrases",
+  "category": "themed",
+  "clues": {
+   "STREETS": {
+    "clue": "___ ahead, Pierce's coinage",
+    "type": "trivia",
+    "rating": 4
+   },
+   "SIXSEASONS": {
+    "clue": "And a movie, the rallying cry",
+    "type": "trivia",
+    "rating": 4
+   },
+   "POPPOP": {
+    "clue": "Magnitude's two-word catchphrase",
+    "type": "trivia",
+    "rating": 4
+   },
+   "THATSNICE": {
+    "clue": "Faint praise, with an apostrophe",
+    "type": "evocative",
+    "rating": 3
+   },
+   "PLURIBUS": {
+    "clue": "E ___ Anus, a school motto",
+    "type": "trivia",
+    "rating": 5
+   },
+   "DARKEST": {
+    "clue": "___ timeline, felt goatees and all",
+    "type": "trivia",
+    "rating": 4
+   },
+   "BRITTAD": {
+    "clue": "Botched, Greendale-style",
+    "type": "trivia",
+    "rating": 5
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "I10": {
+  "theme": "Community: Pierce and Shirley",
+  "category": "themed",
+  "clues": {
+   "TOWELETTE": {
+    "clue": "Moist source of Pierce's wealth",
+    "type": "trivia",
+    "rating": 4
+   },
+   "LASERLOTUS": {
+    "clue": "Pierce's cult's level of enlightenment",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CORNELIUS": {
+    "clue": "Pierce's bigoted father",
+    "type": "trivia",
+    "rating": 4
+   },
+   "SANDWICHES": {
+    "clue": "Shirley's business, between bread",
+    "type": "trivia",
+    "rating": 4
+   },
+   "ANDRE": {
+    "clue": "Shirley's husband",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CHRISTIAN": {
+    "clue": "Shirley's devout faith",
+    "type": "trivia",
+    "rating": 3
+   },
+   "ESTATE": {
+    "clue": "Digital ___ Planning, an 8-bit will",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "J01": {
+  "theme": "Avatar: The Last Airbender: Team Avatar",
+  "category": "themed",
+  "clues": {
+   "KATARA": {
+    "clue": "Waterbender from the Southern Tribe",
+    "type": "trivia",
+    "rating": 3
+   },
+   "AIRNOMAD": {
+    "clue": "Aang's people",
+    "type": "trivia",
+    "rating": 3
+   },
+   "AIRTEMPLE": {
+    "clue": "Monk's mountaintop home, four in all",
+    "type": "trivia",
+    "rating": 3
+   },
+   "LEMUR": {
+    "clue": "Momo, by species",
+    "type": "trivia",
+    "rating": 3
+   },
+   "GLIDER": {
+    "clue": "Aang's staff, unfolded",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CENTURY": {
+    "clue": "Aang's iceberg nap, roughly",
+    "type": "trivia",
+    "rating": 4
+   },
+   "WATERTRIBE": {
+    "clue": "Katara and Sokka's people",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "J02": {
+  "theme": "Avatar: The Last Airbender: Ozai's Empire",
+  "category": "themed",
+  "clues": {
+   "FIRELORD": {
+    "clue": "Ozai's crown title",
+    "type": "trivia",
+    "rating": 3
+   },
+   "COMBUSTION": {
+    "clue": "___ Man, with a third eye",
+    "type": "trivia",
+    "rating": 4
+   },
+   "EMBER": {
+    "clue": "Island resort for the royals",
+    "type": "trivia",
+    "rating": 4
+   },
+   "LUTEN": {
+    "clue": "Iroh's lost son",
+    "type": "trivia",
+    "rating": 4
+   },
+   "SUNWARRIOR": {
+    "clue": "Ancient firebenders, thought extinct",
+    "type": "trivia",
+    "rating": 4
+   },
+   "FIRENATION": {
+    "clue": "Attacked, and everything changed",
+    "type": "trivia",
+    "rating": 3
+   },
+   "COMET": {
+    "clue": "Sozin's power-up from space",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "J03": {
+  "theme": "Avatar: The Last Airbender: Earth Kingdom",
+  "category": "themed",
+  "clues": {
+   "BASINGSE": {
+    "clue": "There is no war in it",
+    "type": "trivia",
+    "rating": 4
+   },
+   "OMASHU": {
+    "clue": "City of Bumi's mail chutes",
+    "type": "trivia",
+    "rating": 4
+   },
+   "LONGFENG": {
+    "clue": "Dai Li's sinister leader",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CABBAGES": {
+    "clue": "My ___! the merchant wails",
+    "type": "trivia",
+    "rating": 4
+   },
+   "GAOLING": {
+    "clue": "Toph's hometown",
+    "type": "trivia",
+    "rating": 4
+   },
+   "MONORAIL": {
+    "clue": "Ba Sing Se transit",
+    "type": "trivia",
+    "rating": 4
+   },
+   "LAOGAI": {
+    "clue": "Lake hiding a brainwashing lab",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "J04": {
+  "theme": "Avatar: The Last Airbender: Bending Arts",
+  "category": "themed",
+  "clues": {
+   "AIRBENDING": {
+    "clue": "Aang's native art",
+    "type": "definition",
+    "rating": 2
+   },
+   "CHIBLOCKER": {
+    "clue": "Ty Lee's pressure-point specialty",
+    "type": "trivia",
+    "rating": 4
+   },
+   "FIREBENDER": {
+    "clue": "Zuko, by element",
+    "type": "definition",
+    "rating": 2
+   },
+   "MOONLIGHT": {
+    "clue": "Waterbenders' power booster",
+    "type": "trivia",
+    "rating": 3
+   },
+   "TAICHI": {
+    "clue": "Martial art behind waterbending",
+    "type": "trivia",
+    "rating": 4
+   },
+   "BLOODBEND": {
+    "clue": "Hama's dark, full-moon art",
+    "type": "trivia",
+    "rating": 3
+   },
+   "METALBEND": {
+    "clue": "Toph's invention in a cage",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "J05": {
+  "theme": "Avatar: The Last Airbender: Spirit World",
+  "category": "themed",
+  "clues": {
+   "HEIBAI": {
+    "clue": "Panda-like forest spirit",
+    "type": "trivia",
+    "rating": 4
+   },
+   "MOONSPIRIT": {
+    "clue": "Tui, Yue's eventual role",
+    "type": "trivia",
+    "rating": 3
+   },
+   "PATHIK": {
+    "clue": "Guru who opens Aang's chakras",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CHAKRAS": {
+    "clue": "Energy knots Aang must unblock",
+    "type": "trivia",
+    "rating": 3
+   },
+   "AVATARROKU": {
+    "clue": "Aang's predecessor, a firebender",
+    "type": "trivia",
+    "rating": 3
+   },
+   "KURUK": {
+    "clue": "Avatar whose love's face was stolen",
+    "type": "trivia",
+    "rating": 4
+   },
+   "BANYAN": {
+    "clue": "Swamp tree with roots everywhere",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "J06": {
+  "theme": "Avatar: The Last Airbender: Sokka's Greatest Hits",
+  "category": "themed",
+  "clues": {
+   "BOOMERANG": {
+    "clue": "Sokka's returning weapon",
+    "type": "trivia",
+    "rating": 2
+   },
+   "SPACESWORD": {
+    "clue": "Meteorite blade Sokka forged",
+    "type": "trivia",
+    "rating": 3
+   },
+   "HAIKU": {
+    "clue": "Sokka's poetry-battle form",
+    "type": "trivia",
+    "rating": 4
+   },
+   "PIANDAO": {
+    "clue": "Swordmaster who trained Sokka",
+    "type": "trivia",
+    "rating": 4
+   },
+   "QUENCHIEST": {
+    "clue": "Cactus juice superlative",
+    "type": "trivia",
+    "rating": 5
+   },
+   "BALLOON": {
+    "clue": "War transport Sokka helped invent",
+    "type": "trivia",
+    "rating": 4
+   },
+   "INVASION": {
+    "clue": "Sokka's Black Sun plan",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "J07": {
+  "theme": "Avatar: The Last Airbender: Uncle Iroh",
+  "category": "themed",
+  "clues": {
+   "MENTOR": {
+    "clue": "Iroh's role to Zuko",
+    "type": "definition",
+    "rating": 2
+   },
+   "PRISONER": {
+    "clue": "Iroh's status after Ba Sing Se",
+    "type": "trivia",
+    "rating": 3
+   },
+   "LEAVES": {
+    "clue": "___ from the Vine, Iroh's lament",
+    "type": "trivia",
+    "rating": 4
+   },
+   "GRANDLOTUS": {
+    "clue": "Iroh's rank in a secret order",
+    "type": "trivia",
+    "rating": 4
+   },
+   "REDIRECT": {
+    "clue": "Iroh's trick for lightning",
+    "type": "trivia",
+    "rating": 3
+   },
+   "GENERAL": {
+    "clue": "Dragon of the West's old rank",
+    "type": "trivia",
+    "rating": 3
+   },
+   "PAISHO": {
+    "clue": "Tile game Iroh loves",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "J08": {
+  "theme": "Avatar: The Last Airbender: Episodes",
+  "category": "themed",
+  "clues": {
+   "BEACH": {
+    "clue": "Episode of Ember Island soul-searching",
+    "type": "trivia",
+    "rating": 4
+   },
+   "AVATARDAY": {
+    "clue": "Festival where Aang is put on trial",
+    "type": "trivia",
+    "rating": 4
+   },
+   "DAYDREAMS": {
+    "clue": "Nightmares and ___",
+    "type": "trivia",
+    "rating": 4
+   },
+   "LOVERS": {
+    "clue": "Cave of Two ___",
+    "type": "trivia",
+    "rating": 4
+   },
+   "BOILING": {
+    "clue": "The ___ Rock, a prison",
+    "type": "trivia",
+    "rating": 4
+   },
+   "PLAYERS": {
+    "clue": "Ember Island ___, bad actors",
+    "type": "trivia",
+    "rating": 4
+   },
+   "ECLIPSE": {
+    "clue": "Day of Black Sun's event",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "J09": {
+  "theme": "Avatar: The Last Airbender: Allies and Rivals",
+  "category": "themed",
+  "clues": {
+   "FREEDOM": {
+    "clue": "Jet's ___ Fighters",
+    "type": "trivia",
+    "rating": 4
+   },
+   "RHINOS": {
+    "clue": "Rough ___, Fire Nation cavalry",
+    "type": "trivia",
+    "rating": 4
+   },
+   "MECHANIST": {
+    "clue": "Inventor of the Northern Air Temple",
+    "type": "trivia",
+    "rating": 4
+   },
+   "SMELLERBEE": {
+    "clue": "Jet's loyal lieutenant",
+    "type": "trivia",
+    "rating": 4
+   },
+   "HAKODA": {
+    "clue": "Katara and Sokka's father",
+    "type": "trivia",
+    "rating": 4
+   },
+   "PAKKU": {
+    "clue": "Northern waterbending master",
+    "type": "trivia",
+    "rating": 4
+   },
+   "PUPPETEER": {
+    "clue": "Hama, the inn's dark guest",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ },
+ "J10": {
+  "theme": "Avatar: The Last Airbender: Creatures",
+  "category": "themed",
+  "clues": {
+   "CATOWL": {
+    "clue": "Hybrid night hunter",
+    "type": "trivia",
+    "rating": 3
+   },
+   "BADGERMOLE": {
+    "clue": "Earthbending's original teachers",
+    "type": "trivia",
+    "rating": 4
+   },
+   "HOGMONKEY": {
+    "clue": "Squealing barnyard hybrid",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CATGATOR": {
+    "clue": "Swamp hybrid with whiskers",
+    "type": "trivia",
+    "rating": 4
+   },
+   "SHIRSHU": {
+    "clue": "June's tongue-sniffing tracker",
+    "type": "trivia",
+    "rating": 4
+   },
+   "SKYBISON": {
+    "clue": "Appa, by species",
+    "type": "trivia",
+    "rating": 3
+   },
+   "UNAGI": {
+    "clue": "Kyoshi Island's sea monster",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Fandom trivia round."
+  }
+ }
+}

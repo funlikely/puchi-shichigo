@@ -12,6 +12,7 @@ export interface PuzzleDef {
   title: string;
   theme: string;
   clueAnswers: ClueAnswer[];
+  category?: string;
   /** 'generated' (ours, committed) or 'borrowed' (sourced online, private). */
   source?: string;
 }
@@ -56,3 +57,24 @@ export const PUZZLE_DEFS: PuzzleDef[] = [
 ];
 
 export const isBorrowed = (def: PuzzleDef) => def.source === 'borrowed';
+
+// Science-flavoured themes that aren't tagged STEM in the data.
+const SCIENCE_THEMES = new Set([
+  'Great Scientists', 'Landmark Experiments', 'Plant Anatomy', 'Organic Chemistry',
+  'Measuring Instruments', 'Thermodynamics', 'Immune System', 'Microbiology', 'Particle Zoo',
+  'Fossil Record', 'Eponymous Units', 'Neuroscience', 'Quantum Weirdness', 'Mohs and Minerals',
+  'Natural Selection', 'Fungus Among Us', 'Oceanography', 'Cosmology', 'Taxonomy',
+  'Women in Science', 'Biochemistry',
+]);
+
+/** The List-view section a puzzle belongs to. */
+export function collectionOf(def: PuzzleDef): string {
+  if (isBorrowed(def)) return 'Sourced Online';
+  const colon = def.theme.lastIndexOf(': '); // last, so "Avatar: The Last Airbender: X" works
+  if (colon > 0) return def.theme.slice(0, colon); // fandom rounds: "Star Trek: Ships"
+  if (def.theme === 'Long Haul' || def.theme === 'Word Nerd') return def.theme;
+  if (def.theme === 'Mixed') return 'Mixed Bag';
+  if (def.category === 'STEM' || SCIENCE_THEMES.has(def.theme)) return 'Science';
+  if (!def.category) return 'Originals'; // the first hand-made rounds
+  return 'Everyday Themes';
+}
