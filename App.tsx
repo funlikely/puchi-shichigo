@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from 'react';
+import React, { useCallback, useEffect, useRef, useState } from 'react';
 import { Platform, StyleSheet, View } from 'react-native';
 import { StatusBar } from 'expo-status-bar';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
@@ -7,10 +7,11 @@ import { PUZZLE_DEFS } from './data/puzzles';
 import { KEYS, loadJSON, saveJSON } from './data/storage';
 import { GameScreen } from './screens/GameScreen';
 import { HomeScreen } from './screens/HomeScreen';
+import { SettingsScreen } from './screens/SettingsScreen';
 
 export type RoundStatus = 'attempted' | 'completed';
 
-type Screen = 'home' | 'game';
+type Screen = 'home' | 'game' | 'settings';
 
 const isWeb = Platform.OS === 'web';
 
@@ -62,26 +63,42 @@ function AppInner() {
   const markCompleted = (index: number) =>
     setRoundStatuses(prev => ({ ...prev, [index]: 'completed' }));
 
+  const goHome = useCallback(() => setScreen('home'), []);
+
   return (
     <SafeAreaProvider>
       <StatusBar style={mode === 'dark' ? 'light' : 'dark'} />
       <View style={styles.root}>
         <View style={styles.phone}>
-          {screen === 'home' ? (
-            <HomeScreen
-              roundStatuses={roundStatuses}
-              onSelectPuzzle={index => {
-                markAttempted(index);
-                setPuzzleIndex(index);
-                setScreen('game');
-              }}
-            />
-          ) : (
-            <GameScreen
-              puzzleDef={PUZZLE_DEFS[puzzleIndex]}
-              onBack={() => setScreen('home')}
-              onComplete={() => markCompleted(puzzleIndex)}
-            />
+          {/* Home stays mounted under the other screens so its view, open sections
+              and scroll position are still there when you come back. */}
+          <HomeScreen
+            roundStatuses={roundStatuses}
+            onOpenSettings={() => setScreen('settings')}
+            onSelectPuzzle={index => {
+              markAttempted(index);
+              setPuzzleIndex(index);
+              setScreen('game');
+            }}
+          />
+          {screen === 'game' && (
+            <View style={styles.overlay}>
+              <GameScreen
+                puzzleDef={PUZZLE_DEFS[puzzleIndex]}
+                onBack={goHome}
+                onComplete={() => markCompleted(puzzleIndex)}
+              />
+            </View>
+          )}
+          {screen === 'settings' && (
+            <View style={styles.overlay}>
+              <SettingsScreen
+                completed={Object.values(roundStatuses).filter(s => s === 'completed').length}
+                started={Object.values(roundStatuses).filter(s => s === 'attempted').length}
+                onBack={goHome}
+                onClearProgress={() => setRoundStatuses({})}
+              />
+            </View>
           )}
         </View>
       </View>
@@ -94,6 +111,10 @@ const makeStyles = (c: Colors) => StyleSheet.create({
     flex: 1,
     backgroundColor: isWeb ? c.webBackdrop : c.bg,
     alignItems: 'center',
+  },
+  overlay: {
+    ...StyleSheet.absoluteFill,
+    backgroundColor: c.bg,
   },
   phone: {
     flex: 1,

@@ -1,0 +1,2383 @@
+{
+ "_meta": {
+  "batch": "batch-011",
+  "writer": "hand-written (Claude, no API)",
+  "judge": "self-rated by the writer"
+ },
+ "K01": {
+  "theme": "Star Trek: Deep Space Nine: The Station",
+  "category": "themed",
+  "clues": {
+   "HOLOSUITE": {
+    "clue": "Quark's rentable fantasy room",
+    "type": "trivia",
+    "rating": 3
+   },
+   "WORMHOLE": {
+    "clue": "Stable shortcut to the Gamma Quadrant",
+    "type": "trivia",
+    "rating": 3
+   },
+   "TEROKNOR": {
+    "clue": "The station's Cardassian name",
+    "type": "trivia",
+    "rating": 4
+   },
+   "REPLIMAT": {
+    "clue": "Promenade's self-serve eatery",
+    "type": "trivia",
+    "rating": 4
+   },
+   "WARDROOM": {
+    "clue": "Officers' meeting room",
+    "type": "definition",
+    "rating": 3
+   },
+   "RUNABOUT": {
+    "clue": "Small Danube-class shuttle",
+    "type": "trivia",
+    "rating": 4
+   },
+   "DOCKING": {
+    "clue": "___ ring, where ships attach",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "K03": {
+  "theme": "Star Trek: Deep Space Nine: The War Years",
+  "category": "themed",
+  "clues": {
+   "FOUNDERS": {
+    "clue": "Changelings who run the Dominion",
+    "type": "trivia",
+    "rating": 3
+   },
+   "KETRACEL": {
+    "clue": "___-white, the Jem'Hadar fix",
+    "type": "trivia",
+    "rating": 4
+   },
+   "BETAZED": {
+    "clue": "Troi's homeworld, occupied in the war",
+    "type": "trivia",
+    "rating": 4
+   },
+   "MINEFIELD": {
+    "clue": "Self-replicating blockade of the wormhole",
+    "type": "trivia",
+    "rating": 3
+   },
+   "QUADRANT": {
+    "clue": "Gamma or Alpha, for instance",
+    "type": "definition",
+    "rating": 3
+   },
+   "ALLIANCE": {
+    "clue": "Federation-Klingon-Romulan pact",
+    "type": "trivia",
+    "rating": 3
+   },
+   "DOMINION": {
+    "clue": "Gamma Quadrant superpower",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "K04": {
+  "theme": "Star Trek: Deep Space Nine: Prophets and Pah-wraiths",
+  "category": "themed",
+  "clues": {
+   "KAIWINN": {
+    "clue": "Bajor's scheming spiritual leader",
+    "type": "trivia",
+    "rating": 4
+   },
+   "FIRECAVES": {
+    "clue": "Where the Pah-wraiths were sealed",
+    "type": "trivia",
+    "rating": 4
+   },
+   "BAREIL": {
+    "clue": "Vedek who won Kira's heart",
+    "type": "trivia",
+    "rating": 4
+   },
+   "TEMPLE": {
+    "clue": "Celestial ___, the wormhole to Bajorans",
+    "type": "trivia",
+    "rating": 3
+   },
+   "EARRING": {
+    "clue": "Bajoran ear chain",
+    "type": "trivia",
+    "rating": 3
+   },
+   "ORBOFTIME": {
+    "clue": "Relic that sent them to Kirk's era",
+    "type": "trivia",
+    "rating": 4
+   },
+   "PROPHECY": {
+    "clue": "What the Emissary keeps fulfilling",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "K06": {
+  "theme": "Star Trek: Deep Space Nine: Garak and Odo",
+  "category": "themed",
+  "clues": {
+   "ENABRAN": {
+    "clue": "Tain's first name, Garak's father",
+    "type": "trivia",
+    "rating": 4
+   },
+   "SOLIDS": {
+    "clue": "Odo's word for everyone else",
+    "type": "trivia",
+    "rating": 4
+   },
+   "SIMPLE": {
+    "clue": "Plain, ___ Garak",
+    "type": "trivia",
+    "rating": 4
+   },
+   "ELIMGARAK": {
+    "clue": "The station's tailor, in full",
+    "type": "trivia",
+    "rating": 3
+   },
+   "SECURITY": {
+    "clue": "Odo's department",
+    "type": "definition",
+    "rating": 2
+   },
+   "SHAPESHIFT": {
+    "clue": "Odo's party trick",
+    "type": "definition",
+    "rating": 2
+   },
+   "EXILE": {
+    "clue": "Garak's status on the station",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "K07": {
+  "theme": "Star Trek: Deep Space Nine: Episodes",
+  "category": "themed",
+  "clues": {
+   "TRIBBLES": {
+    "clue": "Trials and ___-ations",
+    "type": "trivia",
+    "rating": 4
+   },
+   "FONTAINE": {
+    "clue": "Vic, the holographic crooner",
+    "type": "trivia",
+    "rating": 4
+   },
+   "EMISSARY": {
+    "clue": "Pilot, and Sisko's role",
+    "type": "trivia",
+    "rating": 3
+   },
+   "BEHIND": {
+    "clue": "What You Leave ___, the finale",
+    "type": "trivia",
+    "rating": 4
+   },
+   "ANGELS": {
+    "clue": "Sacrifice of ___",
+    "type": "trivia",
+    "rating": 4
+   },
+   "NECESSARY": {
+    "clue": "___ Evil, an Occupation mystery",
+    "type": "trivia",
+    "rating": 4
+   },
+   "IMPROBABLE": {
+    "clue": "___ Cause, a Garak caper",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "K09": {
+  "theme": "Star Trek: Deep Space Nine: Replimat Menu",
+  "category": "themed",
+  "clues": {
+   "RAKTAJINO": {
+    "clue": "Klingon coffee, Kira's order",
+    "type": "trivia",
+    "rating": 4
+   },
+   "HASPERAT": {
+    "clue": "Spicy Bajoran wrap that makes you cry",
+    "type": "trivia",
+    "rating": 4
+   },
+   "JUMJA": {
+    "clue": "Bajoran sweet on a stick",
+    "type": "trivia",
+    "rating": 4
+   },
+   "SYNTHEHOL": {
+    "clue": "Booze without the hangover",
+    "type": "trivia",
+    "rating": 3
+   },
+   "PLOMEEK": {
+    "clue": "Vulcan soup",
+    "type": "trivia",
+    "rating": 4
+   },
+   "SLUGLIVER": {
+    "clue": "Ferengi menu item, for the brave",
+    "type": "trivia",
+    "rating": 3
+   },
+   "ICECREAM": {
+    "clue": "Jake's sundae base",
+    "type": "definition",
+    "rating": 2
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "K10": {
+  "theme": "Star Trek: Deep Space Nine: Bajor and Beyond",
+  "category": "themed",
+  "clues": {
+   "OCCUPATION": {
+    "clue": "Cardassia's decades on Bajor",
+    "type": "trivia",
+    "rating": 3
+   },
+   "RESISTANCE": {
+    "clue": "Kira's old cell, in general",
+    "type": "trivia",
+    "rating": 3
+   },
+   "SHAKAAR": {
+    "clue": "Resistance leader turned First Minister",
+    "type": "trivia",
+    "rating": 4
+   },
+   "MARTOK": {
+    "clue": "One-eyed Klingon general",
+    "type": "trivia",
+    "rating": 4
+   },
+   "MAQUIS": {
+    "clue": "Rebels in the Demilitarized Zone",
+    "type": "trivia",
+    "rating": 3
+   },
+   "INTENDANT": {
+    "clue": "Mirror Kira's title",
+    "type": "trivia",
+    "rating": 4
+   },
+   "SIRELLA": {
+    "clue": "Martok's formidable wife",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "L06": {
+  "theme": "Star Trek: Lower Decks: Alien Encounters",
+  "category": "themed",
+  "clues": {
+   "ORIONS": {
+    "clue": "Tendi's people, green and rich",
+    "type": "trivia",
+    "rating": 3
+   },
+   "MUGATO": {
+    "clue": "White ape with a horn",
+    "type": "trivia",
+    "rating": 4
+   },
+   "TAMARIAN": {
+    "clue": "Speaker in metaphors",
+    "type": "trivia",
+    "rating": 3
+   },
+   "CROSSOVER": {
+    "clue": "Strange New Worlds team-up",
+    "type": "trivia",
+    "rating": 3
+   },
+   "PIRATES": {
+    "clue": "Orion business, stereotypically",
+    "type": "trivia",
+    "rating": 3
+   },
+   "CALIFORNIA": {
+    "clue": "Class of the Cerritos",
+    "type": "trivia",
+    "rating": 3
+   },
+   "KZINTI": {
+    "clue": "Cat-warriors from the animated era",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "M02": {
+  "theme": "Star Trek: The Next Generation: Episodes",
+  "category": "themed",
+  "clues": {
+   "INNERLIGHT": {
+    "clue": "Picard lives a lifetime on Kataan",
+    "type": "trivia",
+    "rating": 3
+   },
+   "MEASURE": {
+    "clue": "The ___ of a Man",
+    "type": "trivia",
+    "rating": 3
+   },
+   "YESTERDAY": {
+    "clue": "___'s Enterprise, Tasha returns",
+    "type": "trivia",
+    "rating": 4
+   },
+   "FAMILY": {
+    "clue": "Picard heals in France",
+    "type": "trivia",
+    "rating": 4
+   },
+   "FLUTE": {
+    "clue": "Instrument from the Kataan probe",
+    "type": "trivia",
+    "rating": 3
+   },
+   "TIMESARROW": {
+    "clue": "Two-parter with Mark Twain",
+    "type": "trivia",
+    "rating": 4
+   },
+   "PARALLELS": {
+    "clue": "Worf slips between quantum realities",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "M04": {
+  "theme": "Star Trek: The Next Generation: Mister Data",
+  "category": "themed",
+  "clues": {
+   "SOONG": {
+    "clue": "Data's maker, Noonien",
+    "type": "trivia",
+    "rating": 4
+   },
+   "POSITRONIC": {
+    "clue": "Data's brain type",
+    "type": "trivia",
+    "rating": 3
+   },
+   "PINOCCHIO": {
+    "clue": "Riker's nickname for Data",
+    "type": "trivia",
+    "rating": 4
+   },
+   "ANDROID": {
+    "clue": "Data, technically",
+    "type": "definition",
+    "rating": 2
+   },
+   "EMOTION": {
+    "clue": "___ chip, Data's upgrade",
+    "type": "trivia",
+    "rating": 3
+   },
+   "SPOTCAT": {
+    "clue": "Data's pet, described",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "DAUGHTER": {
+    "clue": "Lal, to Data",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "M05": {
+  "theme": "Star Trek: The Next Generation: Picard at Home",
+  "category": "themed",
+  "clues": {
+   "LABARRE": {
+    "clue": "Picard's French home village",
+    "type": "trivia",
+    "rating": 4
+   },
+   "FENCING": {
+    "clue": "Picard's sword sport",
+    "type": "trivia",
+    "rating": 3
+   },
+   "DIXONHILL": {
+    "clue": "Picard's holodeck gumshoe",
+    "type": "trivia",
+    "rating": 4
+   },
+   "FACEPALM": {
+    "clue": "Picard's famous gesture, meme-wise",
+    "type": "evocative",
+    "rating": 4
+   },
+   "RESSIKAN": {
+    "clue": "Kind of flute Picard plays",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CHATEAU": {
+    "clue": "___ Picard, the family vintage",
+    "type": "trivia",
+    "rating": 4
+   },
+   "ROBERT": {
+    "clue": "Picard's grumpy vintner brother",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "M07": {
+  "theme": "Star Trek: The Next Generation: Resistance Is Futile",
+  "category": "themed",
+  "clues": {
+   "COLLECTIVE": {
+    "clue": "The Borg, as one",
+    "type": "trivia",
+    "rating": 3
+   },
+   "NANOPROBE": {
+    "clue": "Tiny agent of assimilation",
+    "type": "trivia",
+    "rating": 3
+   },
+   "DRONES": {
+    "clue": "Borg worker bees",
+    "type": "definition",
+    "rating": 3
+   },
+   "HIVEMIND": {
+    "clue": "One brain for a cube",
+    "type": "definition",
+    "rating": 3
+   },
+   "ALCOVE": {
+    "clue": "Where drones regenerate",
+    "type": "trivia",
+    "rating": 4
+   },
+   "UNIMATRIX": {
+    "clue": "Seven of Nine's ___ 01 designation",
+    "type": "trivia",
+    "rating": 4
+   },
+   "REGENERATE": {
+    "clue": "Borg version of sleep",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "M08": {
+  "theme": "Star Trek: The Next Generation: Holodeck",
+  "category": "themed",
+  "clues": {
+   "SAFETIES": {
+    "clue": "Always failing, holodeck-wise",
+    "type": "trivia",
+    "rating": 4
+   },
+   "PROGRAM": {
+    "clue": "Computer, end ___",
+    "type": "trivia",
+    "rating": 3
+   },
+   "GRIDLINES": {
+    "clue": "Yellow grid on a resting holodeck",
+    "type": "trivia",
+    "rating": 4
+   },
+   "FAIRHAVEN": {
+    "clue": "Voyager's Irish holo-village",
+    "type": "trivia",
+    "rating": 4
+   },
+   "SIMULATION": {
+    "clue": "Every holodeck story",
+    "type": "definition",
+    "rating": 2
+   },
+   "MINUET": {
+    "clue": "Riker's too-perfect holo-woman",
+    "type": "trivia",
+    "rating": 4
+   },
+   "VICTORIAN": {
+    "clue": "Era of Moriarty's London",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "M09": {
+  "theme": "Star Trek: The Next Generation: Klingon Honor",
+  "category": "themed",
+  "clues": {
+   "KEHLEYR": {
+    "clue": "Worf's half-Klingon love",
+    "type": "trivia",
+    "rating": 4
+   },
+   "BATLETH": {
+    "clue": "Curved Klingon sword",
+    "type": "trivia",
+    "rating": 3
+   },
+   "PRUNEJUICE": {
+    "clue": "Worf's warrior's drink",
+    "type": "trivia",
+    "rating": 4
+   },
+   "BETOR": {
+    "clue": "Lursa's sister",
+    "type": "trivia",
+    "rating": 4
+   },
+   "DISHONOR": {
+    "clue": "Discommendation brings it",
+    "type": "definition",
+    "rating": 3
+   },
+   "KAHLESS": {
+    "clue": "The Unforgettable, cloned",
+    "type": "trivia",
+    "rating": 4
+   },
+   "BLOODWINE": {
+    "clue": "Klingon party pour",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "M10": {
+  "theme": "Star Trek: The Next Generation: Ship's Systems",
+  "category": "themed",
+  "clues": {
+   "SAUCER": {
+    "clue": "Separable section",
+    "type": "trivia",
+    "rating": 3
+   },
+   "TENFORWARD": {
+    "clue": "Guinan's lounge",
+    "type": "trivia",
+    "rating": 3
+   },
+   "TURBOLIFT": {
+    "clue": "Elevator, Starfleet-style",
+    "type": "definition",
+    "rating": 3
+   },
+   "VISOR": {
+    "clue": "Geordi's eye-wear",
+    "type": "trivia",
+    "rating": 3
+   },
+   "ANTIMATTER": {
+    "clue": "Warp core fuel's half",
+    "type": "trivia",
+    "rating": 3
+   },
+   "IMPULSE": {
+    "clue": "Sub-light engines",
+    "type": "definition",
+    "rating": 3
+   },
+   "VIEWSCREEN": {
+    "clue": "Bridge's big display",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "N01": {
+  "theme": "Discworld: City Life",
+  "category": "themed",
+  "clues": {
+   "MORPORK": {
+    "clue": "Ankh's twin, across the river",
+    "type": "trivia",
+    "rating": 4
+   },
+   "UNSEEN": {
+    "clue": "___ University, for wizards",
+    "type": "trivia",
+    "rating": 3
+   },
+   "SHADES": {
+    "clue": "Slum you don't walk alone",
+    "type": "trivia",
+    "rating": 4
+   },
+   "MENDEDDRUM": {
+    "clue": "Pub formerly the Broken Drum",
+    "type": "trivia",
+    "rating": 4
+   },
+   "PATRICIAN": {
+    "clue": "Vetinari's title",
+    "type": "trivia",
+    "rating": 3
+   },
+   "VETINARI": {
+    "clue": "Ruler who prefers not to be Tyrant",
+    "type": "trivia",
+    "rating": 3
+   },
+   "DIBBLER": {
+    "clue": "Cut-Me-Own-Throat sausage seller",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "N03": {
+  "theme": "Discworld: Unseen University",
+  "category": "themed",
+  "clues": {
+   "RINCEWIND": {
+    "clue": "Wizzard who runs away well",
+    "type": "trivia",
+    "rating": 3
+   },
+   "RIDCULLY": {
+    "clue": "Archchancellor who hunts",
+    "type": "trivia",
+    "rating": 4
+   },
+   "BURSAR": {
+    "clue": "Wizard on dried frog pills",
+    "type": "trivia",
+    "rating": 4
+   },
+   "OCTARINE": {
+    "clue": "Eighth color, magic's own",
+    "type": "trivia",
+    "rating": 3
+   },
+   "OCTAVO": {
+    "clue": "Book holding eight great spells",
+    "type": "trivia",
+    "rating": 4
+   },
+   "WIZZARD": {
+    "clue": "Rincewind's hat spelling",
+    "type": "trivia",
+    "rating": 5
+   },
+   "LECTURER": {
+    "clue": "___ in Recent Runes",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "N04": {
+  "theme": "Discworld: Witches",
+  "category": "themed",
+  "clues": {
+   "WEATHERWAX": {
+    "clue": "Granny, of the steely stare",
+    "type": "trivia",
+    "rating": 3
+   },
+   "MAGRAT": {
+    "clue": "Youngest witch of the coven",
+    "type": "trivia",
+    "rating": 4
+   },
+   "GARLICK": {
+    "clue": "Magrat's surname",
+    "type": "trivia",
+    "rating": 4
+   },
+   "ACHING": {
+    "clue": "Tiffany's surname",
+    "type": "trivia",
+    "rating": 4
+   },
+   "LANCRE": {
+    "clue": "Small kingdom, big witches",
+    "type": "trivia",
+    "rating": 4
+   },
+   "HEADOLOGY": {
+    "clue": "Granny's practical psychology",
+    "type": "trivia",
+    "rating": 4
+   },
+   "BROOMSTICK": {
+    "clue": "Witch transport",
+    "type": "definition",
+    "rating": 2
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "N07": {
+  "theme": "Discworld: The Shelf",
+  "category": "themed",
+  "clues": {
+   "SOURCERY": {
+    "clue": "Book of the eighth son's son",
+    "type": "trivia",
+    "rating": 4
+   },
+   "PYRAMIDS": {
+    "clue": "Book of Djelibeybi",
+    "type": "trivia",
+    "rating": 4
+   },
+   "MASKERADE": {
+    "clue": "Witches at the opera",
+    "type": "trivia",
+    "rating": 4
+   },
+   "FEETOFCLAY": {
+    "clue": "Watch book about golems",
+    "type": "trivia",
+    "rating": 4
+   },
+   "EQUALRITES": {
+    "clue": "Girl attends wizard school",
+    "type": "trivia",
+    "rating": 4
+   },
+   "LASTHERO": {
+    "clue": "Cohen climbs to the gods",
+    "type": "trivia",
+    "rating": 4
+   },
+   "COLOUR": {
+    "clue": "The ___ of Magic, book one",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "N08": {
+  "theme": "Discworld: Going Postal",
+  "category": "themed",
+  "clues": {
+   "LIPWIG": {
+    "clue": "Moist von ___",
+    "type": "trivia",
+    "rating": 4
+   },
+   "POSTOFFICE": {
+    "clue": "Building stuffed with old mail",
+    "type": "trivia",
+    "rating": 3
+   },
+   "GOLEMS": {
+    "clue": "Clay workers, freed",
+    "type": "trivia",
+    "rating": 3
+   },
+   "BANKING": {
+    "clue": "Making Money's business",
+    "type": "trivia",
+    "rating": 3
+   },
+   "DEARHEART": {
+    "clue": "Adora Belle, smoking",
+    "type": "trivia",
+    "rating": 4
+   },
+   "POSTMASTER": {
+    "clue": "Moist's first job",
+    "type": "trivia",
+    "rating": 3
+   },
+   "SEMAPHORE": {
+    "clue": "Clacks tech, basically",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "N10": {
+  "theme": "Discworld: Creatures",
+  "category": "themed",
+  "clues": {
+   "IGORS": {
+    "clue": "Helpful lisping surgeons",
+    "type": "trivia",
+    "rating": 4
+   },
+   "VAMPIRES": {
+    "clue": "Uberwald nobility, many teetotal",
+    "type": "trivia",
+    "rating": 3
+   },
+   "GARGOYLES": {
+    "clue": "Watchmen on the roofs",
+    "type": "trivia",
+    "rating": 3
+   },
+   "ERROL": {
+    "clue": "Swamp dragon who goes boom",
+    "type": "trivia",
+    "rating": 4
+   },
+   "WEREWOLVES": {
+    "clue": "Angua's kin",
+    "type": "trivia",
+    "rating": 3
+   },
+   "GNOMES": {
+    "clue": "Buggy Swires's kind",
+    "type": "trivia",
+    "rating": 4
+   },
+   "PICTSIES": {
+    "clue": "Nac Mac Feegles, taxonomically",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "O04": {
+  "theme": "Rick and Morty: Garage Gadgets",
+  "category": "themed",
+  "clues": {
+   "PORTALGUN": {
+    "clue": "Rick's green doorway maker",
+    "type": "trivia",
+    "rating": 3
+   },
+   "PLUMBUS": {
+    "clue": "Everyone has one at home",
+    "type": "trivia",
+    "rating": 4
+   },
+   "BUTTER": {
+    "clue": "What the little robot passes",
+    "type": "trivia",
+    "rating": 4
+   },
+   "MICROVERSE": {
+    "clue": "Tiny world powering the ship",
+    "type": "trivia",
+    "rating": 3
+   },
+   "CRUISER": {
+    "clue": "Rick's flying car, space-wise",
+    "type": "trivia",
+    "rating": 3
+   },
+   "CRONENBERG": {
+    "clue": "Body-horror world named for a director",
+    "type": "trivia",
+    "rating": 4
+   },
+   "FLUID": {
+    "clue": "Portal ___, the refill",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "O09": {
+  "theme": "Rick and Morty: Channel Surfing",
+  "category": "themed",
+  "clues": {
+   "FAKEDOORS": {
+    "clue": "Real ___ for sale",
+    "type": "trivia",
+    "rating": 4
+   },
+   "JOHNSON": {
+    "clue": "Ants in My Eyes ___",
+    "type": "trivia",
+    "rating": 4
+   },
+   "EYEHOLES": {
+    "clue": "Cereal with a violent mascot",
+    "type": "trivia",
+    "rating": 4
+   },
+   "BABYLEGS": {
+    "clue": "Regular Legs's detective partner",
+    "type": "trivia",
+    "rating": 4
+   },
+   "LILBITS": {
+    "clue": "Tiny food, tiny commercials",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CABLE": {
+    "clue": "Interdimensional ___",
+    "type": "trivia",
+    "rating": 2
+   },
+   "SMIGGLES": {
+    "clue": "Strawberry ___, cereal ad",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "O10": {
+  "theme": "Rick and Morty: Snacks and Science",
+  "category": "themed",
+  "clues": {
+   "SZECHUAN": {
+    "clue": "Sauce Rick's quest centers on",
+    "type": "trivia",
+    "rating": 3
+   },
+   "MCNUGGET": {
+    "clue": "Dip vessel for that sauce",
+    "type": "trivia",
+    "rating": 3
+   },
+   "MEGASEEDS": {
+    "clue": "Smuggled in an uncomfortable way",
+    "type": "trivia",
+    "rating": 4
+   },
+   "MULAN": {
+    "clue": "Movie behind Rick's sauce craving",
+    "type": "trivia",
+    "rating": 4
+   },
+   "KALAXIAN": {
+    "clue": "___ crystals, at Blips and Chitz?",
+    "type": "trivia",
+    "rating": 4
+   },
+   "DARKMATTER": {
+    "clue": "Concentrated ___, Rick's fuel",
+    "type": "trivia",
+    "rating": 3
+   },
+   "FLURBOS": {
+    "clue": "Alien currency in the arcade",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "Q01": {
+  "theme": "Condiments: Table Staples",
+  "category": "themed",
+  "clues": {
+   "RELISH": {
+    "clue": "Hot dog topping, or enjoy",
+    "type": "wordplay",
+    "rating": 3
+   },
+   "TAHINI": {
+    "clue": "Sesame paste",
+    "type": "definition",
+    "rating": 3
+   },
+   "CHUTNEY": {
+    "clue": "Fruity Indian condiment",
+    "type": "definition",
+    "rating": 3
+   },
+   "BARBECUE": {
+    "clue": "Sauce for the grill",
+    "type": "definition",
+    "rating": 2
+   },
+   "BROWNSAUCE": {
+    "clue": "British breakfast's dark dollop",
+    "type": "evocative",
+    "rating": 4
+   },
+   "HPSAUCE": {
+    "clue": "Houses of Parliament on the bottle",
+    "type": "trivia",
+    "rating": 4
+   },
+   "STEAKSAUCE": {
+    "clue": "A1 ___",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "Q02": {
+  "theme": "Condiments: Asian Pantry",
+  "category": "themed",
+  "clues": {
+   "SOYSAUCE": {
+    "clue": "Sushi's dip",
+    "type": "definition",
+    "rating": 2
+   },
+   "HOISIN": {
+    "clue": "Peking duck's sweet sauce",
+    "type": "trivia",
+    "rating": 3
+   },
+   "SAMBAL": {
+    "clue": "Indonesian chili paste",
+    "type": "definition",
+    "rating": 3
+   },
+   "WASABI": {
+    "clue": "Green sinus-clearer",
+    "type": "evocative",
+    "rating": 3
+   },
+   "SRIRACHA": {
+    "clue": "Rooster-bottle hot sauce",
+    "type": "trivia",
+    "rating": 3
+   },
+   "TAMARI": {
+    "clue": "Wheat-free soy cousin",
+    "type": "definition",
+    "rating": 4
+   },
+   "CHILIOIL": {
+    "clue": "Crispy red topping",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "Q03": {
+  "theme": "Condiments: Pickle Jar",
+  "category": "themed",
+  "clues": {
+   "PICCALILLI": {
+    "clue": "Neon-yellow British pickle",
+    "type": "evocative",
+    "rating": 4
+   },
+   "GHERKIN": {
+    "clue": "Tiny cucumber, or a London tower",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "CORNICHON": {
+    "clue": "French mini pickle",
+    "type": "definition",
+    "rating": 3
+   },
+   "CAPERS": {
+    "clue": "Brined buds, or escapades",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "SAUERKRAUT": {
+    "clue": "Reuben's fermented cabbage",
+    "type": "definition",
+    "rating": 3
+   },
+   "KIMCHI": {
+    "clue": "Korean ferment",
+    "type": "definition",
+    "rating": 3
+   },
+   "CHOWCHOW": {
+    "clue": "Relish or a fluffy dog",
+    "type": "wordplay",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "Q04": {
+  "theme": "Condiments: Dip It",
+  "category": "themed",
+  "clues": {
+   "GUACAMOLE": {
+    "clue": "Avocado's best look",
+    "type": "evocative",
+    "rating": 3
+   },
+   "HUMMUS": {
+    "clue": "Chickpea dip",
+    "type": "definition",
+    "rating": 2
+   },
+   "TZATZIKI": {
+    "clue": "Cucumber-yogurt sauce",
+    "type": "definition",
+    "rating": 3
+   },
+   "SALSA": {
+    "clue": "Chip dip, or dance",
+    "type": "wordplay",
+    "rating": 3
+   },
+   "MUHAMMARA": {
+    "clue": "Red pepper and walnut dip",
+    "type": "definition",
+    "rating": 4
+   },
+   "LABNEH": {
+    "clue": "Strained yogurt spread",
+    "type": "definition",
+    "rating": 3
+   },
+   "ONIONDIP": {
+    "clue": "Ripple chip's best friend",
+    "type": "evocative",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "Q05": {
+  "theme": "Condiments: Bring the Heat",
+  "category": "themed",
+  "clues": {
+   "TABASCO": {
+    "clue": "Louisiana's little red bottle",
+    "type": "trivia",
+    "rating": 3
+   },
+   "CHOLULA": {
+    "clue": "Wooden-cap hot sauce",
+    "type": "trivia",
+    "rating": 4
+   },
+   "SCOVILLE": {
+    "clue": "Heat scale",
+    "type": "definition",
+    "rating": 3
+   },
+   "CAPSAICIN": {
+    "clue": "The burn molecule",
+    "type": "definition",
+    "rating": 3
+   },
+   "VALENTINA": {
+    "clue": "Mexican hot sauce, a girl's name",
+    "type": "trivia",
+    "rating": 4
+   },
+   "TAPATIO": {
+    "clue": "Sombrero-man hot sauce",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CHIPOTLE": {
+    "clue": "Smoked jalapeno",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "Q06": {
+  "theme": "Condiments: Salad Days",
+  "category": "themed",
+  "clues": {
+   "BLUECHEESE": {
+    "clue": "Wing dip with veins",
+    "type": "evocative",
+    "rating": 3
+   },
+   "ITALIAN": {
+    "clue": "Zesty dressing, or a nationality",
+    "type": "wordplay",
+    "rating": 3
+   },
+   "BALSAMIC": {
+    "clue": "Modena's aged vinegar",
+    "type": "definition",
+    "rating": 3
+   },
+   "CATALINA": {
+    "clue": "Sweet red dressing, an island too",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "VINEGAR": {
+    "clue": "Sour half of vinaigrette",
+    "type": "definition",
+    "rating": 2
+   },
+   "EMULSION": {
+    "clue": "Oil and water, made friends",
+    "type": "evocative",
+    "rating": 4
+   },
+   "CROUTONS": {
+    "clue": "Crunchy salad toppers",
+    "type": "definition",
+    "rating": 2
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "Q07": {
+  "theme": "Condiments: Spread the Word",
+  "category": "themed",
+  "clues": {
+   "MARMITE": {
+    "clue": "You love it or hate it",
+    "type": "trivia",
+    "rating": 3
+   },
+   "VEGEMITE": {
+    "clue": "Aussie yeast spread",
+    "type": "definition",
+    "rating": 3
+   },
+   "NUTELLA": {
+    "clue": "Hazelnut cocoa spread",
+    "type": "definition",
+    "rating": 2
+   },
+   "MARGARINE": {
+    "clue": "Butter's understudy",
+    "type": "pun",
+    "rating": 3
+   },
+   "PRESERVES": {
+    "clue": "Jam, or keeps",
+    "type": "wordplay",
+    "rating": 4
+   },
+   "COMPOTE": {
+    "clue": "Stewed fruit topping",
+    "type": "definition",
+    "rating": 3
+   },
+   "JELLY": {
+    "clue": "PB's partner",
+    "type": "definition",
+    "rating": 2
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "Q08": {
+  "theme": "Condiments: Mother Sauces",
+  "category": "themed",
+  "clues": {
+   "BECHAMEL": {
+    "clue": "White sauce from butter, flour, milk",
+    "type": "definition",
+    "rating": 3
+   },
+   "VELOUTE": {
+    "clue": "Stock-based mother sauce",
+    "type": "definition",
+    "rating": 4
+   },
+   "ESPAGNOLE": {
+    "clue": "Brown mother sauce",
+    "type": "definition",
+    "rating": 4
+   },
+   "BEARNAISE": {
+    "clue": "Tarragon sauce for steak",
+    "type": "definition",
+    "rating": 3
+   },
+   "REMOULADE": {
+    "clue": "Mayo dressed up with capers",
+    "type": "definition",
+    "rating": 3
+   },
+   "TARTAR": {
+    "clue": "Fish-and-chips sauce",
+    "type": "definition",
+    "rating": 3
+   },
+   "HOLLANDAIS": {
+    "clue": "Dutch, to a Frenchman",
+    "type": "wordplay",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "Q09": {
+  "theme": "Condiments: World Tour",
+  "category": "themed",
+  "clues": {
+   "ROMESCO": {
+    "clue": "Catalan pepper-almond sauce",
+    "type": "definition",
+    "rating": 3
+   },
+   "SALSAVERDE": {
+    "clue": "Green sauce, literally",
+    "type": "definition",
+    "rating": 3
+   },
+   "CHERMOULA": {
+    "clue": "North African herb marinade",
+    "type": "definition",
+    "rating": 4
+   },
+   "ADOBO": {
+    "clue": "Filipino vinegar braise",
+    "type": "definition",
+    "rating": 3
+   },
+   "TKEMALI": {
+    "clue": "Georgian sour plum sauce",
+    "type": "definition",
+    "rating": 4
+   },
+   "SOFRITO": {
+    "clue": "Slow-cooked aromatic base",
+    "type": "definition",
+    "rating": 4
+   },
+   "GREMOLATA": {
+    "clue": "Osso buco's lemony garnish",
+    "type": "definition",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "Q10": {
+  "theme": "Condiments: Table Service",
+  "category": "themed",
+  "clues": {
+   "PACKET": {
+    "clue": "Takeout ketchup unit",
+    "type": "definition",
+    "rating": 2
+   },
+   "DISPENSER": {
+    "clue": "Pump at the hot dog stand",
+    "type": "definition",
+    "rating": 3
+   },
+   "SHAKER": {
+    "clue": "Salt holder, or a mover",
+    "type": "wordplay",
+    "rating": 3
+   },
+   "PEPPERMILL": {
+    "clue": "Waiter's giant grinder",
+    "type": "evocative",
+    "rating": 3
+   },
+   "DOLLOP": {
+    "clue": "Generous spoonful",
+    "type": "definition",
+    "rating": 2
+   },
+   "DRIZZLE": {
+    "clue": "Light rain of sauce",
+    "type": "pun",
+    "rating": 3
+   },
+   "GRAVYBOAT": {
+    "clue": "Vessel that never sails",
+    "type": "pun",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "K05": {
+  "theme": "Star Trek: Deep Space Nine: Rules of Acquisition",
+  "category": "themed",
+  "clues": {
+   "LATINUM": {
+    "clue": "Gold-pressed currency",
+    "type": "trivia",
+    "rating": 3
+   },
+   "MOOGIE": {
+    "clue": "Quark's word for Mom",
+    "type": "trivia",
+    "rating": 4
+   },
+   "LOBES": {
+    "clue": "Ferengi pride, on each side",
+    "type": "trivia",
+    "rating": 3
+   },
+   "PROFIT": {
+    "clue": "Ferengi religion, basically",
+    "type": "pun",
+    "rating": 3
+   },
+   "GRANDNAGUS": {
+    "clue": "Zek's title",
+    "type": "trivia",
+    "rating": 3
+   },
+   "ACQUIRE": {
+    "clue": "What the Rules are all about",
+    "type": "trivia",
+    "rating": 3
+   },
+   "BARTERING": {
+    "clue": "Trading without latinum",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "K08": {
+  "theme": "Star Trek: Deep Space Nine: Cast and Crew",
+  "category": "themed",
+  "clues": {
+   "SIDDIG": {
+    "clue": "Alexander, the doctor's actor",
+    "type": "trivia",
+    "rating": 4
+   },
+   "PILLER": {
+    "clue": "Michael, co-creator",
+    "type": "trivia",
+    "rating": 4
+   },
+   "BERMAN": {
+    "clue": "Rick, co-creator",
+    "type": "trivia",
+    "rating": 3
+   },
+   "ARMIN": {
+    "clue": "Mr Shimerman, behind the lobes",
+    "type": "trivia",
+    "rating": 4
+   },
+   "PRODUCER": {
+    "clue": "Behr's executive title",
+    "type": "definition",
+    "rating": 2
+   },
+   "TELEPLAY": {
+    "clue": "Script credit for TV",
+    "type": "definition",
+    "rating": 3
+   },
+   "SYNDICATED": {
+    "clue": "How it aired, off-network",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "L01": {
+  "theme": "Star Trek: Lower Decks: Crew of the Cerritos",
+  "category": "themed",
+  "clues": {
+   "MARINER": {
+    "clue": "Rule-breaking ensign, captain's daughter",
+    "type": "trivia",
+    "rating": 3
+   },
+   "RUTHERFORD": {
+    "clue": "Engineer with a cyborg implant",
+    "type": "trivia",
+    "rating": 3
+   },
+   "FREEMAN": {
+    "clue": "Captain Carol",
+    "type": "trivia",
+    "rating": 3
+   },
+   "ENSIGN": {
+    "clue": "Lowest officer rank",
+    "type": "definition",
+    "rating": 2
+   },
+   "IMPLANT": {
+    "clue": "Rutherford's head hardware",
+    "type": "trivia",
+    "rating": 3
+   },
+   "PROMOTION": {
+    "clue": "Lieutenant, junior grade, finally",
+    "type": "definition",
+    "rating": 3
+   },
+   "DUTYROSTER": {
+    "clue": "List of who does what",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "L03": {
+  "theme": "Star Trek: Lower Decks: Episodes",
+  "category": "themed",
+  "clues": {
+   "TEMPORAL": {
+    "clue": "___ Edict, about buffer time",
+    "type": "trivia",
+    "rating": 4
+   },
+   "MOIST": {
+    "clue": "___ Vessel",
+    "type": "trivia",
+    "rating": 4
+   },
+   "VERITAS": {
+    "clue": "Courtroom episode, Latin for truth",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CRISIS": {
+    "clue": "___ Point, Mariner's movie",
+    "type": "trivia",
+    "rating": 4
+   },
+   "GROUNDED": {
+    "clue": "Season three opener, stuck on Earth",
+    "type": "trivia",
+    "rating": 4
+   },
+   "HUMONGOUS": {
+    "clue": "The Spy ___",
+    "type": "trivia",
+    "rating": 4
+   },
+   "REDEMPTION": {
+    "clue": "A Mathematically Perfect ___",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "L04": {
+  "theme": "Star Trek: Lower Decks: Running Gags",
+  "category": "themed",
+  "clues": {
+   "BUFFER": {
+    "clue": "___ time, mandated chill",
+    "type": "trivia",
+    "rating": 4
+   },
+   "HAMPER": {
+    "clue": "Peanut ___, rogue exocomp",
+    "type": "trivia",
+    "rating": 4
+   },
+   "MOOPSY": {
+    "clue": "Cute, deadly blob",
+    "type": "trivia",
+    "rating": 4
+   },
+   "EXOCOMP": {
+    "clue": "Peanut Hamper's kind",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CETACEAN": {
+    "clue": "___ Ops, whale department",
+    "type": "trivia",
+    "rating": 3
+   },
+   "HYSPERIA": {
+    "clue": "Billups's Ren Faire homeworld",
+    "type": "trivia",
+    "rating": 4
+   },
+   "RENFAIRE": {
+    "clue": "Hysperia's vibe, essentially",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "L05": {
+  "theme": "Star Trek: Lower Decks: Cast and Crew",
+  "category": "themed",
+  "clues": {
+   "NEWSOME": {
+    "clue": "Tawny, voice of Mariner",
+    "type": "trivia",
+    "rating": 4
+   },
+   "QUAID": {
+    "clue": "Jack, voice of Boimler",
+    "type": "trivia",
+    "rating": 4
+   },
+   "MCMAHAN": {
+    "clue": "Mike, the creator",
+    "type": "trivia",
+    "rating": 4
+   },
+   "VIGMAN": {
+    "clue": "Gillian, voice of the cat doctor",
+    "type": "trivia",
+    "rating": 4
+   },
+   "ANIMATED": {
+    "clue": "Like the show, unlike TNG",
+    "type": "definition",
+    "rating": 2
+   },
+   "PARAMOUNT": {
+    "clue": "Studio behind the show",
+    "type": "trivia",
+    "rating": 3
+   },
+   "STREAMING": {
+    "clue": "How it airs",
+    "type": "definition",
+    "rating": 2
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "M01": {
+  "theme": "Star Trek: The Next Generation: Bridge Crew",
+  "category": "themed",
+  "clues": {
+   "WESLEY": {
+    "clue": "Ensign told to shut up",
+    "type": "trivia",
+    "rating": 3
+   },
+   "GUINAN": {
+    "clue": "Ten Forward's wise hostess",
+    "type": "trivia",
+    "rating": 3
+   },
+   "BARCLAY": {
+    "clue": "Holo-addicted engineer Reg",
+    "type": "trivia",
+    "rating": 3
+   },
+   "ALEXANDER": {
+    "clue": "Worf's son",
+    "type": "trivia",
+    "rating": 3
+   },
+   "DEANNA": {
+    "clue": "Troi's first name",
+    "type": "trivia",
+    "rating": 3
+   },
+   "COUNSELOR": {
+    "clue": "Troi's job",
+    "type": "trivia",
+    "rating": 2
+   },
+   "TACTICAL": {
+    "clue": "Worf's station",
+    "type": "trivia",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "M03": {
+  "theme": "Star Trek: The Next Generation: Shaka, When the Walls Fell",
+  "category": "themed",
+  "clues": {
+   "DARMOK": {
+    "clue": "Hero of a Tamarian tale",
+    "type": "trivia",
+    "rating": 3
+   },
+   "JALAD": {
+    "clue": "Darmok's partner at Tanagra",
+    "type": "trivia",
+    "rating": 4
+   },
+   "TANAGRA": {
+    "clue": "Where Darmok met Jalad",
+    "type": "trivia",
+    "rating": 4
+   },
+   "DATHON": {
+    "clue": "Tamarian captain who gave his life",
+    "type": "trivia",
+    "rating": 4
+   },
+   "METAPHOR": {
+    "clue": "How Tamarians talk",
+    "type": "trivia",
+    "rating": 3
+   },
+   "UNIVERSAL": {
+    "clue": "___ translator, stumped",
+    "type": "trivia",
+    "rating": 3
+   },
+   "LANGUAGE": {
+    "clue": "The episode's real puzzle",
+    "type": "evocative",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "N02": {
+  "theme": "Discworld: The Watch",
+  "category": "themed",
+  "clues": {
+   "PIECEMAKER": {
+    "clue": "Detritus's siege crossbow",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CARROT": {
+    "clue": "Adopted dwarf, secretly a king",
+    "type": "trivia",
+    "rating": 4
+   },
+   "DETRITUS": {
+    "clue": "Troll sergeant with a siege crossbow",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CHEERY": {
+    "clue": "Dwarf forensics expert in a skirt",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CORPORAL": {
+    "clue": "Nobby's rank",
+    "type": "trivia",
+    "rating": 3
+   },
+   "TREACLE": {
+    "clue": "___ Mine Road watch house",
+    "type": "trivia",
+    "rating": 4
+   },
+   "TRUNCHEON": {
+    "clue": "Copper's club",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "N05": {
+  "theme": "Discworld: Death",
+  "category": "themed",
+  "clues": {
+   "ALBERT": {
+    "clue": "Death's manservant",
+    "type": "trivia",
+    "rating": 3
+   },
+   "SUSAN": {
+    "clue": "Death's granddaughter",
+    "type": "trivia",
+    "rating": 3
+   },
+   "HOGFATHER": {
+    "clue": "Death subs in for him",
+    "type": "trivia",
+    "rating": 3
+   },
+   "CAPITALS": {
+    "clue": "How Death speaks",
+    "type": "trivia",
+    "rating": 4
+   },
+   "KITTENS": {
+    "clue": "Death's soft spot",
+    "type": "trivia",
+    "rating": 4
+   },
+   "LIFETIMER": {
+    "clue": "Hourglass of a life",
+    "type": "trivia",
+    "rating": 4
+   },
+   "REAPERMAN": {
+    "clue": "Book where Death gets fired",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "N06": {
+  "theme": "Discworld: The Disc",
+  "category": "themed",
+  "clues": {
+   "HERSHEBA": {
+    "clue": "Klatchian kingdom",
+    "type": "trivia",
+    "rating": 4
+   },
+   "EPHEBE": {
+    "clue": "Philosophers' city on the Circle Sea",
+    "type": "trivia",
+    "rating": 4
+   },
+   "ELEPHANTS": {
+    "clue": "Four of them carry the world",
+    "type": "trivia",
+    "rating": 3
+   },
+   "BERILIA": {
+    "clue": "Elephant named like a gem",
+    "type": "trivia",
+    "rating": 4
+   },
+   "JERAKEEN": {
+    "clue": "Another of the four elephants",
+    "type": "trivia",
+    "rating": 4
+   },
+   "RIMFALL": {
+    "clue": "Ocean pouring off the edge",
+    "type": "trivia",
+    "rating": 4
+   },
+   "FOURECKS": {
+    "clue": "The Disc's Australia",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "N09": {
+  "theme": "Discworld: The Author",
+  "category": "themed",
+  "clues": {
+   "KIRBY": {
+    "clue": "Josh, the early cover artist",
+    "type": "trivia",
+    "rating": 4
+   },
+   "KIDBY": {
+    "clue": "Paul, the later cover artist",
+    "type": "trivia",
+    "rating": 4
+   },
+   "FEDORA": {
+    "clue": "Signature black hat",
+    "type": "trivia",
+    "rating": 3
+   },
+   "JOURNALIST": {
+    "clue": "Pratchett's first career",
+    "type": "trivia",
+    "rating": 3
+   },
+   "OVERHEAD": {
+    "clue": "X-Clacks-___, his web memorial",
+    "type": "trivia",
+    "rating": 4
+   },
+   "BESTSELLER": {
+    "clue": "UK chart-topper, often",
+    "type": "definition",
+    "rating": 2
+   },
+   "SATIRIST": {
+    "clue": "Fantasy writer with a sharp pen",
+    "type": "definition",
+    "rating": 3
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "O01": {
+  "theme": "Rick and Morty: The Smiths",
+  "category": "themed",
+  "clues": {
+   "SANCHEZ": {
+    "clue": "Rick's surname",
+    "type": "trivia",
+    "rating": 3
+   },
+   "SUMMER": {
+    "clue": "Older sister, phone-glued",
+    "type": "trivia",
+    "rating": 3
+   },
+   "SPACEBETH": {
+    "clue": "Maybe-clone off adventuring",
+    "type": "trivia",
+    "rating": 4
+   },
+   "DIANE": {
+    "clue": "Rick's late wife",
+    "type": "trivia",
+    "rating": 4
+   },
+   "JERRYSMITH": {
+    "clue": "Hapless dad",
+    "type": "trivia",
+    "rating": 3
+   },
+   "GRANDPA": {
+    "clue": "Rick, to Morty",
+    "type": "definition",
+    "rating": 2
+   },
+   "TEENAGER": {
+    "clue": "Summer, by age",
+    "type": "definition",
+    "rating": 2
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "O02": {
+  "theme": "Rick and Morty: Rick's Circle",
+  "category": "themed",
+  "clues": {
+   "GOLDENFOLD": {
+    "clue": "Morty's math teacher",
+    "type": "trivia",
+    "rating": 4
+   },
+   "BIRDPERSON": {
+    "clue": "Rick's winged best friend",
+    "type": "trivia",
+    "rating": 3
+   },
+   "SQUANCHY": {
+    "clue": "Cat-like friend, all slang",
+    "type": "trivia",
+    "rating": 4
+   },
+   "UNITY": {
+    "clue": "Rick's hive-mind ex",
+    "type": "trivia",
+    "rating": 4
+   },
+   "GEARHEAD": {
+    "clue": "Cog-headed frenemy",
+    "type": "trivia",
+    "rating": 4
+   },
+   "NOOBNOOB": {
+    "clue": "Janitor of the Vindicators",
+    "type": "trivia",
+    "rating": 4
+   },
+   "SLEEPYGARY": {
+    "clue": "Fake parasite memory husband",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "O05": {
+  "theme": "Rick and Morty: Episodes",
+  "category": "themed",
+  "clues": {
+   "ANATOMY": {
+    "clue": "___ Park, inside a man",
+    "type": "trivia",
+    "rating": 4
+   },
+   "LAWNMOWER": {
+    "clue": "___ Dog, Snuffles's debut",
+    "type": "trivia",
+    "rating": 4
+   },
+   "RIXTY": {
+    "clue": "___ Minutes",
+    "type": "trivia",
+    "rating": 4
+   },
+   "RICKLANTIS": {
+    "clue": "The ___ Mixup",
+    "type": "trivia",
+    "rating": 4
+   },
+   "NEEDFUL": {
+    "clue": "Mr ___'s cursed shop",
+    "type": "trivia",
+    "rating": 4
+   },
+   "PILOT": {
+    "clue": "Episode one, plainly",
+    "type": "definition",
+    "rating": 2
+   },
+   "VATOFACID": {
+    "clue": "Fake-death plan, in episode form",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "O07": {
+  "theme": "Rick and Morty: Cast and Crew",
+  "category": "themed",
+  "clues": {
+   "PARNELL": {
+    "clue": "Chris, voice of Jerry",
+    "type": "trivia",
+    "rating": 4
+   },
+   "GRAMMER": {
+    "clue": "Spencer, voice of Summer",
+    "type": "trivia",
+    "rating": 4
+   },
+   "BELDEN": {
+    "clue": "Harry, the newer Morty",
+    "type": "trivia",
+    "rating": 4
+   },
+   "SPENCER": {
+    "clue": "Ms Grammer's first name",
+    "type": "trivia",
+    "rating": 4
+   },
+   "SHOWRUNNER": {
+    "clue": "Scott Marder's job",
+    "type": "trivia",
+    "rating": 3
+   },
+   "ANIMATOR": {
+    "clue": "Drawer of the frames",
+    "type": "definition",
+    "rating": 2
+   },
+   "CARTOONIST": {
+    "clue": "Drawer of funny pictures",
+    "type": "definition",
+    "rating": 2
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "O08": {
+  "theme": "Rick and Morty: Villains",
+  "category": "themed",
+  "clues": {
+   "PRESIDENT": {
+    "clue": "Commander-in-chief Rick feuds with",
+    "type": "trivia",
+    "rating": 4
+   },
+   "FEDERATION": {
+    "clue": "Galactic ___, Rick's nemesis",
+    "type": "trivia",
+    "rating": 3
+   },
+   "DEVIL": {
+    "clue": "Mr Needful, really",
+    "type": "trivia",
+    "rating": 3
+   },
+   "DOOFUS": {
+    "clue": "___ Rick, the nice one",
+    "type": "trivia",
+    "rating": 4
+   },
+   "GALACTIC": {
+    "clue": "___ Federation",
+    "type": "trivia",
+    "rating": 3
+   },
+   "CROMULONS": {
+    "clue": "Giant heads who demand a show",
+    "type": "trivia",
+    "rating": 4
+   },
+   "ZIGERION": {
+    "clue": "Alien scammers in a simulation",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "P01": {
+  "theme": "They Might Be Giants Lyrics: Side One",
+  "category": "themed",
+  "clues": {
+   "BLUEBEARD": {
+    "clue": "Mrs. ___, a TMBG song",
+    "type": "trivia",
+    "rating": 4
+   },
+   "BUSINESS": {
+    "clue": "Istanbul's renaming: none of yours",
+    "type": "trivia",
+    "rating": 4
+   },
+   "MILLIONS": {
+    "clue": "Degrees in Why Does the Sun Shine",
+    "type": "trivia",
+    "rating": 4
+   },
+   "SMALLER": {
+    "clue": "Men Universe Man is kind to",
+    "type": "trivia",
+    "rating": 4
+   },
+   "TURKISH": {
+    "clue": "Istanbul's kind of delight",
+    "type": "trivia",
+    "rating": 4
+   },
+   "DELIGHT": {
+    "clue": "Turkish sweet in Istanbul",
+    "type": "trivia",
+    "rating": 4
+   },
+   "HELIUM": {
+    "clue": "What the song's sun builds",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "P02": {
+  "theme": "They Might Be Giants Lyrics: Side Two",
+  "category": "themed",
+  "clues": {
+   "DEMOCRATS": {
+    "clue": "1844 party split, per the Polk song",
+    "type": "trivia",
+    "rating": 4
+   },
+   "TREASURY": {
+    "clue": "Polk's independent achievement",
+    "type": "trivia",
+    "rating": 4
+   },
+   "VANBUREN": {
+    "clue": "Martin, spurned in the Polk song",
+    "type": "trivia",
+    "rating": 4
+   },
+   "PERSON": {
+    "clue": "Frying-pan victim's ___ Man",
+    "type": "trivia",
+    "rating": 4
+   },
+   "OREGON": {
+    "clue": "Territory in the Polk song",
+    "type": "trivia",
+    "rating": 4
+   },
+   "CARBON": {
+    "clue": "Coal's element, per the song",
+    "type": "trivia",
+    "rating": 4
+   },
+   "WAITING": {
+    "clue": "What she's doing in Istanbul",
+    "type": "trivia",
+    "rating": 4
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ },
+ "P03": {
+  "theme": "They Might Be Giants Lyrics: Side Three",
+  "category": "themed",
+  "clues": {
+   "GROCERIES": {
+    "clue": "Bag returned in Dead",
+    "type": "trivia",
+    "rating": 4
+   },
+   "EXPIRATION": {
+    "clue": "Date noted in Dead",
+    "type": "trivia",
+    "rating": 4
+   },
+   "FRUSTRATED": {
+    "clue": "How everybody dies, Don't Let's Start",
+    "type": "trivia",
+    "rating": 4
+   },
+   "EMPIRE": {
+    "clue": "Built from garbage, in Kiss Me",
+    "type": "trivia",
+    "rating": 4
+   },
+   "DEVILS": {
+    "clue": "Hand you can't shake, Racist Friend",
+    "type": "trivia",
+    "rating": 4
+   },
+   "WEBBED": {
+    "clue": "Feet in the Dr. Evil song",
+    "type": "trivia",
+    "rating": 4
+   },
+   "DENOTES": {
+    "clue": "Signifies",
+    "type": "definition",
+    "rating": 2
+   }
+  },
+  "critique": {
+   "notes": "Themed round."
+  }
+ }
+}

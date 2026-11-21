@@ -14,6 +14,7 @@ import { collectionOf, isBorrowed, PUZZLE_DEFS, PuzzleDef } from '../data/puzzle
 
 interface Props {
   onSelectPuzzle: (index: number) => void;
+  onOpenSettings: () => void;
   roundStatuses: Record<number, RoundStatus>;
 }
 
@@ -121,7 +122,7 @@ function ListRow({
   );
 }
 
-export function HomeScreen({ onSelectPuzzle, roundStatuses }: Props) {
+export function HomeScreen({ onSelectPuzzle, onOpenSettings, roundStatuses }: Props) {
   const styles = useStyles(makeStyles);
   const { mode, toggle } = useTheme();
   const [view, setView] = useState<View_>('numbers');
@@ -156,9 +157,14 @@ export function HomeScreen({ onSelectPuzzle, roundStatuses }: Props) {
   const header = (
     <>
       <View style={styles.header}>
-        <TouchableOpacity onPress={toggle} style={styles.themeBtn} hitSlop={12}>
-          <Text style={styles.themeText}>{mode === 'dark' ? '☀ Light' : '☾ Dark'}</Text>
-        </TouchableOpacity>
+        <View style={styles.topBtns}>
+          <TouchableOpacity onPress={toggle} style={styles.themeBtn} hitSlop={12}>
+            <Text style={styles.themeText}>{mode === 'dark' ? '☀ Light' : '☾ Dark'}</Text>
+          </TouchableOpacity>
+          <TouchableOpacity onPress={onOpenSettings} style={styles.themeBtn} hitSlop={12}>
+            <Text style={styles.themeText}>⚙ Settings</Text>
+          </TouchableOpacity>
+        </View>
         <Text style={styles.title}>puchi-shichigo</Text>
         <Text style={styles.subtitle}>Word chunk puzzles</Text>
       </View>
@@ -255,8 +261,12 @@ const makeStyles = (c: Colors) => StyleSheet.create({
     alignItems: 'center',
     marginBottom: 20,
   },
-  themeBtn: {
+  topBtns: {
     alignSelf: 'flex-end',
+    flexDirection: 'row',
+    gap: 8,
+  },
+  themeBtn: {
     paddingHorizontal: 12,
     paddingVertical: 6,
     borderRadius: 8,

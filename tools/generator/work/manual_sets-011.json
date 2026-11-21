@@ -1,0 +1,1017 @@
+[
+ {
+  "id": "K01",
+  "category": "themed",
+  "theme": "Star Trek: Deep Space Nine: The Station",
+  "allowProperNouns": true,
+  "words": [
+   "QUARKS",
+   "HOLOSUITE",
+   "WORMHOLE",
+   "TEROKNOR",
+   "PYLONS",
+   "REPLIMAT",
+   "WARDROOM",
+   "RUNABOUT",
+   "DOCKING"
+  ]
+ },
+ {
+  "id": "K03",
+  "category": "themed",
+  "theme": "Star Trek: Deep Space Nine: The War Years",
+  "allowProperNouns": true,
+  "words": [
+   "FOUNDERS",
+   "KETRACEL",
+   "BREEN",
+   "GREATLINK",
+   "CHINTOKA",
+   "BETAZED",
+   "MINEFIELD",
+   "GAMMA",
+   "QUADRANT",
+   "ALLIANCE",
+   "DOMINION"
+  ]
+ },
+ {
+  "id": "K04",
+  "category": "themed",
+  "theme": "Star Trek: Deep Space Nine: Prophets and Pah-wraiths",
+  "allowProperNouns": true,
+  "words": [
+   "PROPHETS",
+   "KAIWINN",
+   "PAHWRAITH",
+   "FIRECAVES",
+   "VEDEK",
+   "BAREIL",
+   "OPAKA",
+   "TEMPLE",
+   "EARRING",
+   "ORBOFTIME",
+   "PROPHECY"
+  ]
+ },
+ {
+  "id": "K05",
+  "category": "themed",
+  "theme": "Star Trek: Deep Space Nine: Rules of Acquisition",
+  "allowProperNouns": true,
+  "words": [
+   "LATINUM",
+   "NAGUS",
+   "ISHKA",
+   "MOOGIE",
+   "LOBES",
+   "ROOTBEER",
+   "PROFIT",
+   "GRANDNAGUS",
+   "ACQUIRE",
+   "MERCHANT",
+   "EXCHANGE",
+   "BARTERING"
+  ]
+ },
+ {
+  "id": "K06",
+  "category": "themed",
+  "theme": "Star Trek: Deep Space Nine: Garak and Odo",
+  "allowProperNouns": true,
+  "words": [
+   "ENABRAN",
+   "BUCKET",
+   "SOLIDS",
+   "SIMPLE",
+   "ELIMGARAK",
+   "SECURITY",
+   "SHAPESHIFT",
+   "EXILE"
+  ]
+ },
+ {
+  "id": "K07",
+  "category": "themed",
+  "theme": "Star Trek: Deep Space Nine: Episodes",
+  "allowProperNouns": true,
+  "words": [
+   "TRIBBLES",
+   "ROSWELL",
+   "BASEBALL",
+   "FONTAINE",
+   "EMISSARY",
+   "BEHIND",
+   "ANGELS",
+   "PALEMOON",
+   "NECESSARY",
+   "IMPROBABLE",
+   "HISWAY"
+  ]
+ },
+ {
+  "id": "K08",
+  "category": "themed",
+  "theme": "Star Trek: Deep Space Nine: Cast and Crew",
+  "allowProperNouns": true,
+  "words": [
+   "FARRELL",
+   "DEBOER",
+   "SIDDIG",
+   "LOFTON",
+   "EISENBERG",
+   "ALAIMO",
+   "PILLER",
+   "BERMAN",
+   "MOORE",
+   "WOLFE",
+   "ARMIN",
+   "PRODUCER",
+   "TELEPLAY",
+   "SYNDICATED"
+  ]
+ },
+ {
+  "id": "K09",
+  "category": "themed",
+  "theme": "Star Trek: Deep Space Nine: Replimat Menu",
+  "allowProperNouns": true,
+  "words": [
+   "RAKTAJINO",
+   "HASPERAT",
+   "JUMJA",
+   "KANAR",
+   "SYNTHEHOL",
+   "PLOMEEK",
+   "TUBEGRUBS",
+   "SLUGLIVER",
+   "ICECREAM"
+  ]
+ },
+ {
+  "id": "K10",
+  "category": "themed",
+  "theme": "Star Trek: Deep Space Nine: Bajor and Beyond",
+  "allowProperNouns": true,
+  "words": [
+   "OCCUPATION",
+   "RESISTANCE",
+   "SHAKAAR",
+   "MARTOK",
+   "MAQUIS",
+   "SISTERS",
+   "INTENDANT",
+   "GRILKA",
+   "SIRELLA"
+  ]
+ },
+ {
+  "id": "L01",
+  "category": "themed",
+  "theme": "Star Trek: Lower Decks: Crew of the Cerritos",
+  "allowProperNouns": true,
+  "words": [
+   "MARINER",
+   "BOIMLER",
+   "TENDI",
+   "RUTHERFORD",
+   "BRADWARD",
+   "FREEMAN",
+   "BILLUPS",
+   "BADGEY",
+   "ALONZO",
+   "ENSIGN",
+   "IMPLANT",
+   "HALLWAY",
+   "PROMOTION",
+   "BRIDGECREW",
+   "DUTYROSTER"
+  ]
+ },
+ {
+  "id": "L03",
+  "category": "themed",
+  "theme": "Star Trek: Lower Decks: Episodes",
+  "allowProperNouns": true,
+  "words": [
+   "TEMPORAL",
+   "EDICT",
+   "MOIST",
+   "VERITAS",
+   "CRISIS",
+   "ENVOYS",
+   "WEJDUJ",
+   "KAYSHON",
+   "DOOPLERS",
+   "GROUNDED",
+   "HUMONGOUS",
+   "REDEMPTION",
+   "FISSURE"
+  ]
+ },
+ {
+  "id": "L04",
+  "category": "themed",
+  "theme": "Star Trek: Lower Decks: Running Gags",
+  "allowProperNouns": true,
+  "words": [
+   "BUFFER",
+   "VINDICTA",
+   "HAMPER",
+   "AGIMUS",
+   "MOOPSY",
+   "LOCARNO",
+   "EXOCOMP",
+   "CETACEAN",
+   "DOLPHINS",
+   "HYSPERIA",
+   "WILLIAM",
+   "RENFAIRE"
+  ]
+ },
+ {
+  "id": "L05",
+  "category": "themed",
+  "theme": "Star Trek: Lower Decks: Cast and Crew",
+  "allowProperNouns": true,
+  "words": [
+   "NEWSOME",
+   "QUAID",
+   "CORDERO",
+   "OCONNELL",
+   "MCMAHAN",
+   "VIGMAN",
+   "NOELWELLS",
+   "ANIMATED",
+   "CARTOON",
+   "PARAMOUNT",
+   "STREAMING",
+   "STORYBOARD"
+  ]
+ },
+ {
+  "id": "L06",
+  "category": "themed",
+  "theme": "Star Trek: Lower Decks: Alien Encounters",
+  "allowProperNouns": true,
+  "words": [
+   "PAKLEDS",
+   "ORIONS",
+   "MUGATO",
+   "TAMARIAN",
+   "CROSSOVER",
+   "PIRATES",
+   "CALIFORNIA",
+   "DROOKMANI",
+   "KZINTI"
+  ]
+ },
+ {
+  "id": "M01",
+  "category": "themed",
+  "theme": "Star Trek: The Next Generation: Bridge Crew",
+  "allowProperNouns": true,
+  "words": [
+   "WESLEY",
+   "GUINAN",
+   "ROLAREN",
+   "BARCLAY",
+   "PULASKI",
+   "ALEXANDER",
+   "DEANNA",
+   "BEVERLY",
+   "LWAXANA",
+   "COUNSELOR",
+   "HELMSMAN",
+   "TACTICAL"
+  ]
+ },
+ {
+  "id": "M02",
+  "category": "themed",
+  "theme": "Star Trek: The Next Generation: Episodes",
+  "allowProperNouns": true,
+  "words": [
+   "INNERLIGHT",
+   "MEASURE",
+   "YESTERDAY",
+   "GOODTHINGS",
+   "FAMILY",
+   "FLUTE",
+   "TIMESARROW",
+   "PARALLELS",
+   "REUNION"
+  ]
+ },
+ {
+  "id": "M03",
+  "category": "themed",
+  "theme": "Star Trek: The Next Generation: Shaka, When the Walls Fell",
+  "allowProperNouns": true,
+  "words": [
+   "DARMOK",
+   "JALAD",
+   "TANAGRA",
+   "SHAKA",
+   "TEMBA",
+   "MIRAB",
+   "SOKATH",
+   "DATHON",
+   "ELADREL",
+   "ENKIDU",
+   "METAPHOR",
+   "UNIVERSAL",
+   "LANGUAGE",
+   "CAMPFIRE"
+  ]
+ },
+ {
+  "id": "M04",
+  "category": "themed",
+  "theme": "Star Trek: The Next Generation: Mister Data",
+  "allowProperNouns": true,
+  "words": [
+   "SOONG",
+   "POSITRONIC",
+   "PINOCCHIO",
+   "SHERLOCK",
+   "ANDROID",
+   "EMOTION",
+   "JULIANA",
+   "SPOTCAT",
+   "DAUGHTER"
+  ]
+ },
+ {
+  "id": "M05",
+  "category": "themed",
+  "theme": "Star Trek: The Next Generation: Picard at Home",
+  "allowProperNouns": true,
+  "words": [
+   "LABARRE",
+   "FENCING",
+   "DIXONHILL",
+   "FACEPALM",
+   "RESSIKAN",
+   "KAMIN",
+   "CHATEAU",
+   "ROBERT",
+   "FRANCE",
+   "MAURICE"
+  ]
+ },
+ {
+  "id": "M06",
+  "category": "themed",
+  "theme": "Star Trek: The Next Generation: Q and Friends",
+  "allowProperNouns": true,
+  "words": [
+   "FARPOINT",
+   "ROBINHOOD",
+   "AMANDA",
+   "OMNIPOTENT",
+   "DELANCIE",
+   "MARIACHI",
+   "SHERWOOD",
+   "TRIAL",
+   "HUMANITY",
+   "COURTROOM",
+   "IMMORTAL",
+   "MISCHIEF",
+   "DEMIGOD"
+  ]
+ },
+ {
+  "id": "M07",
+  "category": "themed",
+  "theme": "Star Trek: The Next Generation: Resistance Is Futile",
+  "allowProperNouns": true,
+  "words": [
+   "COLLECTIVE",
+   "NANOPROBE",
+   "DRONES",
+   "HIVEMIND",
+   "ALCOVE",
+   "BORGCUBE",
+   "UNIMATRIX",
+   "REGENERATE"
+  ]
+ },
+ {
+  "id": "M08",
+  "category": "themed",
+  "theme": "Star Trek: The Next Generation: Holodeck",
+  "allowProperNouns": true,
+  "words": [
+   "SAFETIES",
+   "PROGRAM",
+   "GRIDLINES",
+   "FAIRHAVEN",
+   "SIMULATION",
+   "MINUET",
+   "VICTORIAN"
+  ]
+ },
+ {
+  "id": "M09",
+  "category": "themed",
+  "theme": "Star Trek: The Next Generation: Klingon Honor",
+  "allowProperNouns": true,
+  "words": [
+   "KEHLEYR",
+   "BATLETH",
+   "PRUNEJUICE",
+   "DURAS",
+   "LURSA",
+   "BETOR",
+   "DISHONOR",
+   "KAHLESS",
+   "BLOODWINE"
+  ]
+ },
+ {
+  "id": "M10",
+  "category": "themed",
+  "theme": "Star Trek: The Next Generation: Ship's Systems",
+  "allowProperNouns": true,
+  "words": [
+   "SAUCER",
+   "SEPARATION",
+   "TENFORWARD",
+   "TURBOLIFT",
+   "VISOR",
+   "ANTIMATTER",
+   "STARDATE",
+   "IMPULSE",
+   "VIEWSCREEN",
+   "WARPDRIVE"
+  ]
+ },
+ {
+  "id": "N01",
+  "category": "themed",
+  "theme": "Discworld: City Life",
+  "allowProperNouns": true,
+  "words": [
+   "MORPORK",
+   "UNSEEN",
+   "SHADES",
+   "MENDEDDRUM",
+   "PATRICIAN",
+   "VETINARI",
+   "DIBBLER",
+   "GUILDS"
+  ]
+ },
+ {
+  "id": "N02",
+  "category": "themed",
+  "theme": "Discworld: The Watch",
+  "allowProperNouns": true,
+  "words": [
+   "VIMES",
+   "CARROT",
+   "ANGUA",
+   "DETRITUS",
+   "CHEERY",
+   "CUDDY",
+   "SYBIL",
+   "NOBBY",
+   "COLON",
+   "CORPORAL",
+   "TREACLE",
+   "WATCHHOUSE",
+   "TRUNCHEON",
+   "PIECEMAKER",
+   "CROSSBOW"
+  ]
+ },
+ {
+  "id": "N03",
+  "category": "themed",
+  "theme": "Discworld: Unseen University",
+  "allowProperNouns": true,
+  "words": [
+   "RINCEWIND",
+   "RIDCULLY",
+   "STIBBONS",
+   "BURSAR",
+   "OCTARINE",
+   "OCTAVO",
+   "ORANGUTAN",
+   "WIZZARD",
+   "LECTURER",
+   "RUNES"
+  ]
+ },
+ {
+  "id": "N04",
+  "category": "themed",
+  "theme": "Discworld: Witches",
+  "allowProperNouns": true,
+  "words": [
+   "WEATHERWAX",
+   "MAGRAT",
+   "GARLICK",
+   "TIFFANY",
+   "ACHING",
+   "LANCRE",
+   "GREEBO",
+   "HEADOLOGY",
+   "BROOMSTICK",
+   "FEEGLES"
+  ]
+ },
+ {
+  "id": "N05",
+  "category": "themed",
+  "theme": "Discworld: Death",
+  "allowProperNouns": true,
+  "words": [
+   "ALBERT",
+   "BINKY",
+   "SCYTHE",
+   "SUSAN",
+   "YSABELL",
+   "CURRY",
+   "HOGFATHER",
+   "CAPITALS",
+   "SQUEAK",
+   "KITTENS",
+   "LIFETIMER",
+   "REAPERMAN",
+   "SOULCAKE"
+  ]
+ },
+ {
+  "id": "N06",
+  "category": "themed",
+  "theme": "Discworld: The Disc",
+  "allowProperNouns": true,
+  "words": [
+   "ATUIN",
+   "ELEPHANTS",
+   "BERILIA",
+   "TUBUL",
+   "JERAKEEN",
+   "RIMFALL",
+   "UBERWALD",
+   "QUIRM",
+   "FOURECKS",
+   "HUBLANDS",
+   "TURNWISE",
+   "STARTURTLE",
+   "KLATCHIAN",
+   "DJELIBEYBI",
+   "HERSHEBA",
+   "EPHEBE"
+  ]
+ },
+ {
+  "id": "N07",
+  "category": "themed",
+  "theme": "Discworld: The Shelf",
+  "allowProperNouns": true,
+  "words": [
+   "SOURCERY",
+   "PYRAMIDS",
+   "JINGO",
+   "MASKERADE",
+   "FEETOFCLAY",
+   "EQUALRITES",
+   "GUARDS",
+   "LASTHERO",
+   "COLOUR"
+  ]
+ },
+ {
+  "id": "N08",
+  "category": "themed",
+  "theme": "Discworld: Going Postal",
+  "allowProperNouns": true,
+  "words": [
+   "LIPWIG",
+   "POSTOFFICE",
+   "GOLEMS",
+   "ADORABELLE",
+   "GROAT",
+   "STANLEY",
+   "BANKING",
+   "DEARHEART",
+   "POSTMASTER",
+   "SEMAPHORE"
+  ]
+ },
+ {
+  "id": "N09",
+  "category": "themed",
+  "theme": "Discworld: The Author",
+  "allowProperNouns": true,
+  "words": [
+   "FOOTNOTES",
+   "KIRBY",
+   "KIDBY",
+   "WILTSHIRE",
+   "KNIGHTHOOD",
+   "FEDORA",
+   "TERRY",
+   "JOURNALIST",
+   "OVERHEAD",
+   "BESTSELLER",
+   "SATIRIST"
+  ]
+ },
+ {
+  "id": "N10",
+  "category": "themed",
+  "theme": "Discworld: Creatures",
+  "allowProperNouns": true,
+  "words": [
+   "IGORS",
+   "VAMPIRES",
+   "GARGOYLES",
+   "ERROL",
+   "WEREWOLVES",
+   "GNOMES",
+   "PICTSIES"
+  ]
+ },
+ {
+  "id": "O01",
+  "category": "themed",
+  "theme": "Rick and Morty: The Smiths",
+  "allowProperNouns": true,
+  "words": [
+   "SANCHEZ",
+   "MORTY",
+   "SUMMER",
+   "SPACEBETH",
+   "DIANE",
+   "SNUFFLES",
+   "SNOWBALL",
+   "JERRYSMITH",
+   "GRANDSON",
+   "GRANDPA",
+   "TEENAGER"
+  ]
+ },
+ {
+  "id": "O02",
+  "category": "themed",
+  "theme": "Rick and Morty: Rick's Circle",
+  "allowProperNouns": true,
+  "words": [
+   "BIRDPERSON",
+   "SQUANCHY",
+   "UNITY",
+   "GEARHEAD",
+   "MEESEEKS",
+   "NOOBNOOB",
+   "EVILMORTY",
+   "SCARYTERRY",
+   "SLEEPYGARY",
+   "GOLDENFOLD",
+   "PRINCIPAL",
+   "PHOENIX"
+  ]
+ },
+ {
+  "id": "O04",
+  "category": "themed",
+  "theme": "Rick and Morty: Garage Gadgets",
+  "allowProperNouns": true,
+  "words": [
+   "PORTALGUN",
+   "PLUMBUS",
+   "BUTTER",
+   "MICROVERSE",
+   "CRUISER",
+   "CRONENBERG",
+   "FLUID",
+   "GOGGLES"
+  ]
+ },
+ {
+  "id": "O05",
+  "category": "themed",
+  "theme": "Rick and Morty: Episodes",
+  "allowProperNouns": true,
+  "words": [
+   "ANATOMY",
+   "LAWNMOWER",
+   "RIXTY",
+   "MORTYNIGHT",
+   "RICKLANTIS",
+   "NEEDFUL",
+   "PILOT",
+   "VATOFACID"
+  ]
+ },
+ {
+  "id": "O07",
+  "category": "themed",
+  "theme": "Rick and Morty: Cast and Crew",
+  "allowProperNouns": true,
+  "words": [
+   "ROILAND",
+   "PARNELL",
+   "CHALKE",
+   "GRAMMER",
+   "CARDONI",
+   "BELDEN",
+   "ADULTSWIM",
+   "JUSTIN",
+   "SPENCER",
+   "SHOWRUNNER",
+   "ANIMATOR",
+   "CARTOONIST"
+  ]
+ },
+ {
+  "id": "O08",
+  "category": "themed",
+  "theme": "Rick and Morty: Villains",
+  "allowProperNouns": true,
+  "words": [
+   "RICKPRIME",
+   "PRESIDENT",
+   "ABRADOLF",
+   "HEMORRHAGE",
+   "FEDERATION",
+   "DEVIL",
+   "DOOFUS",
+   "GALACTIC",
+   "CROMULONS",
+   "ZIGERION"
+  ]
+ },
+ {
+  "id": "O09",
+  "category": "themed",
+  "theme": "Rick and Morty: Channel Surfing",
+  "allowProperNouns": true,
+  "words": [
+   "FAKEDOORS",
+   "JOHNSON",
+   "EYEHOLES",
+   "BABYLEGS",
+   "LILBITS",
+   "CABLE",
+   "SMIGGLES"
+  ]
+ },
+ {
+  "id": "O10",
+  "category": "themed",
+  "theme": "Rick and Morty: Snacks and Science",
+  "allowProperNouns": true,
+  "words": [
+   "SZECHUAN",
+   "MCNUGGET",
+   "MEGASEEDS",
+   "MULAN",
+   "KALAXIAN",
+   "DARKMATTER",
+   "FLURBOS"
+  ]
+ },
+ {
+  "id": "P01",
+  "category": "themed",
+  "theme": "They Might Be Giants Lyrics: Side One",
+  "allowProperNouns": true,
+  "words": [
+   "BUSINESS",
+   "MILLIONS",
+   "DIAMONDS",
+   "GLOWING",
+   "NOBODY",
+   "SMALLER",
+   "TURKISH",
+   "MOONLIT",
+   "DELIGHT",
+   "HELIUM",
+   "BLUEBEARD"
+  ]
+ },
+ {
+  "id": "P02",
+  "category": "themed",
+  "theme": "They Might Be Giants Lyrics: Side Two",
+  "allowProperNouns": true,
+  "words": [
+   "DEMOCRATS",
+   "TREASURY",
+   "VANBUREN",
+   "UNICORNS",
+   "PERSON",
+   "OREGON",
+   "OXYGEN",
+   "CARBON",
+   "ELVES",
+   "WAITING",
+   "MINUTE"
+  ]
+ },
+ {
+  "id": "P03",
+  "category": "themed",
+  "theme": "They Might Be Giants Lyrics: Side Three",
+  "allowProperNouns": true,
+  "words": [
+   "GROCERIES",
+   "EXPIRATION",
+   "EXPLOITED",
+   "FRUSTRATED",
+   "PALINDROME",
+   "EMPIRE",
+   "DEVILS",
+   "KIDDING",
+   "WEBBED",
+   "BELGIAN",
+   "DENOTES",
+   "JUNGLE"
+  ]
+ },
+ {
+  "id": "Q01",
+  "category": "themed",
+  "theme": "Condiments: Table Staples",
+  "allowProperNouns": true,
+  "words": [
+   "KETCHUP",
+   "MUSTARD",
+   "RELISH",
+   "AIOLI",
+   "TAHINI",
+   "CHUTNEY",
+   "BARBECUE",
+   "BROWNSAUCE",
+   "HPSAUCE",
+   "STEAKSAUCE"
+  ]
+ },
+ {
+  "id": "Q02",
+  "category": "themed",
+  "theme": "Condiments: Asian Pantry",
+  "allowProperNouns": true,
+  "words": [
+   "SOYSAUCE",
+   "HOISIN",
+   "GOCHUJANG",
+   "SAMBAL",
+   "PONZU",
+   "WASABI",
+   "FURIKAKE",
+   "TERIYAKI",
+   "FISHSAUCE",
+   "SRIRACHA",
+   "TAMARI",
+   "CHILIOIL"
+  ]
+ },
+ {
+  "id": "Q03",
+  "category": "themed",
+  "theme": "Condiments: Pickle Jar",
+  "allowProperNouns": true,
+  "words": [
+   "PICCALILLI",
+   "GHERKIN",
+   "CORNICHON",
+   "CAPERS",
+   "SAUERKRAUT",
+   "KIMCHI",
+   "BRANSTON",
+   "JALAPENO",
+   "CHOWCHOW",
+   "DILLPICKLE"
+  ]
+ },
+ {
+  "id": "Q04",
+  "category": "themed",
+  "theme": "Condiments: Dip It",
+  "allowProperNouns": true,
+  "words": [
+   "GUACAMOLE",
+   "HUMMUS",
+   "TZATZIKI",
+   "QUESO",
+   "SALSA",
+   "TAPENADE",
+   "MUHAMMARA",
+   "LABNEH",
+   "ONIONDIP"
+  ]
+ },
+ {
+  "id": "Q05",
+  "category": "themed",
+  "theme": "Condiments: Bring the Heat",
+  "allowProperNouns": true,
+  "words": [
+   "TABASCO",
+   "CHOLULA",
+   "HABANERO",
+   "SCOVILLE",
+   "CAPSAICIN",
+   "HARISSA",
+   "PIRIPIRI",
+   "VALENTINA",
+   "TAPATIO",
+   "CHIPOTLE",
+   "CAYENNE"
+  ]
+ },
+ {
+  "id": "Q06",
+  "category": "themed",
+  "theme": "Condiments: Salad Days",
+  "allowProperNouns": true,
+  "words": [
+   "THOUSAND",
+   "BLUECHEESE",
+   "ITALIAN",
+   "BALSAMIC",
+   "CATALINA",
+   "RUSSIAN",
+   "VINEGAR",
+   "EMULSION",
+   "CROUTONS"
+  ]
+ },
+ {
+  "id": "Q07",
+  "category": "themed",
+  "theme": "Condiments: Spread the Word",
+  "allowProperNouns": true,
+  "words": [
+   "MARMITE",
+   "VEGEMITE",
+   "NUTELLA",
+   "LEMONCURD",
+   "MARGARINE",
+   "HONEY",
+   "PRESERVES",
+   "COMPOTE",
+   "JELLY"
+  ]
+ },
+ {
+  "id": "Q08",
+  "category": "themed",
+  "theme": "Condiments: Mother Sauces",
+  "allowProperNouns": true,
+  "words": [
+   "BECHAMEL",
+   "VELOUTE",
+   "ESPAGNOLE",
+   "BEARNAISE",
+   "MORNAY",
+   "REMOULADE",
+   "GRAVY",
+   "TARTAR",
+   "HOLLANDAIS"
+  ]
+ },
+ {
+  "id": "Q09",
+  "category": "themed",
+  "theme": "Condiments: World Tour",
+  "allowProperNouns": true,
+  "words": [
+   "ROMESCO",
+   "SALSAVERDE",
+   "CHERMOULA",
+   "AJVAR",
+   "ADOBO",
+   "PESTO",
+   "TKEMALI",
+   "SOFRITO",
+   "GREMOLATA",
+   "ZHOUG"
+  ]
+ },
+ {
+  "id": "Q10",
+  "category": "themed",
+  "theme": "Condiments: Table Service",
+  "allowProperNouns": true,
+  "words": [
+   "PACKET",
+   "DISPENSER",
+   "SQUEEZE",
+   "HEINZ",
+   "LAZYSUSAN",
+   "CRUET",
+   "SHAKER",
+   "PEPPERMILL",
+   "RAMEKIN",
+   "DOLLOP",
+   "DRIZZLE",
+   "GRAVYBOAT"
+  ]
+ }
+]

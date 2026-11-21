@@ -1,6 +1,7 @@
 import { StatusBar } from 'expo-status-bar';
 import React, { useEffect, useMemo } from 'react';
 import {
+  BackHandler,
   Image,
   ScrollView,
   StyleSheet,
@@ -34,6 +35,15 @@ export function GameScreen({ puzzleDef, onBack, onComplete }: Props) {
   useEffect(() => {
     if (isComplete) onComplete();
   }, [isComplete]);
+
+  // Android back button returns to the menu instead of closing the app.
+  useEffect(() => {
+    const sub = BackHandler.addEventListener('hardwareBackPress', () => {
+      onBack();
+      return true;
+    });
+    return () => sub.remove();
+  }, [onBack]);
 
   // Picked once per solve so it doesn't change on re-render.
   const winImage = useMemo(() => (isComplete ? randomWinImage() : null), [isComplete]);

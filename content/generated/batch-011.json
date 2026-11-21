@@ -1,0 +1,5486 @@
+[
+  {
+    "id": "round321",
+    "title": "Round 321",
+    "theme": "Star Trek: Deep Space Nine: The Station",
+    "clueAnswers": [
+      {
+        "clue": "Quark's rentable fantasy room",
+        "answer": "HOLOSUITE",
+        "chunkTexts": [
+          "HOL",
+          "OSU",
+          "ITE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Stable shortcut to the Gamma Quadrant",
+        "answer": "WORMHOLE",
+        "chunkTexts": [
+          "WORM",
+          "HOLE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "The station's Cardassian name",
+        "answer": "TEROKNOR",
+        "chunkTexts": [
+          "TER",
+          "OK",
+          "NOR"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Promenade's self-serve eatery",
+        "answer": "REPLIMAT",
+        "chunkTexts": [
+          "REP",
+          "LI",
+          "MAT"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Officers' meeting room",
+        "answer": "WARDROOM",
+        "chunkTexts": [
+          "WAR",
+          "DRO",
+          "OM"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Small Danube-class shuttle",
+        "answer": "RUNABOUT",
+        "chunkTexts": [
+          "RUNA",
+          "BOUT"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "___ ring, where ships attach",
+        "answer": "DOCKING",
+        "chunkTexts": [
+          "DOC",
+          "KING"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "K01",
+    "scores": {
+      "decoys": 4.0,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 0.0,
+      "anchor_balance": 7.5,
+      "shape": 6.1,
+      "word_appeal": 14.0,
+      "penalties": -19.2,
+      "structure": 12.8,
+      "clue_rating": 13.9,
+      "clue_variety": 4.0,
+      "clue_puns": 0.0,
+      "clue_penalties": -3.0,
+      "clues": 14.9,
+      "structure_scaled": 8.0,
+      "total": 22.9
+    }
+  },
+  {
+    "id": "round322",
+    "title": "Round 322",
+    "theme": "Star Trek: Deep Space Nine: The War Years",
+    "clueAnswers": [
+      {
+        "clue": "Changelings who run the Dominion",
+        "answer": "FOUNDERS",
+        "chunkTexts": [
+          "FO",
+          "UND",
+          "ERS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "___-white, the Jem'Hadar fix",
+        "answer": "KETRACEL",
+        "chunkTexts": [
+          "KET",
+          "RA",
+          "CEL"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Troi's homeworld, occupied in the war",
+        "answer": "BETAZED",
+        "chunkTexts": [
+          "BET",
+          "AZED"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Self-replicating blockade of the wormhole",
+        "answer": "MINEFIELD",
+        "chunkTexts": [
+          "MIN",
+          "EFI",
+          "ELD"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Gamma or Alpha, for instance",
+        "answer": "QUADRANT",
+        "chunkTexts": [
+          "QUAD",
+          "RANT"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Federation-Klingon-Romulan pact",
+        "answer": "ALLIANCE",
+        "chunkTexts": [
+          "ALLI",
+          "ANCE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Gamma Quadrant superpower",
+        "answer": "DOMINION",
+        "chunkTexts": [
+          "DO",
+          "MIN",
+          "ION"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "K03",
+    "scores": {
+      "decoys": 5.7,
+      "tempting_pairs": 0.8,
+      "shared_fragments": 3.8,
+      "anchor_balance": 7.1,
+      "shape": 6.1,
+      "word_appeal": 14.0,
+      "penalties": -13.6,
+      "structure": 23.8,
+      "clue_rating": 11.8,
+      "clue_variety": 4.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 15.8,
+      "structure_scaled": 14.9,
+      "total": 30.7
+    }
+  },
+  {
+    "id": "round323",
+    "title": "Round 323",
+    "theme": "Star Trek: Deep Space Nine: Prophets and Pah-wraiths",
+    "clueAnswers": [
+      {
+        "clue": "Bajor's scheming spiritual leader",
+        "answer": "KAIWINN",
+        "chunkTexts": [
+          "KAI",
+          "WINN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Where the Pah-wraiths were sealed",
+        "answer": "FIRECAVES",
+        "chunkTexts": [
+          "FIR",
+          "ECA",
+          "VES"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Vedek who won Kira's heart",
+        "answer": "BAREIL",
+        "chunkTexts": [
+          "BAR",
+          "EIL"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Celestial ___, the wormhole to Bajorans",
+        "answer": "TEMPLE",
+        "chunkTexts": [
+          "TEM",
+          "PLE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Bajoran ear chain",
+        "answer": "EARRING",
+        "chunkTexts": [
+          "EAR",
+          "RING"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Relic that sent them to Kirk's era",
+        "answer": "ORBOFTIME",
+        "chunkTexts": [
+          "ORB",
+          "OFT",
+          "IME"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "What the Emissary keeps fulfilling",
+        "answer": "PROPHECY",
+        "chunkTexts": [
+          "PRO",
+          "PHE",
+          "CY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "K04",
+    "scores": {
+      "decoys": 2.7,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 2.5,
+      "anchor_balance": 6.7,
+      "shape": 10.0,
+      "word_appeal": 14.0,
+      "penalties": -10.3,
+      "structure": 25.6,
+      "clue_rating": 16.1,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 16.1,
+      "structure_scaled": 16.0,
+      "total": 32.1
+    }
+  },
+  {
+    "id": "round324",
+    "title": "Round 324",
+    "theme": "Star Trek: Deep Space Nine: Rules of Acquisition",
+    "clueAnswers": [
+      {
+        "clue": "Gold-pressed currency",
+        "answer": "LATINUM",
+        "chunkTexts": [
+          "LAT",
+          "INUM"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Quark's word for Mom",
+        "answer": "MOOGIE",
+        "chunkTexts": [
+          "MOO",
+          "GIE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Ferengi pride, on each side",
+        "answer": "LOBES",
+        "chunkTexts": [
+          "LOB",
+          "ES"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Ferengi religion, basically",
+        "answer": "PROFIT",
+        "chunkTexts": [
+          "PRO",
+          "FIT"
+        ],
+        "clueType": "pun",
+        "clueRating": 3
+      },
+      {
+        "clue": "Zek's title",
+        "answer": "GRANDNAGUS",
+        "chunkTexts": [
+          "GRAN",
+          "DNA",
+          "GUS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "What the Rules are all about",
+        "answer": "ACQUIRE",
+        "chunkTexts": [
+          "AC",
+          "QUI",
+          "RE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Trading without latinum",
+        "answer": "BARTERING",
+        "chunkTexts": [
+          "BAR",
+          "TER",
+          "ING"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "K05",
+    "scores": {
+      "decoys": 9.8,
+      "tempting_pairs": 2.0,
+      "shared_fragments": 0.0,
+      "anchor_balance": 6.9,
+      "shape": 9.1,
+      "word_appeal": 14.0,
+      "penalties": -15.7,
+      "structure": 26.1,
+      "clue_rating": 9.6,
+      "clue_variety": 8.0,
+      "clue_puns": 3.0,
+      "clue_penalties": 0.0,
+      "clues": 20.6,
+      "structure_scaled": 16.3,
+      "total": 36.9
+    }
+  },
+  {
+    "id": "round325",
+    "title": "Round 325",
+    "theme": "Star Trek: Deep Space Nine: Garak and Odo",
+    "clueAnswers": [
+      {
+        "clue": "Tain's first name, Garak's father",
+        "answer": "ENABRAN",
+        "chunkTexts": [
+          "ENAB",
+          "RAN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Odo's word for everyone else",
+        "answer": "SOLIDS",
+        "chunkTexts": [
+          "SOL",
+          "IDS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Plain, ___ Garak",
+        "answer": "SIMPLE",
+        "chunkTexts": [
+          "SIM",
+          "PLE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "The station's tailor, in full",
+        "answer": "ELIMGARAK",
+        "chunkTexts": [
+          "ELIM",
+          "GAR",
+          "AK"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Odo's department",
+        "answer": "SECURITY",
+        "chunkTexts": [
+          "SEC",
+          "URI",
+          "TY"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      },
+      {
+        "clue": "Odo's party trick",
+        "answer": "SHAPESHIFT",
+        "chunkTexts": [
+          "SHA",
+          "PES",
+          "HIFT"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      },
+      {
+        "clue": "Garak's status on the station",
+        "answer": "EXILE",
+        "chunkTexts": [
+          "EXI",
+          "LE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "K06",
+    "scores": {
+      "decoys": 5.0,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 0.0,
+      "anchor_balance": 7.1,
+      "shape": 7.9,
+      "word_appeal": 14.0,
+      "penalties": -14.6,
+      "structure": 19.8,
+      "clue_rating": 9.6,
+      "clue_variety": 4.0,
+      "clue_puns": 0.0,
+      "clue_penalties": -4.0,
+      "clues": 9.6,
+      "structure_scaled": 12.4,
+      "total": 22.0
+    }
+  },
+  {
+    "id": "round326",
+    "title": "Round 326",
+    "theme": "Star Trek: Deep Space Nine: Episodes",
+    "clueAnswers": [
+      {
+        "clue": "Trials and ___-ations",
+        "answer": "TRIBBLES",
+        "chunkTexts": [
+          "TRIB",
+          "BLES"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Vic, the holographic crooner",
+        "answer": "FONTAINE",
+        "chunkTexts": [
+          "FON",
+          "TA",
+          "INE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Pilot, and Sisko's role",
+        "answer": "EMISSARY",
+        "chunkTexts": [
+          "EM",
+          "ISS",
+          "ARY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "What You Leave ___, the finale",
+        "answer": "BEHIND",
+        "chunkTexts": [
+          "BEH",
+          "IND"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Sacrifice of ___",
+        "answer": "ANGELS",
+        "chunkTexts": [
+          "ANG",
+          "ELS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "___ Evil, an Occupation mystery",
+        "answer": "NECESSARY",
+        "chunkTexts": [
+          "NEC",
+          "ESS",
+          "ARY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "___ Cause, a Garak caper",
+        "answer": "IMPROBABLE",
+        "chunkTexts": [
+          "IMP",
+          "ROBA",
+          "BLE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "K07",
+    "scores": {
+      "decoys": 2.8,
+      "tempting_pairs": 0.8,
+      "shared_fragments": 6.2,
+      "anchor_balance": 7.0,
+      "shape": 10.4,
+      "word_appeal": 14.0,
+      "penalties": -12.4,
+      "structure": 28.9,
+      "clue_rating": 20.4,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 20.4,
+      "structure_scaled": 18.1,
+      "total": 38.5
+    }
+  },
+  {
+    "id": "round327",
+    "title": "Round 327",
+    "theme": "Star Trek: Deep Space Nine: Cast and Crew",
+    "clueAnswers": [
+      {
+        "clue": "Michael, co-creator",
+        "answer": "PILLER",
+        "chunkTexts": [
+          "PIL",
+          "LER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Rick, co-creator",
+        "answer": "BERMAN",
+        "chunkTexts": [
+          "BER",
+          "MAN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Mr Shimerman, behind the lobes",
+        "answer": "ARMIN",
+        "chunkTexts": [
+          "ARM",
+          "IN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "How it aired, off-network",
+        "answer": "SYNDICATED",
+        "chunkTexts": [
+          "SYN",
+          "DIC",
+          "ATED"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Script credit for TV",
+        "answer": "TELEPLAY",
+        "chunkTexts": [
+          "TEL",
+          "EP",
+          "LAY"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Behr's executive title",
+        "answer": "PRODUCER",
+        "chunkTexts": [
+          "PRO",
+          "DUC",
+          "ER"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      },
+      {
+        "clue": "Alexander, the doctor's actor",
+        "answer": "SIDDIG",
+        "chunkTexts": [
+          "SID",
+          "DIG"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "K08",
+    "scores": {
+      "decoys": 8.7,
+      "tempting_pairs": 3.6,
+      "shared_fragments": 3.8,
+      "anchor_balance": 7.2,
+      "shape": 10.0,
+      "word_appeal": 14.0,
+      "penalties": -17.3,
+      "structure": 30.0,
+      "clue_rating": 11.8,
+      "clue_variety": 4.0,
+      "clue_puns": 0.0,
+      "clue_penalties": -2.0,
+      "clues": 13.8,
+      "structure_scaled": 18.8,
+      "total": 32.6
+    }
+  },
+  {
+    "id": "round328",
+    "title": "Round 328",
+    "theme": "Star Trek: Deep Space Nine: Replimat Menu",
+    "clueAnswers": [
+      {
+        "clue": "Klingon coffee, Kira's order",
+        "answer": "RAKTAJINO",
+        "chunkTexts": [
+          "RAK",
+          "TAJ",
+          "INO"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Spicy Bajoran wrap that makes you cry",
+        "answer": "HASPERAT",
+        "chunkTexts": [
+          "HAS",
+          "PER",
+          "AT"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Bajoran sweet on a stick",
+        "answer": "JUMJA",
+        "chunkTexts": [
+          "JUM",
+          "JA"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Booze without the hangover",
+        "answer": "SYNTHEHOL",
+        "chunkTexts": [
+          "SYN",
+          "THE",
+          "HOL"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Vulcan soup",
+        "answer": "PLOMEEK",
+        "chunkTexts": [
+          "PLOM",
+          "EEK"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Ferengi menu item, for the brave",
+        "answer": "SLUGLIVER",
+        "chunkTexts": [
+          "SLU",
+          "GLI",
+          "VER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Jake's sundae base",
+        "answer": "ICECREAM",
+        "chunkTexts": [
+          "ICE",
+          "CRE",
+          "AM"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "K09",
+    "scores": {
+      "decoys": 3.2,
+      "tempting_pairs": 0.8,
+      "shared_fragments": 1.2,
+      "anchor_balance": 6.5,
+      "shape": 12.0,
+      "word_appeal": 14.0,
+      "penalties": -17.3,
+      "structure": 20.4,
+      "clue_rating": 13.9,
+      "clue_variety": 4.0,
+      "clue_puns": 0.0,
+      "clue_penalties": -2.0,
+      "clues": 15.9,
+      "structure_scaled": 12.8,
+      "total": 28.7
+    }
+  },
+  {
+    "id": "round329",
+    "title": "Round 329",
+    "theme": "Star Trek: Deep Space Nine: Bajor and Beyond",
+    "clueAnswers": [
+      {
+        "clue": "Cardassia's decades on Bajor",
+        "answer": "OCCUPATION",
+        "chunkTexts": [
+          "OCCU",
+          "PAT",
+          "ION"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Kira's old cell, in general",
+        "answer": "RESISTANCE",
+        "chunkTexts": [
+          "RES",
+          "IST",
+          "ANCE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Resistance leader turned First Minister",
+        "answer": "SHAKAAR",
+        "chunkTexts": [
+          "SHAK",
+          "AAR"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "One-eyed Klingon general",
+        "answer": "MARTOK",
+        "chunkTexts": [
+          "MAR",
+          "TOK"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Rebels in the Demilitarized Zone",
+        "answer": "MAQUIS",
+        "chunkTexts": [
+          "MA",
+          "QUIS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Mirror Kira's title",
+        "answer": "INTENDANT",
+        "chunkTexts": [
+          "INT",
+          "END",
+          "ANT"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Martok's formidable wife",
+        "answer": "SIRELLA",
+        "chunkTexts": [
+          "SIR",
+          "ELLA"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "K10",
+    "scores": {
+      "decoys": 4.4,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 2.5,
+      "anchor_balance": 6.7,
+      "shape": 7.9,
+      "word_appeal": 14.0,
+      "penalties": -11.9,
+      "structure": 24.0,
+      "clue_rating": 16.1,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 16.1,
+      "structure_scaled": 15.0,
+      "total": 31.1
+    }
+  },
+  {
+    "id": "round330",
+    "title": "Round 330",
+    "theme": "Star Trek: Lower Decks: Crew of the Cerritos",
+    "clueAnswers": [
+      {
+        "clue": "List of who does what",
+        "answer": "DUTYROSTER",
+        "chunkTexts": [
+          "DU",
+          "TYR",
+          "OST",
+          "ER"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Lowest officer rank",
+        "answer": "ENSIGN",
+        "chunkTexts": [
+          "ENS",
+          "IGN"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      },
+      {
+        "clue": "Rule-breaking ensign, captain's daughter",
+        "answer": "MARINER",
+        "chunkTexts": [
+          "MAR",
+          "INER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Rutherford's head hardware",
+        "answer": "IMPLANT",
+        "chunkTexts": [
+          "IMP",
+          "LANT"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Captain Carol",
+        "answer": "FREEMAN",
+        "chunkTexts": [
+          "FRE",
+          "EMAN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Engineer with a cyborg implant",
+        "answer": "RUTHERFORD",
+        "chunkTexts": [
+          "RUTH",
+          "ERF",
+          "ORD"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Lieutenant, junior grade, finally",
+        "answer": "PROMOTION",
+        "chunkTexts": [
+          "PRO",
+          "MOT",
+          "ION"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "L01",
+    "scores": {
+      "decoys": 5.0,
+      "tempting_pairs": 1.6,
+      "shared_fragments": 1.2,
+      "anchor_balance": 7.5,
+      "shape": 9.3,
+      "word_appeal": 14.0,
+      "penalties": -12.7,
+      "structure": 26.0,
+      "clue_rating": 5.4,
+      "clue_variety": 4.0,
+      "clue_puns": 0.0,
+      "clue_penalties": -2.0,
+      "clues": 7.4,
+      "structure_scaled": 16.2,
+      "total": 23.6
+    }
+  },
+  {
+    "id": "round331",
+    "title": "Round 331",
+    "theme": "Star Trek: Lower Decks: Episodes",
+    "clueAnswers": [
+      {
+        "clue": "___ Vessel",
+        "answer": "MOIST",
+        "chunkTexts": [
+          "MO",
+          "IST"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "The Spy ___",
+        "answer": "HUMONGOUS",
+        "chunkTexts": [
+          "HUM",
+          "ONG",
+          "OUS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "A Mathematically Perfect ___",
+        "answer": "REDEMPTION",
+        "chunkTexts": [
+          "RED",
+          "EMP",
+          "TION"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "___ Point, Mariner's movie",
+        "answer": "CRISIS",
+        "chunkTexts": [
+          "CRI",
+          "SIS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "___ Edict, about buffer time",
+        "answer": "TEMPORAL",
+        "chunkTexts": [
+          "TEM",
+          "PO",
+          "RAL"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Season three opener, stuck on Earth",
+        "answer": "GROUNDED",
+        "chunkTexts": [
+          "GRO",
+          "UND",
+          "ED"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Courtroom episode, Latin for truth",
+        "answer": "VERITAS",
+        "chunkTexts": [
+          "VERI",
+          "TAS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "L03",
+    "scores": {
+      "decoys": 9.2,
+      "tempting_pairs": 1.6,
+      "shared_fragments": 0.0,
+      "anchor_balance": 7.5,
+      "shape": 10.4,
+      "word_appeal": 14.0,
+      "penalties": -13.0,
+      "structure": 29.7,
+      "clue_rating": 22.5,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 22.5,
+      "structure_scaled": 18.6,
+      "total": 41.1
+    }
+  },
+  {
+    "id": "round332",
+    "title": "Round 332",
+    "theme": "Star Trek: Lower Decks: Running Gags",
+    "clueAnswers": [
+      {
+        "clue": "___ time, mandated chill",
+        "answer": "BUFFER",
+        "chunkTexts": [
+          "BUF",
+          "FER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Peanut ___, rogue exocomp",
+        "answer": "HAMPER",
+        "chunkTexts": [
+          "HAM",
+          "PER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Cute, deadly blob",
+        "answer": "MOOPSY",
+        "chunkTexts": [
+          "MOO",
+          "PSY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Peanut Hamper's kind",
+        "answer": "EXOCOMP",
+        "chunkTexts": [
+          "EXO",
+          "COMP"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "___ Ops, whale department",
+        "answer": "CETACEAN",
+        "chunkTexts": [
+          "CE",
+          "TAC",
+          "EAN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Billups's Ren Faire homeworld",
+        "answer": "HYSPERIA",
+        "chunkTexts": [
+          "HYS",
+          "PER",
+          "IA"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Hysperia's vibe, essentially",
+        "answer": "RENFAIRE",
+        "chunkTexts": [
+          "REN",
+          "FAI",
+          "RE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "L04",
+    "scores": {
+      "decoys": 1.2,
+      "tempting_pairs": 2.4,
+      "shared_fragments": 3.8,
+      "anchor_balance": 7.0,
+      "shape": 9.0,
+      "word_appeal": 14.0,
+      "penalties": -16.3,
+      "structure": 21.0,
+      "clue_rating": 18.2,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 18.2,
+      "structure_scaled": 13.1,
+      "total": 31.3
+    }
+  },
+  {
+    "id": "round333",
+    "title": "Round 333",
+    "theme": "Star Trek: Lower Decks: Cast and Crew",
+    "clueAnswers": [
+      {
+        "clue": "Tawny, voice of Mariner",
+        "answer": "NEWSOME",
+        "chunkTexts": [
+          "NEW",
+          "SOME"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Jack, voice of Boimler",
+        "answer": "QUAID",
+        "chunkTexts": [
+          "QUA",
+          "ID"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Mike, the creator",
+        "answer": "MCMAHAN",
+        "chunkTexts": [
+          "MCMA",
+          "HAN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Gillian, voice of the cat doctor",
+        "answer": "VIGMAN",
+        "chunkTexts": [
+          "VIG",
+          "MAN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Like the show, unlike TNG",
+        "answer": "ANIMATED",
+        "chunkTexts": [
+          "ANI",
+          "MAT",
+          "ED"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      },
+      {
+        "clue": "Studio behind the show",
+        "answer": "PARAMOUNT",
+        "chunkTexts": [
+          "PAR",
+          "AMO",
+          "UNT"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "How it airs",
+        "answer": "STREAMING",
+        "chunkTexts": [
+          "STRE",
+          "AM",
+          "ING"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "L05",
+    "scores": {
+      "decoys": 7.0,
+      "tempting_pairs": 2.8,
+      "shared_fragments": 2.5,
+      "anchor_balance": 6.8,
+      "shape": 7.9,
+      "word_appeal": 14.0,
+      "penalties": -17.2,
+      "structure": 23.9,
+      "clue_rating": 11.8,
+      "clue_variety": 4.0,
+      "clue_puns": 0.0,
+      "clue_penalties": -4.0,
+      "clues": 11.8,
+      "structure_scaled": 14.9,
+      "total": 26.7
+    }
+  },
+  {
+    "id": "round334",
+    "title": "Round 334",
+    "theme": "Star Trek: Lower Decks: Alien Encounters",
+    "clueAnswers": [
+      {
+        "clue": "Tendi's people, green and rich",
+        "answer": "ORIONS",
+        "chunkTexts": [
+          "ORI",
+          "ONS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "White ape with a horn",
+        "answer": "MUGATO",
+        "chunkTexts": [
+          "MUG",
+          "ATO"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Speaker in metaphors",
+        "answer": "TAMARIAN",
+        "chunkTexts": [
+          "TAM",
+          "ARI",
+          "AN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Strange New Worlds team-up",
+        "answer": "CROSSOVER",
+        "chunkTexts": [
+          "CROS",
+          "SO",
+          "VER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Orion business, stereotypically",
+        "answer": "PIRATES",
+        "chunkTexts": [
+          "PIRA",
+          "TES"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Class of the Cerritos",
+        "answer": "CALIFORNIA",
+        "chunkTexts": [
+          "CAL",
+          "IFOR",
+          "NIA"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Cat-warriors from the animated era",
+        "answer": "KZINTI",
+        "chunkTexts": [
+          "KZIN",
+          "TI"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "L06",
+    "scores": {
+      "decoys": 2.2,
+      "tempting_pairs": 1.6,
+      "shared_fragments": 1.2,
+      "anchor_balance": 4.2,
+      "shape": 6.8,
+      "word_appeal": 14.0,
+      "penalties": -15.0,
+      "structure": 15.0,
+      "clue_rating": 11.8,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 11.8,
+      "structure_scaled": 9.4,
+      "total": 21.2
+    }
+  },
+  {
+    "id": "round335",
+    "title": "Round 335",
+    "theme": "Star Trek: The Next Generation: Bridge Crew",
+    "clueAnswers": [
+      {
+        "clue": "Ensign told to shut up",
+        "answer": "WESLEY",
+        "chunkTexts": [
+          "WES",
+          "LEY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Ten Forward's wise hostess",
+        "answer": "GUINAN",
+        "chunkTexts": [
+          "GUI",
+          "NAN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Holo-addicted engineer Reg",
+        "answer": "BARCLAY",
+        "chunkTexts": [
+          "BARC",
+          "LAY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Worf's son",
+        "answer": "ALEXANDER",
+        "chunkTexts": [
+          "ALE",
+          "XAN",
+          "DER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Troi's first name",
+        "answer": "DEANNA",
+        "chunkTexts": [
+          "DE",
+          "ANNA"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Troi's job",
+        "answer": "COUNSELOR",
+        "chunkTexts": [
+          "COUN",
+          "SEL",
+          "OR"
+        ],
+        "clueType": "trivia",
+        "clueRating": 2
+      },
+      {
+        "clue": "Worf's station",
+        "answer": "TACTICAL",
+        "chunkTexts": [
+          "TAC",
+          "TIC",
+          "AL"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "M01",
+    "scores": {
+      "decoys": 8.4,
+      "tempting_pairs": 2.0,
+      "shared_fragments": 2.5,
+      "anchor_balance": 4.2,
+      "shape": 7.9,
+      "word_appeal": 14.0,
+      "penalties": -13.3,
+      "structure": 25.7,
+      "clue_rating": 5.4,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": -2.0,
+      "clues": 3.4,
+      "structure_scaled": 16.1,
+      "total": 19.5
+    }
+  },
+  {
+    "id": "round336",
+    "title": "Round 336",
+    "theme": "Star Trek: The Next Generation: Episodes",
+    "clueAnswers": [
+      {
+        "clue": "Picard lives a lifetime on Kataan",
+        "answer": "INNERLIGHT",
+        "chunkTexts": [
+          "IN",
+          "NERL",
+          "IGHT"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "The ___ of a Man",
+        "answer": "MEASURE",
+        "chunkTexts": [
+          "MEA",
+          "SURE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "___'s Enterprise, Tasha returns",
+        "answer": "YESTERDAY",
+        "chunkTexts": [
+          "YE",
+          "STER",
+          "DAY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Picard heals in France",
+        "answer": "FAMILY",
+        "chunkTexts": [
+          "FAM",
+          "ILY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Instrument from the Kataan probe",
+        "answer": "FLUTE",
+        "chunkTexts": [
+          "FLU",
+          "TE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Two-parter with Mark Twain",
+        "answer": "TIMESARROW",
+        "chunkTexts": [
+          "TIME",
+          "SAR",
+          "ROW"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Worf slips between quantum realities",
+        "answer": "PARALLELS",
+        "chunkTexts": [
+          "PAR",
+          "ALL",
+          "ELS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "M02",
+    "scores": {
+      "decoys": 3.7,
+      "tempting_pairs": 1.2,
+      "shared_fragments": 1.2,
+      "anchor_balance": 6.3,
+      "shape": 7.1,
+      "word_appeal": 14.0,
+      "penalties": -16.7,
+      "structure": 16.8,
+      "clue_rating": 16.1,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 16.1,
+      "structure_scaled": 10.5,
+      "total": 26.6
+    }
+  },
+  {
+    "id": "round337",
+    "title": "Round 337",
+    "theme": "Star Trek: The Next Generation: Shaka, When the Walls Fell",
+    "clueAnswers": [
+      {
+        "clue": "Tamarian captain who gave his life",
+        "answer": "DATHON",
+        "chunkTexts": [
+          "DAT",
+          "HON"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "How Tamarians talk",
+        "answer": "METAPHOR",
+        "chunkTexts": [
+          "MET",
+          "APH",
+          "OR"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Darmok's partner at Tanagra",
+        "answer": "JALAD",
+        "chunkTexts": [
+          "JA",
+          "LAD"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "The episode's real puzzle",
+        "answer": "LANGUAGE",
+        "chunkTexts": [
+          "LAN",
+          "GUA",
+          "GE"
+        ],
+        "clueType": "evocative",
+        "clueRating": 3
+      },
+      {
+        "clue": "___ translator, stumped",
+        "answer": "UNIVERSAL",
+        "chunkTexts": [
+          "UNI",
+          "VER",
+          "SAL"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Hero of a Tamarian tale",
+        "answer": "DARMOK",
+        "chunkTexts": [
+          "DAR",
+          "MOK"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Where Darmok met Jalad",
+        "answer": "TANAGRA",
+        "chunkTexts": [
+          "TAN",
+          "AGRA"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "M03",
+    "scores": {
+      "decoys": 2.3,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 3.8,
+      "anchor_balance": 6.7,
+      "shape": 10.0,
+      "word_appeal": 14.0,
+      "penalties": -15.6,
+      "structure": 21.6,
+      "clue_rating": 13.9,
+      "clue_variety": 4.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 17.9,
+      "structure_scaled": 13.5,
+      "total": 31.4
+    }
+  },
+  {
+    "id": "round338",
+    "title": "Round 338",
+    "theme": "Star Trek: The Next Generation: Mister Data",
+    "clueAnswers": [
+      {
+        "clue": "Data's maker, Noonien",
+        "answer": "SOONG",
+        "chunkTexts": [
+          "SO",
+          "ONG"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Data's brain type",
+        "answer": "POSITRONIC",
+        "chunkTexts": [
+          "POS",
+          "ITRO",
+          "NIC"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Riker's nickname for Data",
+        "answer": "PINOCCHIO",
+        "chunkTexts": [
+          "PIN",
+          "OC",
+          "CHIO"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Data, technically",
+        "answer": "ANDROID",
+        "chunkTexts": [
+          "AND",
+          "ROID"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      },
+      {
+        "clue": "___ chip, Data's upgrade",
+        "answer": "EMOTION",
+        "chunkTexts": [
+          "EMO",
+          "TION"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Data's pet, described",
+        "answer": "SPOTCAT",
+        "chunkTexts": [
+          "SPOT",
+          "CAT"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Lal, to Data",
+        "answer": "DAUGHTER",
+        "chunkTexts": [
+          "DA",
+          "UGH",
+          "TER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "M04",
+    "scores": {
+      "decoys": 3.3,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 0.0,
+      "anchor_balance": 4.1,
+      "shape": 5.6,
+      "word_appeal": 14.0,
+      "penalties": -15.8,
+      "structure": 11.6,
+      "clue_rating": 11.8,
+      "clue_variety": 8.0,
+      "clue_puns": 3.0,
+      "clue_penalties": -2.0,
+      "clues": 20.8,
+      "structure_scaled": 7.2,
+      "total": 28.0
+    }
+  },
+  {
+    "id": "round339",
+    "title": "Round 339",
+    "theme": "Star Trek: The Next Generation: Picard at Home",
+    "clueAnswers": [
+      {
+        "clue": "Picard's French home village",
+        "answer": "LABARRE",
+        "chunkTexts": [
+          "LAB",
+          "ARRE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Picard's sword sport",
+        "answer": "FENCING",
+        "chunkTexts": [
+          "FEN",
+          "CING"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Picard's holodeck gumshoe",
+        "answer": "DIXONHILL",
+        "chunkTexts": [
+          "DI",
+          "XON",
+          "HILL"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Picard's famous gesture, meme-wise",
+        "answer": "FACEPALM",
+        "chunkTexts": [
+          "FAC",
+          "EP",
+          "ALM"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Kind of flute Picard plays",
+        "answer": "RESSIKAN",
+        "chunkTexts": [
+          "RES",
+          "SI",
+          "KAN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "___ Picard, the family vintage",
+        "answer": "CHATEAU",
+        "chunkTexts": [
+          "CHA",
+          "TEAU"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Picard's grumpy vintner brother",
+        "answer": "ROBERT",
+        "chunkTexts": [
+          "ROB",
+          "ERT"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "M05",
+    "scores": {
+      "decoys": 0.0,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 0.0,
+      "anchor_balance": 7.0,
+      "shape": 6.8,
+      "word_appeal": 14.0,
+      "penalties": -17.7,
+      "structure": 10.1,
+      "clue_rating": 20.4,
+      "clue_variety": 4.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 24.4,
+      "structure_scaled": 6.3,
+      "total": 30.7
+    }
+  },
+  {
+    "id": "round340",
+    "title": "Round 340",
+    "theme": "Star Trek: The Next Generation: Resistance Is Futile",
+    "clueAnswers": [
+      {
+        "clue": "The Borg, as one",
+        "answer": "COLLECTIVE",
+        "chunkTexts": [
+          "COL",
+          "LECT",
+          "IVE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Tiny agent of assimilation",
+        "answer": "NANOPROBE",
+        "chunkTexts": [
+          "NAN",
+          "OP",
+          "ROBE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Borg worker bees",
+        "answer": "DRONES",
+        "chunkTexts": [
+          "DRO",
+          "NES"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "One brain for a cube",
+        "answer": "HIVEMIND",
+        "chunkTexts": [
+          "HI",
+          "VEM",
+          "IND"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Where drones regenerate",
+        "answer": "ALCOVE",
+        "chunkTexts": [
+          "ALCO",
+          "VE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Seven of Nine's ___ 01 designation",
+        "answer": "UNIMATRIX",
+        "chunkTexts": [
+          "UNI",
+          "MAT",
+          "RIX"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Borg version of sleep",
+        "answer": "REGENERATE",
+        "chunkTexts": [
+          "REG",
+          "ENER",
+          "ATE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "M07",
+    "scores": {
+      "decoys": 4.3,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 0.0,
+      "anchor_balance": 7.3,
+      "shape": 9.6,
+      "word_appeal": 14.0,
+      "penalties": -15.2,
+      "structure": 20.5,
+      "clue_rating": 11.8,
+      "clue_variety": 4.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 15.8,
+      "structure_scaled": 12.8,
+      "total": 28.6
+    }
+  },
+  {
+    "id": "round341",
+    "title": "Round 341",
+    "theme": "Star Trek: The Next Generation: Holodeck",
+    "clueAnswers": [
+      {
+        "clue": "Always failing, holodeck-wise",
+        "answer": "SAFETIES",
+        "chunkTexts": [
+          "SAF",
+          "ETI",
+          "ES"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Computer, end ___",
+        "answer": "PROGRAM",
+        "chunkTexts": [
+          "PRO",
+          "GRAM"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Yellow grid on a resting holodeck",
+        "answer": "GRIDLINES",
+        "chunkTexts": [
+          "GRID",
+          "LIN",
+          "ES"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Voyager's Irish holo-village",
+        "answer": "FAIRHAVEN",
+        "chunkTexts": [
+          "FAI",
+          "RHA",
+          "VEN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Every holodeck story",
+        "answer": "SIMULATION",
+        "chunkTexts": [
+          "SIM",
+          "ULA",
+          "TION"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      },
+      {
+        "clue": "Riker's too-perfect holo-woman",
+        "answer": "MINUET",
+        "chunkTexts": [
+          "MIN",
+          "UET"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Era of Moriarty's London",
+        "answer": "VICTORIAN",
+        "chunkTexts": [
+          "VIC",
+          "TOR",
+          "IAN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "M08",
+    "scores": {
+      "decoys": 6.0,
+      "tempting_pairs": 1.2,
+      "shared_fragments": 3.8,
+      "anchor_balance": 6.7,
+      "shape": 11.7,
+      "word_appeal": 14.0,
+      "penalties": -12.3,
+      "structure": 31.1,
+      "clue_rating": 13.9,
+      "clue_variety": 4.0,
+      "clue_puns": 0.0,
+      "clue_penalties": -5.0,
+      "clues": 12.9,
+      "structure_scaled": 19.4,
+      "total": 32.3
+    }
+  },
+  {
+    "id": "round342",
+    "title": "Round 342",
+    "theme": "Star Trek: The Next Generation: Klingon Honor",
+    "clueAnswers": [
+      {
+        "clue": "Worf's half-Klingon love",
+        "answer": "KEHLEYR",
+        "chunkTexts": [
+          "KEH",
+          "LEYR"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Curved Klingon sword",
+        "answer": "BATLETH",
+        "chunkTexts": [
+          "BAT",
+          "LETH"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Worf's warrior's drink",
+        "answer": "PRUNEJUICE",
+        "chunkTexts": [
+          "PRUN",
+          "EJU",
+          "ICE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Lursa's sister",
+        "answer": "BETOR",
+        "chunkTexts": [
+          "BET",
+          "OR"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Discommendation brings it",
+        "answer": "DISHONOR",
+        "chunkTexts": [
+          "DIS",
+          "HON",
+          "OR"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "The Unforgettable, cloned",
+        "answer": "KAHLESS",
+        "chunkTexts": [
+          "KAH",
+          "LESS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Klingon party pour",
+        "answer": "BLOODWINE",
+        "chunkTexts": [
+          "BLO",
+          "ODWI",
+          "NE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "M09",
+    "scores": {
+      "decoys": 0.3,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 5.0,
+      "anchor_balance": 0.0,
+      "shape": 5.6,
+      "word_appeal": 14.0,
+      "penalties": -17.1,
+      "structure": 7.8,
+      "clue_rating": 16.1,
+      "clue_variety": 4.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 20.1,
+      "structure_scaled": 4.9,
+      "total": 25.0
+    }
+  },
+  {
+    "id": "round343",
+    "title": "Round 343",
+    "theme": "Star Trek: The Next Generation: Ship's Systems",
+    "clueAnswers": [
+      {
+        "clue": "Separable section",
+        "answer": "SAUCER",
+        "chunkTexts": [
+          "SAU",
+          "CER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Guinan's lounge",
+        "answer": "TENFORWARD",
+        "chunkTexts": [
+          "TEN",
+          "FOR",
+          "WARD"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Elevator, Starfleet-style",
+        "answer": "TURBOLIFT",
+        "chunkTexts": [
+          "TUR",
+          "BOL",
+          "IFT"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Geordi's eye-wear",
+        "answer": "VISOR",
+        "chunkTexts": [
+          "VI",
+          "SOR"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Warp core fuel's half",
+        "answer": "ANTIMATTER",
+        "chunkTexts": [
+          "ANT",
+          "IMAT",
+          "TER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Sub-light engines",
+        "answer": "IMPULSE",
+        "chunkTexts": [
+          "IMP",
+          "ULSE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Bridge's big display",
+        "answer": "VIEWSCREEN",
+        "chunkTexts": [
+          "VI",
+          "EWS",
+          "CRE",
+          "EN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "M10",
+    "scores": {
+      "decoys": 7.3,
+      "tempting_pairs": 1.2,
+      "shared_fragments": 7.5,
+      "anchor_balance": 7.3,
+      "shape": 10.7,
+      "word_appeal": 14.0,
+      "penalties": -17.1,
+      "structure": 31.0,
+      "clue_rating": 7.5,
+      "clue_variety": 4.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 11.5,
+      "structure_scaled": 19.4,
+      "total": 30.9
+    }
+  },
+  {
+    "id": "round344",
+    "title": "Round 344",
+    "theme": "Discworld: City Life",
+    "clueAnswers": [
+      {
+        "clue": "Ankh's twin, across the river",
+        "answer": "MORPORK",
+        "chunkTexts": [
+          "MORP",
+          "ORK"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "___ University, for wizards",
+        "answer": "UNSEEN",
+        "chunkTexts": [
+          "UNS",
+          "EEN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Slum you don't walk alone",
+        "answer": "SHADES",
+        "chunkTexts": [
+          "SHA",
+          "DES"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Pub formerly the Broken Drum",
+        "answer": "MENDEDDRUM",
+        "chunkTexts": [
+          "MEN",
+          "DED",
+          "DRUM"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Vetinari's title",
+        "answer": "PATRICIAN",
+        "chunkTexts": [
+          "PAT",
+          "RIC",
+          "IAN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Ruler who prefers not to be Tyrant",
+        "answer": "VETINARI",
+        "chunkTexts": [
+          "VET",
+          "INA",
+          "RI"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Cut-Me-Own-Throat sausage seller",
+        "answer": "DIBBLER",
+        "chunkTexts": [
+          "DIB",
+          "BLER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "N01",
+    "scores": {
+      "decoys": 2.2,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 2.5,
+      "anchor_balance": 6.9,
+      "shape": 10.0,
+      "word_appeal": 14.0,
+      "penalties": -10.4,
+      "structure": 25.6,
+      "clue_rating": 16.1,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": -3.0,
+      "clues": 13.1,
+      "structure_scaled": 16.0,
+      "total": 29.1
+    }
+  },
+  {
+    "id": "round345",
+    "title": "Round 345",
+    "theme": "Discworld: The Watch",
+    "clueAnswers": [
+      {
+        "clue": "Troll sergeant with a siege crossbow",
+        "answer": "DETRITUS",
+        "chunkTexts": [
+          "DE",
+          "TRI",
+          "TUS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "___ Mine Road watch house",
+        "answer": "TREACLE",
+        "chunkTexts": [
+          "TREA",
+          "CLE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Dwarf forensics expert in a skirt",
+        "answer": "CHEERY",
+        "chunkTexts": [
+          "CHE",
+          "ERY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Nobby's rank",
+        "answer": "CORPORAL",
+        "chunkTexts": [
+          "COR",
+          "POR",
+          "AL"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Adopted dwarf, secretly a king",
+        "answer": "CARROT",
+        "chunkTexts": [
+          "CAR",
+          "ROT"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Copper's club",
+        "answer": "TRUNCHEON",
+        "chunkTexts": [
+          "TRUN",
+          "CHE",
+          "ON"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Detritus's siege crossbow",
+        "answer": "PIECEMAKER",
+        "chunkTexts": [
+          "PIE",
+          "CEM",
+          "AKER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "N02",
+    "scores": {
+      "decoys": 3.2,
+      "tempting_pairs": 1.6,
+      "shared_fragments": 5.0,
+      "anchor_balance": 7.2,
+      "shape": 9.3,
+      "word_appeal": 14.0,
+      "penalties": -13.0,
+      "structure": 27.3,
+      "clue_rating": 18.2,
+      "clue_variety": 4.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 22.2,
+      "structure_scaled": 17.1,
+      "total": 39.3
+    }
+  },
+  {
+    "id": "round346",
+    "title": "Round 346",
+    "theme": "Discworld: Unseen University",
+    "clueAnswers": [
+      {
+        "clue": "Wizzard who runs away well",
+        "answer": "RINCEWIND",
+        "chunkTexts": [
+          "RIN",
+          "CE",
+          "WIND"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Archchancellor who hunts",
+        "answer": "RIDCULLY",
+        "chunkTexts": [
+          "RID",
+          "CUL",
+          "LY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Wizard on dried frog pills",
+        "answer": "BURSAR",
+        "chunkTexts": [
+          "BUR",
+          "SAR"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Eighth color, magic's own",
+        "answer": "OCTARINE",
+        "chunkTexts": [
+          "OCTA",
+          "RINE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Book holding eight great spells",
+        "answer": "OCTAVO",
+        "chunkTexts": [
+          "OCT",
+          "AVO"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Rincewind's hat spelling",
+        "answer": "WIZZARD",
+        "chunkTexts": [
+          "WIZ",
+          "ZARD"
+        ],
+        "clueType": "trivia",
+        "clueRating": 5
+      },
+      {
+        "clue": "___ in Recent Runes",
+        "answer": "LECTURER",
+        "chunkTexts": [
+          "LEC",
+          "TUR",
+          "ER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "N03",
+    "scores": {
+      "decoys": 1.2,
+      "tempting_pairs": 1.6,
+      "shared_fragments": 2.5,
+      "anchor_balance": 6.7,
+      "shape": 6.8,
+      "word_appeal": 14.0,
+      "penalties": -16.2,
+      "structure": 16.6,
+      "clue_rating": 20.4,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 20.4,
+      "structure_scaled": 10.4,
+      "total": 30.8
+    }
+  },
+  {
+    "id": "round347",
+    "title": "Round 347",
+    "theme": "Discworld: Witches",
+    "clueAnswers": [
+      {
+        "clue": "Granny, of the steely stare",
+        "answer": "WEATHERWAX",
+        "chunkTexts": [
+          "WEA",
+          "THER",
+          "WAX"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Youngest witch of the coven",
+        "answer": "MAGRAT",
+        "chunkTexts": [
+          "MAG",
+          "RAT"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Magrat's surname",
+        "answer": "GARLICK",
+        "chunkTexts": [
+          "GAR",
+          "LICK"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Tiffany's surname",
+        "answer": "ACHING",
+        "chunkTexts": [
+          "ACH",
+          "ING"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Small kingdom, big witches",
+        "answer": "LANCRE",
+        "chunkTexts": [
+          "LAN",
+          "CRE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Granny's practical psychology",
+        "answer": "HEADOLOGY",
+        "chunkTexts": [
+          "HEA",
+          "DOL",
+          "OGY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Witch transport",
+        "answer": "BROOMSTICK",
+        "chunkTexts": [
+          "BRO",
+          "OMS",
+          "TICK"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "N04",
+    "scores": {
+      "decoys": 10.2,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 2.5,
+      "anchor_balance": 7.2,
+      "shape": 10.0,
+      "word_appeal": 14.0,
+      "penalties": -10.8,
+      "structure": 33.5,
+      "clue_rating": 16.1,
+      "clue_variety": 4.0,
+      "clue_puns": 0.0,
+      "clue_penalties": -2.0,
+      "clues": 18.1,
+      "structure_scaled": 20.9,
+      "total": 39.0
+    }
+  },
+  {
+    "id": "round348",
+    "title": "Round 348",
+    "theme": "Discworld: Death",
+    "clueAnswers": [
+      {
+        "clue": "Book where Death gets fired",
+        "answer": "REAPERMAN",
+        "chunkTexts": [
+          "REA",
+          "PER",
+          "MAN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Death's granddaughter",
+        "answer": "SUSAN",
+        "chunkTexts": [
+          "SU",
+          "SAN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Hourglass of a life",
+        "answer": "LIFETIMER",
+        "chunkTexts": [
+          "LIF",
+          "ETI",
+          "MER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Death subs in for him",
+        "answer": "HOGFATHER",
+        "chunkTexts": [
+          "HOG",
+          "FAT",
+          "HER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Death's soft spot",
+        "answer": "KITTENS",
+        "chunkTexts": [
+          "KIT",
+          "TENS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "How Death speaks",
+        "answer": "CAPITALS",
+        "chunkTexts": [
+          "CAP",
+          "IT",
+          "ALS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Death's manservant",
+        "answer": "ALBERT",
+        "chunkTexts": [
+          "AL",
+          "BERT"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "N05",
+    "scores": {
+      "decoys": 8.1,
+      "tempting_pairs": 2.4,
+      "shared_fragments": 5.0,
+      "anchor_balance": 7.1,
+      "shape": 10.4,
+      "word_appeal": 14.0,
+      "penalties": -14.0,
+      "structure": 33.0,
+      "clue_rating": 16.1,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": -3.0,
+      "clues": 13.1,
+      "structure_scaled": 20.6,
+      "total": 33.7
+    }
+  },
+  {
+    "id": "round349",
+    "title": "Round 349",
+    "theme": "Discworld: The Disc",
+    "clueAnswers": [
+      {
+        "clue": "Another of the four elephants",
+        "answer": "JERAKEEN",
+        "chunkTexts": [
+          "JER",
+          "AKE",
+          "EN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "The Disc's Australia",
+        "answer": "FOURECKS",
+        "chunkTexts": [
+          "FOUR",
+          "ECKS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Klatchian kingdom",
+        "answer": "HERSHEBA",
+        "chunkTexts": [
+          "HER",
+          "SHE",
+          "BA"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Elephant named like a gem",
+        "answer": "BERILIA",
+        "chunkTexts": [
+          "BER",
+          "ILIA"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Four of them carry the world",
+        "answer": "ELEPHANTS",
+        "chunkTexts": [
+          "EL",
+          "EPH",
+          "ANTS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Philosophers' city on the Circle Sea",
+        "answer": "EPHEBE",
+        "chunkTexts": [
+          "EPH",
+          "EBE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Ocean pouring off the edge",
+        "answer": "RIMFALL",
+        "chunkTexts": [
+          "RIM",
+          "FALL"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "N06",
+    "scores": {
+      "decoys": 2.4,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 6.2,
+      "anchor_balance": 6.9,
+      "shape": 5.6,
+      "word_appeal": 14.0,
+      "penalties": -18.3,
+      "structure": 16.8,
+      "clue_rating": 20.4,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 20.4,
+      "structure_scaled": 10.5,
+      "total": 30.9
+    }
+  },
+  {
+    "id": "round350",
+    "title": "Round 350",
+    "theme": "Discworld: The Shelf",
+    "clueAnswers": [
+      {
+        "clue": "Book of the eighth son's son",
+        "answer": "SOURCERY",
+        "chunkTexts": [
+          "SO",
+          "URC",
+          "ERY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Book of Djelibeybi",
+        "answer": "PYRAMIDS",
+        "chunkTexts": [
+          "PY",
+          "RAM",
+          "IDS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Witches at the opera",
+        "answer": "MASKERADE",
+        "chunkTexts": [
+          "MAS",
+          "KER",
+          "ADE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Watch book about golems",
+        "answer": "FEETOFCLAY",
+        "chunkTexts": [
+          "FEE",
+          "TOF",
+          "CLAY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Girl attends wizard school",
+        "answer": "EQUALRITES",
+        "chunkTexts": [
+          "EQU",
+          "ALRI",
+          "TES"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Cohen climbs to the gods",
+        "answer": "LASTHERO",
+        "chunkTexts": [
+          "LAS",
+          "THE",
+          "RO"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "The ___ of Magic, book one",
+        "answer": "COLOUR",
+        "chunkTexts": [
+          "COL",
+          "OUR"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "N07",
+    "scores": {
+      "decoys": 0.0,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 1.2,
+      "anchor_balance": 6.7,
+      "shape": 12.0,
+      "word_appeal": 14.0,
+      "penalties": -18.0,
+      "structure": 15.9,
+      "clue_rating": 20.4,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 20.4,
+      "structure_scaled": 9.9,
+      "total": 30.3
+    }
+  },
+  {
+    "id": "round351",
+    "title": "Round 351",
+    "theme": "Discworld: Going Postal",
+    "clueAnswers": [
+      {
+        "clue": "Moist von ___",
+        "answer": "LIPWIG",
+        "chunkTexts": [
+          "LIP",
+          "WIG"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Building stuffed with old mail",
+        "answer": "POSTOFFICE",
+        "chunkTexts": [
+          "POST",
+          "OFF",
+          "ICE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Clay workers, freed",
+        "answer": "GOLEMS",
+        "chunkTexts": [
+          "GOL",
+          "EMS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Making Money's business",
+        "answer": "BANKING",
+        "chunkTexts": [
+          "BAN",
+          "KING"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Adora Belle, smoking",
+        "answer": "DEARHEART",
+        "chunkTexts": [
+          "DEA",
+          "RHE",
+          "ART"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Moist's first job",
+        "answer": "POSTMASTER",
+        "chunkTexts": [
+          "POST",
+          "MAS",
+          "TER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Clacks tech, basically",
+        "answer": "SEMAPHORE",
+        "chunkTexts": [
+          "SEM",
+          "APH",
+          "ORE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "N08",
+    "scores": {
+      "decoys": 3.0,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 2.5,
+      "anchor_balance": 7.4,
+      "shape": 11.0,
+      "word_appeal": 14.0,
+      "penalties": -10.6,
+      "structure": 27.3,
+      "clue_rating": 11.8,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 11.8,
+      "structure_scaled": 17.1,
+      "total": 28.9
+    }
+  },
+  {
+    "id": "round352",
+    "title": "Round 352",
+    "theme": "Discworld: The Author",
+    "clueAnswers": [
+      {
+        "clue": "Josh, the early cover artist",
+        "answer": "KIRBY",
+        "chunkTexts": [
+          "KIR",
+          "BY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Paul, the later cover artist",
+        "answer": "KIDBY",
+        "chunkTexts": [
+          "KID",
+          "BY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Signature black hat",
+        "answer": "FEDORA",
+        "chunkTexts": [
+          "FED",
+          "ORA"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Pratchett's first career",
+        "answer": "JOURNALIST",
+        "chunkTexts": [
+          "JOUR",
+          "NAL",
+          "IST"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "X-Clacks-___, his web memorial",
+        "answer": "OVERHEAD",
+        "chunkTexts": [
+          "OVER",
+          "HEAD"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "UK chart-topper, often",
+        "answer": "BESTSELLER",
+        "chunkTexts": [
+          "BES",
+          "TSEL",
+          "LER"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      },
+      {
+        "clue": "Fantasy writer with a sharp pen",
+        "answer": "SATIRIST",
+        "chunkTexts": [
+          "SA",
+          "TIR",
+          "IST"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "N09",
+    "scores": {
+      "decoys": 0.5,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 7.5,
+      "anchor_balance": 6.5,
+      "shape": 6.8,
+      "word_appeal": 14.0,
+      "penalties": -18.0,
+      "structure": 17.3,
+      "clue_rating": 11.8,
+      "clue_variety": 4.0,
+      "clue_puns": 0.0,
+      "clue_penalties": -2.0,
+      "clues": 13.8,
+      "structure_scaled": 10.8,
+      "total": 24.6
+    }
+  },
+  {
+    "id": "round353",
+    "title": "Round 353",
+    "theme": "Discworld: Creatures",
+    "clueAnswers": [
+      {
+        "clue": "Helpful lisping surgeons",
+        "answer": "IGORS",
+        "chunkTexts": [
+          "IG",
+          "ORS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Uberwald nobility, many teetotal",
+        "answer": "VAMPIRES",
+        "chunkTexts": [
+          "VAM",
+          "PI",
+          "RES"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Watchmen on the roofs",
+        "answer": "GARGOYLES",
+        "chunkTexts": [
+          "GAR",
+          "GOY",
+          "LES"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Swamp dragon who goes boom",
+        "answer": "ERROL",
+        "chunkTexts": [
+          "ER",
+          "ROL"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Angua's kin",
+        "answer": "WEREWOLVES",
+        "chunkTexts": [
+          "WERE",
+          "WOL",
+          "VES"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Buggy Swires's kind",
+        "answer": "GNOMES",
+        "chunkTexts": [
+          "GNO",
+          "MES"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Nac Mac Feegles, taxonomically",
+        "answer": "PICTSIES",
+        "chunkTexts": [
+          "PICT",
+          "SIES"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "N10",
+    "scores": {
+      "decoys": 3.8,
+      "tempting_pairs": 0.8,
+      "shared_fragments": 8.8,
+      "anchor_balance": 2.0,
+      "shape": 7.9,
+      "word_appeal": 14.0,
+      "penalties": -16.2,
+      "structure": 21.1,
+      "clue_rating": 16.1,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 16.1,
+      "structure_scaled": 13.2,
+      "total": 29.3
+    }
+  },
+  {
+    "id": "round354",
+    "title": "Round 354",
+    "theme": "Rick and Morty: The Smiths",
+    "clueAnswers": [
+      {
+        "clue": "Rick's surname",
+        "answer": "SANCHEZ",
+        "chunkTexts": [
+          "SAN",
+          "CHEZ"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Older sister, phone-glued",
+        "answer": "SUMMER",
+        "chunkTexts": [
+          "SUM",
+          "MER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Maybe-clone off adventuring",
+        "answer": "SPACEBETH",
+        "chunkTexts": [
+          "SPA",
+          "CEB",
+          "ETH"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Rick's late wife",
+        "answer": "DIANE",
+        "chunkTexts": [
+          "DI",
+          "ANE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Hapless dad",
+        "answer": "JERRYSMITH",
+        "chunkTexts": [
+          "JER",
+          "RYS",
+          "MITH"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Rick, to Morty",
+        "answer": "GRANDPA",
+        "chunkTexts": [
+          "GRA",
+          "NDPA"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      },
+      {
+        "clue": "Summer, by age",
+        "answer": "TEENAGER",
+        "chunkTexts": [
+          "TEE",
+          "NA",
+          "GER"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "O01",
+    "scores": {
+      "decoys": 1.7,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 3.8,
+      "anchor_balance": 5.9,
+      "shape": 9.1,
+      "word_appeal": 14.0,
+      "penalties": -10.1,
+      "structure": 24.7,
+      "clue_rating": 7.5,
+      "clue_variety": 4.0,
+      "clue_puns": 0.0,
+      "clue_penalties": -4.0,
+      "clues": 7.5,
+      "structure_scaled": 15.4,
+      "total": 22.9
+    }
+  },
+  {
+    "id": "round355",
+    "title": "Round 355",
+    "theme": "Rick and Morty: Rick's Circle",
+    "clueAnswers": [
+      {
+        "clue": "Rick's winged best friend",
+        "answer": "BIRDPERSON",
+        "chunkTexts": [
+          "BIRD",
+          "PER",
+          "SON"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Cat-like friend, all slang",
+        "answer": "SQUANCHY",
+        "chunkTexts": [
+          "SQU",
+          "ANC",
+          "HY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Rick's hive-mind ex",
+        "answer": "UNITY",
+        "chunkTexts": [
+          "UN",
+          "ITY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Cog-headed frenemy",
+        "answer": "GEARHEAD",
+        "chunkTexts": [
+          "GEA",
+          "RHE",
+          "AD"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Janitor of the Vindicators",
+        "answer": "NOOBNOOB",
+        "chunkTexts": [
+          "NOOB",
+          "NOOB"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Fake parasite memory husband",
+        "answer": "SLEEPYGARY",
+        "chunkTexts": [
+          "SLE",
+          "EPY",
+          "GARY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Morty's math teacher",
+        "answer": "GOLDENFOLD",
+        "chunkTexts": [
+          "GOL",
+          "DEN",
+          "FOLD"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "O02",
+    "scores": {
+      "decoys": 4.8,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 2.5,
+      "anchor_balance": 0.1,
+      "shape": 7.6,
+      "word_appeal": 14.0,
+      "penalties": -16.6,
+      "structure": 12.8,
+      "clue_rating": 20.4,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 20.4,
+      "structure_scaled": 8.0,
+      "total": 28.4
+    }
+  },
+  {
+    "id": "round356",
+    "title": "Round 356",
+    "theme": "Rick and Morty: Garage Gadgets",
+    "clueAnswers": [
+      {
+        "clue": "Rick's green doorway maker",
+        "answer": "PORTALGUN",
+        "chunkTexts": [
+          "POR",
+          "TAL",
+          "GUN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Everyone has one at home",
+        "answer": "PLUMBUS",
+        "chunkTexts": [
+          "PLUM",
+          "BUS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "What the little robot passes",
+        "answer": "BUTTER",
+        "chunkTexts": [
+          "BUT",
+          "TER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Tiny world powering the ship",
+        "answer": "MICROVERSE",
+        "chunkTexts": [
+          "MIC",
+          "ROV",
+          "ERSE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Rick's flying car, space-wise",
+        "answer": "CRUISER",
+        "chunkTexts": [
+          "CRU",
+          "ISER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Body-horror world named for a director",
+        "answer": "CRONENBERG",
+        "chunkTexts": [
+          "CRO",
+          "NEN",
+          "BERG"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Portal ___, the refill",
+        "answer": "FLUID",
+        "chunkTexts": [
+          "FLU",
+          "ID"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "O04",
+    "scores": {
+      "decoys": 3.2,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 2.5,
+      "anchor_balance": 6.5,
+      "shape": 9.1,
+      "word_appeal": 14.0,
+      "penalties": -11.7,
+      "structure": 24.0,
+      "clue_rating": 13.9,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 13.9,
+      "structure_scaled": 15.0,
+      "total": 28.9
+    }
+  },
+  {
+    "id": "round357",
+    "title": "Round 357",
+    "theme": "Rick and Morty: Episodes",
+    "clueAnswers": [
+      {
+        "clue": "___ Park, inside a man",
+        "answer": "ANATOMY",
+        "chunkTexts": [
+          "ANAT",
+          "OMY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "___ Dog, Snuffles's debut",
+        "answer": "LAWNMOWER",
+        "chunkTexts": [
+          "LAWN",
+          "MOW",
+          "ER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "___ Minutes",
+        "answer": "RIXTY",
+        "chunkTexts": [
+          "RIX",
+          "TY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "The ___ Mixup",
+        "answer": "RICKLANTIS",
+        "chunkTexts": [
+          "RICK",
+          "LAN",
+          "TIS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Mr ___'s cursed shop",
+        "answer": "NEEDFUL",
+        "chunkTexts": [
+          "NEED",
+          "FUL"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Episode one, plainly",
+        "answer": "PILOT",
+        "chunkTexts": [
+          "PIL",
+          "OT"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      },
+      {
+        "clue": "Fake-death plan, in episode form",
+        "answer": "VATOFACID",
+        "chunkTexts": [
+          "VAT",
+          "OFA",
+          "CID"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "O05",
+    "scores": {
+      "decoys": 1.4,
+      "tempting_pairs": 1.2,
+      "shared_fragments": 0.0,
+      "anchor_balance": 0.0,
+      "shape": 6.8,
+      "word_appeal": 14.0,
+      "penalties": -17.7,
+      "structure": 5.6,
+      "clue_rating": 18.2,
+      "clue_variety": 4.0,
+      "clue_puns": 0.0,
+      "clue_penalties": -2.0,
+      "clues": 20.2,
+      "structure_scaled": 3.5,
+      "total": 23.7
+    }
+  },
+  {
+    "id": "round358",
+    "title": "Round 358",
+    "theme": "Rick and Morty: Cast and Crew",
+    "clueAnswers": [
+      {
+        "clue": "Chris, voice of Jerry",
+        "answer": "PARNELL",
+        "chunkTexts": [
+          "PAR",
+          "NELL"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Spencer, voice of Summer",
+        "answer": "GRAMMER",
+        "chunkTexts": [
+          "GRAM",
+          "MER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Harry, the newer Morty",
+        "answer": "BELDEN",
+        "chunkTexts": [
+          "BEL",
+          "DEN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Ms Grammer's first name",
+        "answer": "SPENCER",
+        "chunkTexts": [
+          "SPEN",
+          "CER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Scott Marder's job",
+        "answer": "SHOWRUNNER",
+        "chunkTexts": [
+          "SHOW",
+          "RUN",
+          "NER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Drawer of the frames",
+        "answer": "ANIMATOR",
+        "chunkTexts": [
+          "AN",
+          "IMA",
+          "TOR"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      },
+      {
+        "clue": "Drawer of funny pictures",
+        "answer": "CARTOONIST",
+        "chunkTexts": [
+          "CAR",
+          "TOO",
+          "NIST"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "O07",
+    "scores": {
+      "decoys": 0.5,
+      "tempting_pairs": 0.8,
+      "shared_fragments": 7.5,
+      "anchor_balance": 7.0,
+      "shape": 7.9,
+      "word_appeal": 14.0,
+      "penalties": -12.2,
+      "structure": 25.6,
+      "clue_rating": 11.8,
+      "clue_variety": 4.0,
+      "clue_puns": 0.0,
+      "clue_penalties": -4.0,
+      "clues": 11.8,
+      "structure_scaled": 16.0,
+      "total": 27.8
+    }
+  },
+  {
+    "id": "round359",
+    "title": "Round 359",
+    "theme": "Rick and Morty: Villains",
+    "clueAnswers": [
+      {
+        "clue": "Commander-in-chief Rick feuds with",
+        "answer": "PRESIDENT",
+        "chunkTexts": [
+          "PRE",
+          "SID",
+          "ENT"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Galactic ___, Rick's nemesis",
+        "answer": "FEDERATION",
+        "chunkTexts": [
+          "FED",
+          "ERAT",
+          "ION"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Mr Needful, really",
+        "answer": "DEVIL",
+        "chunkTexts": [
+          "DEV",
+          "IL"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "___ Rick, the nice one",
+        "answer": "DOOFUS",
+        "chunkTexts": [
+          "DOO",
+          "FUS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "___ Federation",
+        "answer": "GALACTIC",
+        "chunkTexts": [
+          "GAL",
+          "ACT",
+          "IC"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Giant heads who demand a show",
+        "answer": "CROMULONS",
+        "chunkTexts": [
+          "CRO",
+          "MUL",
+          "ONS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Alien scammers in a simulation",
+        "answer": "ZIGERION",
+        "chunkTexts": [
+          "ZI",
+          "GER",
+          "ION"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "O08",
+    "scores": {
+      "decoys": 4.5,
+      "tempting_pairs": 1.2,
+      "shared_fragments": 2.5,
+      "anchor_balance": 6.9,
+      "shape": 12.0,
+      "word_appeal": 14.0,
+      "penalties": -17.9,
+      "structure": 23.2,
+      "clue_rating": 16.1,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 16.1,
+      "structure_scaled": 14.5,
+      "total": 30.6
+    }
+  },
+  {
+    "id": "round360",
+    "title": "Round 360",
+    "theme": "Rick and Morty: Channel Surfing",
+    "clueAnswers": [
+      {
+        "clue": "Real ___ for sale",
+        "answer": "FAKEDOORS",
+        "chunkTexts": [
+          "FAK",
+          "EDO",
+          "ORS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Ants in My Eyes ___",
+        "answer": "JOHNSON",
+        "chunkTexts": [
+          "JOHN",
+          "SON"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Cereal with a violent mascot",
+        "answer": "EYEHOLES",
+        "chunkTexts": [
+          "EYE",
+          "HO",
+          "LES"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Regular Legs's detective partner",
+        "answer": "BABYLEGS",
+        "chunkTexts": [
+          "BA",
+          "BYL",
+          "EGS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Tiny food, tiny commercials",
+        "answer": "LILBITS",
+        "chunkTexts": [
+          "LIL",
+          "BITS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Interdimensional ___",
+        "answer": "CABLE",
+        "chunkTexts": [
+          "CAB",
+          "LE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 2
+      },
+      {
+        "clue": "Strawberry ___, cereal ad",
+        "answer": "SMIGGLES",
+        "chunkTexts": [
+          "SMIG",
+          "GLES"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "O09",
+    "scores": {
+      "decoys": 5.4,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 0.0,
+      "anchor_balance": 0.0,
+      "shape": 6.8,
+      "word_appeal": 14.0,
+      "penalties": -17.6,
+      "structure": 8.9,
+      "clue_rating": 18.2,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": -5.0,
+      "clues": 13.2,
+      "structure_scaled": 5.6,
+      "total": 18.8
+    }
+  },
+  {
+    "id": "round361",
+    "title": "Round 361",
+    "theme": "Rick and Morty: Snacks and Science",
+    "clueAnswers": [
+      {
+        "clue": "Sauce Rick's quest centers on",
+        "answer": "SZECHUAN",
+        "chunkTexts": [
+          "SZE",
+          "CHU",
+          "AN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Dip vessel for that sauce",
+        "answer": "MCNUGGET",
+        "chunkTexts": [
+          "MCNU",
+          "GGET"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Smuggled in an uncomfortable way",
+        "answer": "MEGASEEDS",
+        "chunkTexts": [
+          "MEG",
+          "ASE",
+          "EDS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Movie behind Rick's sauce craving",
+        "answer": "MULAN",
+        "chunkTexts": [
+          "MUL",
+          "AN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "___ crystals, at Blips and Chitz?",
+        "answer": "KALAXIAN",
+        "chunkTexts": [
+          "KA",
+          "LAX",
+          "IAN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Concentrated ___, Rick's fuel",
+        "answer": "DARKMATTER",
+        "chunkTexts": [
+          "DARK",
+          "MAT",
+          "TER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Alien currency in the arcade",
+        "answer": "FLURBOS",
+        "chunkTexts": [
+          "FLUR",
+          "BOS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "O10",
+    "scores": {
+      "decoys": 0.5,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 2.5,
+      "anchor_balance": 1.7,
+      "shape": 8.2,
+      "word_appeal": 14.0,
+      "penalties": -17.1,
+      "structure": 9.8,
+      "clue_rating": 16.1,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 16.1,
+      "structure_scaled": 6.1,
+      "total": 22.2
+    }
+  },
+  {
+    "id": "round362",
+    "title": "Round 362",
+    "theme": "They Might Be Giants Lyrics: Side One",
+    "clueAnswers": [
+      {
+        "clue": "Istanbul's renaming: none of yours",
+        "answer": "BUSINESS",
+        "chunkTexts": [
+          "BU",
+          "SIN",
+          "ESS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Degrees in Why Does the Sun Shine",
+        "answer": "MILLIONS",
+        "chunkTexts": [
+          "MIL",
+          "LI",
+          "ONS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Men Universe Man is kind to",
+        "answer": "SMALLER",
+        "chunkTexts": [
+          "SMAL",
+          "LER"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Istanbul's kind of delight",
+        "answer": "TURKISH",
+        "chunkTexts": [
+          "TURK",
+          "ISH"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Turkish sweet in Istanbul",
+        "answer": "DELIGHT",
+        "chunkTexts": [
+          "DEL",
+          "IGHT"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "What the song's sun builds",
+        "answer": "HELIUM",
+        "chunkTexts": [
+          "HEL",
+          "IUM"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Mrs. ___, a TMBG song",
+        "answer": "BLUEBEARD",
+        "chunkTexts": [
+          "BLU",
+          "EBE",
+          "ARD"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "P01",
+    "scores": {
+      "decoys": 2.0,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 1.2,
+      "anchor_balance": 6.8,
+      "shape": 9.1,
+      "word_appeal": 14.0,
+      "penalties": -12.4,
+      "structure": 20.8,
+      "clue_rating": 22.5,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 22.5,
+      "structure_scaled": 13.0,
+      "total": 35.5
+    }
+  },
+  {
+    "id": "round363",
+    "title": "Round 363",
+    "theme": "They Might Be Giants Lyrics: Side Two",
+    "clueAnswers": [
+      {
+        "clue": "1844 party split, per the Polk song",
+        "answer": "DEMOCRATS",
+        "chunkTexts": [
+          "DEM",
+          "OC",
+          "RATS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Polk's independent achievement",
+        "answer": "TREASURY",
+        "chunkTexts": [
+          "TRE",
+          "ASU",
+          "RY"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Martin, spurned in the Polk song",
+        "answer": "VANBUREN",
+        "chunkTexts": [
+          "VAN",
+          "BU",
+          "REN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Frying-pan victim's ___ Man",
+        "answer": "PERSON",
+        "chunkTexts": [
+          "PER",
+          "SON"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Territory in the Polk song",
+        "answer": "OREGON",
+        "chunkTexts": [
+          "ORE",
+          "GON"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Coal's element, per the song",
+        "answer": "CARBON",
+        "chunkTexts": [
+          "CAR",
+          "BON"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "What she's doing in Istanbul",
+        "answer": "WAITING",
+        "chunkTexts": [
+          "WAI",
+          "TING"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "P02",
+    "scores": {
+      "decoys": 3.3,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 5.0,
+      "anchor_balance": 6.3,
+      "shape": 9.1,
+      "word_appeal": 14.0,
+      "penalties": -15.5,
+      "structure": 22.2,
+      "clue_rating": 22.5,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 22.5,
+      "structure_scaled": 13.9,
+      "total": 36.4
+    }
+  },
+  {
+    "id": "round364",
+    "title": "Round 364",
+    "theme": "They Might Be Giants Lyrics: Side Three",
+    "clueAnswers": [
+      {
+        "clue": "Bag returned in Dead",
+        "answer": "GROCERIES",
+        "chunkTexts": [
+          "GRO",
+          "CER",
+          "IES"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Date noted in Dead",
+        "answer": "EXPIRATION",
+        "chunkTexts": [
+          "EX",
+          "PIRA",
+          "TION"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "How everybody dies, Don't Let's Start",
+        "answer": "FRUSTRATED",
+        "chunkTexts": [
+          "FRU",
+          "STRA",
+          "TED"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Built from garbage, in Kiss Me",
+        "answer": "EMPIRE",
+        "chunkTexts": [
+          "EMP",
+          "IRE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Hand you can't shake, Racist Friend",
+        "answer": "DEVILS",
+        "chunkTexts": [
+          "DEV",
+          "ILS"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Feet in the Dr. Evil song",
+        "answer": "WEBBED",
+        "chunkTexts": [
+          "WEB",
+          "BED"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Signifies",
+        "answer": "DENOTES",
+        "chunkTexts": [
+          "DENO",
+          "TES"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "P03",
+    "scores": {
+      "decoys": 9.0,
+      "tempting_pairs": 0.8,
+      "shared_fragments": 5.0,
+      "anchor_balance": 7.3,
+      "shape": 9.1,
+      "word_appeal": 14.0,
+      "penalties": -11.3,
+      "structure": 33.9,
+      "clue_rating": 18.2,
+      "clue_variety": 4.0,
+      "clue_puns": 0.0,
+      "clue_penalties": -2.0,
+      "clues": 20.2,
+      "structure_scaled": 21.2,
+      "total": 41.4
+    }
+  },
+  {
+    "id": "round365",
+    "title": "Round 365",
+    "theme": "Condiments: Table Staples",
+    "clueAnswers": [
+      {
+        "clue": "Hot dog topping, or enjoy",
+        "answer": "RELISH",
+        "chunkTexts": [
+          "REL",
+          "ISH"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 3
+      },
+      {
+        "clue": "Sesame paste",
+        "answer": "TAHINI",
+        "chunkTexts": [
+          "TA",
+          "HINI"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Fruity Indian condiment",
+        "answer": "CHUTNEY",
+        "chunkTexts": [
+          "CHUT",
+          "NEY"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Sauce for the grill",
+        "answer": "BARBECUE",
+        "chunkTexts": [
+          "BAR",
+          "BE",
+          "CUE"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      },
+      {
+        "clue": "British breakfast's dark dollop",
+        "answer": "BROWNSAUCE",
+        "chunkTexts": [
+          "BROW",
+          "NSA",
+          "UCE"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Houses of Parliament on the bottle",
+        "answer": "HPSAUCE",
+        "chunkTexts": [
+          "HPSA",
+          "UCE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "A1 ___",
+        "answer": "STEAKSAUCE",
+        "chunkTexts": [
+          "STE",
+          "AKS",
+          "AUCE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "Q01",
+    "scores": {
+      "decoys": 5.3,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 2.5,
+      "anchor_balance": 6.2,
+      "shape": 6.8,
+      "word_appeal": 14.0,
+      "penalties": -12.8,
+      "structure": 21.9,
+      "clue_rating": 9.6,
+      "clue_variety": 8.0,
+      "clue_puns": 3.0,
+      "clue_penalties": -2.0,
+      "clues": 18.6,
+      "structure_scaled": 13.7,
+      "total": 32.3
+    }
+  },
+  {
+    "id": "round366",
+    "title": "Round 366",
+    "theme": "Condiments: Asian Pantry",
+    "clueAnswers": [
+      {
+        "clue": "Sushi's dip",
+        "answer": "SOYSAUCE",
+        "chunkTexts": [
+          "SOY",
+          "SAU",
+          "CE"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      },
+      {
+        "clue": "Peking duck's sweet sauce",
+        "answer": "HOISIN",
+        "chunkTexts": [
+          "HOI",
+          "SIN"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Indonesian chili paste",
+        "answer": "SAMBAL",
+        "chunkTexts": [
+          "SAM",
+          "BAL"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Green sinus-clearer",
+        "answer": "WASABI",
+        "chunkTexts": [
+          "WAS",
+          "ABI"
+        ],
+        "clueType": "evocative",
+        "clueRating": 3
+      },
+      {
+        "clue": "Rooster-bottle hot sauce",
+        "answer": "SRIRACHA",
+        "chunkTexts": [
+          "SRI",
+          "RA",
+          "CHA"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Wheat-free soy cousin",
+        "answer": "TAMARI",
+        "chunkTexts": [
+          "TAM",
+          "ARI"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Crispy red topping",
+        "answer": "CHILIOIL",
+        "chunkTexts": [
+          "CHI",
+          "LI",
+          "OIL"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "Q02",
+    "scores": {
+      "decoys": 4.0,
+      "tempting_pairs": 1.2,
+      "shared_fragments": 6.2,
+      "anchor_balance": 6.4,
+      "shape": 8.0,
+      "word_appeal": 14.0,
+      "penalties": -18.2,
+      "structure": 21.6,
+      "clue_rating": 7.5,
+      "clue_variety": 8.0,
+      "clue_puns": 0.0,
+      "clue_penalties": -2.0,
+      "clues": 13.5,
+      "structure_scaled": 13.5,
+      "total": 27.0
+    }
+  },
+  {
+    "id": "round367",
+    "title": "Round 367",
+    "theme": "Condiments: Pickle Jar",
+    "clueAnswers": [
+      {
+        "clue": "Neon-yellow British pickle",
+        "answer": "PICCALILLI",
+        "chunkTexts": [
+          "PIC",
+          "CAL",
+          "ILLI"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Tiny cucumber, or a London tower",
+        "answer": "GHERKIN",
+        "chunkTexts": [
+          "GHER",
+          "KIN"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "French mini pickle",
+        "answer": "CORNICHON",
+        "chunkTexts": [
+          "COR",
+          "NIC",
+          "HON"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Brined buds, or escapades",
+        "answer": "CAPERS",
+        "chunkTexts": [
+          "CAP",
+          "ERS"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Reuben's fermented cabbage",
+        "answer": "SAUERKRAUT",
+        "chunkTexts": [
+          "SAU",
+          "ERK",
+          "RA",
+          "UT"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Korean ferment",
+        "answer": "KIMCHI",
+        "chunkTexts": [
+          "KIM",
+          "CHI"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Relish or a fluffy dog",
+        "answer": "CHOWCHOW",
+        "chunkTexts": [
+          "CHOW",
+          "CHOW"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "Q03",
+    "scores": {
+      "decoys": 1.7,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 7.5,
+      "anchor_balance": 4.3,
+      "shape": 9.3,
+      "word_appeal": 14.0,
+      "penalties": -14.1,
+      "structure": 22.7,
+      "clue_rating": 16.1,
+      "clue_variety": 8.0,
+      "clue_puns": 9.0,
+      "clue_penalties": 0.0,
+      "clues": 33.1,
+      "structure_scaled": 14.2,
+      "total": 47.3
+    }
+  },
+  {
+    "id": "round368",
+    "title": "Round 368",
+    "theme": "Condiments: Dip It",
+    "clueAnswers": [
+      {
+        "clue": "Avocado's best look",
+        "answer": "GUACAMOLE",
+        "chunkTexts": [
+          "GUA",
+          "CAM",
+          "OLE"
+        ],
+        "clueType": "evocative",
+        "clueRating": 3
+      },
+      {
+        "clue": "Chickpea dip",
+        "answer": "HUMMUS",
+        "chunkTexts": [
+          "HUM",
+          "MUS"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      },
+      {
+        "clue": "Cucumber-yogurt sauce",
+        "answer": "TZATZIKI",
+        "chunkTexts": [
+          "TZAT",
+          "ZIKI"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Chip dip, or dance",
+        "answer": "SALSA",
+        "chunkTexts": [
+          "SAL",
+          "SA"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 3
+      },
+      {
+        "clue": "Red pepper and walnut dip",
+        "answer": "MUHAMMARA",
+        "chunkTexts": [
+          "MU",
+          "HAM",
+          "MARA"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Strained yogurt spread",
+        "answer": "LABNEH",
+        "chunkTexts": [
+          "LAB",
+          "NEH"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Ripple chip's best friend",
+        "answer": "ONIONDIP",
+        "chunkTexts": [
+          "ONI",
+          "ON",
+          "DIP"
+        ],
+        "clueType": "evocative",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "Q04",
+    "scores": {
+      "decoys": 1.5,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 2.5,
+      "anchor_balance": 0.0,
+      "shape": 7.9,
+      "word_appeal": 14.0,
+      "penalties": -15.0,
+      "structure": 11.0,
+      "clue_rating": 7.5,
+      "clue_variety": 8.0,
+      "clue_puns": 3.0,
+      "clue_penalties": -2.0,
+      "clues": 16.5,
+      "structure_scaled": 6.9,
+      "total": 23.4
+    }
+  },
+  {
+    "id": "round369",
+    "title": "Round 369",
+    "theme": "Condiments: Bring the Heat",
+    "clueAnswers": [
+      {
+        "clue": "Louisiana's little red bottle",
+        "answer": "TABASCO",
+        "chunkTexts": [
+          "TAB",
+          "ASCO"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Wooden-cap hot sauce",
+        "answer": "CHOLULA",
+        "chunkTexts": [
+          "CHOL",
+          "ULA"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Heat scale",
+        "answer": "SCOVILLE",
+        "chunkTexts": [
+          "SCO",
+          "VIL",
+          "LE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "The burn molecule",
+        "answer": "CAPSAICIN",
+        "chunkTexts": [
+          "CAP",
+          "SAI",
+          "CIN"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Mexican hot sauce, a girl's name",
+        "answer": "VALENTINA",
+        "chunkTexts": [
+          "VAL",
+          "ENT",
+          "INA"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Sombrero-man hot sauce",
+        "answer": "TAPATIO",
+        "chunkTexts": [
+          "TAP",
+          "ATIO"
+        ],
+        "clueType": "trivia",
+        "clueRating": 4
+      },
+      {
+        "clue": "Smoked jalapeno",
+        "answer": "CHIPOTLE",
+        "chunkTexts": [
+          "CHI",
+          "POT",
+          "LE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "Q05",
+    "scores": {
+      "decoys": 3.2,
+      "tempting_pairs": 0.8,
+      "shared_fragments": 6.2,
+      "anchor_balance": 7.3,
+      "shape": 9.4,
+      "word_appeal": 14.0,
+      "penalties": -11.7,
+      "structure": 29.2,
+      "clue_rating": 13.9,
+      "clue_variety": 4.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 17.9,
+      "structure_scaled": 18.2,
+      "total": 36.1
+    }
+  },
+  {
+    "id": "round370",
+    "title": "Round 370",
+    "theme": "Condiments: Salad Days",
+    "clueAnswers": [
+      {
+        "clue": "Wing dip with veins",
+        "answer": "BLUECHEESE",
+        "chunkTexts": [
+          "BLU",
+          "ECH",
+          "EESE"
+        ],
+        "clueType": "evocative",
+        "clueRating": 3
+      },
+      {
+        "clue": "Zesty dressing, or a nationality",
+        "answer": "ITALIAN",
+        "chunkTexts": [
+          "ITAL",
+          "IAN"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 3
+      },
+      {
+        "clue": "Modena's aged vinegar",
+        "answer": "BALSAMIC",
+        "chunkTexts": [
+          "BAL",
+          "SAM",
+          "IC"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Sweet red dressing, an island too",
+        "answer": "CATALINA",
+        "chunkTexts": [
+          "CAT",
+          "ALI",
+          "NA"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Sour half of vinaigrette",
+        "answer": "VINEGAR",
+        "chunkTexts": [
+          "VINE",
+          "GAR"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      },
+      {
+        "clue": "Oil and water, made friends",
+        "answer": "EMULSION",
+        "chunkTexts": [
+          "EMUL",
+          "SION"
+        ],
+        "clueType": "evocative",
+        "clueRating": 4
+      },
+      {
+        "clue": "Crunchy salad toppers",
+        "answer": "CROUTONS",
+        "chunkTexts": [
+          "CRO",
+          "UT",
+          "ONS"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "Q06",
+    "scores": {
+      "decoys": 1.2,
+      "tempting_pairs": 0.8,
+      "shared_fragments": 0.0,
+      "anchor_balance": 7.2,
+      "shape": 6.1,
+      "word_appeal": 14.0,
+      "penalties": -15.0,
+      "structure": 14.3,
+      "clue_rating": 7.5,
+      "clue_variety": 8.0,
+      "clue_puns": 6.0,
+      "clue_penalties": -4.0,
+      "clues": 17.5,
+      "structure_scaled": 8.9,
+      "total": 26.4
+    }
+  },
+  {
+    "id": "round371",
+    "title": "Round 371",
+    "theme": "Condiments: Spread the Word",
+    "clueAnswers": [
+      {
+        "clue": "You love it or hate it",
+        "answer": "MARMITE",
+        "chunkTexts": [
+          "MAR",
+          "MITE"
+        ],
+        "clueType": "trivia",
+        "clueRating": 3
+      },
+      {
+        "clue": "Aussie yeast spread",
+        "answer": "VEGEMITE",
+        "chunkTexts": [
+          "VEG",
+          "EM",
+          "ITE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Hazelnut cocoa spread",
+        "answer": "NUTELLA",
+        "chunkTexts": [
+          "NUT",
+          "ELLA"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      },
+      {
+        "clue": "Butter's understudy",
+        "answer": "MARGARINE",
+        "chunkTexts": [
+          "MAR",
+          "GAR",
+          "INE"
+        ],
+        "clueType": "pun",
+        "clueRating": 3
+      },
+      {
+        "clue": "Jam, or keeps",
+        "answer": "PRESERVES",
+        "chunkTexts": [
+          "PRE",
+          "SER",
+          "VES"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      },
+      {
+        "clue": "Stewed fruit topping",
+        "answer": "COMPOTE",
+        "chunkTexts": [
+          "COMP",
+          "OTE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "PB's partner",
+        "answer": "JELLY",
+        "chunkTexts": [
+          "JEL",
+          "LY"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "Q07",
+    "scores": {
+      "decoys": 2.7,
+      "tempting_pairs": 0.8,
+      "shared_fragments": 7.5,
+      "anchor_balance": 7.0,
+      "shape": 9.1,
+      "word_appeal": 14.0,
+      "penalties": -10.5,
+      "structure": 30.6,
+      "clue_rating": 5.4,
+      "clue_variety": 8.0,
+      "clue_puns": 6.0,
+      "clue_penalties": -4.0,
+      "clues": 15.4,
+      "structure_scaled": 19.1,
+      "total": 34.5
+    }
+  },
+  {
+    "id": "round372",
+    "title": "Round 372",
+    "theme": "Condiments: Mother Sauces",
+    "clueAnswers": [
+      {
+        "clue": "White sauce from butter, flour, milk",
+        "answer": "BECHAMEL",
+        "chunkTexts": [
+          "BEC",
+          "HA",
+          "MEL"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Stock-based mother sauce",
+        "answer": "VELOUTE",
+        "chunkTexts": [
+          "VEL",
+          "OUTE"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Brown mother sauce",
+        "answer": "ESPAGNOLE",
+        "chunkTexts": [
+          "ESP",
+          "AGN",
+          "OLE"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Tarragon sauce for steak",
+        "answer": "BEARNAISE",
+        "chunkTexts": [
+          "BE",
+          "ARN",
+          "AISE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Mayo dressed up with capers",
+        "answer": "REMOULADE",
+        "chunkTexts": [
+          "REM",
+          "OUL",
+          "ADE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Fish-and-chips sauce",
+        "answer": "TARTAR",
+        "chunkTexts": [
+          "TAR",
+          "TAR"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Dutch, to a Frenchman",
+        "answer": "HOLLANDAIS",
+        "chunkTexts": [
+          "HOLL",
+          "AND",
+          "AIS"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "Q08",
+    "scores": {
+      "decoys": 2.0,
+      "tempting_pairs": 0.4,
+      "shared_fragments": 5.0,
+      "anchor_balance": 7.4,
+      "shape": 11.7,
+      "word_appeal": 14.0,
+      "penalties": -12.3,
+      "structure": 28.2,
+      "clue_rating": 13.9,
+      "clue_variety": 4.0,
+      "clue_puns": 3.0,
+      "clue_penalties": 0.0,
+      "clues": 20.9,
+      "structure_scaled": 17.6,
+      "total": 38.5
+    }
+  },
+  {
+    "id": "round373",
+    "title": "Round 373",
+    "theme": "Condiments: World Tour",
+    "clueAnswers": [
+      {
+        "clue": "Catalan pepper-almond sauce",
+        "answer": "ROMESCO",
+        "chunkTexts": [
+          "ROM",
+          "ESCO"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Green sauce, literally",
+        "answer": "SALSAVERDE",
+        "chunkTexts": [
+          "SAL",
+          "SAV",
+          "ERDE"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "North African herb marinade",
+        "answer": "CHERMOULA",
+        "chunkTexts": [
+          "CHER",
+          "MOU",
+          "LA"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Filipino vinegar braise",
+        "answer": "ADOBO",
+        "chunkTexts": [
+          "ADO",
+          "BO"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Georgian sour plum sauce",
+        "answer": "TKEMALI",
+        "chunkTexts": [
+          "TKEM",
+          "ALI"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Slow-cooked aromatic base",
+        "answer": "SOFRITO",
+        "chunkTexts": [
+          "SOF",
+          "RITO"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      },
+      {
+        "clue": "Osso buco's lemony garnish",
+        "answer": "GREMOLATA",
+        "chunkTexts": [
+          "GRE",
+          "MOL",
+          "ATA"
+        ],
+        "clueType": "definition",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "Q09",
+    "scores": {
+      "decoys": 0.0,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 1.2,
+      "anchor_balance": 6.2,
+      "shape": 6.8,
+      "word_appeal": 14.0,
+      "penalties": -14.1,
+      "structure": 14.2,
+      "clue_rating": 16.1,
+      "clue_variety": 0.0,
+      "clue_puns": 0.0,
+      "clue_penalties": 0.0,
+      "clues": 16.1,
+      "structure_scaled": 8.9,
+      "total": 25.0
+    }
+  },
+  {
+    "id": "round374",
+    "title": "Round 374",
+    "theme": "Condiments: Table Service",
+    "clueAnswers": [
+      {
+        "clue": "Takeout ketchup unit",
+        "answer": "PACKET",
+        "chunkTexts": [
+          "PAC",
+          "KET"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      },
+      {
+        "clue": "Pump at the hot dog stand",
+        "answer": "DISPENSER",
+        "chunkTexts": [
+          "DIS",
+          "PEN",
+          "SER"
+        ],
+        "clueType": "definition",
+        "clueRating": 3
+      },
+      {
+        "clue": "Salt holder, or a mover",
+        "answer": "SHAKER",
+        "chunkTexts": [
+          "SHA",
+          "KER"
+        ],
+        "clueType": "wordplay",
+        "clueRating": 3
+      },
+      {
+        "clue": "Waiter's giant grinder",
+        "answer": "PEPPERMILL",
+        "chunkTexts": [
+          "PEP",
+          "PERM",
+          "ILL"
+        ],
+        "clueType": "evocative",
+        "clueRating": 3
+      },
+      {
+        "clue": "Generous spoonful",
+        "answer": "DOLLOP",
+        "chunkTexts": [
+          "DOL",
+          "LOP"
+        ],
+        "clueType": "definition",
+        "clueRating": 2
+      },
+      {
+        "clue": "Light rain of sauce",
+        "answer": "DRIZZLE",
+        "chunkTexts": [
+          "DRI",
+          "ZZLE"
+        ],
+        "clueType": "pun",
+        "clueRating": 3
+      },
+      {
+        "clue": "Vessel that never sails",
+        "answer": "GRAVYBOAT",
+        "chunkTexts": [
+          "GRA",
+          "VY",
+          "BOAT"
+        ],
+        "clueType": "pun",
+        "clueRating": 4
+      }
+    ],
+    "source": "generated",
+    "batch": "batch-011",
+    "category": "themed",
+    "candidateId": "Q10",
+    "scores": {
+      "decoys": 1.2,
+      "tempting_pairs": 0.0,
+      "shared_fragments": 3.8,
+      "anchor_balance": 6.9,
+      "shape": 10.0,
+      "word_appeal": 14.0,
+      "penalties": -11.8,
+      "structure": 24.0,
+      "clue_rating": 5.4,
+      "clue_variety": 8.0,
+      "clue_puns": 9.0,
+      "clue_penalties": -4.0,
+      "clues": 18.4,
+      "structure_scaled": 15.0,
+      "total": 33.4
+    }
+  }
+]
