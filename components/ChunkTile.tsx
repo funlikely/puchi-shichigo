@@ -2,6 +2,7 @@ import React from 'react';
 import { StyleSheet, Text, TouchableOpacity } from 'react-native';
 import { Colors, useStyles } from '../theme';
 
+// 'selected' tiles are in the solution bar; their grid slot stays as an empty gap.
 type TileState = 'normal' | 'selected' | 'used';
 
 interface Props {
@@ -16,7 +17,7 @@ export function ChunkTile({ text, tileState, onPress }: Props) {
     <TouchableOpacity
       style={[styles.tile, styles[tileState]]}
       onPress={onPress}
-      disabled={tileState === 'used'}
+      disabled={tileState !== 'normal'}
       activeOpacity={0.7}
     >
       <Text style={[styles.text, tileState === 'used' && styles.usedText]}>{text}</Text>
@@ -35,7 +36,7 @@ const makeStyles = (c: Colors) => StyleSheet.create({
     alignItems: 'center',
   },
   normal:   { backgroundColor: c.tile },
-  selected: { backgroundColor: c.accent },
+  selected: { opacity: 0 },
   used:     { backgroundColor: c.tileUsed },
   text: {
     fontSize: 16,

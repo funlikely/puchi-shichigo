@@ -48,8 +48,8 @@ export function GameScreen({ puzzleDef, onBack, onComplete }: Props) {
   // Picked once per solve so it doesn't change on re-render.
   const winImage = useMemo(() => (isComplete ? randomWinImage() : null), [isComplete]);
 
-  const selectedTexts = state.selectedChunkIds.map(
-    id => puzzle.chunks.find(c => c.id === id)!.text
+  const selectedChunks = state.selectedChunkIds.map(
+    id => puzzle.chunks.find(c => c.id === id)!
   );
 
   const getChunkState = (chunkId: number): 'normal' | 'selected' | 'used' => {
@@ -107,7 +107,8 @@ export function GameScreen({ puzzleDef, onBack, onComplete }: Props) {
           </View>
 
           <WordBuilder
-            chunkTexts={selectedTexts}
+            chunks={selectedChunks}
+            onRemove={tapChunk}
             onClear={clearSelection}
             onSubmit={submitAnswer}
           />

@@ -3,21 +3,31 @@ import { StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 import { Colors, useStyles } from '../theme';
 
 interface Props {
-  chunkTexts: string[];
+  chunks: { id: number; text: string }[];
+  onRemove: (id: number) => void;
   onClear: () => void;
   onSubmit: () => void;
 }
 
-// One row: assembled word on the left, Clear/Submit on the right.
+// Picked tiles sit in order on the left (tap one to send it back); Clear/Submit on the right.
 // Buttons are always rendered (hidden when empty) so the layout never shifts.
-export function WordBuilder({ chunkTexts, onClear, onSubmit }: Props) {
+export function WordBuilder({ chunks, onRemove, onClear, onSubmit }: Props) {
   const styles = useStyles(makeStyles);
-  const hasChunks = chunkTexts.length > 0;
+  const hasChunks = chunks.length > 0;
   return (
     <View style={styles.container}>
-      <Text style={styles.word} numberOfLines={1} adjustsFontSizeToFit minimumFontScale={0.6}>
-        {chunkTexts.join('') || ' '}
-      </Text>
+      <View style={styles.word}>
+        {chunks.map(c => (
+          <TouchableOpacity
+            key={c.id}
+            style={styles.chip}
+            onPress={() => onRemove(c.id)}
+            activeOpacity={0.7}
+          >
+            <Text style={styles.chipText}>{c.text}</Text>
+          </TouchableOpacity>
+        ))}
+      </View>
       <View style={styles.buttons}>
         <TouchableOpacity
           style={[styles.clearBtn, !hasChunks && styles.invisible]}
@@ -43,7 +53,8 @@ const makeStyles = (c: Colors) => StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     paddingHorizontal: 12,
-    height: 54,
+    minHeight: 54,
+    paddingVertical: 6,
     backgroundColor: c.builderBg,
     borderRadius: 10,
     marginTop: 5,
@@ -52,10 +63,21 @@ const makeStyles = (c: Colors) => StyleSheet.create({
   },
   word: {
     flex: 1,
-    fontSize: 21,
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: 3,
+  },
+  chip: {
+    paddingHorizontal: 7,
+    paddingVertical: 8,
+    borderRadius: 6,
+    backgroundColor: c.accent,
+  },
+  chipText: {
+    fontSize: 16,
     fontWeight: '800',
-    color: c.text,
-    letterSpacing: 2,
+    color: c.onAccent,
+    letterSpacing: 1,
   },
   buttons: {
     flexDirection: 'row',
